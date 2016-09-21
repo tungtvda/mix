@@ -1,7 +1,12 @@
 /********************************************************COLOR************************************************/
 
 .menu > li > a:hover {
-    color: #868585;
+    /*color: #868585;*/
+    color: #ec1b23;
+}
+.menu > li > a.current
+{
+    color: #ec1b23;
 }
 
 .menu > li > a {
@@ -57,6 +62,7 @@
 .menu .yellow .sub-menu a, .menu .orange .sub-menu a, .menu .red .sub-menu a, .menu .blue .sub-menu a, .menu .green .sub-menu a, .menu .violet .sub-menu a, .menu .greydark .sub-menu a {
     color: #fff;
 }
+
 
 .menu .white .sub-menu a, .menu .grey .sub-menu a {
     color: #a4a4a4;
