@@ -33,7 +33,9 @@ SOME BASIC CLASSES
 
 /* 1- START NICDARK FRAMEWORK*/
 html{ color: #a4a4a4; }
-body{ margin:0px; padding:0px; overflow-x:hidden; background-color: #14b9d5;}
+body{
+    margin:0px; padding:0px; overflow-x:hidden; background-color: #14b9d5;
+}
 body.nicdark_boxed_img{ background-image: url(../img/img4.jpg) !important; background-size: cover; background-attachment: fixed; }
 
 /* 2 - CONTAINER */
@@ -205,10 +207,18 @@ select.big { font-size: 17px; padding: 15px 10%; }
 /*tab*/
 .wpb_tabs_nav a.title{ padding: 10px 20px !important; box-sizing: border-box; }
 /*color dark*/
-.nicdark_tab_dark .wpb_tabs_nav .ui-state-active a.title{ color: #fff !important; }
+.nicdark_tab_dark .wpb_tabs_nav .ui-state-active a.title{
+    /*color: #fff !important;*/
+    color: #2c3e50 !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
 /*color default*/
 .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab{ background-color: #f9f9f9 !important; }
-.wpb_tabs_nav .ui-state-active a.title{ background-color: #f9f9f9 !important; color: #b7b7b7 !important; }
+.wpb_tabs_nav .ui-state-active a.title{
+    /*background-color: #f9f9f9 !important;*/
+    color: #b7b7b7 !important;
+}
 
 .wpb_content_element.nicdark_tab_padding20 .wpb_tour_tabs_wrapper .wpb_tab{ padding: 20px !important; }
 .wpb_content_element.nicdark_tab_padding0 .wpb_tour_tabs_wrapper .wpb_tab{ padding: 0px !important; }
