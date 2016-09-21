@@ -16,7 +16,9 @@
 	.nicdark_site_boxed, .nicdark_menu_boxed{ width: 980px !important; }
 
 	/*display*/
-	.nicdark_displaynone_ipadland, .nicdark_displaynone_responsive{ display: none; }
+	.nicdark_displaynone_ipadland, .nicdark_displaynone_responsive{
+		/*display: none; */
+	}
 	.nicdark_displayblock_ipadland { display: block !important; }
 
 	/*navigation*/
@@ -51,7 +53,9 @@
 	.nicdark_site_boxed, .nicdark_menu_boxed{ width: 788px !important; }
 
 	/*display*/
-	.nicdark_displaynone_ipadpotr, .nicdark_displaynone_responsive{ display: none !important; }
+	.nicdark_displaynone_ipadpotr, .nicdark_displaynone_responsive{
+		/*display: none !important; */
+	}
 	.nicdark_displayblock_ipadpotr { display: block !important; }
 
 	/*navigation*/
@@ -85,7 +89,9 @@
 	.nicdark_site_boxed, .nicdark_menu_boxed{ width: 500px !important; }
 
 	/*display*/
-	.nicdark_displaynone_iphoneland, .nicdark_displaynone_responsive{ display: none; }
+	.nicdark_displaynone_iphoneland, .nicdark_displaynone_responsive{
+		/*display: none; */
+	}
 	.nicdark_displayblock_iphoneland { display: block !important; }
 
 
