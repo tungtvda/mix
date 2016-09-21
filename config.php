@@ -4,7 +4,7 @@
  * @author vdbkpro
  * @copyright 2013
  */
-define("SITE_NAME", "http://mixtour.com");
+define("SITE_NAME", "http://localhost/mix");
 define("DIR", dirname(__FILE__));
 define('SERVER','localhost');
 define('DB_USERNAME','root');
