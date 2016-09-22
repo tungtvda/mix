@@ -19,6 +19,9 @@
 .content_sub div.nicdark_space20{
     border-bottom: 1px solid #e6e6e6;
 }
+.content_sub a{
+    border: none;
+}
 .video-right{
     margin-top: 36px;
 }
