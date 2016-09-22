@@ -10,3 +10,15 @@
     /*margin-top: -15px;*/
     /*margin-bottom: -10px;*/
 /*}*/
+.border_archive{
+     border: 1px solid #e6e6e6;
+}
+.content_sub{
+    text-align: justify;
+}
+.content_sub div.nicdark_space20{
+    border-bottom: 1px solid #e6e6e6;
+}
+.video-right{
+    margin-top: 36px;
+}
