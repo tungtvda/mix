@@ -25,3 +25,18 @@
 .video-right{
     margin-top: 36px;
 }
+.nicdark_dark_widgets .widget ul li p a{
+    padding: 0px;
+}
+.logo_ft p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
+}
+.nicdark_bg_blue_twitter {
+     background-color: #14b9d5;
+    /*background-color: #0086cd;*/
+}
+.nicdark_bg_yellow_rss{
+    background-color: #ffd205;
+}
