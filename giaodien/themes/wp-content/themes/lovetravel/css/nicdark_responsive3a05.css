@@ -37,6 +37,14 @@
 }
 /*ipad potr*/
 @media only screen and (min-width: 768px) and (max-width: 959px) {
+	.nicdark_logo{
+		float: right;
+	}
+	.nicdark_logo img{
+		position: relative;
+		float: right;
+		margin-top: 12px !important;
+	}
 	.nicdark_container {width:744px;}
 	.grid_1 {width:42px;}.grid_2 {width:104px;}.grid_3 {width:166px;}.grid_4 {width:228px;}.grid_5 {width:290px;}.grid_6 {width:352px;}.grid_7 {width:414px;}.grid_8 {width:476px;}.grid_9 {width:538px;}.grid_10 {width:600px;}.grid_11 {width:662px;}.grid_12 {width:724px;}
 
@@ -68,6 +76,14 @@
 }
 /*iphone land*/
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+	.nicdark_logo{
+		float: right;
+	}
+	.nicdark_logo img{
+		position: relative;
+		float: right;
+		margin-top: 12px !important;
+	}
 	body{ -webkit-text-size-adjust:none; }		
 	.nicdark_container {width:460px;}
 	.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12{ width: 440px; }
@@ -104,6 +120,14 @@
 }
 /*iphone potr*/
 @media only screen and (min-width: 320px) and (max-width: 479px){
+	.nicdark_logo{
+		float: right;
+	}
+	.nicdark_logo img{
+		position: relative;
+		float: right;
+		margin-top: 12px !important;
+	}
 	body{ -webkit-text-size-adjust:none; }
 	.nicdark_container{ width:300px;}
 	.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12{ width: 280px; }	
