@@ -40,3 +40,6 @@
 .nicdark_bg_yellow_rss{
     background-color: #ffd205;
 }
+.nicdark_list li p{
+    font-size: 14px;
+}
