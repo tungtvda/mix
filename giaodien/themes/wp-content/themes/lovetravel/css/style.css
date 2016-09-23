@@ -43,3 +43,31 @@
 .nicdark_list li p{
     font-size: 14px;
 }
+.subpport{
+    margin-left: -40px;
+}
+.subpport li{
+    list-style: none;
+    float: left;
+    width: 100%;
+}
+.subpport li span{
+    font-size: 12px;
+}
+
+.subpport li a{
+    font-size: 14px;
+}
+.lable_subpport {
+    color: #0086cd;
+    font-weight: 700;
+}
+.mobi_subpport{
+    color: #ec1b23;
+}
+.skype_subpport{
+    color: #0086cd;
+}
+.yahoo_subpport{
+    color: #BA71DA;;
+}
