@@ -17,7 +17,7 @@
 
 	/*display*/
 	.nicdark_displaynone_ipadland, .nicdark_displaynone_responsive{
-		/*display: none; */
+		display: none;
 	}
 	.nicdark_displayblock_ipadland { display: block !important; }
 
@@ -54,7 +54,7 @@
 
 	/*display*/
 	.nicdark_displaynone_ipadpotr, .nicdark_displaynone_responsive{
-		/*display: none !important; */
+		display: none !important;
 	}
 	.nicdark_displayblock_ipadpotr { display: block !important; }
 
@@ -90,7 +90,7 @@
 
 	/*display*/
 	.nicdark_displaynone_iphoneland, .nicdark_displaynone_responsive{
-		/*display: none; */
+		display: none;
 	}
 	.nicdark_displayblock_iphoneland { display: block !important; }
 
