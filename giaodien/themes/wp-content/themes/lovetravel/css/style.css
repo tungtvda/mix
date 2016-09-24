@@ -71,3 +71,15 @@
 .yahoo_subpport{
     color: #BA71DA;;
 }
+.destina_columm{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*padding: 15px;*/
+}
+.menu_top ul{
+    margin-top: -10px;
+}
+.menu_top ul li{
+    float:left;
+    list-style: none;
+}
