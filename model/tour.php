@@ -1,0 +1,87 @@
+<?php
+class tour
+{
+    public $id,$DanhMuc1Id,$DanhMuc2Id,$lang_id,$patient_id,$promotion,$packages,$name,$name_url,$img,$price,$durations,$departure,$destination,$departure_time,$vehicle,$hotel,$schedule,$price_list,$content,$list_img,$title,$keyword,$description;
+    public function tour($data=array())
+    {
+    $this->id=isset($data['id'])?$data['id']:'';
+    $this->DanhMuc1Id=isset($data['DanhMuc1Id'])?$data['DanhMuc1Id']:'';
+    $this->DanhMuc2Id=isset($data['DanhMuc2Id'])?$data['DanhMuc2Id']:'';
+    $this->lang_id=isset($data['lang_id'])?$data['lang_id']:'';
+    $this->patient_id=isset($data['patient_id'])?$data['patient_id']:'';
+    $this->promotion=isset($data['promotion'])?$data['promotion']:'';
+    $this->packages=isset($data['packages'])?$data['packages']:'';
+    $this->name=isset($data['name'])?$data['name']:'';
+    $this->name_url=isset($data['name_url'])?$data['name_url']:'';
+    $this->img=isset($data['img'])?$data['img']:'';
+    $this->price=isset($data['price'])?$data['price']:'';
+    $this->durations=isset($data['durations'])?$data['durations']:'';
+    $this->departure=isset($data['departure'])?$data['departure']:'';
+    $this->destination=isset($data['destination'])?$data['destination']:'';
+    $this->departure_time=isset($data['departure_time'])?$data['departure_time']:'';
+    $this->vehicle=isset($data['vehicle'])?$data['vehicle']:'';
+    $this->hotel=isset($data['hotel'])?$data['hotel']:'';
+    $this->schedule=isset($data['schedule'])?$data['schedule']:'';
+    $this->price_list=isset($data['price_list'])?$data['price_list']:'';
+    $this->content=isset($data['content'])?$data['content']:'';
+    $this->list_img=isset($data['list_img'])?$data['list_img']:'';
+    $this->title=isset($data['title'])?$data['title']:'';
+    $this->keyword=isset($data['keyword'])?$data['keyword']:'';
+    $this->description=isset($data['description'])?$data['description']:'';
+          $this->encode();
+    }
+    public function encode()
+        {
+            $this->id=addslashes($this->id);
+            $this->DanhMuc1Id=addslashes($this->DanhMuc1Id);
+            $this->DanhMuc2Id=addslashes($this->DanhMuc2Id);
+            $this->lang_id=addslashes($this->lang_id);
+            $this->patient_id=addslashes($this->patient_id);
+            $this->promotion=addslashes($this->promotion);
+            $this->packages=addslashes($this->packages);
+            $this->name=addslashes($this->name);
+            $this->name_url=addslashes($this->name_url);
+            $this->img=addslashes($this->img);
+            $this->price=addslashes($this->price);
+            $this->durations=addslashes($this->durations);
+            $this->departure=addslashes($this->departure);
+            $this->destination=addslashes($this->destination);
+            $this->departure_time=addslashes($this->departure_time);
+            $this->vehicle=addslashes($this->vehicle);
+            $this->hotel=addslashes($this->hotel);
+            $this->schedule=addslashes($this->schedule);
+            $this->price_list=addslashes($this->price_list);
+            $this->content=addslashes($this->content);
+            $this->list_img=addslashes($this->list_img);
+            $this->title=addslashes($this->title);
+            $this->keyword=addslashes($this->keyword);
+            $this->description=addslashes($this->description);
+        }
+    public function decode()
+        {
+            $this->id=stripslashes($this->id);
+            $this->DanhMuc1Id=stripslashes($this->DanhMuc1Id);
+            $this->DanhMuc2Id=stripslashes($this->DanhMuc2Id);
+            $this->lang_id=stripslashes($this->lang_id);
+            $this->patient_id=stripslashes($this->patient_id);
+            $this->promotion=stripslashes($this->promotion);
+            $this->packages=stripslashes($this->packages);
+            $this->name=stripslashes($this->name);
+            $this->name_url=stripslashes($this->name_url);
+            $this->img=stripslashes($this->img);
+            $this->price=stripslashes($this->price);
+            $this->durations=stripslashes($this->durations);
+            $this->departure=stripslashes($this->departure);
+            $this->destination=stripslashes($this->destination);
+            $this->departure_time=stripslashes($this->departure_time);
+            $this->vehicle=stripslashes($this->vehicle);
+            $this->hotel=stripslashes($this->hotel);
+            $this->schedule=stripslashes($this->schedule);
+            $this->price_list=stripslashes($this->price_list);
+            $this->content=stripslashes($this->content);
+            $this->list_img=stripslashes($this->list_img);
+            $this->title=stripslashes($this->title);
+            $this->keyword=stripslashes($this->keyword);
+            $this->description=stripslashes($this->description);
+        }
+}
