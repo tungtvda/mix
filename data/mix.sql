@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client :  127.0.0.1
--- Généré le :  Lun 26 Septembre 2016 à 11:05
+-- Généré le :  Mar 27 Septembre 2016 à 12:34
 -- Version du serveur :  10.1.9-MariaDB
 -- Version de PHP :  5.6.15
 
@@ -39,6 +39,30 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`Id`, `TenDangNhap`, `Full_name`, `MatKhau`) VALUES
 (2, 'tungtv', 'Trần Văn Tùng', '1ef26373d3c9447baae66eabd52b1e0e9dc1b702c2f51d5322a67f1c42cf6f3ef0d513d04624c3bfee41b848cac59f4e6c29bf915d10c820c6c883bee00d3afb');
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `booking_tour`
+--
+
+CREATE TABLE `booking_tour` (
+  `id` int(11) NOT NULL,
+  `tour_id` int(11) NOT NULL,
+  `name_tour` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `name_customer` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `phone` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `email` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `city` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `country` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `departure_day` date NOT NULL,
+  `adults` int(11) NOT NULL,
+  `children_6_11` int(11) NOT NULL,
+  `children_5` int(11) NOT NULL,
+  `request` text COLLATE utf8_unicode_ci,
+  `status` int(11) NOT NULL,
+  `created` datetime NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -107,7 +131,39 @@ CREATE TABLE `danhmuc_2` (
   `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `name_slug` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `banner` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `oder` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `danhmuc_subport`
+--
+
+CREATE TABLE `danhmuc_subport` (
+  `id` int(11) NOT NULL,
+  `lang_id` int(11) NOT NULL,
+  `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `position` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `info`
+--
+
+CREATE TABLE `info` (
+  `id` int(11) NOT NULL,
+  `id_lang` int(11) DEFAULT NULL,
+  `about_us` text COLLATE utf8_unicode_ci,
+  `why_us` text COLLATE utf8_unicode_ci,
+  `our_services` text COLLATE utf8_unicode_ci,
+  `vietnam_visa` text COLLATE utf8_unicode_ci,
+  `terms_conditions` text COLLATE utf8_unicode_ci,
+  `payment_method` text COLLATE utf8_unicode_ci,
+  `privacy_policy` text COLLATE utf8_unicode_ci
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- --------------------------------------------------------
@@ -122,7 +178,22 @@ CREATE TABLE `language` (
   `code` varchar(10) COLLATE utf8_unicode_ci DEFAULT NULL,
   `icon` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `active` tinyint(1) NOT NULL,
-  `default_lang` tinyint(1) NOT NULL
+  `default_lang` tinyint(1) NOT NULL,
+  `currency` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `link`
+--
+
+CREATE TABLE `link` (
+  `id` int(11) NOT NULL,
+  `id_lang` int(11) NOT NULL,
+  `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `link` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `position` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- --------------------------------------------------------
@@ -147,6 +218,70 @@ CREATE TABLE `menu` (
   `vietnam_visa_img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `slide`
+--
+
+CREATE TABLE `slide` (
+  `id` int(11) NOT NULL,
+  `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `lang_id` int(11) NOT NULL,
+  `price` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `img_small` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `link` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `position` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `subport`
+--
+
+CREATE TABLE `subport` (
+  `id` int(11) NOT NULL,
+  `danhmuc_id` int(11) NOT NULL,
+  `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `phone` varchar(205) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `phone_format` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `skype` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `email` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `yahoo` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `tour`
+--
+
+CREATE TABLE `tour` (
+  `id` int(11) NOT NULL,
+  `DanhMuc1Id` int(11) NOT NULL,
+  `DanhMuc2Id` int(11) NOT NULL,
+  `lang_id` int(11) NOT NULL,
+  `patient_id` int(11) NOT NULL,
+  `promotion` tinyint(1) NOT NULL,
+  `packages` tinyint(1) NOT NULL,
+  `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `name_slug` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `img` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `price` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `durations` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `departure` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `destination` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `departure_time` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `vehicle` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `hotel` int(11) NOT NULL,
+  `schedule` text COLLATE utf8_unicode_ci,
+  `price_list` text COLLATE utf8_unicode_ci,
+  `content` text COLLATE utf8_unicode_ci,
+  `list_img` text COLLATE utf8_unicode_ci
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
 --
 -- Index pour les tables exportées
 --
@@ -156,6 +291,12 @@ CREATE TABLE `menu` (
 --
 ALTER TABLE `admin`
   ADD PRIMARY KEY (`Id`);
+
+--
+-- Index pour la table `booking_tour`
+--
+ALTER TABLE `booking_tour`
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Index pour la table `config`
@@ -173,6 +314,19 @@ ALTER TABLE `danhmuc_1`
 -- Index pour la table `danhmuc_2`
 --
 ALTER TABLE `danhmuc_2`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `name_slug` (`name_slug`);
+
+--
+-- Index pour la table `danhmuc_subport`
+--
+ALTER TABLE `danhmuc_subport`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Index pour la table `info`
+--
+ALTER TABLE `info`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -182,10 +336,35 @@ ALTER TABLE `language`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Index pour la table `link`
+--
+ALTER TABLE `link`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Index pour la table `menu`
 --
 ALTER TABLE `menu`
   ADD PRIMARY KEY (`id`);
+
+--
+-- Index pour la table `slide`
+--
+ALTER TABLE `slide`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Index pour la table `subport`
+--
+ALTER TABLE `subport`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Index pour la table `tour`
+--
+ALTER TABLE `tour`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `name_slug` (`name_slug`);
 
 --
 -- AUTO_INCREMENT pour les tables exportées
@@ -196,6 +375,11 @@ ALTER TABLE `menu`
 --
 ALTER TABLE `admin`
   MODIFY `Id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+--
+-- AUTO_INCREMENT pour la table `booking_tour`
+--
+ALTER TABLE `booking_tour`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT pour la table `config`
 --
@@ -212,14 +396,44 @@ ALTER TABLE `danhmuc_1`
 ALTER TABLE `danhmuc_2`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
+-- AUTO_INCREMENT pour la table `danhmuc_subport`
+--
+ALTER TABLE `danhmuc_subport`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+--
+-- AUTO_INCREMENT pour la table `info`
+--
+ALTER TABLE `info`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+--
 -- AUTO_INCREMENT pour la table `language`
 --
 ALTER TABLE `language`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
+-- AUTO_INCREMENT pour la table `link`
+--
+ALTER TABLE `link`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+--
 -- AUTO_INCREMENT pour la table `menu`
 --
 ALTER TABLE `menu`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+--
+-- AUTO_INCREMENT pour la table `slide`
+--
+ALTER TABLE `slide`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+--
+-- AUTO_INCREMENT pour la table `subport`
+--
+ALTER TABLE `subport`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+--
+-- AUTO_INCREMENT pour la table `tour`
+--
+ALTER TABLE `tour`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
