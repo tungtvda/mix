@@ -1,7 +1,7 @@
 <?php
 require_once DIR.'/common/paging.php';
 require_once DIR.'/common/cls_fast_template.php';
-function view_admin($data)
+function view_link($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
     $ft->define('header','header.tpl');
@@ -15,7 +15,7 @@ function view_admin($data)
     $ft->assign('TABLE-HEADER',showTableHeader());
     $ft->assign('PAGING',showPaging($data['count_paging'],20,$data['page']));
     $ft->assign('TABLE-BODY',showTableBody($data['table_body']));
-    $ft->assign('TABLE-NAME','admin');
+    $ft->assign('TABLE-NAME','link');
     $ft->assign('CONTENT-BOX-LEFT',isset($data['content_box_left'])?$data['content_box_left']:'');
     $ft->assign('CONTENT-BOX-RIGHT',isset($data['content_box_right'])?$data['content_box_right']:' ');
     $ft->assign('NOTIFICATION',isset($data['notification'])?$data['notification']:' ');
@@ -29,7 +29,7 @@ function view_admin($data)
 //
 function showTableHeader()
 {
-    return '<th>Id</th><th>TenDangNhap</th><th>Full_name</th>';
+    return '<th>id</th><th>id_lang</th><th>name</th><th>link</th><th>position</th>';
 }
 //
 function showTableBody($data)
@@ -37,12 +37,14 @@ function showTableBody($data)
     $TableBody='';
     if(count($data)>0) foreach($data as $obj)
     {
-        $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->Id."\"/></td>";
-        $TableBody.="<td>".$obj->Id."</td>";
-        $TableBody.="<td>".$obj->TenDangNhap."</td>";
-        $TableBody.="<td>".$obj->Full_name."</td>";
-        $TableBody.="<td><a href=\"?action=edit&Id=".$obj->Id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
-        $TableBody.="<a href=\"?action=delete&Id=".$obj->Id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
+        $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
+        $TableBody.="<td>".$obj->id."</td>";
+        $TableBody.="<td>".$obj->id_lang."</td>";
+        $TableBody.="<td>".$obj->name."</td>";
+        $TableBody.="<td>".$obj->link."</td>";
+        $TableBody.="<td>".$obj->position."</td>";
+        $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
+        $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
         $TableBody.="</td>";
         $TableBody.="</tr>";
     }
@@ -52,8 +54,9 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
-    $str_from.='<p><label>TenDangNhap</label><input class="text-input small-input" type="text"  name="TenDangNhap" value="'.(($form!=false)?$form->TenDangNhap:'').'" /></p>';
-    $str_from.='<p><label>Full_name</label><input class="text-input small-input" type="text"  name="Full_name" value="'.(($form!=false)?$form->Full_name:'').'" /></p>';
-    $str_from.='<p><label>MatKhau</label><input class="text-input small-input" type="text"  name="MatKhau" value="'.(($form!=false)?$form->MatKhau:'').'" /></p>';
+    $str_from.='<p><label>id_lang</label><input class="text-input small-input" type="text"  name="id_lang" value="'.(($form!=false)?$form->id_lang:'').'" /></p>';
+    $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
+    $str_from.='<p><label>link</label><input class="text-input small-input" type="text"  name="link" value="'.(($form!=false)?$form->link:'').'" /></p>';
+    $str_from.='<p><label>position</label><input class="text-input small-input" type="text"  name="position" value="'.(($form!=false)?$form->position:'').'" /></p>';
     return $str_from;
 }
