@@ -1,12 +1,12 @@
 <?php
 class slide
 {
-    public $id,$name,$lang_id,$price,$img,$img_small,$link,$position;
+    public $id,$name,$name_cn,$price,$img,$img_small,$link,$position;
     public function slide($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
     $this->name=isset($data['name'])?$data['name']:'';
-    $this->lang_id=isset($data['lang_id'])?$data['lang_id']:'';
+    $this->name_cn=isset($data['name_cn'])?$data['name_cn']:'';
     $this->price=isset($data['price'])?$data['price']:'';
     $this->img=isset($data['img'])?$data['img']:'';
     $this->img_small=isset($data['img_small'])?$data['img_small']:'';
@@ -18,7 +18,7 @@ class slide
         {
             $this->id=addslashes($this->id);
             $this->name=addslashes($this->name);
-            $this->lang_id=addslashes($this->lang_id);
+            $this->name_cn=addslashes($this->name_cn);
             $this->price=addslashes($this->price);
             $this->img=addslashes($this->img);
             $this->img_small=addslashes($this->img_small);
@@ -29,7 +29,7 @@ class slide
         {
             $this->id=stripslashes($this->id);
             $this->name=stripslashes($this->name);
-            $this->lang_id=stripslashes($this->lang_id);
+            $this->name_cn=stripslashes($this->name_cn);
             $this->price=stripslashes($this->price);
             $this->img=stripslashes($this->img);
             $this->img_small=stripslashes($this->img_small);

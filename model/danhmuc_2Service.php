@@ -62,17 +62,17 @@ function danhmuc_2_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function danhmuc_2_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return danhmuc_2_Get("SELECT danhmuc_2.id, danhmuc_1.name as danhmuc1_id, danhmuc_2.patient_id, danhmuc_2.lang_id, danhmuc_2.name, danhmuc_2.name_url, danhmuc_2.img, danhmuc_2.banner, danhmuc_2.position FROM  danhmuc_2, danhmuc_1 where danhmuc_1.id=danhmuc_2.danhmuc1_id  ".(($where!='')?(' and '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return danhmuc_2_Get("SELECT danhmuc_2.id, danhmuc_1.name as danhmuc1_id, danhmuc_2.name, danhmuc_2.name_cn, danhmuc_2.name_url, danhmuc_2.img, danhmuc_2.banner, danhmuc_2.position, danhmuc_2.title, danhmuc_2.title_cn, danhmuc_2.keyword, danhmuc_2.keyword_cn, danhmuc_2.description, danhmuc_2.description_en FROM  danhmuc_2, danhmuc_1 where danhmuc_1.id=danhmuc_2.danhmuc1_id  ".(($where!='')?(' and '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function danhmuc_2_insert($obj)
 {
-    return exe_query("insert into danhmuc_2 (danhmuc1_id,patient_id,lang_id,name,name_url,img,banner,position) values ('$obj->danhmuc1_id','$obj->patient_id','$obj->lang_id','$obj->name','$obj->name_url','$obj->img','$obj->banner','$obj->position')",'danhmuc_2');
+    return exe_query("insert into danhmuc_2 (danhmuc1_id,name,name_cn,name_url,img,banner,position,title,title_cn,keyword,keyword_cn,description,description_en) values ('$obj->danhmuc1_id','$obj->name','$obj->name_cn','$obj->name_url','$obj->img','$obj->banner','$obj->position','$obj->title','$obj->title_cn','$obj->keyword','$obj->keyword_cn','$obj->description','$obj->description_en')",'danhmuc_2');
 }
 //
 function danhmuc_2_update($obj)
 {
-    return exe_query("update danhmuc_2 set danhmuc1_id='$obj->danhmuc1_id',patient_id='$obj->patient_id',lang_id='$obj->lang_id',name='$obj->name',name_url='$obj->name_url',img='$obj->img',banner='$obj->banner',position='$obj->position' where id=$obj->id",'danhmuc_2');
+    return exe_query("update danhmuc_2 set danhmuc1_id='$obj->danhmuc1_id',name='$obj->name',name_cn='$obj->name_cn',name_url='$obj->name_url',img='$obj->img',banner='$obj->banner',position='$obj->position',title='$obj->title',title_cn='$obj->title_cn',keyword='$obj->keyword',keyword_cn='$obj->keyword_cn',description='$obj->description',description_en='$obj->description_en' where id=$obj->id",'danhmuc_2');
 }
 //
 function danhmuc_2_delete($obj)

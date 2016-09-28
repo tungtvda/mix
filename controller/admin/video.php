@@ -1,7 +1,7 @@
 <?php
 require_once '../../config.php';
-require_once DIR.'/model/slideService.php';
-require_once DIR.'/view/admin/slide.php';
+require_once DIR.'/model/videoService.php';
+require_once DIR.'/view/admin/video.php';
 require_once DIR.'/common/messenger.php';
 $data=array();
 $insert=true;
@@ -11,14 +11,14 @@ if(isset($_SESSION["Admin"]))
     {
         if($_GET["action"]=="delete")
         {
-            $new_obj= new slide();
+            $new_obj= new video();
             $new_obj->id=$_GET["id"];
-            slide_delete($new_obj);
-            header('Location: '.SITE_NAME.'/controller/admin/slide.php');
+            video_delete($new_obj);
+            header('Location: '.SITE_NAME.'/controller/admin/video.php');
         }
         else if($_GET["action"]=="edit")
         {
-            $new_obj=slide_getById($_GET["id"]);
+            $new_obj=video_getById($_GET["id"]);
             if($new_obj!=false)
             {
                 $data['form']=$new_obj[0];
@@ -26,7 +26,7 @@ if(isset($_SESSION["Admin"]))
                 $data['tab1_class']=' ';
                 $insert=false;
             }
-            else header('Location: '.SITE_NAME.'/controller/admin/slide.php');
+            else header('Location: '.SITE_NAME.'/controller/admin/video.php');
         }
         else
         {
@@ -46,15 +46,15 @@ if(isset($_SESSION["Admin"]))
         }
         else
         {
-            $List_slide=slide_getByAll();
-            foreach($List_slide as $slide)
+            $List_video=video_getByAll();
+            foreach($List_video as $video)
             {
-                if(isset($_GET["check_".$slide->id])) slide_delete($slide);
+                if(isset($_GET["check_".$video->id])) video_delete($video);
             }
-            header('Location: '.SITE_NAME.'/controller/admin/slide.php');
+            header('Location: '.SITE_NAME.'/controller/admin/video.php');
         }
     }
-    if(isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["price"])&&isset($_POST["img"])&&isset($_POST["img_small"])&&isset($_POST["link"])&&isset($_POST["position"]))
+    if(isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["link_video"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -63,36 +63,30 @@ if(isset($_SESSION["Admin"]))
        $array['name']='0';
        if(!isset($array['name_cn']))
        $array['name_cn']='0';
-       if(!isset($array['price']))
-       $array['price']='0';
-       if(!isset($array['img']))
-       $array['img']='0';
-       if(!isset($array['img_small']))
-       $array['img_small']='0';
-       if(!isset($array['link']))
-       $array['link']='0';
-       if(!isset($array['position']))
-       $array['position']='0';
-      $new_obj=new slide($array);
+       if(!isset($array['link_video']))
+       $array['link_video']='0';
+       if(!isset($array['highlights']))
+       $array['highlights']='0';
+      $new_obj=new video($array);
         if($insert)
         {
-            slide_insert($new_obj);
-            header('Location: '.SITE_NAME.'/controller/admin/slide.php');
+            video_insert($new_obj);
+            header('Location: '.SITE_NAME.'/controller/admin/video.php');
         }
         else
         {
             $new_obj->id=$_GET["id"];
-            slide_update($new_obj);
+            video_update($new_obj);
             $insert=false;
-            header('Location: '.SITE_NAME.'/controller/admin/slide.php');
+            header('Location: '.SITE_NAME.'/controller/admin/video.php');
         }
     }
     $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';
-    $data['count_paging']=slide_count('');
+    $data['count_paging']=video_count('');
     $data['page']=isset($_GET['page'])?$_GET['page']:'1';
-    $data['table_body']=slide_getByPagingReplace($data['page'],20,'id DESC','');
+    $data['table_body']=video_getByPagingReplace($data['page'],20,'id DESC','');
     // gọi phương thức trong tầng view để hiển thị
-    view_slide($data);
+    view_video($data);
 }
 else
 {

@@ -54,21 +54,31 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/danhmuc_tintuc.php');
         }
     }
-    if(isset($_POST["lang_id"])&&isset($_POST["patient_id"])&&isset($_POST["name"])&&isset($_POST["name_url"])&&isset($_POST["img"]))
+    if(isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_en"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
        $array['id']='0';
-       if(!isset($array['lang_id']))
-       $array['lang_id']='0';
-       if(!isset($array['patient_id']))
-       $array['patient_id']='0';
        if(!isset($array['name']))
        $array['name']='0';
+       if(!isset($array['name_cn']))
+       $array['name_cn']='0';
        if(!isset($array['name_url']))
        $array['name_url']='0';
        if(!isset($array['img']))
        $array['img']='0';
+       if(!isset($array['title']))
+       $array['title']='0';
+       if(!isset($array['title_cn']))
+       $array['title_cn']='0';
+       if(!isset($array['keyword']))
+       $array['keyword']='0';
+       if(!isset($array['keyword_cn']))
+       $array['keyword_cn']='0';
+       if(!isset($array['description']))
+       $array['description']='0';
+       if(!isset($array['description_en']))
+       $array['description_en']='0';
       $new_obj=new danhmuc_tintuc($array);
         if($insert)
         {

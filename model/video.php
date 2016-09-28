@@ -1,13 +1,14 @@
 <?php
-class danhmuc_subport
+class video
 {
-    public $id,$name,$name_cn,$position;
-    public function danhmuc_subport($data=array())
+    public $id,$name,$name_cn,$link_video,$highlights;
+    public function video($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
     $this->name=isset($data['name'])?$data['name']:'';
     $this->name_cn=isset($data['name_cn'])?$data['name_cn']:'';
-    $this->position=isset($data['position'])?$data['position']:'';
+    $this->link_video=isset($data['link_video'])?$data['link_video']:'';
+    $this->highlights=isset($data['highlights'])?$data['highlights']:'';
           $this->encode();
     }
     public function encode()
@@ -15,13 +16,15 @@ class danhmuc_subport
             $this->id=addslashes($this->id);
             $this->name=addslashes($this->name);
             $this->name_cn=addslashes($this->name_cn);
-            $this->position=addslashes($this->position);
+            $this->link_video=addslashes($this->link_video);
+            $this->highlights=addslashes($this->highlights);
         }
     public function decode()
         {
             $this->id=stripslashes($this->id);
             $this->name=stripslashes($this->name);
             $this->name_cn=stripslashes($this->name_cn);
-            $this->position=stripslashes($this->position);
+            $this->link_video=stripslashes($this->link_video);
+            $this->highlights=stripslashes($this->highlights);
         }
 }

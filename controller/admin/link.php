@@ -54,15 +54,15 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/link.php');
         }
     }
-    if(isset($_POST["id_lang"])&&isset($_POST["name"])&&isset($_POST["link"])&&isset($_POST["position"]))
+    if(isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["link"])&&isset($_POST["position"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
        $array['id']='0';
-       if(!isset($array['id_lang']))
-       $array['id_lang']='0';
        if(!isset($array['name']))
        $array['name']='0';
+       if(!isset($array['name_cn']))
+       $array['name_cn']='0';
        if(!isset($array['link']))
        $array['link']='0';
        if(!isset($array['position']))

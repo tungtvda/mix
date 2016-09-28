@@ -1,13 +1,13 @@
 <?php
-class danhmuc_subport
+class tag
 {
-    public $id,$name,$name_cn,$position;
-    public function danhmuc_subport($data=array())
+    public $id,$name,$name_cn,$link;
+    public function tag($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
     $this->name=isset($data['name'])?$data['name']:'';
     $this->name_cn=isset($data['name_cn'])?$data['name_cn']:'';
-    $this->position=isset($data['position'])?$data['position']:'';
+    $this->link=isset($data['link'])?$data['link']:'';
           $this->encode();
     }
     public function encode()
@@ -15,13 +15,13 @@ class danhmuc_subport
             $this->id=addslashes($this->id);
             $this->name=addslashes($this->name);
             $this->name_cn=addslashes($this->name_cn);
-            $this->position=addslashes($this->position);
+            $this->link=addslashes($this->link);
         }
     public function decode()
         {
             $this->id=stripslashes($this->id);
             $this->name=stripslashes($this->name);
             $this->name_cn=stripslashes($this->name_cn);
-            $this->position=stripslashes($this->position);
+            $this->link=stripslashes($this->link);
         }
 }

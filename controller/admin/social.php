@@ -1,7 +1,7 @@
 <?php
 require_once '../../config.php';
-require_once DIR.'/model/danhmuc_subportService.php';
-require_once DIR.'/view/admin/danhmuc_subport.php';
+require_once DIR.'/model/socialService.php';
+require_once DIR.'/view/admin/social.php';
 require_once DIR.'/common/messenger.php';
 $data=array();
 $insert=true;
@@ -11,14 +11,14 @@ if(isset($_SESSION["Admin"]))
     {
         if($_GET["action"]=="delete")
         {
-            $new_obj= new danhmuc_subport();
+            $new_obj= new social();
             $new_obj->id=$_GET["id"];
-            danhmuc_subport_delete($new_obj);
-            header('Location: '.SITE_NAME.'/controller/admin/danhmuc_subport.php');
+            social_delete($new_obj);
+            header('Location: '.SITE_NAME.'/controller/admin/social.php');
         }
         else if($_GET["action"]=="edit")
         {
-            $new_obj=danhmuc_subport_getById($_GET["id"]);
+            $new_obj=social_getById($_GET["id"]);
             if($new_obj!=false)
             {
                 $data['form']=$new_obj[0];
@@ -26,7 +26,7 @@ if(isset($_SESSION["Admin"]))
                 $data['tab1_class']=' ';
                 $insert=false;
             }
-            else header('Location: '.SITE_NAME.'/controller/admin/danhmuc_subport.php');
+            else header('Location: '.SITE_NAME.'/controller/admin/social.php');
         }
         else
         {
@@ -46,45 +46,49 @@ if(isset($_SESSION["Admin"]))
         }
         else
         {
-            $List_danhmuc_subport=danhmuc_subport_getByAll();
-            foreach($List_danhmuc_subport as $danhmuc_subport)
+            $List_social=social_getByAll();
+            foreach($List_social as $social)
             {
-                if(isset($_GET["check_".$danhmuc_subport->id])) danhmuc_subport_delete($danhmuc_subport);
+                if(isset($_GET["check_".$social->id])) social_delete($social);
             }
-            header('Location: '.SITE_NAME.'/controller/admin/danhmuc_subport.php');
+            header('Location: '.SITE_NAME.'/controller/admin/social.php');
         }
     }
-    if(isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["position"]))
+    if(isset($_POST["facebook"])&&isset($_POST["twitter"])&&isset($_POST["youtube"])&&isset($_POST["google"])&&isset($_POST["rss"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
        $array['id']='0';
-       if(!isset($array['name']))
-       $array['name']='0';
-       if(!isset($array['name_cn']))
-       $array['name_cn']='0';
-       if(!isset($array['position']))
-       $array['position']='0';
-      $new_obj=new danhmuc_subport($array);
+       if(!isset($array['facebook']))
+       $array['facebook']='0';
+       if(!isset($array['twitter']))
+       $array['twitter']='0';
+       if(!isset($array['youtube']))
+       $array['youtube']='0';
+       if(!isset($array['google']))
+       $array['google']='0';
+       if(!isset($array['rss']))
+       $array['rss']='0';
+      $new_obj=new social($array);
         if($insert)
         {
-            danhmuc_subport_insert($new_obj);
-            header('Location: '.SITE_NAME.'/controller/admin/danhmuc_subport.php');
+            social_insert($new_obj);
+            header('Location: '.SITE_NAME.'/controller/admin/social.php');
         }
         else
         {
             $new_obj->id=$_GET["id"];
-            danhmuc_subport_update($new_obj);
+            social_update($new_obj);
             $insert=false;
-            header('Location: '.SITE_NAME.'/controller/admin/danhmuc_subport.php');
+            header('Location: '.SITE_NAME.'/controller/admin/social.php');
         }
     }
     $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';
-    $data['count_paging']=danhmuc_subport_count('');
+    $data['count_paging']=social_count('');
     $data['page']=isset($_GET['page'])?$_GET['page']:'1';
-    $data['table_body']=danhmuc_subport_getByPagingReplace($data['page'],20,'id DESC','');
+    $data['table_body']=social_getByPagingReplace($data['page'],20,'id DESC','');
     // gọi phương thức trong tầng view để hiển thị
-    view_danhmuc_subport($data);
+    view_social($data);
 }
 else
 {

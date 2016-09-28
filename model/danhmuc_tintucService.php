@@ -62,17 +62,17 @@ function danhmuc_tintuc_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function danhmuc_tintuc_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return danhmuc_tintuc_Get("SELECT danhmuc_tintuc.id, danhmuc_tintuc.lang_id, danhmuc_tintuc.patient_id, danhmuc_tintuc.name, danhmuc_tintuc.name_url, danhmuc_tintuc.img FROM  danhmuc_tintuc ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return danhmuc_tintuc_Get("SELECT danhmuc_tintuc.id, danhmuc_tintuc.name, danhmuc_tintuc.name_cn, danhmuc_tintuc.name_url, danhmuc_tintuc.img, danhmuc_tintuc.title, danhmuc_tintuc.title_cn, danhmuc_tintuc.keyword, danhmuc_tintuc.keyword_cn, danhmuc_tintuc.description, danhmuc_tintuc.description_en FROM  danhmuc_tintuc ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function danhmuc_tintuc_insert($obj)
 {
-    return exe_query("insert into danhmuc_tintuc (lang_id,patient_id,name,name_url,img) values ('$obj->lang_id','$obj->patient_id','$obj->name','$obj->name_url','$obj->img')",'danhmuc_tintuc');
+    return exe_query("insert into danhmuc_tintuc (name,name_cn,name_url,img,title,title_cn,keyword,keyword_cn,description,description_en) values ('$obj->name','$obj->name_cn','$obj->name_url','$obj->img','$obj->title','$obj->title_cn','$obj->keyword','$obj->keyword_cn','$obj->description','$obj->description_en')",'danhmuc_tintuc');
 }
 //
 function danhmuc_tintuc_update($obj)
 {
-    return exe_query("update danhmuc_tintuc set lang_id='$obj->lang_id',patient_id='$obj->patient_id',name='$obj->name',name_url='$obj->name_url',img='$obj->img' where id=$obj->id",'danhmuc_tintuc');
+    return exe_query("update danhmuc_tintuc set name='$obj->name',name_cn='$obj->name_cn',name_url='$obj->name_url',img='$obj->img',title='$obj->title',title_cn='$obj->title_cn',keyword='$obj->keyword',keyword_cn='$obj->keyword_cn',description='$obj->description',description_en='$obj->description_en' where id=$obj->id",'danhmuc_tintuc');
 }
 //
 function danhmuc_tintuc_delete($obj)
