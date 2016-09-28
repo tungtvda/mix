@@ -29,7 +29,7 @@ function view_slide($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>name</th><th>price</th><th>img</th><th>img_small</th>';
+    return '<th>id</th><th>name</th><th>name_cn</th><th>price</th><th>img</th><th>img_small</th>';
 }
 //
 function showTableBody($data)
@@ -40,6 +40,7 @@ function showTableBody($data)
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->id."</td>";
         $TableBody.="<td>".$obj->name."</td>";
+        $TableBody.="<td>".$obj->name_cn."</td>";
         $TableBody.="<td>".$obj->price."</td>";
         $TableBody.="<td><img src=\"".$obj->img."\" width=\"50px\" height=\"50px\"/> </td>";
         $TableBody.="<td><img src=\"".$obj->img_small."\" width=\"50px\" height=\"50px\"/> </td>";
@@ -55,7 +56,7 @@ function showFrom($form,$ListKey=array())
 {
     $str_from='';
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
-    $str_from.='<p><label>lang_id</label><input class="text-input small-input" type="text"  name="lang_id" value="'.(($form!=false)?$form->lang_id:'').'" /></p>';
+    $str_from.='<p><label>name_cn</label><input class="text-input small-input" type="text"  name="name_cn" value="'.(($form!=false)?$form->name_cn:'').'" /></p>';
     $str_from.='<p><label>price</label><input class="text-input small-input" type="text"  name="price" value="'.(($form!=false)?$form->price:'').'" /></p>';
     $str_from.='<p><label>img</label><input class="text-input small-input" type="text"  name="img" value="'.(($form!=false)?$form->img:'').'"/><a class="button" onclick="openKcEditor(\'img\');">Upload ảnh</a></p>';
     $str_from.='<p><label>img_small</label><input class="text-input small-input" type="text"  name="img_small" value="'.(($form!=false)?$form->img_small:'').'"/><a class="button" onclick="openKcEditor(\'img_small\');">Upload ảnh</a></p>';

@@ -1,7 +1,7 @@
 <?php
 require_once DIR.'/common/paging.php';
 require_once DIR.'/common/cls_fast_template.php';
-function view_link($data)
+function view_contact($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
     $ft->define('header','header.tpl');
@@ -15,7 +15,7 @@ function view_link($data)
     $ft->assign('TABLE-HEADER',showTableHeader());
     $ft->assign('PAGING',showPaging($data['count_paging'],20,$data['page']));
     $ft->assign('TABLE-BODY',showTableBody($data['table_body']));
-    $ft->assign('TABLE-NAME','link');
+    $ft->assign('TABLE-NAME','contact');
     $ft->assign('CONTENT-BOX-LEFT',isset($data['content_box_left'])?$data['content_box_left']:'');
     $ft->assign('CONTENT-BOX-RIGHT',isset($data['content_box_right'])?$data['content_box_right']:' ');
     $ft->assign('NOTIFICATION',isset($data['notification'])?$data['notification']:' ');
@@ -29,7 +29,7 @@ function view_link($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>name</th><th>name_cn</th><th>link</th><th>position</th>';
+    return '<th>id</th><th>name_kh</th><th>phone</th><th>email</th><th>created</th><th>status</th>';
 }
 //
 function showTableBody($data)
@@ -39,10 +39,11 @@ function showTableBody($data)
     {
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->id."</td>";
-        $TableBody.="<td>".$obj->name."</td>";
-        $TableBody.="<td>".$obj->name_cn."</td>";
-        $TableBody.="<td>".$obj->link."</td>";
-        $TableBody.="<td>".$obj->position."</td>";
+        $TableBody.="<td>".$obj->name_kh."</td>";
+        $TableBody.="<td>".$obj->phone."</td>";
+        $TableBody.="<td>".$obj->email."</td>";
+        $TableBody.="<td>".$obj->created."</td>";
+        $TableBody.="<td>".$obj->status."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
         $TableBody.="</td>";
@@ -54,9 +55,13 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
-    $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
-    $str_from.='<p><label>name_cn</label><input class="text-input small-input" type="text"  name="name_cn" value="'.(($form!=false)?$form->name_cn:'').'" /></p>';
-    $str_from.='<p><label>link</label><input class="text-input small-input" type="text"  name="link" value="'.(($form!=false)?$form->link:'').'" /></p>';
-    $str_from.='<p><label>position</label><input class="text-input small-input" type="text"  name="position" value="'.(($form!=false)?$form->position:'').'" /></p>';
+    $str_from.='<p><label>name_kh</label><input class="text-input small-input" type="text"  name="name_kh" value="'.(($form!=false)?$form->name_kh:'').'" /></p>';
+    $str_from.='<p><label>address</label><input class="text-input small-input" type="text"  name="address" value="'.(($form!=false)?$form->address:'').'" /></p>';
+    $str_from.='<p><label>phone</label><input class="text-input small-input" type="text"  name="phone" value="'.(($form!=false)?$form->phone:'').'" /></p>';
+    $str_from.='<p><label>email</label><input class="text-input small-input" type="text"  name="email" value="'.(($form!=false)?$form->email:'').'" /></p>';
+    $str_from.='<p><label>title</label><input class="text-input small-input" type="text"  name="title" value="'.(($form!=false)?$form->title:'').'" /></p>';
+    $str_from.='<p><label>content</label><textarea name="content">'.(($form!=false)?$form->content:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'content\'); </script></p>';
+    $str_from.='<p><label>created</label><input class="text-input small-input" type="text"  name="created" value="'.(($form!=false)?$form->created:'').'" /></p>';
+    $str_from.='<p><label>status</label><input  type="checkbox"  name="status" value="1" '.(($form!=false)?(($form->status=='1')?'checked':''):'').' /></p>';
     return $str_from;
 }

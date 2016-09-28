@@ -62,17 +62,17 @@ function slide_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function slide_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return slide_Get("SELECT slide.id, slide.name, slide.lang_id, slide.price, slide.img, slide.img_small, slide.link, slide.position FROM  slide ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return slide_Get("SELECT slide.id, slide.name, slide.name_cn, slide.price, slide.img, slide.img_small, slide.link, slide.position FROM  slide ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function slide_insert($obj)
 {
-    return exe_query("insert into slide (name,lang_id,price,img,img_small,link,position) values ('$obj->name','$obj->lang_id','$obj->price','$obj->img','$obj->img_small','$obj->link','$obj->position')",'slide');
+    return exe_query("insert into slide (name,name_cn,price,img,img_small,link,position) values ('$obj->name','$obj->name_cn','$obj->price','$obj->img','$obj->img_small','$obj->link','$obj->position')",'slide');
 }
 //
 function slide_update($obj)
 {
-    return exe_query("update slide set name='$obj->name',lang_id='$obj->lang_id',price='$obj->price',img='$obj->img',img_small='$obj->img_small',link='$obj->link',position='$obj->position' where id=$obj->id",'slide');
+    return exe_query("update slide set name='$obj->name',name_cn='$obj->name_cn',price='$obj->price',img='$obj->img',img_small='$obj->img_small',link='$obj->link',position='$obj->position' where id=$obj->id",'slide');
 }
 //
 function slide_delete($obj)

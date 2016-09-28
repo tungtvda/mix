@@ -11,6 +11,22 @@
     <script type="text/javascript" src="{SITE-NAME}/view/admin/Themes/js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="{SITE-NAME}/view/admin/Themes/js/jquery-migrate-1.1.1.min.js"></script>
     <script type="text/javascript" src="{SITE-NAME}/view/admin/Themes/js/jquery-ui-1.9.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $("#DanhMuc1Id").change(function() {
+                $.post('{SITE-NAME}/controller/default/ajax.php',
+                        {
+                            Tour:$('#DanhMuc1Id  option:selected').val()
+                        },
+                        function(data,status){
+                            $("#DanhMuc2Id").html(data);
+                        });
+            });
+
+        });
+
+        //
+    </script>
     <script type="text/javascript" src="{SITE-NAME}/view/admin/Themes/js/jquery.flot.min.js"></script>
     <script type="text/javascript" src="{SITE-NAME}/view/admin/Themes/js/jquery.flot.resize.min.js"></script>
     <script type="text/javascript" src="{SITE-NAME}/view/admin/Themes/js/bootstrap.min.js"></script>
@@ -87,12 +103,12 @@
                 <li class="{kichhoat_admin}" ><a href="{SITE-NAME}/controller/admin/admin.php"><span class="icon-user"></span> Tài khoản quản trị</a></li>
                 <li class="{kichhoat_config}"><a href="{SITE-NAME}/controller/admin/config.php"><span class=" icon-wrench"></span> Cấu hình hệ thống</a></li>
                 <li class="{kichhoat_dathang}"><a href="{SITE-NAME}/controller/admin/booking_tour.php"><span class="icon-shopping-cart"></span> Đặt tour</a></li>
-                <li class="{kichhoat_lienhe}"><a href="{SITE-NAME}/controller/admin/lienhe.php"><span class="icon-envelope"></span> Liên hệ</a></li>
+                <li class="{kichhoat_lienhe}"><a href="{SITE-NAME}/controller/admin/contact.php"><span class="icon-envelope"></span> Liên hệ</a></li>
 
                 <li class="dropdown {kichhoat_tintuc}"><a href="#"><span class=" icon-edit"></span> Tin tức</a>
                     <ul>
-                        <li><a href="{SITE-NAME}/controller/admin/danhmuctintuc.php">Danh mục</a></li>
-                        <li><a href="{SITE-NAME}/controller/admin/tintuc.php">Danh sách </a></li>
+                        <li><a href="{SITE-NAME}/controller/admin/danhmuc_tintuc.php">Danh mục</a></li>
+                        <li><a href="{SITE-NAME}/controller/admin/new.php">Danh sách </a></li>
                     </ul>
                 </li>
 

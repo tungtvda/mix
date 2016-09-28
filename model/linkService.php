@@ -62,17 +62,17 @@ function link_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function link_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return link_Get("SELECT link.id, link.id_lang, link.name, link.link, link.position FROM  link ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return link_Get("SELECT link.id, link.name, link.name_cn, link.link, link.position FROM  link ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function link_insert($obj)
 {
-    return exe_query("insert into link (id_lang,name,link,position) values ('$obj->id_lang','$obj->name','$obj->link','$obj->position')",'link');
+    return exe_query("insert into link (name,name_cn,link,position) values ('$obj->name','$obj->name_cn','$obj->link','$obj->position')",'link');
 }
 //
 function link_update($obj)
 {
-    return exe_query("update link set id_lang='$obj->id_lang',name='$obj->name',link='$obj->link',position='$obj->position' where id=$obj->id",'link');
+    return exe_query("update link set name='$obj->name',name_cn='$obj->name_cn',link='$obj->link',position='$obj->position' where id=$obj->id",'link');
 }
 //
 function link_delete($obj)

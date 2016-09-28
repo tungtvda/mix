@@ -1,7 +1,7 @@
 <?php
 require_once DIR.'/common/paging.php';
 require_once DIR.'/common/cls_fast_template.php';
-function view_link($data)
+function view_social($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
     $ft->define('header','header.tpl');
@@ -15,7 +15,7 @@ function view_link($data)
     $ft->assign('TABLE-HEADER',showTableHeader());
     $ft->assign('PAGING',showPaging($data['count_paging'],20,$data['page']));
     $ft->assign('TABLE-BODY',showTableBody($data['table_body']));
-    $ft->assign('TABLE-NAME','link');
+    $ft->assign('TABLE-NAME','social');
     $ft->assign('CONTENT-BOX-LEFT',isset($data['content_box_left'])?$data['content_box_left']:'');
     $ft->assign('CONTENT-BOX-RIGHT',isset($data['content_box_right'])?$data['content_box_right']:' ');
     $ft->assign('NOTIFICATION',isset($data['notification'])?$data['notification']:' ');
@@ -29,7 +29,7 @@ function view_link($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>name</th><th>name_cn</th><th>link</th><th>position</th>';
+    return '<th>id</th><th>facebook</th><th>twitter</th><th>youtube</th><th>google</th><th>rss</th>';
 }
 //
 function showTableBody($data)
@@ -39,10 +39,11 @@ function showTableBody($data)
     {
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->id."</td>";
-        $TableBody.="<td>".$obj->name."</td>";
-        $TableBody.="<td>".$obj->name_cn."</td>";
-        $TableBody.="<td>".$obj->link."</td>";
-        $TableBody.="<td>".$obj->position."</td>";
+        $TableBody.="<td>".$obj->facebook."</td>";
+        $TableBody.="<td>".$obj->twitter."</td>";
+        $TableBody.="<td>".$obj->youtube."</td>";
+        $TableBody.="<td>".$obj->google."</td>";
+        $TableBody.="<td>".$obj->rss."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
         $TableBody.="</td>";
@@ -54,9 +55,10 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
-    $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
-    $str_from.='<p><label>name_cn</label><input class="text-input small-input" type="text"  name="name_cn" value="'.(($form!=false)?$form->name_cn:'').'" /></p>';
-    $str_from.='<p><label>link</label><input class="text-input small-input" type="text"  name="link" value="'.(($form!=false)?$form->link:'').'" /></p>';
-    $str_from.='<p><label>position</label><input class="text-input small-input" type="text"  name="position" value="'.(($form!=false)?$form->position:'').'" /></p>';
+    $str_from.='<p><label>facebook</label><input class="text-input small-input" type="text"  name="facebook" value="'.(($form!=false)?$form->facebook:'').'" /></p>';
+    $str_from.='<p><label>twitter</label><input class="text-input small-input" type="text"  name="twitter" value="'.(($form!=false)?$form->twitter:'').'" /></p>';
+    $str_from.='<p><label>youtube</label><input class="text-input small-input" type="text"  name="youtube" value="'.(($form!=false)?$form->youtube:'').'" /></p>';
+    $str_from.='<p><label>google</label><input class="text-input small-input" type="text"  name="google" value="'.(($form!=false)?$form->google:'').'" /></p>';
+    $str_from.='<p><label>rss</label><input class="text-input small-input" type="text"  name="rss" value="'.(($form!=false)?$form->rss:'').'" /></p>';
     return $str_from;
 }

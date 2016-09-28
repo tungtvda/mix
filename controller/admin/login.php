@@ -3,15 +3,15 @@
     <?php
     require_once("../../config.php");
     require_once(DIR."/common/hash_pass.php");
-//    require_once DIR."/model/adminService.php";
+    require_once DIR."/model/adminService.php";
 
     if(isset($_POST["UserName"])&&isset($_POST["Pass"]))
     {
         @session_start();
         $UserName=$_POST["UserName"];
         $Pass=hash_pass($_POST["Pass"]);
-        $_SESSION["Admin"]='admin';
-        header('Location: '.SITE_NAME.'/controller/admin/index.php');
+//        $_SESSION["Admin"]='admin';
+//        header('Location: '.SITE_NAME.'/controller/admin/index.php');
         if(checkLogin($UserName)&&checkLogin($Pass))
         {
             $result=admin_Get("select * from admin where TenDangNhap='".$UserName."' and MatKhau='".$Pass."'");
@@ -78,7 +78,7 @@
                                                     placeholder="Tên đăng nhập"/></p>
 
                 <p class="animate5 bounceIn"><input type="password" id="password" name="Pass" placeholder="Mật khẩu"
-                                                    /></p>
+                        /></p>
 
                 <p class="animate6 bounceIn">
                     <button class="btn btn-default btn-block">ĐĂNG NHẬP</button>

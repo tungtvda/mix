@@ -62,17 +62,17 @@ function danhmuc_subport_getByPaging($CurrentPage, $PageSize,$Order,$where)
 //
 function danhmuc_subport_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
-   return danhmuc_subport_Get("SELECT danhmuc_subport.id, danhmuc_subport.lang_id, danhmuc_subport.name, danhmuc_subport.position FROM  danhmuc_subport ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
+   return danhmuc_subport_Get("SELECT danhmuc_subport.id, danhmuc_subport.name, danhmuc_subport.name_cn, danhmuc_subport.position FROM  danhmuc_subport ".(($where!='')?(' where '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
 //
 function danhmuc_subport_insert($obj)
 {
-    return exe_query("insert into danhmuc_subport (lang_id,name,position) values ('$obj->lang_id','$obj->name','$obj->position')",'danhmuc_subport');
+    return exe_query("insert into danhmuc_subport (name,name_cn,position) values ('$obj->name','$obj->name_cn','$obj->position')",'danhmuc_subport');
 }
 //
 function danhmuc_subport_update($obj)
 {
-    return exe_query("update danhmuc_subport set lang_id='$obj->lang_id',name='$obj->name',position='$obj->position' where id=$obj->id",'danhmuc_subport');
+    return exe_query("update danhmuc_subport set name='$obj->name',name_cn='$obj->name_cn',position='$obj->position' where id=$obj->id",'danhmuc_subport');
 }
 //
 function danhmuc_subport_delete($obj)

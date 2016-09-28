@@ -29,7 +29,7 @@ function view_danhmuc_subport($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>name</th><th>position</th>';
+    return '<th>id</th><th>name</th><th>name_cn</th><th>position</th>';
 }
 //
 function showTableBody($data)
@@ -40,6 +40,7 @@ function showTableBody($data)
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->id."</td>";
         $TableBody.="<td>".$obj->name."</td>";
+        $TableBody.="<td>".$obj->name_cn."</td>";
         $TableBody.="<td>".$obj->position."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
@@ -52,8 +53,8 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
-    $str_from.='<p><label>lang_id</label><input class="text-input small-input" type="text"  name="lang_id" value="'.(($form!=false)?$form->lang_id:'').'" /></p>';
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
+    $str_from.='<p><label>name_cn</label><input class="text-input small-input" type="text"  name="name_cn" value="'.(($form!=false)?$form->name_cn:'').'" /></p>';
     $str_from.='<p><label>position</label><input class="text-input small-input" type="text"  name="position" value="'.(($form!=false)?$form->position:'').'" /></p>';
     return $str_from;
 }

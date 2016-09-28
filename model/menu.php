@@ -1,108 +1,45 @@
 <?php
 class menu
 {
-    public $id,$lang_id,$home,$title,$keyword,$description,$excursion_tours,$excursion_tours_img,$title_excursion,$keyword_excursion,$description_excursion,$vacation_packages,$vacation_packages_img,$title_vacation,$keyword_vacation,$description_vacation,$cruise_tours,$cruise_tours_img,$title_cruise,$keyword_cruise,$description_cruise,$multi_country,$multi_country_img,$title_country,$keyword_country,$description_country,$vietnam_visa,$vietnam_visa_img,$title_vietnam_visa,$keyword_vietnam_visa,$description_vietnam_visa;
+    public $id,$img,$name,$name_cn,$title,$title_en,$keyword,$keyword_cn,$description,$description_cn;
     public function menu($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
-    $this->lang_id=isset($data['lang_id'])?$data['lang_id']:'';
-    $this->home=isset($data['home'])?$data['home']:'';
+    $this->img=isset($data['img'])?$data['img']:'';
+    $this->name=isset($data['name'])?$data['name']:'';
+    $this->name_cn=isset($data['name_cn'])?$data['name_cn']:'';
     $this->title=isset($data['title'])?$data['title']:'';
+    $this->title_en=isset($data['title_en'])?$data['title_en']:'';
     $this->keyword=isset($data['keyword'])?$data['keyword']:'';
+    $this->keyword_cn=isset($data['keyword_cn'])?$data['keyword_cn']:'';
     $this->description=isset($data['description'])?$data['description']:'';
-    $this->excursion_tours=isset($data['excursion_tours'])?$data['excursion_tours']:'';
-    $this->excursion_tours_img=isset($data['excursion_tours_img'])?$data['excursion_tours_img']:'';
-    $this->title_excursion=isset($data['title_excursion'])?$data['title_excursion']:'';
-    $this->keyword_excursion=isset($data['keyword_excursion'])?$data['keyword_excursion']:'';
-    $this->description_excursion=isset($data['description_excursion'])?$data['description_excursion']:'';
-    $this->vacation_packages=isset($data['vacation_packages'])?$data['vacation_packages']:'';
-    $this->vacation_packages_img=isset($data['vacation_packages_img'])?$data['vacation_packages_img']:'';
-    $this->title_vacation=isset($data['title_vacation'])?$data['title_vacation']:'';
-    $this->keyword_vacation=isset($data['keyword_vacation'])?$data['keyword_vacation']:'';
-    $this->description_vacation=isset($data['description_vacation'])?$data['description_vacation']:'';
-    $this->cruise_tours=isset($data['cruise_tours'])?$data['cruise_tours']:'';
-    $this->cruise_tours_img=isset($data['cruise_tours_img'])?$data['cruise_tours_img']:'';
-    $this->title_cruise=isset($data['title_cruise'])?$data['title_cruise']:'';
-    $this->keyword_cruise=isset($data['keyword_cruise'])?$data['keyword_cruise']:'';
-    $this->description_cruise=isset($data['description_cruise'])?$data['description_cruise']:'';
-    $this->multi_country=isset($data['multi_country'])?$data['multi_country']:'';
-    $this->multi_country_img=isset($data['multi_country_img'])?$data['multi_country_img']:'';
-    $this->title_country=isset($data['title_country'])?$data['title_country']:'';
-    $this->keyword_country=isset($data['keyword_country'])?$data['keyword_country']:'';
-    $this->description_country=isset($data['description_country'])?$data['description_country']:'';
-    $this->vietnam_visa=isset($data['vietnam_visa'])?$data['vietnam_visa']:'';
-    $this->vietnam_visa_img=isset($data['vietnam_visa_img'])?$data['vietnam_visa_img']:'';
-    $this->title_vietnam_visa=isset($data['title_vietnam_visa'])?$data['title_vietnam_visa']:'';
-    $this->keyword_vietnam_visa=isset($data['keyword_vietnam_visa'])?$data['keyword_vietnam_visa']:'';
-    $this->description_vietnam_visa=isset($data['description_vietnam_visa'])?$data['description_vietnam_visa']:'';
+    $this->description_cn=isset($data['description_cn'])?$data['description_cn']:'';
           $this->encode();
     }
     public function encode()
         {
             $this->id=addslashes($this->id);
-            $this->lang_id=addslashes($this->lang_id);
-            $this->home=addslashes($this->home);
+            $this->img=addslashes($this->img);
+            $this->name=addslashes($this->name);
+            $this->name_cn=addslashes($this->name_cn);
             $this->title=addslashes($this->title);
+            $this->title_en=addslashes($this->title_en);
             $this->keyword=addslashes($this->keyword);
+            $this->keyword_cn=addslashes($this->keyword_cn);
             $this->description=addslashes($this->description);
-            $this->excursion_tours=addslashes($this->excursion_tours);
-            $this->excursion_tours_img=addslashes($this->excursion_tours_img);
-            $this->title_excursion=addslashes($this->title_excursion);
-            $this->keyword_excursion=addslashes($this->keyword_excursion);
-            $this->description_excursion=addslashes($this->description_excursion);
-            $this->vacation_packages=addslashes($this->vacation_packages);
-            $this->vacation_packages_img=addslashes($this->vacation_packages_img);
-            $this->title_vacation=addslashes($this->title_vacation);
-            $this->keyword_vacation=addslashes($this->keyword_vacation);
-            $this->description_vacation=addslashes($this->description_vacation);
-            $this->cruise_tours=addslashes($this->cruise_tours);
-            $this->cruise_tours_img=addslashes($this->cruise_tours_img);
-            $this->title_cruise=addslashes($this->title_cruise);
-            $this->keyword_cruise=addslashes($this->keyword_cruise);
-            $this->description_cruise=addslashes($this->description_cruise);
-            $this->multi_country=addslashes($this->multi_country);
-            $this->multi_country_img=addslashes($this->multi_country_img);
-            $this->title_country=addslashes($this->title_country);
-            $this->keyword_country=addslashes($this->keyword_country);
-            $this->description_country=addslashes($this->description_country);
-            $this->vietnam_visa=addslashes($this->vietnam_visa);
-            $this->vietnam_visa_img=addslashes($this->vietnam_visa_img);
-            $this->title_vietnam_visa=addslashes($this->title_vietnam_visa);
-            $this->keyword_vietnam_visa=addslashes($this->keyword_vietnam_visa);
-            $this->description_vietnam_visa=addslashes($this->description_vietnam_visa);
+            $this->description_cn=addslashes($this->description_cn);
         }
     public function decode()
         {
             $this->id=stripslashes($this->id);
-            $this->lang_id=stripslashes($this->lang_id);
-            $this->home=stripslashes($this->home);
+            $this->img=stripslashes($this->img);
+            $this->name=stripslashes($this->name);
+            $this->name_cn=stripslashes($this->name_cn);
             $this->title=stripslashes($this->title);
+            $this->title_en=stripslashes($this->title_en);
             $this->keyword=stripslashes($this->keyword);
+            $this->keyword_cn=stripslashes($this->keyword_cn);
             $this->description=stripslashes($this->description);
-            $this->excursion_tours=stripslashes($this->excursion_tours);
-            $this->excursion_tours_img=stripslashes($this->excursion_tours_img);
-            $this->title_excursion=stripslashes($this->title_excursion);
-            $this->keyword_excursion=stripslashes($this->keyword_excursion);
-            $this->description_excursion=stripslashes($this->description_excursion);
-            $this->vacation_packages=stripslashes($this->vacation_packages);
-            $this->vacation_packages_img=stripslashes($this->vacation_packages_img);
-            $this->title_vacation=stripslashes($this->title_vacation);
-            $this->keyword_vacation=stripslashes($this->keyword_vacation);
-            $this->description_vacation=stripslashes($this->description_vacation);
-            $this->cruise_tours=stripslashes($this->cruise_tours);
-            $this->cruise_tours_img=stripslashes($this->cruise_tours_img);
-            $this->title_cruise=stripslashes($this->title_cruise);
-            $this->keyword_cruise=stripslashes($this->keyword_cruise);
-            $this->description_cruise=stripslashes($this->description_cruise);
-            $this->multi_country=stripslashes($this->multi_country);
-            $this->multi_country_img=stripslashes($this->multi_country_img);
-            $this->title_country=stripslashes($this->title_country);
-            $this->keyword_country=stripslashes($this->keyword_country);
-            $this->description_country=stripslashes($this->description_country);
-            $this->vietnam_visa=stripslashes($this->vietnam_visa);
-            $this->vietnam_visa_img=stripslashes($this->vietnam_visa_img);
-            $this->title_vietnam_visa=stripslashes($this->title_vietnam_visa);
-            $this->keyword_vietnam_visa=stripslashes($this->keyword_vietnam_visa);
-            $this->description_vietnam_visa=stripslashes($this->description_vietnam_visa);
+            $this->description_cn=stripslashes($this->description_cn);
         }
 }

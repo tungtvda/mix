@@ -2,9 +2,9 @@
 require_once '../../config.php';
 require_once DIR.'/model/danhmuc_2Service.php';
 require_once DIR.'/model/danhmuc_1Service.php';
-require_once DIR.'/model/languageService.php';
 require_once DIR.'/view/admin/danhmuc_2.php';
 require_once DIR.'/common/messenger.php';
+require_once DIR.'/common/locdautiengviet.php';
 $data=array();
 $insert=true;
 if(isset($_SESSION["Admin"]))
@@ -40,15 +40,6 @@ if(isset($_SESSION["Admin"]))
         $data['tab1_class']='default-tab current';
     }
     $data['listfkey']['danhmuc1_id']=danhmuc_1_getByAll();
-    if(isset($_GET['lang_check_id']))
-    {
-       $lang_check_id='id!='._returnGetParamSecurity('lang_check_id');
-        $data['listfkey']['lang_id']=language_getByTop('',$lang_check_id,'');
-    }
-    else{
-        $data['listfkey']['lang_id']=language_getByAll();
-    }
-
     if(isset($_GET["action_all"]))
     {
         if($_GET["action_all"]=="ThemMoi")
@@ -66,27 +57,38 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/danhmuc_2.php');
         }
     }
-    if(isset($_POST["danhmuc1_id"])&&isset($_POST["patient_id"])&&isset($_POST["lang_id"])&&isset($_POST["name"])&&isset($_POST["name_url"])&&isset($_POST["img"])&&isset($_POST["banner"])&&isset($_POST["position"]))
+    if(isset($_POST["danhmuc1_id"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["img"])&&isset($_POST["banner"])&&isset($_POST["position"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_en"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
        $array['id']='0';
        if(!isset($array['danhmuc1_id']))
        $array['danhmuc1_id']='0';
-       if(!isset($array['patient_id']))
-       $array['patient_id']='0';
-       if(!isset($array['lang_id']))
-       $array['lang_id']='0';
        if(!isset($array['name']))
        $array['name']='0';
+       if(!isset($array['name_cn']))
+       $array['name_cn']='0';
        if(!isset($array['name_url']))
        $array['name_url']='0';
+        $array['name_url']=LocDau($array['name']);
        if(!isset($array['img']))
        $array['img']='0';
        if(!isset($array['banner']))
        $array['banner']='0';
        if(!isset($array['position']))
        $array['position']='0';
+       if(!isset($array['title']))
+       $array['title']='0';
+       if(!isset($array['title_cn']))
+       $array['title_cn']='0';
+       if(!isset($array['keyword']))
+       $array['keyword']='0';
+       if(!isset($array['keyword_cn']))
+       $array['keyword_cn']='0';
+       if(!isset($array['description']))
+       $array['description']='0';
+       if(!isset($array['description_en']))
+       $array['description_en']='0';
       $new_obj=new danhmuc_2($array);
         if($insert)
         {
