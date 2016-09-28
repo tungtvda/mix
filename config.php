@@ -16,3 +16,13 @@ define('PRIVATE_KEY','hoidinhnvbk');
 session_start();
 require_once DIR.'/common/minifi.output.php';
 ob_start("minify_output");
+
+function _returnGetParamSecurity($param)
+{
+    if (isset($_GET[$param])) {
+        $param_val = addslashes(strip_tags($_GET[$param]));
+        return $param_val;
+    } else {
+        return '';
+    }
+}

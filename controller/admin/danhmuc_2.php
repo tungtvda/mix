@@ -2,6 +2,7 @@
 require_once '../../config.php';
 require_once DIR.'/model/danhmuc_2Service.php';
 require_once DIR.'/model/danhmuc_1Service.php';
+require_once DIR.'/model/languageService.php';
 require_once DIR.'/view/admin/danhmuc_2.php';
 require_once DIR.'/common/messenger.php';
 $data=array();
@@ -39,6 +40,15 @@ if(isset($_SESSION["Admin"]))
         $data['tab1_class']='default-tab current';
     }
     $data['listfkey']['danhmuc1_id']=danhmuc_1_getByAll();
+    if(isset($_GET['lang_check_id']))
+    {
+       $lang_check_id='id!='._returnGetParamSecurity('lang_check_id');
+        $data['listfkey']['lang_id']=language_getByTop('',$lang_check_id,'');
+    }
+    else{
+        $data['listfkey']['lang_id']=language_getByAll();
+    }
+
     if(isset($_GET["action_all"]))
     {
         if($_GET["action_all"]=="ThemMoi")

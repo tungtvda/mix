@@ -1,0 +1,1 @@
+insert into danhmuc_2 (danhmuc1_id,patient_id,lang_id,name,name_url,img,banner,position) values ('1','','1',' Air, Helicopter & Balloon Tours','test','/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/balloon-tour-experience-with-winery-visit-in-florence-266514.jpg','/mix/view/admin/Themes/kcfinder/upload/images/danhmuctour/grand-canyon-national-park-362695.jpg','1');
