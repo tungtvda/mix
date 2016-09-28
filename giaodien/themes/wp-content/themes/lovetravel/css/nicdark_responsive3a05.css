@@ -73,7 +73,7 @@
 	.nicdark_displaynone_ipadpotr{
 		display: none !important;
 	}
-	.nicdark_displayblock_ipadpotr { display: block !important; }
+	/*.nicdark_displayblock_ipadpotr { display: block !important; }*/
 
 	/*navigation*/
 	.slowup{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
@@ -126,7 +126,7 @@
 	.nicdark_displaynone_iphoneland, .nicdark_displaynone_responsive{
 		display: none;
 	}
-	.nicdark_displayblock_iphoneland { display: block !important; }
+	/*.nicdark_displayblock_iphoneland { display: block !important; }*/
 
 
 	/*navigation*/
@@ -177,7 +177,7 @@
 
 	/*display*/
 	.nicdark_displaynone_iphonepotr, .nicdark_displaynone_responsive{ display: none; }
-	.nicdark_displayblock_iphonepotr { display: block !important; }
+	/*.nicdark_displayblock_iphonepotr { display: block !important; }*/
 
 
 	/*navigation*/
