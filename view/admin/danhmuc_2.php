@@ -29,7 +29,7 @@ function view_danhmuc_2($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>danhmuc1_id</th><th>name</th><th>name_url</th><th>img</th><th>banner</th>';
+    return '<th>id</th><th>danhmuc1_id</th><th>name</th><th>name_url</th><th>img</th><th>banner</th><th>lang</th>';
 }
 //
 function showTableBody($data)
@@ -65,8 +65,18 @@ function showFrom($form,$ListKey=array())
         }
     }
     $str_from.='</select></p>';
-    $str_from.='<p><label>patient_id</label><input class="text-input small-input" type="text"  name="patient_id" value="'.(($form!=false)?$form->patient_id:'').'" /></p>';
-    $str_from.='<p><label>lang_id</label><input class="text-input small-input" type="text"  name="lang_id" value="'.(($form!=false)?$form->lang_id:'').'" /></p>';
+    $str_from.='<select name="lang_id">';
+    if(isset($ListKey['lang_id']))
+    {
+        foreach($ListKey['lang_id'] as $key)
+        {
+            $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->lang_id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
+        }
+    }
+    $str_from.='</select></p>';
+    $patient_id=_returnGetParamSecurity('patient_id');
+
+    $str_from.='<p hidden><label>patient_id</label><input class="text-input small-input" type="text"  name="patient_id" value="'.(($form!=false)?$form->patient_id:$patient_id).'" /></p>';
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
     $str_from.='<p><label>name_url</label><input class="text-input small-input" type="text"  name="name_url" value="'.(($form!=false)?$form->name_url:'').'" /></p>';
     $str_from.='<p><label>img</label><input class="text-input small-input" type="text"  name="img" value="'.(($form!=false)?$form->img:'').'"/><a class="button" onclick="openKcEditor(\'img\');">Upload ảnh</a></p>';
