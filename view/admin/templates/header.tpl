@@ -99,7 +99,6 @@
             <ul class="nav nav-tabs nav-stacked">
                 <li class="nav-header">Main Navigation</li>
                 <li class="{kichhoat}"><a href="{SITE-NAME}/admin"><span class="icon-align-justify"></span> Dashboard</a></li>
-                <li class="{kichhoat_lienhe}"><a href="{SITE-NAME}/controller/admin/language.php"><span class="icon-language"></span> Ngôn ngữ</a></li>
                 <li class="{kichhoat_admin}" ><a href="{SITE-NAME}/controller/admin/admin.php"><span class="icon-user"></span> Tài khoản quản trị</a></li>
                 <li class="{kichhoat_config}"><a href="{SITE-NAME}/controller/admin/config.php"><span class=" icon-wrench"></span> Cấu hình hệ thống</a></li>
                 <li class="{kichhoat_dathang}"><a href="{SITE-NAME}/controller/admin/booking_tour.php"><span class="icon-shopping-cart"></span> Đặt tour</a></li>
@@ -119,12 +118,7 @@
                     </ul>
                 </li>
 
-                <li class="dropdown {kichhoat_gioithieu}"><a href="#"><span class=" icon-signal"></span> Giới thiệu</a>
-                    <ul>
-                        <li><a href="{SITE-NAME}/controller/admin/danhmucgioithieu.php">Danh mục</a></li>
-                        <li><a href="{SITE-NAME}/controller/admin/tuyendung.php">Danh sách </a></li>
-                    </ul>
-                </li>
+                <li class="{kichhoat_video}"><a href="{SITE-NAME}/controller/admin/info_mix.php"><span class="icon-facetime-video"></span> Giới thiệu</a></li>
                 <li class="dropdown {kichhoat_gioithieu}"><a href="#"><span class="icon-question-sign"></span> Hỗ trợ trực tuyến</a>
                     <ul>
                         <li><a href="{SITE-NAME}/controller/admin/danhmuc_subport.php">Danh mục</a></li>
