@@ -65,36 +65,11 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 }
             }
 
-
-
-
-
-            if(get_class($item)=='tourtrongnuoc')
+            if(get_class($item)=='danhmuc_2')
             {
+                    $ft->assign('name',returnLanguageField('name', $item));
 
-                    $ft->assign('vung',"1");
-                    $ft->assign('Name',$item->Name);
-                    if (strlen($item->GioiThieu) > 200) {
-                        $ten1=strip_tags($item->GioiThieu);
-
-                        $ten = substr($ten1, 0, 200);
-                        $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                        $ft->assign('NoiDung',$name);
-                    } else {
-                        $ft->assign('NoiDung',strip_tags($item->GioiThieu));
-                    }
-                    if (strlen($item->GioiThieu) > 100) {
-                        $ten2=strip_tags($item->GioiThieu);
-
-                        $ten3 = substr($ten2, 0, 100);
-                        $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                        $ft->assign('NoiDung_ngan',$name1);
-                    } else {
-                        $ft->assign('NoiDung_ngan',strip_tags($item->GioiThieu));
-                    }
-                $ft->assign('locdau',locdau($item->Name));
-                $ft->assign('Link',link_tourtrongnuoc($item));
-
+                $ft->assign('link',link_tour($item));
             }
             if(get_class($item)=='tourquocte')
             {
@@ -330,6 +305,11 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
     }
 
 }
+function link_tour($app)
+{
+    return SITE_NAME.'/tour/'.$app->name_url.'/';
+}
+
 function link_album($app)
 {
     return SITE_NAME.'/anh-cuoi/'.$app->Name_url.'/';

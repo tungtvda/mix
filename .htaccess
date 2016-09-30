@@ -7,3 +7,6 @@ ErrorDocument 404 /404.php
 RewriteRule ^(.*)$ http://radio.kzone.vn/$1 [R=permanent,L]
 RewriteRule ^admin controller/admin/index.php
 RewriteRule ^login controller/admin/login.php
+
+RewriteRule ^tour/([a-zA-Z0-9_-]+)/$ controller/default/thuvienanh.php?Id=$1
+RewriteRule ^tour/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/thuvienanh.php?Id=1&page=$2

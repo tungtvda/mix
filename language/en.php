@@ -11,7 +11,8 @@ class Language_en
     public function returnLang()
     {
         return array(
-            'monday_saturday' => "Monday to Saturday"
+            'monday_saturday' => "Monday to Saturday",
+            'online_support'=>"ONLINE SUPPORT"
         );
     }
 }
