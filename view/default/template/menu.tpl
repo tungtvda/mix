@@ -13,7 +13,7 @@
         <i style="color:red" class="icon-headphones nicdark_switcher_open nicdark_switcher_btn"></i>
         <i style="color:red" class="icon-cancel nicdark_switcher_close nicdark_switcher_btn"></i>
 
-        <h4 class="white nicdark_bg_greydark nicdark_padding20">ONLINE SUPPORT</h4>
+        <h4 class="white nicdark_bg_greydark nicdark_padding20">{online_support}</h4>
 
         <div class="nicdark_switcher_content nicdark_border_grey nicdark_bg_white nicdark_padding20 nicdark_focus nicdark_sizing">
 
@@ -237,301 +237,35 @@
                                         class="greydark menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890">
                                         <a href=""> {Excursion}</a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-891"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-891">
-                                                <a>Search</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-1302"
-                                                        class="nicdark_bestlabel menu-item menu-item-type-custom menu-item-object-custom menu-item-1302">
-                                                        <a href="packages/index9328.html?advsearch=true&amp;posttype=packages&amp;keyword=&amp;tax-0=destination-package&amp;destination-package=&amp;tax-1=typology-package&amp;typology-package=&amp;tax-2=duration-package&amp;duration-package=&amp;tax-3=person-package&amp;person-package=&amp;date_from=&amp;date_to=&amp;price_from_to=%24+1000+-+%24+9000&amp;qnt-taxonomies=4">Search
-                                                            1</a></li>
-                                                    <li id="menu-item-1300"
-                                                        class="nicdark_newlabel menu-item menu-item-type-post_type menu-item-object-page menu-item-1300">
-                                                        <a href="search-2/index.html">Search 2</a></li>
-                                                    <li id="menu-item-1301"
-                                                        class="nicdark_newlabel menu-item menu-item-type-post_type menu-item-object-page menu-item-1301">
-                                                        <a href="search-3/index.html">Search 3</a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-1634"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634">
-                                                <a href="destinations/index.html">Destinations</a></li>
-                                            <li id="menu-item-1456"
-                                                class="nicdark_hotlabel menu-item menu-item-type-post_type menu-item-object-page menu-item-1456">
-                                                <a href="shop/index.html">Shop</a></li>
-                                            <li id="menu-item-1488"
-                                                class="nicdark_bestlabel menu-item menu-item-type-post_type menu-item-object-page menu-item-1488">
-                                                <a href="packages-preview/index.html">Previews</a></li>
-                                            <li id="menu-item-898"
-                                                class="menu-item menu-item-type-post_type menu-item-object-packages menu-item-has-children menu-item-898">
-                                                <a href="packages/polynesia/index.html">Single Package</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-899"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-packages menu-item-899">
-                                                        <a href="packages/polynesia/index.html">Right Sidebar</a></li>
-                                                    <li id="menu-item-900"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-packages menu-item-900">
-                                                        <a href="packages/new-delhi/index.html">Left Sidebar</a></li>
-                                                    <li id="menu-item-901"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-packages menu-item-901">
-                                                        <a href="packages/london/index.html">Full Width</a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-1459"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1459">
-                                                <a>Single Product</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-1462"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1462">
-                                                        <a href="product/le-seychelles/index.html">Full Width</a></li>
-                                                    <li id="menu-item-1461"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1461">
-                                                        <a href="product/bora-bora/index.html">Right Sidebar</a></li>
-                                                    <li id="menu-item-1460"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1460">
-                                                        <a href="product/polynesia/index.html">Left Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-1531"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1531">
-                                                <a>Archive Layout</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-1535"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1535">
-                                                        <a href="layout-1-4-columns/index.html">Layout 1</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-1534"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534">
-                                                                <a href="layout-1-4-columns/index.html">4 Columns</a>
-                                                            </li>
-                                                            <li id="menu-item-1533"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1533">
-                                                                <a href="layout-1-3-columns/index.html">3 Columns</a>
-                                                            </li>
-                                                            <li id="menu-item-1532"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1532">
-                                                                <a href="layout-1-2-columns/index.html">2 Columns</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li id="menu-item-1539"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1539">
-                                                        <a href="layout-2-4-columns/index.html">Layout 2</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-1536"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1536">
-                                                                <a href="layout-2-4-columns/index.html">4 Columns</a>
-                                                            </li>
-                                                            <li id="menu-item-1537"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537">
-                                                                <a href="layout-2-3-columns/index.html">3 Columns</a>
-                                                            </li>
-                                                            <li id="menu-item-1538"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1538">
-                                                                <a href="layout-2-2-columns/index.html">2 Columns</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li id="menu-item-1542"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1542">
-                                                        <a href="layout-3-with-sidebar/index.html">Layout 3</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-1540"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1540">
-                                                                <a href="layout-3-full-width/index.html">Full Width</a>
-                                                            </li>
-                                                            <li id="menu-item-1541"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541">
-                                                                <a href="layout-3-with-sidebar/index.html">With
-                                                                    Sidebar</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li id="menu-item-1547"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1547">
-                                                        <a href="layout-4-4-columns/index.html">Layout 4</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-1546"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1546">
-                                                                <a href="layout-4-4-columns/index.html">4 Columns</a>
-                                                            </li>
-                                                            <li id="menu-item-1545"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1545">
-                                                                <a href="layout-4-3-columns/index.html">3 Columns</a>
-                                                            </li>
-                                                            <li id="menu-item-1544"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1544">
-                                                                <a href="layout-4-2-columns/index.html">2 Columns</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li id="menu-item-1550"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1550">
-                                                        <a href="layout-5-4-columns/index.html">Layout 5</a>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-1549"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1549">
-                                                                <a href="layout-5-4-columns/index.html">4 Columns</a>
-                                                            </li>
-                                                            <li id="menu-item-1548"
-                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1548">
-                                                                <a href="layout-5-3-columns/index.html">3 Columns</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
+                                           {Excursion_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-902"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-902">
                                         <a href=""> {Vacation}</a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-1695"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1695">
-                                                <a href="map-markers/index.html">Map Markers</a></li>
-                                            <li id="menu-item-1625"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625">
-                                                <a href="destinations/index.html">Destinations</a></li>
-                                            <li id="menu-item-1627"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1627">
-                                                <a href="staff/index.html">Staff</a></li>
-                                            <li id="menu-item-1626"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626">
-                                                <a href="prices/index.html">Prices</a></li>
-                                            <li id="menu-item-1649"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1649">
-                                                <a href="count-down/index.html">Count Down</a></li>
-                                            <li id="menu-item-1650"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1650">
-                                                <a href="faq/index.html">Faq</a></li>
+                                           {Vacation_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-1447"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1447">
                                         <a href="">{Cruise}</a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-1451"
-                                                class="nicdark_newlabel menu-item menu-item-type-post_type menu-item-object-page menu-item-1451">
-                                                <a href="shop/index.html">Shop</a></li>
-                                            <li id="menu-item-1452"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1452">
-                                                <a>Products Layout</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-1455"
-                                                        class="nicdark_bestlabel menu-item menu-item-type-post_type menu-item-object-product menu-item-1455">
-                                                        <a href="product/le-seychelles/index.html">Full Width</a></li>
-                                                    <li id="menu-item-1454"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1454">
-                                                        <a href="product/bora-bora/index.html">Right Sidebar</a></li>
-                                                    <li id="menu-item-1453"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1453">
-                                                        <a href="product/polynesia/index.html">Left Sidebar</a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-1448"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1448">
-                                                <a href="cart/index.html">Cart</a></li>
-                                            <li id="menu-item-1449"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1449">
-                                                <a href="checkout/index.html">Checkout</a></li>
-                                            <li id="menu-item-1450"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1450">
-                                                <a href="my-account/index.html">My Account</a></li>
+                                            {Cruise_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-903"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-903">
                                         <a href="">{Multi}</a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-904"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904">
-                                                <a href="blog-masonry/index.html">Masonry Layout</a></li>
-                                            <li id="menu-item-942"
-                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-942">
-                                                <a href="category/blog/index.html">Standard Layout</a></li>
-                                            <li id="menu-item-908"
-                                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-908">
-                                                <a href="post-right-sidebar/index.html">Single Post</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-906"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-906">
-                                                        <a href="post-right-sidebar/index.html">Post Right Sidebar</a>
-                                                    </li>
-                                                    <li id="menu-item-907"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-907">
-                                                        <a href="post-left-sidebar/index.html">Post Left Sidebar</a>
-                                                    </li>
-                                                    <li id="menu-item-905"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-post menu-item-905">
-                                                        <a href="post-full-width/index.html">Post Full Width</a></li>
-                                                </ul>
-                                            </li>
+                                            {Multi_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-893"
                                         class="greydark nicdark_megamenu nicdark_displaynone_ipadland menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-893">
                                         <a href="buttons/index.html">{Vietnam}</a>
                                         <ul class="sub-menu">
-                                            <li id="menu-item-910"
-                                                class="mm_grid_3 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-910">
-                                                <a href="accordions/index.html">Accordions</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-911"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-911">
-                                                        <a href="alert-messages/index.html">Alert Messages</a></li>
-                                                    <li id="menu-item-912"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-912">
-                                                        <a href="badges/index.html">Badges</a></li>
-                                                    <li id="menu-item-913"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-913">
-                                                        <a href="buttons/index.html">Buttons</a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-914"
-                                                class="mm_grid_3 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-914">
-                                                <a href="countdown/index.html">Countdown</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-915"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915">
-                                                        <a href="counter/index.html">Counter</a></li>
-                                                    <li id="menu-item-916"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-916">
-                                                        <a href="google-maps/index.html">Google Maps</a></li>
-                                                    <li id="menu-item-917"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-917">
-                                                        <a href="iframe/index.html">Iframe</a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-918"
-                                                class="mm_grid_3 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-918">
-                                                <a href="price-table/index.html">Price Table</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-919"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-919">
-                                                        <a href="progress-bars/index.html">Progress Bars</a></li>
-                                                    <li id="menu-item-920"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-920">
-                                                        <a href="services/index.html">Services</a></li>
-                                                    <li id="menu-item-921"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921">
-                                                        <a href="tables/index.html">Tables</a></li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-922"
-                                                class="mm_grid_3 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-922">
-                                                <a href="tabs-horizontal/index.html">Tabs Horizontal</a>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-923"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923">
-                                                        <a href="team/index.html">Team</a></li>
-                                                    <li id="menu-item-924"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-924">
-                                                        <a href="testimonials/index.html">Testimonials</a></li>
-                                                    <li id="menu-item-925"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925">
-                                                        <a href="toogles/index.html">Toogles</a></li>
-                                                </ul>
-                                            </li>
+                                            {Vietnam_menu}
                                         </ul>
                                     </li>
                                 </ul>
