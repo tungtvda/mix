@@ -4,6 +4,7 @@
  * @author vdbkpro
  * @copyright 2013
  */
+require_once 'language/en.php';
 define("SITE_NAME", "http://localhost/mix");
 define("DIR", dirname(__FILE__));
 define('SERVER','localhost');
@@ -24,5 +25,50 @@ function _returnGetParamSecurity($param)
         return $param_val;
     } else {
         return '';
+    }
+}
+
+if(isset($_SESSION['lang']))
+{
+    if($_SESSION['lang']==1)
+    {
+        $_SESSION['language']="en";
+    }
+    else
+    {
+        $_SESSION['language']="cn";
+    }
+}
+else
+{
+    $_SESSION['language']="en";
+}
+function returnLanguage($file_new,$file_old=''){
+
+    $lang=$_SESSION['language'];
+    if (file_exists('language/'.$lang.'.php')) {
+        require_once('language/'.$lang.'.php');
+    }
+    else{
+        require_once('language/en.php');
+    }
+    require_once('language/cn.php');
+    $langClass="language_".$lang;
+    $lang_objec = new $langClass;
+    $lang_arr=$lang_objec->returnLang();
+    if(isset($lang_arr[$file_new])){
+        return $lang_arr[$file_new];
+    }
+    else{
+        return $file_old;
+    }
+}
+function returnLanguageField($field, $data){
+    if($_SESSION['language']=="en"){
+        return $data->$field;
+    }
+    else{
+        $lang=$field.'_cn';
+        return $data->$lang;
     }
 }
