@@ -1,0 +1,89 @@
+/*.white ul li{*/
+    /*float: left;*/
+    /*list-style: none;*/
+/*}*/
+/*.white ul{*/
+    /*margin-top: 0px;*/
+    /*padding-top: 0px;*/
+/*}*/
+/*.nicdark_focus.infor-subport {*/
+    /*margin-top: -15px;*/
+    /*margin-bottom: -10px;*/
+/*}*/
+.border_archive{
+     border: 1px solid #e6e6e6;
+}
+.content_sub{
+    text-align: center;
+}
+.content_sub p{
+    text-align: justify;
+}
+.content_sub div.nicdark_space20{
+    border-bottom: 1px solid #e6e6e6;
+}
+.content_sub a{
+    border: none;
+    color: #ed1c27;
+}
+.video-right{
+    margin-top: 36px;
+}
+.nicdark_dark_widgets .widget ul li p a{
+    padding: 0px;
+}
+.logo_ft p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
+}
+.nicdark_bg_blue_twitter {
+     background-color: #14b9d5;
+    /*background-color: #0086cd;*/
+}
+.nicdark_bg_yellow_rss{
+    background-color: #ffd205;
+}
+.nicdark_list li p{
+    font-size: 14px;
+}
+.subpport{
+    margin-left: -40px;
+}
+.subpport li{
+    list-style: none;
+    float: left;
+    width: 100%;
+}
+.subpport li span{
+    font-size: 12px;
+}
+
+.subpport li a{
+    font-size: 14px;
+}
+.lable_subpport {
+    color: #0086cd;
+    font-weight: 700;
+}
+.mobi_subpport{
+    color: #ec1b23;
+}
+.skype_subpport{
+    color: #0086cd;
+}
+.yahoo_subpport{
+    color: #BA71DA;;
+}
+.destina_columm{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*padding: 15px;*/
+}
+.menu_top ul{
+    margin-top: -10px;
+}
+.menu_top ul li{
+    float:left;
+    list-style: none;
+}
