@@ -75,32 +75,26 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             {
                 $ft->assign('name',returnLanguageField('name', $item));
             }
-            if(get_class($item)=='tourquocte')
+            if(get_class($item)=='tour')
             {
 
-                $ft->assign('vung',"2");
-                $ft->assign('Name',$item->Name);
-                if (strlen($item->GioiThieu) > 200) {
-                    $ten1=strip_tags($item->GioiThieu);
+                $ft->assign('name',returnLanguageField('name', $item));
+                $ft->assign('price',returnLanguageField('price', $item));
+                $ft->assign('durations',returnLanguageField('durations', $item));
+                $content=returnLanguageField('content', $item);
+                if (strlen($content) > 200) {
+                    $ten1=strip_tags($content);
 
                     $ten = substr($ten1, 0, 200);
                     $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                    $ft->assign('NoiDung',$name);
+                    $ft->assign('content',$name);
                 } else {
-                    $ft->assign('NoiDung',strip_tags($item->GioiThieu));
+                    $ft->assign('content',strip_tags($content));
                 }
-                if (strlen($item->GioiThieu) > 100) {
-                    $ten2=strip_tags($item->GioiThieu);
-
-                    $ten3 = substr($ten2, 0, 100);
-                    $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                    $ft->assign('NoiDung_ngan',$name1);
-                } else {
-                    $ft->assign('NoiDung_ngan',strip_tags($item->GioiThieu));
-                }
-
-                $ft->assign('Link',link_tourquocte($item));
-
+                $ft->assign('link',link_tourdetail($item));
+                $ft->assign('currency',returnLanguage('currency','$'));
+                $ft->assign('detail',returnLanguage('detail','DETAIL'));
+                $ft->assign('booking',returnLanguage('booking','BOOKING'));
             }
             if(get_class($item)=='danhmuctour')
             {
@@ -143,6 +137,15 @@ function link_tour($app)
 {
     return SITE_NAME.'/tour/'.$app->name_url.'/';
 }
+function link_tourdetail($app)
+{
+    return SITE_NAME.'/'.$app->name_url.'.html';
+}
+
+
+
+
+
 
 function link_album($app)
 {
@@ -170,10 +173,7 @@ function link_tourtrongnuoc($app)
     return SITE_NAME.'/'.LocDau($app->Name).'-l1'.$app->Id.'.html';
 }
 
-function link_tourquocte($app)
-{
-    return SITE_NAME.'/'.LocDau($app->Name).'-l2'.$app->Id.'.html';
-}
+
 
 function link_khachsan($app)
 {

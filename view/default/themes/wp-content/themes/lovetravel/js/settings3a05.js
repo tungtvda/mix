@@ -240,12 +240,12 @@ function nicdark_bgcolor_site(nicdark_rgba_color,nicdark_bg_color,nicdark_switch
 		range: true,
 		min: 0,
 		max: 10000,
-		values: [ 1000, 9000 ],
+		values: [ 0, 9000 ],
 		slide: function( event, ui ) {
-			$( ".nicdark_slider_amount" ).val( "$ " + ui.values[ 0 ] + " - $ " + ui.values[ 1 ] );
+			$( ".nicdark_slider_amount" ).val( "" + ui.values[ 0 ] + " -  " + ui.values[ 1 ] );
 		}
 	});
-	$( ".nicdark_slider_amount" ).val( "$ " + $( ".nicdark_slider_range" ).slider( "values", 0 ) + " - $ " + $( ".nicdark_slider_range" ).slider( "values", 1 ) );
+	$( ".nicdark_slider_amount" ).val( "" + $( ".nicdark_slider_range" ).slider( "values", 0 ) + " -  " + $( ".nicdark_slider_range" ).slider( "values", 1 ) );
  
 
 	//alerts

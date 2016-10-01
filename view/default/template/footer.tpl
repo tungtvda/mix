@@ -26,7 +26,7 @@
             <div class="nicdark_space20"></div>
             <div class="nicdark_margin10">
                 <div class="widget widget_text logo_ft" style="text-align: center">
-                    <img src="http://mixtourist.com.vn/images/logomix.png">
+                    <!--<img src="http://mixtourist.com.vn/images/logomix.png">-->
 
                     <p>Contact us via Social Network</p>
                     <a href="" class="nicdark_btn_icon nicdark_bg_blue_twitter small white">
@@ -275,7 +275,7 @@
 <!--start preloader-->
 <script type="text/javascript">
     jQuery(window).load(function () {
-        jQuery(".nicdark_preloader").delay(1000).fadeOut("slow");
+        jQuery(".nicdark_preloader").delay(500).fadeOut("slow");
     })
 </script>
 <!--end preloader-->
