@@ -2071,7 +2071,7 @@ JQUERY UI
 }
 
 .nicdark_slider_range a:last-child {
-    margin-left: -20px !important;
+    /*margin-left: -20px !important;*/
 }
 
 

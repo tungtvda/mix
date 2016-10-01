@@ -27,6 +27,25 @@ class Language_en
             'name_tour'=>"Type Your Tour",
             'vehicle'=>"Vehicle",
             'hotel'=>"Hotel",
+
+            //tour
+            'money'=>"USD",
+            'currency'=>"$",
+            'detail'=>"DETAILS",
+            'booking'=>"BOOKING",
+            'packages'=>"ALL PACKAGES",
+            'promotions'=>"PROMOTIONS",
+            'top_promotions'=>"TOP PROMOTIONS",
+            'best_travel_packages_available'=>"BEST TRAVEL PACKAGES AVAILABLE",
+
+            // video
+            'video_intro'=>"VIDEO INTRODUCTION - MIXTOURIST",
+            'video_conttent'=>"Lorem ipsum
+                            dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            'more_videos'=>"MORE VIDEOS",
+
         );
     }
 }

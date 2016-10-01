@@ -6,12 +6,12 @@
                 <div class="vc_empty_space" style="height: 60px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h1 style="color:;" class=" title center">TOP PROMOTIONS</h1>
+                <h1 style="color:;" class=" title center">{top_promotions}</h1>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h3 style="color:;" class=" subtitle center">BEST TRAVEL PACKAGES AVAILABLE</h3>
+                <h3 style="color:;" class=" subtitle center">{best_travel_packages_available}</h3>
 
                 <div class="vc_empty_space" style="height: 25px"><span
                             class="vc_empty_space_inner"></span></div>
@@ -32,274 +32,7 @@
             <div class="wpb_wrapper">
                 <div class="nicdark_masonry_container">
 
-                    <!--start preview-->
-                    <div id="257"
-                         class="grid grid_4 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-                        <div class="nicdark_archive1 nicdark_bg_white nicdark_border_grey nicdark_sizing border_archive">
-
-
-                            <!--start image-->
-                            <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                     src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-20-780.jpg">
-
-
-                                <!--price-->
-                                <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <a href="#" class="nicdark_btn nicdark_bg_white left grey medium">1300
-                                        USD</a>
-                                </div>
-                                <!--end price-->
-
-
-                                <!--start content-->
-                                <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_cell nicdark_vertical_middle">
-                                            <a href="packages/polynesia/index.html"
-                                               class="nicdark_btn nicdark_border_white white medium">DETAILS</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--end content-->
-
-                            </div>
-                            <!--end image-->
-
-
-                            <div class="nicdark_textevidence nicdark_bg_greydark">
-                                <h4 class="white nicdark_margin20">
-                                    Vietnam Family Holiday 14 days</h4>
-                            </div>
-
-
-                            <div class="nicdark_focus nicdark_bg_green">
-                                <div class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="el el-icon-time"></i> 14 Days </p>
-                                </div>
-                                <div class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="icon-calendar"></i> 2016/10/31 </p>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_margin20 content_sub">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                    efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper erat
-                                    et justo porta auctor nec lobortis elit.</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a href="packages/polynesia/index.html"
-                                   class="nicdark_border_grey grey nicdark_btn nicdark_outline medium ">DETAILS
-                                    <i class="el el-arrow-right"></i>
-                                </a>
-                                <a href="#nicdark_window_popup_257"
-                                   class="nicdark_mpopup_window nicdark_marginleft10 grey nicdark_btn nicdark_border_grey medium nicdark_outline ">
-                                    BOOKING
-                                    <i class="el el-shopping-cart-sign"></i>
-                                </a>
-
-                                <!--start pop up window-->
-                                <div id="nicdark_window_popup_257"
-                                     class="nicdark_bg_greydark nicdark_window_popup zoom-anim-dialog mfp-hide">
-                                    <div class="nicdark_textevidence nicdark_bg_green">
-                                        <div class="nicdark_margin20">
-                                            <h4 class="white">JOIN ALL TOUR</h4>
-                                        </div>
-                                    </div>
-
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3799946.915563811!2d-79.60173314999999!3d21.551325750000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sit!2sit!4v1431941108947"
-                                            width="100%" height="450" frameborder="0"
-                                            style="border:0"></iframe>
-                                </div>
-                                <!--end pop up window-->
-
-
-                            </div>
-
-                        </div>
-                    </div>
-                    <!--end prev-->
-
-
-                    <!--start preview-->
-                    <div id="261"
-                         class="grid grid_4 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-                        <div class="nicdark_archive1 nicdark_bg_white nicdark_border_grey nicdark_sizing border_archive">
-
-
-                            <!--start image-->
-                            <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                     src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-27-780.jpg">
-
-
-                                <!--price-->
-                                <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <a href="packages/polynesia/index.html"
-                                       class="nicdark_btn nicdark_bg_white left grey medium">1200 USD</a>
-                                </div>
-                                <!--end price-->
-
-
-                                <!--start content-->
-                                <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_cell nicdark_vertical_middle">
-                                            <a href="packages/new-delhi/index.html"
-                                               class="nicdark_btn nicdark_border_white white medium">BOOK</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--end content-->
-
-                            </div>
-                            <!--end image-->
-
-
-                            <div class="nicdark_textevidence nicdark_bg_greydark">
-                                <h4 class="white nicdark_margin20">
-                                    Vietnam Family Holiday 14 days</h4>
-                            </div>
-
-
-                            <div class="nicdark_focus nicdark_bg_green">
-                                <div class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="el el-icon-time"></i> 14 Days </p>
-                                </div>
-                                <div class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="icon-calendar"></i> 2016/10/31 </p>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_margin20 content_sub">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                    efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper erat
-                                    et justo porta auctor nec lobortis elit.</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a href="packages/polynesia/index.html"
-                                   class="nicdark_border_grey grey nicdark_btn nicdark_outline medium ">DETAILS
-                                    <i class="el el-folder-open"></i>
-                                </a>
-                                <a href="#nicdark_window_popup_257"
-                                   class="nicdark_mpopup_window nicdark_marginleft10 grey nicdark_btn nicdark_border_grey medium nicdark_outline ">
-                                    BOOKING
-                                    <i class="el el-shopping-cart-sign"></i>
-                                </a>
-
-                                <!--start pop up window-->
-                                <div id="nicdark_window_popup_257"
-                                     class="nicdark_bg_greydark nicdark_window_popup zoom-anim-dialog mfp-hide">
-                                    <div class="nicdark_textevidence nicdark_bg_green">
-                                        <div class="nicdark_margin20">
-                                            <h4 class="white">JOIN ALL TOUR</h4>
-                                        </div>
-                                    </div>
-
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3799946.915563811!2d-79.60173314999999!3d21.551325750000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sit!2sit!4v1431941108947"
-                                            width="100%" height="450" frameborder="0"
-                                            style="border:0"></iframe>
-                                </div>
-                                <!--end pop up window-->
-
-
-                            </div>
-
-                        </div>
-                    </div>
-                    <!--end prev-->
-
-
-                    <!--start preview-->
-                    <div id="265"
-                         class="grid grid_4 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-                        <div class="nicdark_archive1 nicdark_bg_white nicdark_border_grey nicdark_sizing border_archive">
-
-
-                            <!--start image-->
-                            <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                     src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-29-780.jpg">
-
-
-                                <!--price-->
-                                <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <a href="packages/new-delhi/index.html"
-                                       class="nicdark_btn nicdark_bg_white left grey medium">1100 USD</a>
-                                </div>
-                                <!--end price-->
-
-
-                                <!--start content-->
-                                <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_cell nicdark_vertical_middle">
-                                            <a href="packages/polynesia/index.html"
-                                               class="nicdark_btn nicdark_border_white white medium">INFO</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--end content-->
-
-                            </div>
-                            <!--end image-->
-
-
-                            <div class="nicdark_textevidence nicdark_bg_greydark">
-                                <h4 class="white nicdark_margin20">
-                                    Vietnam Family Holiday 14 days</h4>
-                            </div>
-
-
-                            <div class="nicdark_focus nicdark_bg_green">
-                                <div class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="el el-icon-time"></i> 14 Days </p>
-                                </div>
-                                <div class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="icon-calendar"></i> 2016/10/31 </p>
-                                </div>
-                            </div>
-                            <div class="nicdark_margin20 content_sub">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                    efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper erat
-                                    et justo porta auctor nec lobortis elit.</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a href="packages/polynesia/index.html"
-                                   class="nicdark_border_grey grey nicdark_btn nicdark_outline medium ">DETAILS
-                                    <i class="el el-arrow-right"></i>
-                                </a>
-                                <a href="#nicdark_window_popup_257"
-                                   class="nicdark_mpopup_window nicdark_marginleft10 grey nicdark_btn nicdark_border_grey medium nicdark_outline ">
-                                    BOOKING
-                                    <i class="el el-shopping-cart-sign"></i>
-                                </a>
-
-                                <!--start pop up window-->
-                                <div id="nicdark_window_popup_257"
-                                     class="nicdark_bg_greydark nicdark_window_popup zoom-anim-dialog mfp-hide">
-                                    <div class="nicdark_textevidence nicdark_bg_green">
-                                        <div class="nicdark_margin20">
-                                            <h4 class="white">JOIN ALL TOUR</h4>
-                                        </div>
-                                    </div>
-
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3799946.915563811!2d-79.60173314999999!3d21.551325750000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sit!2sit!4v1431941108947"
-                                            width="100%" height="450" frameborder="0"
-                                            style="border:0"></iframe>
-                                </div>
-                                <!--end pop up window-->
-
-
-                            </div>
-
-                        </div>
-                    </div>
-                    <!--end prev-->
-
+                   {tour_PROMOTIONS}
                 </div>
             </div>
         </div>
@@ -309,17 +42,16 @@
     <div class="nicdark_container nicdark_vc nicdark_clearfix">
         <div class="vc_col-sm-6 wpb_column vc_column_container ">
             <div class="wpb_wrapper">
-                <a title="" target="" href="#"
-                   class="nicdark_disable_floatright_iphonepotr nicdark_margintop20 nicdark_btn nicdark_bg_greydark medium right   nicdark_square white">ALL
-                    PACKAGES</a>
+                <a title="{packages}" href="{SITE-NAME}/packages/"
+                   class="nicdark_disable_floatright_iphonepotr nicdark_margintop20 nicdark_btn nicdark_bg_greydark medium right   nicdark_square white">{packages}</a>
 
             </div>
         </div>
 
         <div class="vc_col-sm-6 wpb_column vc_column_container ">
             <div class="wpb_wrapper">
-                <a title="" target="" href="#"
-                   class="nicdark_disable_floatleft_iphonepotr nicdark_margintop20 nicdark_btn nicdark_bg_greydark medium    nicdark_square white">PROMOTIONS</a>
+                <a title="{promotions}"  href="{SITE-NAME}/promotions/"
+                   class="nicdark_disable_floatleft_iphonepotr nicdark_margintop20 nicdark_btn nicdark_bg_greydark medium    nicdark_square white">{promotions}</a>
 
             </div>
         </div>
@@ -337,6 +69,7 @@
         </div>
     </div>
 </section>
+
 <section
         style="background:url({SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-27-1920.jpg) 50% 0 fixed; background-size:cover;"
         id="destination-parallax" class="nicdark_section  nicdark_imgparallax  vc_row wpb_row vc_row-fluid">
@@ -349,23 +82,19 @@
                                     class="vc_empty_space_inner"></span></div>
 
 
-                        <h1 style="color:#ffffff;" class=" subtitle center">VIDEO INTRODUCTION -
-                            MIXTOURIST</h1>
+                        <h1 style="color:#ffffff;" class=" subtitle center">{video_intro}</h1>
 
                         <div class="vc_empty_space" style="height: 20px"><span
                                     class="vc_empty_space_inner"></span></div>
 
-                        <p style="color:#ffffff; text-align: justify" class=" title center">Lorem ipsum
-                            dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p style="color:#ffffff; text-align: justify" class=" title center">{video_conttent}</p>
 
                         <div class="vc_empty_space" style="height: 30px"><span
                                     class="vc_empty_space_inner"></span></div>
 
                         <a title="" target="" href="#"
                            class=" nicdark_btn nicdark_bg_blue medium    nicdark_square white"> <i
-                                    class=" nicdark_marginright10  icon-anchor"></i>MORE DETAILS</a>
+                                    class=" nicdark_marginright10  icon-anchor"></i>{more_videos}</a>
 
                         <div class="vc_empty_space" style="height: 100px"><span
                                     class="vc_empty_space_inner"></span></div>
@@ -375,7 +104,7 @@
                 </div>
                 <div class="vc_col-sm-6 vc_col-xs-12">
                     <div class="wpb_wrapper video-right">
-                        <iframe src="//player.vimeo.com/video/52742614" width="100%" height="327"></iframe>
+                        <iframe src="{video}" width="100%" height="327"></iframe>
                     </div>
 
                 </div>

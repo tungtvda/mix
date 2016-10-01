@@ -43,7 +43,7 @@ else
 {
     $_SESSION['language']="en";
 }
-$_SESSION['language']="cn";
+
 function returnLanguage($file_new,$file_old=''){
 
     $lang=$_SESSION['language'];
@@ -144,6 +144,26 @@ function returnSearchVehicle(){
         $name=returnLanguageField('vehicle', $row);
         if(!in_array($name,$data_arr)){
             array_push($data_arr,$name);
+        }
+    }
+    $string='';
+    if(count($data_arr)>0){
+        foreach($data_arr as $val){
+            if($val!='')
+            {
+                $string .="<option value=\"".$val."\">".$val."</option>";
+            }
+        }
+    }
+    return $string;
+}
+function returnSearchHotel(){
+    $data['data']=tour_getByTop('','','hotel asc');
+    $data_arr=array();
+    foreach($data['data'] as $row)
+    {
+        if(!in_array($row->hotel,$data_arr)){
+            array_push($data_arr,$row->hotel);
         }
     }
     $string='';

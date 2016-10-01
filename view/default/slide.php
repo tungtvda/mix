@@ -33,5 +33,6 @@ function view_slide($data=array())
     $asign['list_destination']=returnSearchDestination();
     $asign['list_Durations']=returnSearchDurations();
     $asign['list_Vehicle']=returnSearchVehicle();
+    $asign['list_Hotel']=returnSearchHotel();
     print_template($asign,'slide');
 }

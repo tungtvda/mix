@@ -11,11 +11,26 @@ function show_index($data = array())
 {
     $asign = array();
 
-//    $asign['tour_trongnuoc_ghepdoi'] = "";
-//    if(count($data['tour_trongnuoc_ghepdoi'])>0)
-//    {
-//        $asign['tour_trongnuoc_ghepdoi'] = print_item('tour_index', $data['tour_trongnuoc_ghepdoi']);
-//    }
+    $asign['tour_PROMOTIONS'] = "";
+    if(count($data['tour_PROMOTIONS'])>0)
+    {
+        $asign['tour_PROMOTIONS'] = print_item('promotion', $data['tour_PROMOTIONS']);
+    }
+    $asign['packages']=returnLanguage('packages','ALL PACKAGES');
+    $asign['promotions']=returnLanguage('promotions','PROMOTIONS');
+    $asign['top_promotions']=returnLanguage('top_promotions','ALL PACKAGES');
+    $asign['best_travel_packages_available']=returnLanguage('best_travel_packages_available','PROMOTIONS');
+
+    $asign['video_intro']=returnLanguage('video_intro','VIDEO INTRODUCTION - MIXTOURIST');
+    $asign['video_conttent']=returnLanguage('video_conttent','');
+    $asign['more_videos']=returnLanguage('more_videos','MORE VIDEOS');
+
+    $asign['video'] = "";
+    if(count($data['video'])>0)
+    {
+        $asign['video']=$data['video'][0]->link_video;
+    }
+
 //    $asign['tour_quocte_ghepdoi'] = "";
 //    if(count($data['tour_quocte_ghepdoi'])>0)
 //    {

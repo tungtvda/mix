@@ -384,11 +384,11 @@
                                 <div id="nicdark_advanced_search_prices"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <div class="nicdark_margintop30 nicdark_bg_greydark2 nicdark_border_none2 nicdark_slider_range nicdark_slider_range_green nicdark_activity nicdark_width_percentage49 nicdark_width100_iphonepotr"></div>
+                                    <div class="nicdark_margintop30 nicdark_bg_greydark2 nicdark_border_none2 nicdark_slider_range nicdark_slider_range_green nicdark_activity nicdark_width_percentage45_1 nicdark_width100_iphonepotr"></div>
                                     <div class="nicdark_displayblock_iphonepotr nicdark_displaynone_desktop"
                                          style="height: 20px; float:left; width:100%"></div>
                                     <input name="price_from_to" style="float:right;"
-                                           class="nicdark_bg_greydark2 nicdark_border_none grey subtitle medium  nicdark_slider_amount nicdark_width_percentage49 nicdark_width100_iphonepotr"
+                                           class="nicdark_bg_greydark2 nicdark_border_none grey subtitle medium  nicdark_slider_amount nicdark_width_percentage45_1 nicdark_width100_iphonepotr"
                                            type="text">
                                 </div>
 
@@ -479,7 +479,7 @@
                                     </select>
                                     <select style="float:right;" name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
                                         <option value="">{hotel}</option>
-                                        {list_destination}
+                                        {list_Hotel}
                                     </select>
 
                                 </div>
@@ -488,11 +488,11 @@
                                 <div id="nicdark_advanced_search_prices"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <div class="nicdark_margintop30 nicdark_bg_greydark2 nicdark_border_none2 nicdark_slider_range nicdark_slider_range_blue nicdark_activity nicdark_width_percentage49 nicdark_width100_iphonepotr"></div>
+                                    <div class="nicdark_margintop30 nicdark_bg_greydark2 nicdark_border_none2 nicdark_slider_range nicdark_slider_range_blue nicdark_activity nicdark_width_percentage45_1 nicdark_width100_iphonepotr"></div>
                                     <div class="nicdark_displayblock_iphonepotr nicdark_displaynone_desktop"
                                          style="height: 20px; float:left; width:100%"></div>
                                     <input name="price_from_to" style="float:right;"
-                                           class="nicdark_bg_greydark2 nicdark_border_none grey subtitle medium  nicdark_slider_amount nicdark_width_percentage49 nicdark_width100_iphonepotr"
+                                           class="nicdark_bg_greydark2 nicdark_border_none grey subtitle medium  nicdark_slider_amount nicdark_width_percentage45_1 nicdark_width100_iphonepotr"
                                            type="text">
                                 </div>
 
