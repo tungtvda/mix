@@ -16,6 +16,18 @@ function show_index($data = array())
     {
         $asign['tour_PROMOTIONS'] = print_item('promotion', $data['tour_PROMOTIONS']);
     }
+    $asign['tour_packages_list'] = "";
+    if(count($data['tour_packages_list'])>0)
+    {
+        $asign['tour_packages_list'] = print_item('packages', $data['tour_packages_list']);
+    }
+
+    $asign['tour_DESTINATIONS'] = "";
+    if(count($data['tour_DESTINATIONS'])>0)
+    {
+        $asign['tour_DESTINATIONS'] = print_item('destinations', $data['tour_DESTINATIONS']);
+    }
+
     $asign['packages']=returnLanguage('packages','ALL PACKAGES');
     $asign['promotions']=returnLanguage('promotions','PROMOTIONS');
     $asign['top_promotions']=returnLanguage('top_promotions','ALL PACKAGES');
@@ -24,6 +36,15 @@ function show_index($data = array())
     $asign['video_intro']=returnLanguage('video_intro','VIDEO INTRODUCTION - MIXTOURIST');
     $asign['video_conttent']=returnLanguage('video_conttent','');
     $asign['more_videos']=returnLanguage('more_videos','MORE VIDEOS');
+    $asign['our_destinations']=returnLanguage('our_destinations','OUR DESTINATIONS');
+    $asign['choose_you']=returnLanguage('choose_you','CHOOSE YOUR NEXT DESTINATION');
+
+    $asign['destinations']=returnLanguage('destinations','DESTINATIONS');
+    $asign['tour_packages']=returnLanguage('tour_packages','TOURS PACKAGES');
+    $asign['cruises']=returnLanguage('cruises','CRUISES');
+    $asign['hour_support']=returnLanguage('hour_support','HOUR SUPPORT');
+    $asign['packages_index']=returnLanguage('packages_index','PACKAGES');
+
 
     $asign['video'] = "";
     if(count($data['video'])>0)
@@ -31,33 +52,9 @@ function show_index($data = array())
         $asign['video']=$data['video'][0]->link_video;
     }
 
-//    $asign['tour_quocte_ghepdoi'] = "";
-//    if(count($data['tour_quocte_ghepdoi'])>0)
-//    {
-//        $asign['tour_quocte_ghepdoi'] = print_item('tour_index', $data['tour_quocte_ghepdoi']);
-//    }
-//    $asign['khachsan_index'] = "";
-//    if(count($data['khachsan_index'])>0)
-//    {
-//        $asign['khachsan_index'] = print_item('khachsan', $data['khachsan_index']);
-//    }
-//    $asign['thuexe_index'] = "";
-//    if(count($data['thuexe_index'])>0)
-//    {
-//        $asign['thuexe_index'] = print_item('thuexe', $data['thuexe_index']);
-//    }
-//    $asign['thuexe_index'] = "";
-//    if(count($data['thuexe_index'])>0)
-//    {
-//        $asign['thuexe_index'] = print_item('thuexe', $data['thuexe_index']);
-//    }
-//
-//    $asign['ykien_index'] = "";
-//    if(count($data['ykien_index'])>0)
-//    {
-//        $asign['ykien_index'] = print_item('ykien', $data['ykien_index']);
-//    }
-
+    $asign['count_destinations']=$data['count_destinations'];
+    $asign['count_pack']=$data['count_pack'];
+    $asign['count_cru']=$data['count_cru'];
     print_template($asign, 'index');
 }
 

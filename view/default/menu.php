@@ -59,14 +59,14 @@ function view_menu($data = array())
             $id_dmtour2 = "danhmuc_id=" . $dmtour1->id;
             $data['subport'] = subport_getByTop('', $id_dmtour2, 'id desc');
             if (count($data['subport']) > 0) {
-                $asign['danhmuc_subport'] .= " <div class=\"nicdark_focus\">
+                $asign['danhmuc_subport'] .= " <div class=\"nicdark_space10\"></div><div class=\"nicdark_focus\">
                 <label class=\"lable_subpport\">".returnLanguageField('name', $dmtour1)."</label>
 
                 <div class=\"nicdark_space10\"></div>
                 <ul class=\"subpport\">";
                 foreach($data['subport'] as $subport) {
                     $asign['danhmuc_subport'] .= "<li>
-                        <a href=\"\" class=\"mobi_subpport\">
+                        <a href='tel:$subport->phone_format' class=\"mobi_subpport\">
                             <i class=\"icon-mobile\"></i>".$subport->phone."
                         </a>
                         <span>|</span>
@@ -82,7 +82,7 @@ function view_menu($data = array())
 
                 $asign['danhmuc_subport'] .= "</ul>
 
-            </div>";
+            </div><div class=\"nicdark_space10\"></div>";
             }
         }
     }
