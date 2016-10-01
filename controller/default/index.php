@@ -26,7 +26,7 @@ $title=($data['menu'][0]->title)?$data['menu'][0]->title:'APT TRAVEL Viet Nam';
 $description=($data['menu'][0]->description)?$data['menu'][0]->description:'APT TRAVEL Viet Nam';
 $keywords=($data['menu'][0]->keyword)?$data['menu'][0]->keyword:'APT TRAVEL Viet Nam';
 show_header($title,$description,$keywords,$data);
-show_menu($data,'trangchu');
+show_menu($data,'home');
 show_slide($data);
 show_index($data);
 show_footer($data);

@@ -49,7 +49,7 @@ function show_header2($title,$description,$keyword,$data1=array())
 function  show_slide($data1=array())
 {
     $data=array();
-//    $data['slide']=slide_getByTop('','','Id desc');
+    $data['slide']=slide_getByTop('','','Id desc');
     view_slide($data);
 }
 
@@ -114,6 +114,7 @@ function show_menu($data1=array(),$active='trangchu')
     $data['Multi_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=5','id desc');
     $data['Vietnam_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=6','id desc');
     $data['danhmuc_subport']=danhmuc_subport_getByTop('','','id desc');
+
 
 //    $data['danhmuctourquocte1_menu']=danhmuctourtrongnuoc1_getByTop('','Id!=1 and DanhMucId=2','ViTri asc');
 //    $data['Link_menu']=link_menu_right_getByTop('','','ViTri asc');

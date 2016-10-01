@@ -13,175 +13,7 @@
                     <div id="rev_slider_4_1" class="rev_slider fullwidthabanner"
                          style="display:none;max-height:650px;height:650px;">
                         <ul>    <!-- SLIDE  -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="300"
-                                data-thumb="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-2-1920-320x200.jpg"
-                                data-saveperformance="off" data-title="Slide">
-                                <!-- MAIN IMAGE -->
-                                <img src="{SITE-NAME}/view/default/themes/images/maldive-islands-resort-wide.jpg"
-                                     alt="love-travel-2-1920" data-bgposition="center top"
-                                     data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone"
-                                     data-bgfit="100" data-bgfitend="110" data-bgpositionend="center top">
-                                <!-- LAYERS -->
-
-                                <!-- LAYER NR. 1 -->
-                                <div class="tp-caption nicdarkwithlight50 sfl tp-resizeme rs-parallaxlevel-3"
-                                     data-x="center" data-hoffset="-20"
-                                     data-y="center" data-voffset="-150"
-                                     data-speed="2000"
-                                     data-start="3000"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    PARIS
-                                </div>
-
-                                <!-- LAYER NR. 2 -->
-                                <div class="tp-caption nicdarkwithregular75 sfl tp-resizeme rs-parallaxlevel-4"
-                                     data-x="center" data-hoffset="20"
-                                     data-y="center" data-voffset="-60"
-                                     data-speed="2000"
-                                     data-start="4100"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 6; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    TOUR
-                                </div>
-
-                                <!-- LAYER NR. 3 -->
-                                <div class="tp-caption nicdarkwithlight75 sfl tp-resizeme rs-parallaxlevel-4"
-                                     data-x="center" data-hoffset="250"
-                                     data-y="center" data-voffset="-60"
-                                     data-speed="2000"
-                                     data-start="4200"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 7; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    EIFFEL
-                                </div>
-
-                                <!-- LAYER NR. 4 -->
-                                <div class="tp-caption nicdarkwithlight40 sft tp-resizeme rs-parallaxlevel-2"
-                                     data-x="982"
-                                     data-y="259"
-                                     data-speed="2000"
-                                     data-start="5000"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 8; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    TOUR
-                                </div>
-
-                                <!-- LAYER NR. 5 -->
-                                <div class="tp-caption nicdarkwithlight20 sft tp-resizeme rs-parallaxlevel-1"
-                                     data-x="983"
-                                     data-y="237"
-                                     data-speed="2000"
-                                     data-start="5200"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    CITY
-                                </div>
-
-                                <!-- LAYER NR. 6 -->
-                                <div class="tp-caption nicdarkwithregular15btn sfl tp-resizeme rs-parallaxlevel-0"
-                                     data-x="center" data-hoffset="150"
-                                     data-y="center" data-voffset="30"
-                                     data-speed="2000"
-                                     data-start="6000"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 10; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    SALE
-                                </div>
-
-                                <!-- LAYER NR. 7 -->
-                                <div class="tp-caption nicdarkwithregular60 sfr tp-resizeme rs-parallaxlevel-3"
-                                     data-x="790"
-                                     data-y="333"
-                                     data-speed="2000"
-                                     data-start="6100"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 11; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    1.500
-                                </div>
-
-                                <!-- LAYER NR. 8 -->
-                                <div class="tp-caption nicdarkwithregular25 sfb tp-resizeme rs-parallaxlevel-2"
-                                     data-x="954"
-                                     data-y="365"
-                                     data-speed="2000"
-                                     data-start="6200"
-                                     data-easing="Power3.easeInOut"
-                                     data-splitin="none"
-                                     data-splitout="none"
-                                     data-elementdelay="0.1"
-                                     data-endelementdelay="0.1"
-                                     data-endspeed="300"
-
-                                     style="z-index: 12; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    $
-                                </div>
-                            </li>
-                            <!-- SLIDE  -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="300"
-                                data-thumb="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-12-1920-320x200.jpg"
-                                data-saveperformance="off" data-title="Slide">
-                                <!-- MAIN IMAGE -->
-                                <img src="{SITE-NAME}/view/default/themes/images/slide.jpg"
-                                     alt="love-travel-12-1920" data-bgposition="center top"
-                                     data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone"
-                                     data-bgfit="100" data-bgfitend="110"
-                                     data-bgpositionend="center center">
-                                <!-- LAYERS -->
-                            </li>
-                            <!-- SLIDE  -->
-                            <li data-transition="fade" data-slotamount="7" data-masterspeed="300"
-                                data-thumb="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-26-1920-320x200.jpg"
-                                data-saveperformance="off" data-title="Slide">
-                                <!-- MAIN IMAGE -->
-                                <img src="{SITE-NAME}/view/default/themes/images/Travel-HD-Wallpapers-For-Desktop.jpg"
-                                     alt="love-travel-26-1920" data-bgposition="center top"
-                                     data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone"
-                                     data-bgfit="100" data-bgfitend="110" data-bgpositionend="center right">
-                                <!-- LAYERS -->
-                            </li>
+                           {slide}
                         </ul>
                         <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
                     </div>
@@ -484,10 +316,10 @@
                         <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix">
                             <li class=" nicdark_width100_iphonepotr nicdark_width100_iphoneland "><a
                                         class="title white nicdark_bg_blue " href="#tab-41648c1f-c14f-8"><i
-                                            class=" icon-search-2"></i> QUICK SEARCH</a></li>
+                                            class=" icon-search-2"></i> {quick_search}</a></li>
                             <li class=" nicdark_width100_iphonepotr nicdark_width100_iphoneland "><a
                                         class="title white nicdark_bg_green " href="#tab-1430811957345-1-7"><i
-                                            class="icon-params"></i> ADVANCED</a></li>
+                                            class="icon-params"></i> {advanced}</a></li>
                         </ul>
 
 
@@ -529,75 +361,23 @@
 
 
                             <form id="advsearch_1" class="nicdark_advanced_search"
-                                  action="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/packages/"
+                                  action={SITE-NAME}/search/"
                                   method="GET">
                                 <div id="nicdark_advanced_search_keyword"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input type="hidden" value="true" name="advsearch">
-                                    <input type="hidden" value="packages" name="posttype">
                                     <input id="nicdark_autocomplete"
                                            class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
-                                           type="text" placeholder="Type Your Destination" name="keyword"
+                                           type="text" placeholder="{departure}" name="departure"
                                            value="">
                                 </div>
-                                <div id="nicdark_advanced_search_tax-0"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="destination-package" name="tax-0"><select
-                                            name="destination-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Destinations</option>
-                                        <option value="africa">Africa</option>
-                                        <option value="america">America</option>
-                                        <option value="asia">Asia</option>
-                                        <option value="europe">Europe</option>
-                                        <option value="oceania">Oceania</option>
-                                    </select></div>
-                                <div id="nicdark_advanced_search_tax-1"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="typology-package" name="tax-1"><select
-                                            name="typology-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Typologies</option>
-                                        <option value="cultural">Cultural</option>
-                                        <option value="luxury">Luxury</option>
-                                        <option value="relax">Relax</option>
-                                        <option value="sport">Sport</option>
-                                    </select></div>
-                                <div id="nicdark_advanced_search_tax-2"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="duration-package" name="tax-2"><select
-                                            name="duration-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Durations</option>
-                                        <option value="1-3-days">1 - 3 Days</option>
-                                        <option value="3-6-days">3 - 6 Days</option>
-                                        <option value="6-9-days">6 – 9 Days</option>
-                                        <option value="9-12-days">9 - 12 Days</option>
-                                    </select></div>
-                                <div id="nicdark_advanced_search_tax-3"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="person-package" name="tax-3"><select
-                                            name="person-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL People</option>
-                                        <option value="1-person">1 Person</option>
-                                        <option value="2-people">2 People</option>
-                                        <option value="3-people">3 People</option>
-                                        <option value="4-people">4 People</option>
-                                    </select></div>
                                 <div id="nicdark_advanced_search_dates"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle nicdark_calendar_range nicdark_calendar_from"
-                                           placeholder="From" name="date_from" type="text" value="">
-                                    <input style="float:right;"
-                                           class="nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle nicdark_calendar_range nicdark_calendar_to"
-                                           placeholder="To" name="date_to" type="text" value="">
+                                    <input id="nicdark_autocomplete"
+                                           class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
+                                           type="text" placeholder="{destination}" name="destination"
+                                           value="">
                                 </div>
 
 
@@ -616,11 +396,10 @@
                                 <div id="nicdark_advanced_search_button"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input type="submit" value="SEARCH"
+                                    <input type="submit" value="{search}"
                                            class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green ">
                                 </div>
 
-                                <input type="hidden" value="4" name="qnt-taxonomies">
 
                             </form>
                         </div>
@@ -646,42 +425,40 @@
 
 
                             <form id="nicdark_adv_search_all" class="nicdark_advanced_search"
-                                  action="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/packages/"
+                                  action="{SITE-NAME}/search/"
                                   method="GET">
                                 <div id="nicdark_advanced_search_keyword"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input type="hidden" value="true" name="advsearch">
-                                    <input type="hidden" value="packages" name="posttype">
                                     <input id="nicdark_autocomplete"
                                            class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
                                            type="text" placeholder="Type Your Destination" name="keyword"
                                            value="">
                                 </div>
+                                <div id="nicdark_advanced_search_tax-3"
+                                     style="box-sizing:border-box; padding: 0px 10px;"
+                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
+                                            type="hidden" value="person-package" name="tax-3">
+                                    <input id="nicdark_autocomplete"
+                                           class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
+                                           type="text" placeholder="{name_tour}" name="name"
+                                           value="">
+                                </div>
                                 <div id="nicdark_advanced_search_tax-0"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="destination-package" name="tax-0"><select
-                                            name="destination-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Destinations</option>
-                                        <option value="africa">Africa</option>
-                                        <option value="america">America</option>
-                                        <option value="asia">Asia</option>
-                                        <option value="europe">Europe</option>
-                                        <option value="oceania">Oceania</option>
+                                            type="hidden" value="destination-package" name="tax-0">
+                                    <select name="all_departure" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
+                                        <option value="">{all_departure}</option>
+                                       {list_departure}
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-1"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="typology-package" name="tax-1"><select
-                                            name="typology-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Typologies</option>
-                                        <option value="cultural">Cultural</option>
-                                        <option value="luxury">Luxury</option>
-                                        <option value="relax">Relax</option>
-                                        <option value="sport">Sport</option>
+                                            type="hidden" value="typology-package" name="tax-1">
+                                    <select name="all_destination" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
+                                        <option value="">{all_destination}</option>
+                                       {list_destination}
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-2"
                                      style="box-sizing:border-box; padding: 0px 10px;"
@@ -689,32 +466,22 @@
                                             type="hidden" value="duration-package" name="tax-2"><select
                                             name="duration-package"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Durations</option>
-                                        <option value="1-3-days">1 - 3 Days</option>
-                                        <option value="3-6-days">3 - 6 Days</option>
-                                        <option value="6-9-days">6 – 9 Days</option>
-                                        <option value="9-12-days">9 - 12 Days</option>
+                                        <option value="">{all_duration}</option>
+                                       {list_Durations}
                                     </select></div>
-                                <div id="nicdark_advanced_search_tax-3"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="person-package" name="tax-3"><select
-                                            name="person-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL People</option>
-                                        <option value="1-person">1 Person</option>
-                                        <option value="2-people">2 People</option>
-                                        <option value="3-people">3 People</option>
-                                        <option value="4-people">4 People</option>
-                                    </select></div>
+
                                 <div id="nicdark_advanced_search_dates"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle nicdark_calendar_range nicdark_calendar_from"
-                                           placeholder="From" name="date_from" type="text" value="">
-                                    <input style="float:right;"
-                                           class="nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle nicdark_calendar_range nicdark_calendar_to"
-                                           placeholder="To" name="date_to" type="text" value="">
+                                    <select name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
+                                        <option value="">{vehicle}</option>
+                                        {list_Vehicle}
+                                    </select>
+                                    <select style="float:right;" name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
+                                        <option value="">{hotel}</option>
+                                        {list_destination}
+                                    </select>
+
                                 </div>
 
 
@@ -733,7 +500,7 @@
                                 <div id="nicdark_advanced_search_button"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input type="submit" value="SEARCH"
+                                    <input type="submit" value="{search}"
                                            class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_blue ">
                                 </div>
 

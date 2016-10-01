@@ -43,6 +43,7 @@ else
 {
     $_SESSION['language']="en";
 }
+$_SESSION['language']="cn";
 function returnLanguage($file_new,$file_old=''){
 
     $lang=$_SESSION['language'];
@@ -71,4 +72,110 @@ function returnLanguageField($field, $data){
         $lang=$field.'_cn';
         return $data->$lang;
     }
+}
+function returnSearchDeparture(){
+    $data['data']=tour_getByTop('','','departure asc');
+    $data_arr=array();
+    foreach($data['data'] as $row)
+    {
+        if(!in_array($row->departure,$data_arr)){
+            array_push($data_arr,$row->departure);
+        }
+    }
+    $string='';
+    if(count($data_arr)>0){
+        foreach($data_arr as $val){
+            if($val!='')
+            {
+                $string .="<option value=\"".$val."\">".$val."</option>";
+            }
+        }
+    }
+    return $string;
+}
+
+function returnSearchDestination(){
+    $data['data']=tour_getByTop('','','destination asc');
+    $data_arr=array();
+    foreach($data['data'] as $row)
+    {
+        if(!in_array($row->destination,$data_arr)){
+            array_push($data_arr,$row->destination);
+        }
+    }
+    $string='';
+    if(count($data_arr)>0){
+        foreach($data_arr as $val){
+            if($val!='')
+            {
+                $string .="<option value=\"".$val."\">".$val."</option>";
+            }
+        }
+    }
+    return $string;
+}
+
+function returnSearchDurations(){
+    $data['data']=tour_getByTop('','','durations asc');
+    $data_arr=array();
+    foreach($data['data'] as $row)
+    {
+        $name=returnLanguageField('durations', $row);
+        if(!in_array($name,$data_arr)){
+            array_push($data_arr,$name);
+        }
+    }
+    $string='';
+    if(count($data_arr)>0){
+        foreach($data_arr as $val){
+            if($val!='')
+            {
+                $string .="<option value=\"".$val."\">".$val."</option>";
+            }
+        }
+    }
+    return $string;
+}
+function returnSearchVehicle(){
+    $data['data']=tour_getByTop('','','vehicle asc');
+    $data_arr=array();
+    foreach($data['data'] as $row)
+    {
+        $name=returnLanguageField('vehicle', $row);
+        if(!in_array($name,$data_arr)){
+            array_push($data_arr,$name);
+        }
+    }
+    $string='';
+    if(count($data_arr)>0){
+        foreach($data_arr as $val){
+            if($val!='')
+            {
+                $string .="<option value=\"".$val."\">".$val."</option>";
+            }
+        }
+    }
+    return $string;
+}
+function returnArrSearch($table, $field){
+    $data['data']=tour_getByTop('','',$field.' asc');
+    $data_arr=array();
+    foreach($data['data'] as $row)
+    {
+        $name=returnLanguageField($field, $row);
+        if(!in_array($name,$data_arr)){
+            array_push($data_arr,$name);
+        }
+    }
+    $string='';
+    if(count($data_arr)>0){
+        foreach($data_arr as $val){
+            if($val!='')
+            {
+                $string .="<option value=\"".$val."\">".$val."</option>";
+            }
+
+        }
+    }
+    return $string;
 }

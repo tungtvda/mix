@@ -17,6 +17,15 @@ function view_menu($data = array())
     $asign['Multi']=returnLanguageField('name', $data['menu'][4]);
     $asign['Vietnam']=returnLanguageField('name', $data['menu'][5]);
 
+    $asign['home_mn'] = ($data['active'] == 'home') ? 'current' : '';
+    $asign['Excursion_mn'] = ($data['active'] == 'Excursion') ? 'current' : '';
+    $asign['Vacation_mn'] = ($data['active'] == 'Vacation') ? 'current' : '';
+    $asign['Cruise_mn'] = ($data['active'] == 'Cruise') ? 'current' : '';
+    $asign['Multi_mn'] = ($data['active'] == 'Multi') ? 'current' : '';
+    $asign['Vietnam_mn'] = ($data['active'] == 'Vietnam') ? 'current' : '';
+
+
+
     $asign['Excursion_menu'] ="";
     if(count($data['Excursion_menu'])>0)
     {
@@ -43,7 +52,40 @@ function view_menu($data = array())
     {
         $asign['Vietnam_menu'] = print_item('menu', $data['Vietnam_menu']);
     }
+    $asign['danhmuc_subport'] ="";
+    if(count($data['danhmuc_subport'])>0)
+    {
+        foreach($data['danhmuc_subport'] as $dmtour1) {
+            $id_dmtour2 = "danhmuc_id=" . $dmtour1->id;
+            $data['subport'] = subport_getByTop('', $id_dmtour2, 'id desc');
+            if (count($data['subport']) > 0) {
+                $asign['danhmuc_subport'] .= " <div class=\"nicdark_focus\">
+                <label class=\"lable_subpport\">".returnLanguageField('name', $dmtour1)."</label>
 
+                <div class=\"nicdark_space10\"></div>
+                <ul class=\"subpport\">";
+                foreach($data['subport'] as $subport) {
+                    $asign['danhmuc_subport'] .= "<li>
+                        <a href=\"\" class=\"mobi_subpport\">
+                            <i class=\"icon-mobile\"></i>".$subport->phone."
+                        </a>
+                        <span>|</span>
+                        <a href=\"\" class=\"skype_subpport\">
+                            <i class=\"icon-skype-1\"></i>
+                        </a>
+                        <span>|</span>
+                        <a href=\"\" class=\"yahoo_subpport\">
+                            <i class=\"icon-yahoo\"></i>
+                        </a>
+                    </li>";
+                }
+
+                $asign['danhmuc_subport'] .= "</ul>
+
+            </div>";
+            }
+        }
+    }
 //    $data['config']=$data['config'];
 //    $data['active']=$data;
 //    $data['menu']=$data['menu'];

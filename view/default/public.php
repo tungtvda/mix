@@ -71,6 +71,10 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
 
                 $ft->assign('link',link_tour($item));
             }
+            if(get_class($item)=='slide')
+            {
+                $ft->assign('name',returnLanguageField('name', $item));
+            }
             if(get_class($item)=='tourquocte')
             {
 
@@ -106,177 +110,7 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             }
 
 
-            if(get_class($item)=='dichvu')
-            {
-                $ft->assign('Created',date_format(date_create($item->Created), 'd-m-Y'));
-                $ft->assign('xemtiep',"Chi tiết");
-                $ft->assign('Name',$item->Name);
-                if (strlen($item->NoiDung) > 350) {
-                    $ten1=strip_tags($item->NoiDung);
 
-                    $ten = substr($ten1, 0, 350);
-                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                    $ft->assign('NoiDung',$name);
-                } else {
-                    $ft->assign('NoiDung',strip_tags($item->NoiDung));
-                }
-                if (strlen($item->NoiDung) > 100) {
-                    $ten2=strip_tags($item->NoiDung);
-
-                    $ten3 = substr($ten2, 0, 100);
-                    $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                    $ft->assign('NoiDung_ngan',$name1);
-                } else {
-                    $ft->assign('NoiDung_ngan',strip_tags($item->NoiDung));
-                }
-
-                $ft->assign('Link',link_dichvu($item));
-
-            }
-            if(get_class($item)=='danhmucdichvu')
-            {
-
-                $ft->assign('Link',link_danhmucdichvu($item));
-
-            }
-            if(get_class($item)=='caulacbo')
-            {
-
-                $ft->assign('xemtiep',"Chi tiết");
-                $ft->assign('Name',$item->Name);
-                if (strlen($item->NoiDung) > 350) {
-                    $ten1=strip_tags($item->NoiDung);
-
-                    $ten = substr($ten1, 0, 350);
-                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                    $ft->assign('NoiDung',$name);
-                } else {
-                    $ft->assign('NoiDung',strip_tags($item->NoiDung));
-                }
-                if (strlen($item->NoiDung) > 100) {
-                    $ten2=strip_tags($item->NoiDung);
-
-                    $ten3 = substr($ten2, 0, 100);
-                    $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                    $ft->assign('NoiDung_ngan',$name1);
-                } else {
-                    $ft->assign('NoiDung_ngan',strip_tags($item->NoiDung));
-                }
-
-                $ft->assign('Link',link_caulacbo($item));
-
-            }
-
-
-            if(get_class($item)=='khachsan')
-            {
-                $ft->assign('Name',$item->Name);
-                if (strlen($item->NoiDung) > 100) {
-                    $ten1=strip_tags($item->NoiDung);
-
-                    $ten = substr($ten1, 0, 100);
-                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                    $ft->assign('NoiDung',$name);
-                } else {
-                    $ft->assign('NoiDung',strip_tags($item->NoiDung));
-                }
-                if (strlen($item->NoiDung) > 100) {
-                    $ten2=strip_tags($item->NoiDung);
-
-                    $ten3 = substr($ten2, 0, 100);
-                    $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                    $ft->assign('NoiDung_ngan',$name1);
-                } else {
-                    $ft->assign('NoiDung_ngan',strip_tags($item->NoiDung));
-                }
-                $ft->assign('Sao',sao($item->Sao));
-
-                $ft->assign('Link',link_khachsan($item));
-
-            }
-
-            if(get_class($item)=='thuexe')
-            {
-                $ft->assign('Name',$item->Name);
-                if (strlen($item->NoiDung) > 200) {
-                    $ten1=strip_tags($item->NoiDung);
-
-                    $ten = substr($ten1, 0, 200);
-                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                    $ft->assign('NoiDung',$name);
-                } else {
-                    $ft->assign('NoiDung',strip_tags($item->NoiDung));
-                }
-                if (strlen($item->NoiDung) > 100) {
-                    $ten2=strip_tags($item->NoiDung);
-
-                    $ten3 = substr($ten2, 0, 100);
-                    $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                    $ft->assign('NoiDung_ngan',$name1);
-                } else {
-                    $ft->assign('NoiDung_ngan',strip_tags($item->NoiDung));
-                }
-
-
-                $ft->assign('Link',link_thuexe($item));
-
-            }
-
-
-            if(get_class($item)=='ykien')
-            {
-
-                $ft->assign('xemtiep',"Detail");
-                $ft->assign('Name',$item->Name);
-                if (strlen($item->NoiDung) > 300) {
-                    $ten1=strip_tags($item->NoiDung);
-
-                    $ten = substr($ten1, 0, 300);
-                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                    $ft->assign('NoiDung',$name);
-                } else {
-                    $ft->assign('NoiDung',strip_tags($item->NoiDung));
-                }
-                if (strlen($item->NoiDung) > 200) {
-                    $ten2=strip_tags($item->NoiDung);
-
-                    $ten3 = substr($ten2, 0, 200);
-                    $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                    $ft->assign('NoiDung_ngan',$name1);
-                } else {
-                    $ft->assign('NoiDung_ngan',strip_tags($item->NoiDung));
-                }
-
-                $ft->assign('Link',link_ykien($item));
-
-            }
-            if(get_class($item)=='anhcuoi')
-            {
-
-                $ft->assign('xemtiep',"Detail");
-                $ft->assign('Name',$item->Name);
-                if (strlen($item->NoiDung) > 300) {
-                    $ten1=strip_tags($item->NoiDung);
-
-                    $ten = substr($ten1, 0, 300);
-                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
-                    $ft->assign('NoiDung',$name);
-                } else {
-                    $ft->assign('NoiDung',strip_tags($item->NoiDung));
-                }
-                if (strlen($item->NoiDung) > 200) {
-                    $ten2=strip_tags($item->NoiDung);
-
-                    $ten3 = substr($ten2, 0, 200);
-                    $name1 = substr($ten3, 0, strrpos($ten3, ' ')) . "...";
-                    $ft->assign('NoiDung_ngan',$name1);
-                } else {
-                    $ft->assign('NoiDung_ngan',strip_tags($item->NoiDung));
-                }
-
-                $ft->assign('Link',link_anhcuoi($item));
-
-            }
             if(get_class($item)=='danhmucdiemnghiduong')
             {
 
