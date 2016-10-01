@@ -133,7 +133,7 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>destination</label><input class="text-input small-input" type="text"  name="destination" value="'.(($form!=false)?$form->destination:'').'" /></p>';
     $str_from.='<p><label>departure_time</label><input class="text-input small-input" type="text"  name="departure_time" value="'.(($form!=false)?$form->departure_time:'').'" /></p>';
     $str_from.='<p><label>vehicle</label><input class="text-input small-input" type="text"  name="vehicle" value="'.(($form!=false)?$form->vehicle:'').'" /></p>';
-    $str_from.='<p><label>vehicle_en</label><input class="text-input small-input" type="text"  name="vehicle_en" value="'.(($form!=false)?$form->vehicle_en:'').'" /></p>';
+    $str_from.='<p><label>vehicle_cn</label><input class="text-input small-input" type="text"  name="vehicle_cn" value="'.(($form!=false)?$form->vehicle_cn:'').'" /></p>';
     $str_from.='<p><label>hotel</label><input class="text-input small-input" type="text"  name="hotel" value="'.(($form!=false)?$form->hotel:'').'" /></p>';
     $str_from.='<p><label>schedule</label><textarea name="schedule">'.(($form!=false)?$form->schedule:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'schedule\'); </script></p>';
     $str_from.='<p><label>schedule_cn</label><textarea name="schedule_cn">'.(($form!=false)?$form->schedule_cn:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'schedule_cn\'); </script></p>';

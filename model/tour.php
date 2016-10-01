@@ -1,7 +1,7 @@
 <?php
 class tour
 {
-    public $id,$DanhMuc1Id,$DanhMuc2Id,$promotion,$packages,$name,$name_cn,$name_url,$img,$price,$price_cn,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_en,$hotel,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn;
+    public $id,$DanhMuc1Id,$DanhMuc2Id,$promotion,$packages,$name,$name_cn,$name_url,$img,$price,$price_cn,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_cn,$hotel,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn;
     public function tour($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
@@ -21,7 +21,7 @@ class tour
     $this->destination=isset($data['destination'])?$data['destination']:'';
     $this->departure_time=isset($data['departure_time'])?$data['departure_time']:'';
     $this->vehicle=isset($data['vehicle'])?$data['vehicle']:'';
-    $this->vehicle_en=isset($data['vehicle_en'])?$data['vehicle_en']:'';
+    $this->vehicle_cn=isset($data['vehicle_cn'])?$data['vehicle_cn']:'';
     $this->hotel=isset($data['hotel'])?$data['hotel']:'';
     $this->schedule=isset($data['schedule'])?$data['schedule']:'';
     $this->schedule_cn=isset($data['schedule_cn'])?$data['schedule_cn']:'';
@@ -57,7 +57,7 @@ class tour
             $this->destination=addslashes($this->destination);
             $this->departure_time=addslashes($this->departure_time);
             $this->vehicle=addslashes($this->vehicle);
-            $this->vehicle_en=addslashes($this->vehicle_en);
+            $this->vehicle_cn=addslashes($this->vehicle_cn);
             $this->hotel=addslashes($this->hotel);
             $this->schedule=addslashes($this->schedule);
             $this->schedule_cn=addslashes($this->schedule_cn);
@@ -92,7 +92,7 @@ class tour
             $this->destination=stripslashes($this->destination);
             $this->departure_time=stripslashes($this->departure_time);
             $this->vehicle=stripslashes($this->vehicle);
-            $this->vehicle_en=stripslashes($this->vehicle_en);
+            $this->vehicle_cn=stripslashes($this->vehicle_cn);
             $this->hotel=stripslashes($this->hotel);
             $this->schedule=stripslashes($this->schedule);
             $this->schedule_cn=stripslashes($this->schedule_cn);

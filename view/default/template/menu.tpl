@@ -17,50 +17,7 @@
 
         <div class="nicdark_switcher_content nicdark_border_grey nicdark_bg_white nicdark_padding20 nicdark_focus nicdark_sizing">
 
-            <div class="nicdark_focus">
-                <label class="lable_subpport">Vietnam Tours </label>
-
-                <div class="nicdark_space10"></div>
-                <ul class="subpport">
-                    <li>
-                        <a href="" class="mobi_subpport">
-                            <i class="icon-mobile"></i> (+84) 983 224 973
-                        </a>
-                        <span>|</span>
-                        <a href="" class="skype_subpport">
-                            <i class="icon-skype-1"></i>
-                        </a>
-                        <span>|</span>
-                        <a href="" class="yahoo_subpport">
-                            <i class="icon-yahoo"></i>
-                        </a>
-                    </li>
-                </ul>
-
-            </div>
-
-            <div class="nicdark_space20"></div>
-
-            <div class="nicdark_focus">
-                <label class="lable_subpport">Indochina Tours </label>
-
-                <div class="nicdark_space10"></div>
-                <ul class="subpport">
-                    <li>
-                        <a href="" class="mobi_subpport">
-                            <i class="icon-mobile"></i> (+84) 974 910 891
-                        </a>
-                        <span>|</span>
-                        <a href="" class="skype_subpport">
-                            <i class="icon-skype-1"></i>
-                        </a>
-                        <span>|</span>
-                        <a href="" class="yahoo_subpport">
-                            <i class="icon-yahoo"></i>
-                        </a>
-                    </li>
-                </ul>
-            </div>
+           {danhmuc_subport}
 
             <div class="nicdark_space20"></div>
 
@@ -202,8 +159,7 @@
 
                             <!--logo-->
                             <div class="nicdark_logo nicdark_marginleft10">
-                                <a href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel"><img alt=""
-                                                                                                              src="{SITE-NAME}/view/default/themes/images/logomix1.jpg"></a>
+                                <a href="{SITE-NAME}"><img alt=""  src="{SITE-NAME}/view/default/themes/images/logomix1.jpg"></a>
                             </div>
                             <!--end logo-->
 
@@ -217,53 +173,39 @@
                                 <ul id="menu-main-menu" class="menu">
                                     <li id="menu-item-897"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-32 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-897">
-                                        <a class="current" href="index.html">{home}</a>
-                                        <ul class="sub-menu">
-                                            <li id="menu-item-1168"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-32 current_page_item menu-item-1168">
-                                                <a href="index.html">Home 1</a></li>
-                                            <li id="menu-item-1167"
-                                                class="nicdark_newlabel menu-item menu-item-type-post_type menu-item-object-page menu-item-1167">
-                                                <a href="home-2/index.html">Home 2</a></li>
-                                            <li id="menu-item-1186"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1186">
-                                                <a href="home-3/index.html">Home 3</a></li>
-                                            <li id="menu-item-1682"
-                                                class="nicdark_bestlabel menu-item menu-item-type-post_type menu-item-object-page menu-item-1682">
-                                                <a href="home-4/index.html">Home 4</a></li>
-                                        </ul>
+                                        <a class="{home_mn}" href="{SITE-NAME}">{home}</a>
                                     </li>
                                     <li id="menu-item-890"
                                         class="greydark menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890">
-                                        <a href=""> {Excursion}</a>
+                                        <a class="{Excursion_mn}" href="{SITE-NAME}/excursion-tours/"> {Excursion}</a>
                                         <ul class="sub-menu">
                                            {Excursion_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-902"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-902">
-                                        <a href=""> {Vacation}</a>
+                                        <a class="{Vacation_mn}" href="{SITE-NAME}/vacation-packages/"> {Vacation}</a>
                                         <ul class="sub-menu">
                                            {Vacation_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-1447"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1447">
-                                        <a href="">{Cruise}</a>
+                                        <a class="{Cruise_mn}" href="{SITE-NAME}/cruise-tours/">{Cruise}</a>
                                         <ul class="sub-menu">
                                             {Cruise_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-903"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-903">
-                                        <a href="">{Multi}</a>
+                                        <a class="{Multi_mn}" href="{SITE-NAME}/multi-country/">{Multi}</a>
                                         <ul class="sub-menu">
                                             {Multi_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-893"
                                         class="greydark nicdark_megamenu nicdark_displaynone_ipadland menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-893">
-                                        <a href="buttons/index.html">{Vietnam}</a>
+                                        <a class="{Vietnam_mn}" href="{SITE-NAME}/vietnam-visa">{Vietnam}</a>
                                         <ul class="sub-menu">
                                             {Vietnam_menu}
                                         </ul>
