@@ -126,12 +126,12 @@
                 <div class="vc_empty_space" style="height: 60px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h1 style="color:;" class=" title center">OUR DESTINATIONS</h1>
+                <h1 style="color:;" class=" title center">{our_destinations}</h1>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h3 style="color:;" class=" subtitle center">CHOOSE YOUR NEXT DESTINATION</h3>
+                <h3 style="color:;" class=" subtitle center">{choose_you}</h3>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
@@ -148,255 +148,7 @@
 </section>
 <section id="" class="nicdark_section  vc_row wpb_row vc_row-fluid vc_custom_1430753414602">
     <div class="nicdark_container nicdark_vc nicdark_clearfix">
-        <div class="vc_col-sm-4 wpb_column vc_column_container destina_columm">
-            <div class="wpb_wrapper">
-
-
-                <!--start image-->
-                <div class="nicdark_focus nicdark_border_grey nicdark_sizing nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-34-556.jpg">
-
-                    <!--start content-->
-                    <div class="nicdark_fadeout nicdark_filter nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <a class="nicdark_btn nicdark_bg_white grey medium">AMERICA</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-
-                    <!--start content-->
-                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <p class="white">Discover All Destinations</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a target="" href="destinations/index.html"
-                                   class="white nicdark_btn nicdark_border_white medium">VIEW ALL</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-                </div>
-                <!--end image-->
-
-
-            </div>
-        </div>
-
-        <div class="vc_col-sm-4 wpb_column vc_column_container destina_columm">
-            <div class="wpb_wrapper">
-
-
-                <!--start image-->
-                <div class="nicdark_focus nicdark_border_grey nicdark_sizing nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-3-556.jpg">
-
-                    <!--start content-->
-                    <div class="nicdark_fadeout nicdark_filter nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <a class="nicdark_btn nicdark_bg_white grey medium">ASIA</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-
-                    <!--start content-->
-                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <p class="white">Discover All Destinations</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a target="" href="destinations/index.html"
-                                   class="white nicdark_btn nicdark_border_white medium">VIEW ALL</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-                </div>
-                <!--end image-->
-
-
-            </div>
-        </div>
-
-        <div class="vc_col-sm-4 wpb_column vc_column_container destina_columm">
-            <div class="wpb_wrapper">
-
-
-                <!--start image-->
-                <div class="nicdark_focus nicdark_border_grey nicdark_sizing nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/04/love-travel-32-556.jpg">
-
-                    <!--start content-->
-                    <div class="nicdark_fadeout nicdark_filter nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <a class="nicdark_btn nicdark_bg_white grey medium">EUROPE</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-
-                    <!--start content-->
-                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <p class="white">Discover All Destinations</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a target="" href="destinations/index.html"
-                                   class="white nicdark_btn nicdark_border_white medium">VIEW ALL</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-                </div>
-                <!--end image-->
-
-
-            </div>
-        </div>
-
-        <div class="vc_col-sm-4 wpb_column vc_column_container destina_columm">
-            <div class="wpb_wrapper">
-
-
-                <!--start image-->
-                <div class="nicdark_focus nicdark_border_grey nicdark_sizing nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-15-556.jpg">
-
-                    <!--start content-->
-                    <div class="nicdark_fadeout nicdark_filter nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <a class="nicdark_btn nicdark_bg_white grey medium">OCEANIA</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-
-                    <!--start content-->
-                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <p class="white">Discover All Destinations</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a target="" href="destinations/index.html"
-                                   class="white nicdark_btn nicdark_border_white medium">VIEW ALL</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-                </div>
-                <!--end image-->
-
-
-            </div>
-        </div>
-        <div class="vc_col-sm-4 wpb_column vc_column_container destina_columm">
-            <div class="wpb_wrapper">
-
-
-                <!--start image-->
-                <div class="nicdark_focus nicdark_border_grey nicdark_sizing nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-15-556.jpg">
-
-                    <!--start content-->
-                    <div class="nicdark_fadeout nicdark_filter nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <a class="nicdark_btn nicdark_bg_white grey medium">OCEANIA</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-
-                    <!--start content-->
-                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <p class="white">Discover All Destinations</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a target="" href="destinations/index.html"
-                                   class="white nicdark_btn nicdark_border_white medium">VIEW ALL</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-                </div>
-                <!--end image-->
-
-
-            </div>
-        </div>
-        <div class="vc_col-sm-4 wpb_column vc_column_container destina_columm">
-            <div class="wpb_wrapper">
-
-
-                <!--start image-->
-                <div class="nicdark_focus nicdark_border_grey nicdark_sizing nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-15-556.jpg">
-
-                    <!--start content-->
-                    <div class="nicdark_fadeout nicdark_filter nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <a class="nicdark_btn nicdark_bg_white grey medium">OCEANIA</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-
-                    <!--start content-->
-                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                            <div class="nicdark_cell nicdark_vertical_middle">
-                                <p class="white">Discover All Destinations</p>
-
-                                <div class="nicdark_space20"></div>
-                                <a target="" href="destinations/index.html"
-                                   class="white nicdark_btn nicdark_border_white medium">VIEW ALL</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--end content-->
-
-                </div>
-                <!--end image-->
-
-
-            </div>
-        </div>
+        {tour_DESTINATIONS}
     </div>
 </section>
 <section
@@ -410,46 +162,45 @@
                              class="nicdark_section  vc_row wpb_row vc_inner vc_row-fluid vc_custom_1430753455786">
                         <div class="vc_col-sm-3 nicdark_center wpb_column vc_column_container ">
                             <div class="wpb_wrapper">
-                                <div class="nicdark_archive1 center"><a href="#"
+                                <div class="nicdark_archive1 center"><a href="{SITE-NAME}/destinations"
                                                                         class=" nicdark_width50 white nicdark_btn nicdark_bg_none nicdark_transition extrasize subtitle nicdark_counter"
-                                                                        data-to="75"
-                                                                        data-speed="1000">75</a>
+                                                                        data-to="{count_destinations}"
+                                                                        data-speed="1000">{count_destinations}</a>
 
                                     <div class="nicdark_space5"></div>
                                 </div>
-                                <a title="" target="" href="#"
-                                   class=" nicdark_btn nicdark_bg_yellow small    nicdark_square white">DESTINATIONS</a>
+                                <a title="" target="" href="{SITE-NAME}/destinations"
+                                   class=" nicdark_btn nicdark_bg_yellow small    nicdark_square white">{destinations}</a>
 
                             </div>
                         </div>
 
                         <div class="vc_col-sm-3 nicdark_center wpb_column vc_column_container ">
                             <div class="wpb_wrapper">
-                                <div class="nicdark_archive1 center"><a href="#"
+                                <div class="nicdark_archive1 center"><a href="{SITE-NAME}/vacation-packages/"
                                                                         class="nicdark_width100 nicdark_width50 white nicdark_btn nicdark_bg_none nicdark_transition extrasize subtitle nicdark_counter"
-                                                                        data-to="149"
-                                                                        data-speed="1000">149</a>
+                                                                        data-to="{count_pack}"
+                                                                        data-speed="1000">{count_pack}</a>
 
                                     <div class="nicdark_space5"></div>
                                 </div>
-                                <a title="" target="" href="#"
-                                   class=" nicdark_btn nicdark_bg_green small    nicdark_square white">TOURS
-                                    PACK</a>
+                                <a title="" target="" href="{SITE-NAME}/vacation-packages/"
+                                   class=" nicdark_btn nicdark_bg_green small    nicdark_square white">{tour_packages}</a>
 
                             </div>
                         </div>
 
                         <div class="vc_col-sm-3 nicdark_center wpb_column vc_column_container ">
                             <div class="wpb_wrapper">
-                                <div class="nicdark_archive1 center"><a href="#"
+                                <div class="nicdark_archive1 center"><a href="{SITE-NAME}/cruise-tours/"
                                                                         class=" nicdark_width50 white nicdark_btn nicdark_bg_none nicdark_transition extrasize subtitle nicdark_counter"
-                                                                        data-to="32"
-                                                                        data-speed="1000">32</a>
+                                                                        data-to="{count_cru}"
+                                                                        data-speed="1000">{count_cru}</a>
 
                                     <div class="nicdark_space5"></div>
                                 </div>
                                 <a title="" target="" href="#"
-                                   class=" nicdark_btn nicdark_bg_blue small    nicdark_square white">CRUISES</a>
+                                   class=" nicdark_btn nicdark_bg_blue small    nicdark_square white">{cruises}</a>
 
                             </div>
                         </div>
@@ -464,8 +215,7 @@
                                     <div class="nicdark_space5"></div>
                                 </div>
                                 <a title="" target="" href="#"
-                                   class=" nicdark_btn nicdark_bg_red small    nicdark_square white">HOUR
-                                    SUPPORT</a>
+                                   class=" nicdark_btn nicdark_bg_red small    nicdark_square white">{hour_support}</a>
 
                             </div>
                         </div>
@@ -488,12 +238,12 @@
                 <div class="vc_empty_space" style="height: 60px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h1 style="color:;" class=" title center">PACKAGES</h1>
+                <h1 style="color:;" class=" title center">{packages_index}</h1>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h3 style="color:;" class=" subtitle center">BEST TRAVEL PACKAGES</h3>
+                <h3 style="color:;" class=" subtitle center">{best_travel_packages_available}</h3>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
@@ -704,477 +454,7 @@
             <div class="wpb_wrapper">
                 <div class="nicdark_masonry_container">
 
-
-                    <div id="278"
-                         class="grid grid_12 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-
-
-                        <div class="nicdark_focus nicdark_bg_red nicdark_relative">
-
-                            <div class="nicdark_focus nicdark_displaynone_desktop nicdark_displayblock_iphonepotr nicdark_displayblock_iphoneland nicdark_displayblock_ipadpotr nicdark_displayblock_ipadland">
-                                <!--start image-->
-                                <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-9-780.jpg">
-
-
-                                    <!--price-->
-                                    <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <a href="#" class="nicdark_btn nicdark_bg_red left white medium">1000
-                                            USD</a>
-                                    </div>
-                                    <!--end price-->
-
-
-                                    <!--start content-->
-                                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                            <div class="nicdark_cell nicdark_vertical_middle">
-                                                <a href="packages/london/index.html"
-                                                   class="nicdark_btn nicdark_border_white white medium">CHECK
-                                                    IT</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--end content-->
-
-                                </div>
-                                <!--end image-->
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage30 nicdark_focus">
-                                <div class="nicdark_space1"></div>
-                            </div>
-
-                            <div style="background-image:url({SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-9-780.jpg); background-size:cover; background-position:center center;"
-                                 class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
-                                <div class="nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark">
-                                    <p class="center white">SALE</p></div>
-                            </div>
-
-                            <div class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
-                                <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">
-                                    <h4 class="grey nicdark_margin20"><a href="">London</a></h4>
-                                </div>
-                                <div class="nicdark_margin20">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                        efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper
-                                        erat et justo porta auctor nec lobortis elit.</p>
-
-                                    <div class="nicdark_space20"></div>
-                                    <a title=" Europe "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05 nicdark_marginleft0"><i
-                                                class="icon-direction"></i></a>
-                                    <a title=" Relax "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-tree-1"></i></a>
-                                    <a title=" 3 People "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-calendar-2"></i></a>
-                                    <a title=" 3 - 6 Days "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-users-1"></i></a>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage20 nicdark_height100percentage nicdark_absolute_floatnone right">
-                                <div class="nicdark_filter nicdark_display_table nicdark_height100percentage center">
-
-                                    <div class="nicdark_cell nicdark_vertical_middle">
-                                        <h1 class="white">1000</h1>
-
-                                        <div class="nicdark_space10"></div>
-                                        <h4 class="white">USD</h4>
-
-                                        <div class="nicdark_space20"></div>
-                                        <a href="packages/london/index.html"
-                                           class="nicdark_border_white white nicdark_btn nicdark_outline medium ">CHECK
-                                            IT</a>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div id="265"
-                         class="grid grid_12 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-
-
-                        <div class="nicdark_focus nicdark_bg_violet nicdark_relative">
-
-                            <div class="nicdark_focus nicdark_displaynone_desktop nicdark_displayblock_iphonepotr nicdark_displayblock_iphoneland nicdark_displayblock_ipadpotr nicdark_displayblock_ipadland">
-                                <!--start image-->
-                                <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-29-780.jpg">
-
-
-                                    <!--price-->
-                                    <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <a href="packages/london/index.html"
-                                           class="nicdark_btn nicdark_bg_violet left white medium">1100
-                                            USD</a>
-                                    </div>
-                                    <!--end price-->
-
-
-                                    <!--start content-->
-                                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                            <div class="nicdark_cell nicdark_vertical_middle">
-                                                <a href="packages/polynesia/index.html"
-                                                   class="nicdark_btn nicdark_border_white white medium">INFO</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--end content-->
-
-                                </div>
-                                <!--end image-->
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage30 nicdark_focus">
-                                <div class="nicdark_space1"></div>
-                            </div>
-
-                            <div style="background-image:url({SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-29-780.jpg); background-size:cover; background-position:center center;"
-                                 class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
-                                <div class="nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark">
-                                    <p class="center white">SALE</p></div>
-                            </div>
-
-                            <div class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
-                                <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">
-                                    <h4 class="grey nicdark_margin20">Berlin</h4>
-                                </div>
-                                <div class="nicdark_margin20">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                        efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper
-                                        erat et justo porta auctor nec lobortis elit.</p>
-
-                                    <div class="nicdark_space20"></div>
-                                    <a title=" Europe "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05 nicdark_marginleft0"><i
-                                                class="icon-direction"></i></a>
-                                    <a title=" Relax "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-tree-1"></i></a>
-                                    <a title=" 1 Person "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-calendar-2"></i></a>
-                                    <a title=" 1 - 3 Days "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-users-1"></i></a>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage20 nicdark_height100percentage nicdark_absolute_floatnone right">
-                                <div class="nicdark_filter nicdark_display_table nicdark_height100percentage center">
-
-                                    <div class="nicdark_cell nicdark_vertical_middle">
-                                        <h1 class="white">1100</h1>
-
-                                        <div class="nicdark_space10"></div>
-                                        <h4 class="white">USD</h4>
-
-                                        <div class="nicdark_space20"></div>
-                                        <a href="packages/polynesia/index.html"
-                                           class="nicdark_border_white white nicdark_btn nicdark_outline medium ">INFO</a>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div id="261"
-                         class="grid grid_12 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-
-
-                        <div class="nicdark_focus nicdark_bg_blue nicdark_relative">
-
-                            <div class="nicdark_focus nicdark_displaynone_desktop nicdark_displayblock_iphonepotr nicdark_displayblock_iphoneland nicdark_displayblock_ipadpotr nicdark_displayblock_ipadland">
-                                <!--start image-->
-                                <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-27-780.jpg">
-
-
-                                    <!--price-->
-                                    <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <a href="packages/polynesia/index.html"
-                                           class="nicdark_btn nicdark_bg_blue left white medium">1200
-                                            USD</a>
-                                    </div>
-                                    <!--end price-->
-
-
-                                    <!--start content-->
-                                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                            <div class="nicdark_cell nicdark_vertical_middle">
-                                                <a href="packages/new-delhi/index.html"
-                                                   class="nicdark_btn nicdark_border_white white medium">BOOK</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--end content-->
-
-                                </div>
-                                <!--end image-->
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage30 nicdark_focus">
-                                <div class="nicdark_space1"></div>
-                            </div>
-
-                            <div style="background-image:url({SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-27-780.jpg); background-size:cover; background-position:center center;"
-                                 class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
-                                <div class="nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark">
-                                    <p class="center white">SALE</p></div>
-                            </div>
-
-                            <div class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
-                                <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">
-                                    <h4 class="grey nicdark_margin20">New Delhi</h4>
-                                </div>
-                                <div class="nicdark_margin20">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                        efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper
-                                        erat et justo porta auctor nec lobortis elit.</p>
-
-                                    <div class="nicdark_space20"></div>
-                                    <a title=" Asia "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05 nicdark_marginleft0"><i
-                                                class="icon-direction"></i></a>
-                                    <a title=" Relax "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-tree-1"></i></a>
-                                    <a title=" 2 People "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-calendar-2"></i></a>
-                                    <a title=" 1 - 3 Days "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-users-1"></i></a>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage20 nicdark_height100percentage nicdark_absolute_floatnone right">
-                                <div class="nicdark_filter nicdark_display_table nicdark_height100percentage center">
-
-                                    <div class="nicdark_cell nicdark_vertical_middle">
-                                        <h1 class="white">1200</h1>
-
-                                        <div class="nicdark_space10"></div>
-                                        <h4 class="white">USD</h4>
-
-                                        <div class="nicdark_space20"></div>
-                                        <a href="packages/new-delhi/index.html"
-                                           class="nicdark_border_white white nicdark_btn nicdark_outline medium ">BOOK</a>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div id="257"
-                         class="grid grid_12 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-
-
-                        <div class="nicdark_focus nicdark_bg_green nicdark_relative">
-
-                            <div class="nicdark_focus nicdark_displaynone_desktop nicdark_displayblock_iphonepotr nicdark_displayblock_iphoneland nicdark_displayblock_ipadpotr nicdark_displayblock_ipadland">
-                                <!--start image-->
-                                <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-20-780.jpg">
-
-
-                                    <!--price-->
-                                    <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <a href="packages/new-delhi/index.html"
-                                           class="nicdark_btn nicdark_bg_green left white medium">1300
-                                            USD</a>
-                                    </div>
-                                    <!--end price-->
-
-
-                                    <!--start content-->
-                                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                            <div class="nicdark_cell nicdark_vertical_middle">
-                                                <a href="packages/polynesia/index.html"
-                                                   class="nicdark_btn nicdark_border_white white medium">DETAILS</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--end content-->
-
-                                </div>
-                                <!--end image-->
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage30 nicdark_focus">
-                                <div class="nicdark_space1"></div>
-                            </div>
-
-                            <div style="background-image:url({SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-20-780.jpg); background-size:cover; background-position:center center;"
-                                 class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
-                                <div class="nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark">
-                                    <p class="center white">SALE</p></div>
-                            </div>
-
-                            <div class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
-                                <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">
-                                    <h4 class="grey nicdark_margin20">Cuba</h4>
-                                </div>
-                                <div class="nicdark_margin20">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                        efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper
-                                        erat et justo porta auctor nec lobortis elit.</p>
-
-                                    <div class="nicdark_space20"></div>
-                                    <a title=" America "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05 nicdark_marginleft0"><i
-                                                class="icon-direction"></i></a>
-                                    <a title=" Luxury "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-tree-1"></i></a>
-                                    <a title=" 2 People "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-calendar-2"></i></a>
-                                    <a title=" 1 - 3 Days "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-users-1"></i></a>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage20 nicdark_height100percentage nicdark_absolute_floatnone right">
-                                <div class="nicdark_filter nicdark_display_table nicdark_height100percentage center">
-
-                                    <div class="nicdark_cell nicdark_vertical_middle">
-                                        <h1 class="white">1300</h1>
-
-                                        <div class="nicdark_space10"></div>
-                                        <h4 class="white">USD</h4>
-
-                                        <div class="nicdark_space20"></div>
-                                        <a href="packages/polynesia/index.html"
-                                           class="nicdark_border_white white nicdark_btn nicdark_outline medium ">DETAILS</a>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-
-                    <div id="294"
-                         class="grid grid_12 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-
-
-                        <div class="nicdark_focus nicdark_bg_yellow nicdark_relative">
-
-                            <div class="nicdark_focus nicdark_displaynone_desktop nicdark_displayblock_iphonepotr nicdark_displayblock_iphoneland nicdark_displayblock_ipadpotr nicdark_displayblock_ipadland">
-                                <!--start image-->
-                                <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                    <img alt="" class="nicdark_focus nicdark_zoom_image"
-                                         src="{SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-3-780.jpg">
-
-
-                                    <!--price-->
-                                    <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <a href="packages/polynesia/index.html"
-                                           class="nicdark_btn nicdark_bg_yellow left white medium">1400
-                                            USD</a>
-                                    </div>
-                                    <!--end price-->
-
-
-                                    <!--start content-->
-                                    <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                            <div class="nicdark_cell nicdark_vertical_middle">
-                                                <a href="packages/polynesia/index.html"
-                                                   class="nicdark_btn nicdark_border_white white medium">CHECK
-                                                    IT</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--end content-->
-
-                                </div>
-                                <!--end image-->
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage30 nicdark_focus">
-                                <div class="nicdark_space1"></div>
-                            </div>
-
-                            <div style="background-image:url({SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-3-780.jpg); background-size:cover; background-position:center center;"
-                                 class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
-
-                            </div>
-
-                            <div class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
-                                <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">
-                                    <h4 class="grey nicdark_margin20">Dubai</h4>
-                                </div>
-                                <div class="nicdark_margin20">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut
-                                        efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper
-                                        erat et justo porta auctor nec lobortis elit.</p>
-
-                                    <div class="nicdark_space20"></div>
-                                    <a title=" Asia "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05 nicdark_marginleft0"><i
-                                                class="icon-direction"></i></a>
-                                    <a title=" Luxury "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-tree-1"></i></a>
-                                    <a title=" 4 People "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-calendar-2"></i></a>
-                                    <a title=" 9 - 12 Days "
-                                       class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i
-                                                class="icon-users-1"></i></a>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_displaynone_responsive nicdark_width_percentage20 nicdark_height100percentage nicdark_absolute_floatnone right">
-                                <div class="nicdark_filter nicdark_display_table nicdark_height100percentage center">
-
-                                    <div class="nicdark_cell nicdark_vertical_middle">
-                                        <h1 class="white">1400</h1>
-
-                                        <div class="nicdark_space10"></div>
-                                        <h4 class="white">USD</h4>
-
-                                        <div class="nicdark_space20"></div>
-                                        <a href="packages/polynesia/index.html"
-                                           class="nicdark_border_white white nicdark_btn nicdark_outline medium ">CHECK
-                                            IT</a>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
+                    {tour_packages_list}
 
                 </div>
             </div>

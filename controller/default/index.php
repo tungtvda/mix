@@ -15,7 +15,15 @@ $data['menu']=menu_getByTop('','','');
 $data['config']=config_getByTop(1,'','');
 //
 $data['tour_PROMOTIONS']=tour_getByTop(3,'promotion=1 ','id desc');
+
+$data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
+
+$data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
+
 $data['video']=video_getByTop(1,'highlights=1 ','id desc');
+$data['count_destinations']=tour_count('DanhMuc1Id=6');
+$data['count_pack']=tour_count('DanhMuc1Id=3');
+$data['count_cru']=tour_count('DanhMuc1Id=4');
 //$data['tour_quocte_ghepdoi']=tourtrongnuoc_getByTop('','TourGhepDoi=1 and LoaiTour=2','Id desc');
 //$data['khachsan_index']=khachsan_getByTop('','NoiBat=1','Id desc');
 //$data['thuexe_index']=thuexe_getByTop('','NoiBat=1','Id desc');

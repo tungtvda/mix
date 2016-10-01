@@ -45,6 +45,14 @@ class Language_en
                             ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                             exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             'more_videos'=>"MORE VIDEOS",
+            'our_destinations'=>"OUR DESTINATIONS",
+            'choose_you'=>"CHOOSE YOUR NEXT DESTINATION",
+            'view_all'=>"VIEW ALL",
+            'destinations'=>"DESTINATIONS",
+            'tour_packages'=>"TOURS PACKAGES",
+            'cruises'=>"CRUISES",
+            'hour_support'=>"HOUR SUPPORT",
+            'packages_index'=>"PACKAGES",
 
         );
     }

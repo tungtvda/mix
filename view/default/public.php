@@ -68,7 +68,7 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             if(get_class($item)=='danhmuc_2')
             {
                     $ft->assign('name',returnLanguageField('name', $item));
-
+                $ft->assign('view_all',returnLanguage('view_all','VIEW ALL'));
                 $ft->assign('link',link_tour($item));
             }
             if(get_class($item)=='slide')
