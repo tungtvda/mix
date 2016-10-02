@@ -24,12 +24,11 @@ $data['video']=video_getByTop(1,'highlights=1 ','id desc');
 $data['count_destinations']=tour_count('DanhMuc1Id=6');
 $data['count_pack']=tour_count('DanhMuc1Id=3');
 $data['count_cru']=tour_count('DanhMuc1Id=4');
-//$data['tour_quocte_ghepdoi']=tourtrongnuoc_getByTop('','TourGhepDoi=1 and LoaiTour=2','Id desc');
-//$data['khachsan_index']=khachsan_getByTop('','NoiBat=1','Id desc');
-//$data['thuexe_index']=thuexe_getByTop('','NoiBat=1','Id desc');
-//$data['ykien_index']=ykien_getByTop('6','','View desc');
+//echo $actual_link = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
+$actual_link=str_replace('/','',$_SERVER['REQUEST_URI']);
+$actual_link=str_replace('mix','',$actual_link);
 
-//$data['khachsan_noibat_1']=khachsan_getByTop('1','NoiBat=1','ViTri asc');
+
 
 $title=($data['menu'][0]->title)?$data['menu'][0]->title:'APT TRAVEL Viet Nam';
 $description=($data['menu'][0]->description)?$data['menu'][0]->description:'APT TRAVEL Viet Nam';
