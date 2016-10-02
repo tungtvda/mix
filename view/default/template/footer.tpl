@@ -338,8 +338,35 @@
 <script type="text/javascript">
     jQuery(document).ready(function () {
         jQuery("#nicdark_autocomplete").autocomplete({source: availablePackages});
-        jQuery("#en_test").click(function(){
-            alert('asdfsfd');
+        jQuery("#en_lang").click(function(){
+            jQuery.ajax({
+               type: 'GET',
+               url: '{SITE-NAME}/controller/default/language.php',
+               data: {
+                giatri: "en",
+               },
+            success: function(data) {
+                location.reload(true)
+                   },
+            error: function() {
+                location.reload(true)
+                   }
+           });
+        });
+        jQuery("#cn_lang").click(function(){
+            jQuery.ajax({
+                type: 'GET',
+                url: '{SITE-NAME}/controller/default/language.php',
+                data: {
+                    giatri: "cn",
+                },
+                success: function(data) {
+                    location.reload(true)
+                },
+                error: function() {
+                    location.reload(true)
+                }
+            });
         });
     });
 

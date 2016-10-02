@@ -7,6 +7,8 @@ function view_menu($data = array())
     $asign = array();
 //    print_r()
     $asign['email']=$data['config'][0]->Email;
+    $asign['Logo']=$data['config'][0]->Logo;
+    $asign['Name']=$data['config'][0]->Name;
     $asign['monday_saturday']=returnLanguage('monday_saturday','Monday to Saturday');
     $asign['online_support']=returnLanguage('online_support','Monday to Saturday');
     $asign['language']=returnLanguage('language','LANGUAGES');
