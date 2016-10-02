@@ -133,7 +133,9 @@ function show_banner($data1=array())
 function show_footer($data1=array())
 {
     $data=array();
-//    $data['config']=$data1['config'];
+    $data['config']=$data1['config'];
+    $data['mangxahoi']=social_getByTop(1,'','');
+    $data['link']=link_getByTop('','','position desc');
 //    $data['tag']=tag_getByTop('','','Id desc');
 //    $data['hotline']=hotline_getByTop('','','Id desc');
 //    $data['Link_ft']=link_menu_right_getByTop('','','ViTri asc');

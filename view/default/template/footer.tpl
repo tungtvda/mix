@@ -26,22 +26,22 @@
             <div class="nicdark_space20"></div>
             <div class="nicdark_margin10">
                 <div class="widget widget_text logo_ft" style="text-align: center">
-                    <!--<img src="http://mixtourist.com.vn/images/logomix.png">-->
+                    <a href="{SITE-NAME}"><img src="{SITE-NAME}/view/default/themes/images/logomix.png" alt="{Name}"></a>
 
-                    <p>Contact us via Social Network</p>
-                    <a href="" class="nicdark_btn_icon nicdark_bg_blue_twitter small white">
+                    <p>{contact_via}</p>
+                    <a href="{twitter}" class="nicdark_btn_icon nicdark_bg_blue_twitter small white">
                         <i class="icon-twitter-1 nicdark_rotate"></i>
                     </a>
-                    <a href="" class="nicdark_btn_icon nicdark_bg_red small white">
+                    <a href="{youtube}" class="nicdark_btn_icon nicdark_bg_red small white">
                         <i class="icon-youtube-play nicdark_rotate"></i>
                     </a>
-                    <a href="" class="nicdark_btn_icon nicdark_facebook small white">
+                    <a href="{facebook}" class="nicdark_btn_icon nicdark_facebook small white">
                         <i class="icon-facebook nicdark_rotate"></i>
                     </a>
-                    <a href="mailto:info@travel.com" class="nicdark_btn_icon nicdark_bg_red small white">
+                    <a href="{google}" class="nicdark_btn_icon nicdark_bg_red small white">
                         <i class="icon-google nicdark_rotate"></i>
                     </a>
-                    <a href="mailto:info@travel.com" class="nicdark_btn_icon nicdark_bg_yellow_rss small white">
+                    <a href="{rss}" class="nicdark_btn_icon nicdark_bg_yellow_rss small white">
                         <i class="icon-rss-1 nicdark_rotate"></i>
                     </a>
                 </div>
@@ -53,23 +53,28 @@
             <div class="nicdark_space20"></div>
 
             <div class="nicdark_margin10">
-                <div class="widget widget_text"><h2>Mix Tourist</h2>
+                <div class="widget widget_text"><h2>{mix_tourist}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""><i class=""></i>-&nbsp;&nbsp; About us</a>
+                                    <a href="{SITE-NAME}/about-us/"><i class=""></i>-&nbsp;&nbsp; {about_us}</a>
                                 </p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""><i class=""></i>-&nbsp;&nbsp; Why us</a>
+                                    <a href="{SITE-NAME}/why-us/"><i class=""></i>-&nbsp;&nbsp; {why_us}</a>
                                 </p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""><i class=""></i>-&nbsp;&nbsp; Our services</a>
+                                    <a href="{SITE-NAME}/our-service/"><i class=""></i>-&nbsp;&nbsp; {our_service}</a>
+                                </p>
+                            </li>
+                            <li>
+                                <p class="nicdark_margin100 white nicdark_margintop0">
+                                    <a href="{SITE-NAME}/contact/"><i class=""></i>-&nbsp;&nbsp; {contact_footer}</a>
                                 </p>
                             </li>
 
@@ -88,26 +93,26 @@
             <div class="nicdark_space20"></div>
 
             <div class="nicdark_margin10">
-                <div id="text-2" class="widget widget_text"><h2>Customer service</h2>
+                <div id="text-2" class="widget widget_text"><h2>{customer_service}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""> <i class=""></i>-&nbsp;&nbsp; Vietnam visa</a></p>
+                                    <a href="{SITE-NAME}/vietnam-visa/"> <i class=""></i>-&nbsp;&nbsp; {vietnam_visa}</a></p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""><i class=""></i>-&nbsp;&nbsp; Terms and
+                                    <a href="{SITE-NAME}/terms-conditions/"><i class=""></i>-&nbsp;&nbsp; {terms_codi}
                                         conditions</a></p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""><i class=""></i>-&nbsp;&nbsp; Payment Method</a></p>
+                                    <a href="{SITE-NAME}/payment-method/"><i class=""></i>-&nbsp;&nbsp; {payment_method}</a></p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""><i class=""></i>-&nbsp;&nbsp; Privacy Policy</a></p>
+                                    <a href="{SITE-NAME}/privacy-policy/"><i class=""></i>-&nbsp;&nbsp; {privacy_policy}</a></p>
                             </li>
 
                         </ul>
@@ -125,25 +130,11 @@
             <div class="nicdark_space20"></div>
 
             <div class="nicdark_margin10">
-                <div id="text-2" class="widget widget_text"><h2>Useful links</h2>
+                <div id="text-2" class="widget widget_text"><h2>{useful_links}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
-                            <li>
-                                <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""> <i class=""></i>-&nbsp;&nbsp; Vietnamese visa
-                                        application form</a>
-                                </p>
-                            </li>
-                            <li>
-                                <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""> <i class=""></i>-&nbsp;&nbsp; How to apply for
-                                        Vietnam visa</a></p>
-                            </li>
-                            <li>
-                                <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href=""><i class=""></i>-&nbsp;&nbsp; Travel guides</a></p>
-                            </li>
+                            {link}
 
                         </ul>
 
@@ -157,32 +148,29 @@
 
 
             <div class="nicdark_margin10">
-                <div class="widget widget_text"><h2>HANOI OFFICE</h2>
+                <div class="widget widget_text"><h2>{hanoi_office}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
-                                            class="icon-location"></i>&nbsp;&nbsp; Room 2001, No 137 Nguyen Ngoc Vu
-                                    Street, Cau Giay District, Hanoi City</p>
+                                            class="icon-location"></i>&nbsp;&nbsp; {Address}</p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
-                                            class="icon-phone-1"></i> &nbsp;&nbsp;Tel : (+84) 4 6281 4340</p>
+                                            class="icon-phone-1"></i> &nbsp;&nbsp;Tel : {Phone}</p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
-                                            class="icon-hdd"></i> &nbsp;&nbsp;Fax : (+84) 4 6281 4341</p>
+                                            class="icon-hdd"></i> &nbsp;&nbsp;Fax : {Fax}</p>
                             </li>
 
                             <li>
-                                <p class="nicdark_margin100 white"><i class="icon-mobile"></i>&nbsp;&nbsp;&nbsp;Mobile:(+84)
-                                    974 910 891</p>
+                                <p class="nicdark_margin100 white"><i class="icon-mobile"></i>&nbsp;&nbsp;&nbsp;Mobile:{Hotline}</p>
                             </li>
 
                             <li>
-                                <p class="nicdark_margin100 white"><i class="icon-mail"></i>&nbsp;&nbsp;&nbsp;Mail:
-                                    sales@mixtourist.com </p>
+                                <p class="nicdark_margin100 white"><i class="icon-mail"></i>&nbsp;&nbsp;&nbsp; {Email}</p>
                             </li>
 
                         </ul>
@@ -192,32 +180,29 @@
         </div>
         <div class="grid grid_6 nomargin percentage">
             <div class="nicdark_margin10">
-                <div class="widget widget_text"><h2>HOCHIMINH CITY OFFICE</h2>
+                <div class="widget widget_text"><h2>{hcm_office}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
-                                            class="icon-location"></i>&nbsp;&nbsp; 3nd Floor, No 2 Nguyen Thien
-                                    Thuat Street, Binh Thanh District, Ho Chi Minh city</p>
+                                            class="icon-location"></i>&nbsp;&nbsp; {Address_hcm}</p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
-                                            class="icon-phone-1"></i> &nbsp;&nbsp;Tel : (+84) 8 6258 8510</p>
+                                            class="icon-phone-1"></i> &nbsp;&nbsp;Tel : {Phone_hcm}</p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
-                                            class="icon-hdd"></i> &nbsp;&nbsp;Fax : (+84) 8 6258 8512</p>
+                                            class="icon-hdd"></i> &nbsp;&nbsp;Fax : {Fax_hcm}</p>
                             </li>
 
                             <li>
-                                <p class="nicdark_margin100 white"><i class="icon-mobile"></i>&nbsp;&nbsp;&nbsp;Mobile:
-                                    (+84) 943 838 222</p>
+                                <p class="nicdark_margin100 white"><i class="icon-mobile"></i>&nbsp;&nbsp;&nbsp;Mobile: (Hotline_hcm)</p>
                             </li>
 
                             <li>
-                                <p class="nicdark_margin100 white"><i class="icon-mail"></i>&nbsp;&nbsp;&nbsp;Mail:
-                                    sales@mixtourist.com </p>
+                                <p class="nicdark_margin100 white"><i class="icon-mail"></i>&nbsp;&nbsp;&nbsp; {Email_hcm} </p>
                             </li>
 
                         </ul>
@@ -287,14 +272,14 @@
 
 <script type='text/javascript'
         src='{SITE-NAME}/view/default/themes/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
-<script type='text/javascript'>
+<!--<script type='text/javascript'>
     /* <![CDATA[ */
     var _wpcf7 = {
         "loaderUrl": "http:\/\/www.nicdarkthemes.com\/themes\/love-travel\/wp\/demo-travel\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif",
         "sending": "Sending ..."
     };
     /* ]]> */
-</script>
+</script>-->
 <script type='text/javascript'
         src='{SITE-NAME}/view/default/themes/wp-content/plugins/contact-form-7/includes/js/scripts8aee.js?ver=4.1.2'></script>
 <script type='text/javascript'
@@ -350,7 +335,15 @@
 
     /* ]]> */
 </script>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        jQuery("#nicdark_autocomplete").autocomplete({source: availablePackages});
+        jQuery("#en_test").click(function(){
+            alert('asdfsfd');
+        });
+    });
 
+</script>
 </body>
 
 </html>

@@ -2,7 +2,10 @@
       class="home page page-id-32 page-template-default wpb-js-composer js-comp-ver-4.5.1 vc_responsive">
 
 <!--start preloader-->
-<div class="nicdark_preloader"><i class="icon-globe green"></i></div>
+<div class="nicdark_preloader">
+
+    <i class=" green"><img  src={SITE-NAME}/view/default/themes/images/icon.png></i>
+</div>
 <!--end preloader-->
 
 <div style="" class="nicdark_site">
@@ -18,7 +21,6 @@
         <div class="nicdark_switcher_content nicdark_border_grey nicdark_bg_white nicdark_padding20 nicdark_focus nicdark_sizing">
 
            {danhmuc_subport}
-
             <div class="nicdark_space20"></div>
 
             <div class="nicdark_focus">
@@ -55,7 +57,7 @@
                                     <ul>
                                         <li>
 
-                                            <a class="white title vc_hidden-sm vc_hidden-xs" href="mail:{email}"> <i
+                                            <a class="white title vc_hidden-sm vc_hidden-xs" href="mailto:{email}"> <i
                                                         class="icon-mail"></i> {email}</a>
                                             <span class="greydark2 nicdark_marginright10 nicdark_marginleft10  vc_hidden-xs">|</span>
                                         </li>
@@ -80,7 +82,8 @@
                             <div class="nicdark_focus right">
                                 <h6 class="white">
                                     <a class="nicdark_mpopup_window nicdark_outline white title"
-                                       href="#nicdark_window_pop_up"><img src="{SITE-NAME}/view/default/themes/images/en.png" width="30"></a>
+                                       href="#nicdark_window_pop_up">
+                                        <img src="{SITE-NAME}/view/default/themes/images/{lang}.png" width="30"></a>
                                 </h6>
                             </div>
                         </div>
@@ -95,7 +98,7 @@
                      class="nicdark_bg_greydark nicdark_window_popup zoom-anim-dialog mfp-hide">
                     <div style="background-color: #ffffff" class="nicdark_textevidence nicdark_bg_green ">
                         <div class="nicdark_margin20">
-                            <h4 style="color: #0086cd;" class="white">LANGUAGES</h4>
+                            <h4 style="color: #0086cd;" class="white">{language}</h4>
                         </div>
                     </div>
 
@@ -104,42 +107,27 @@
                         <ul class="nicdark_list border">
 
                             <li class="nicdark_border_greydark">
-                                <p><a class="white" href="#">ENGLISH</a><a href="#"
-                                                                           class="nicdark_btn right nicdark_opacity"><i
-                                                class="white icon-angle-right"></i></a></p>
+                                <p><a id="en_test" class="white" href="#">ENGLISH<i
+                                                class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
 
                                 <div class="nicdark_space15"></div>
                             </li>
 
                             <li class="nicdark_border_greydark">
                                 <div class="nicdark_space15"></div>
-                                <p><a class="white" href="#">RUSSIAN</a><a href="#"
-                                                                           class="nicdark_btn right nicdark_opacity"><i
-                                                class="white icon-angle-right"></i></a></p>
+                                <p><a id="cn" class="white" href="#">中国<i
+                                                class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
 
                                 <div class="nicdark_space15"></div>
                             </li>
 
-                            <li class="nicdark_border_greydark">
-                                <div class="nicdark_space15"></div>
-                                <p><a class="white" href="#">ARABIC</a><a href="#"
-                                                                          class="nicdark_btn right nicdark_opacity"><i
-                                                class="white icon-angle-right"></i></a></p>
-
-                                <div class="nicdark_space15"></div>
-                            </li>
-
-                            <li class="nicdark_border_greydark">
-                                <div class="nicdark_space15"></div>
-                                <p><a class="white" href="#">ITALIAN</a><a href="#"
-                                                                           class="nicdark_btn right nicdark_opacity"><i
-                                                class="white icon-angle-right"></i></a></p>
-                            </li>
 
                         </ul>
 
                     </div>
                 </div>
+
+
                 <!--end pop up window-->
 
 

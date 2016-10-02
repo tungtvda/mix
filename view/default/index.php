@@ -79,6 +79,12 @@ function show_index($data = array())
     $asign['all_destination']=returnLanguage('all_destination','ALL Destinations');
     $asign['all_duration']=returnLanguage('all_duration','ALL Durations');
 
+    $asign['contact_us']=returnLanguage('contact_us','CONTACT US');
+    $asign['email']=returnLanguage('email','Email');
+    $asign['name_surname']=returnLanguage('name_surname','Name And Surname');
+    $asign['add_info']=returnLanguage('add_info','Additional Information');
+    $asign['contact']=returnLanguage('contact','CONTACT');
+
     print_template($asign, 'index');
 }
 
