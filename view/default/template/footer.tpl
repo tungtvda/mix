@@ -327,17 +327,7 @@
         src='{SITE-NAME}/view/default/themes/wp-content/plugins/js_composer/assets/lib/bower/jquery-ui-tabs-rotate/jquery-ui-tabs-rotate8686.js?ver=4.5.1'></script>
 
 <script type="text/javascript">
-    /* <![CDATA[ */
-
     jQuery(document).ready(function () {
-        jQuery("#nicdark_autocomplete").autocomplete({source: availablePackages});
-    });
-
-    /* ]]> */
-</script>
-<script type="text/javascript">
-    jQuery(document).ready(function () {
-        jQuery("#nicdark_autocomplete").autocomplete({source: availablePackages});
         jQuery("#en_lang").click(function(){
             jQuery.ajax({
                type: 'GET',
@@ -368,6 +358,21 @@
                 }
             });
         });
+        jQuery("#display_list").change(function(){
+            value=jQuery('#display_list  option:selected').val()
+            alert(value)
+            if(value=="gird"){
+                jQuery('#gird_result').show();
+                jQuery('#list_result').css('display: none');
+
+            }
+            else{
+                jQuery('#list_result').show();
+                jQuery('#gird_result').hide();
+
+            }
+        });
+
     });
 
 </script>
