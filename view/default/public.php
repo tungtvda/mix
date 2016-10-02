@@ -71,6 +71,10 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 $ft->assign('view_all',returnLanguage('view_all','VIEW ALL'));
                 $ft->assign('link',link_tour($item));
             }
+            if(get_class($item)=='link')
+            {
+                $ft->assign('name',returnLanguageField('name', $item));
+            }
             if(get_class($item)=='slide')
             {
                 $ft->assign('name',returnLanguageField('name', $item));

@@ -128,9 +128,9 @@
                 <li class="{kichhoat_video}"><a href="{SITE-NAME}/controller/admin/video.php"><span class="icon-facetime-video"></span> Video</a></li>
                 <li class="{kichhoat_slide}"><a href="{SITE-NAME}/controller/admin/slide.php"><span class="icon-film"></span> Slide</a></li>
                 <li class="{kichhoat_menu}"><a href="{SITE-NAME}/controller/admin/menu.php"><span class="icon-th-list"></span> Cấu hình menu</a></li>
-                <li class="{kichhoat_mangxahoi}"><a href="{SITE-NAME}/controller/admin/mangxahoi.php"><span class=" iconfa-facebook"></span> Mạng xã hội</a></li>
-                <li class="{kichhoat_ykien}"><a href="{SITE-NAME}/controller/admin/ykien.php"><span class="icon-comment"></span> Ý kiến khách hàng</a></li>
-                <li class="{kichhoat_tieuchi}"><a href="{SITE-NAME}/controller/admin/tieuchi.php"><span class="icon-check"></span> Tiêu chí</a></li>
+                <li class="{kichhoat_mangxahoi}"><a href="{SITE-NAME}/controller/admin/social.php"><span class=" iconfa-facebook"></span> Mạng xã hội</a></li>
+                <li class="{kichhoat_ykien}"><a href="{SITE-NAME}/controller/admin/link.php"><span class="iconfa-link"></span> Link footer</a></li>
+                <li class="{kichhoat_tieuchi}"><a href="{SITE-NAME}/controller/admin/tag.php"><span class="icon-tag"></span> Tag</a></li>
             </ul>
         </div>
         <!--leftmenu-->

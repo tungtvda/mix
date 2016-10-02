@@ -14,6 +14,7 @@ class language_cn
             // lang menu
             'monday_saturday' => "周一至周六",
             'online_support'=>"在线支持",
+            'language'=>"LANGUAGES",
 
             // lang slide
             'search'=>"搜索",
@@ -55,6 +56,29 @@ class language_cn
             'packages_index'=>"PACKAGES",
 
             'contact_us'=>"CONTACT US",
+            'email'=>"Email",
+            'name_surname'=>"Name And Surname",
+            'add_info'=>"Additional Information",
+            'contact'=>"CONTACT",
+
+            // footer
+            'contact_via'=>"Contact us via Social Network",
+            'mix_tourist'=>"Mix Tourist",
+            'about_us'=>"About us",
+            'why_us'=>"Why us",
+            'our_service'=>"Our services",
+            'contact_footer'=>"Contact",
+
+            'customer_service'=>"Customer service",
+            'vietnam_visa'=>"Vietnam visa",
+            'terms_codi'=>"Terms and conditions",
+            'payment_method'=>"Payment Method",
+            'privacy_policy'=>"Privacy Policy",
+
+            'useful_links'=>"Useful links",
+
+            'hanoi_office'=>"HANOI OFFICE",
+            'hcm_office'=>"HOCHIMINH CITY OFFICE",
         );
     }
 }

@@ -332,7 +332,7 @@
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_12 percentage"><input
                                             type="hidden" value="destination-package" name="tax-0"><select
-                                            name="destination-package"
+                                            name="departure"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_departure}</option>
                                         {list_departure}
@@ -341,16 +341,16 @@
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_12 percentage"><input
                                             type="hidden" value="typology-package" name="tax-1"><select
-                                            name="typology-package"
+                                            name="destination"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_destination}</option>
                                         {list_destination}
                                     </select></div>
-                                <div id="nicdark_advanced_search_tax-2"
+                                <div id="nicdark_advanced_search_dates"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_12 percentage"><input
                                             type="hidden" value="duration-package" name="tax-2"><select
-                                            name="duration-package"
+                                            name="duration"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_duration}</option>
                                         {list_Durations}
@@ -363,7 +363,7 @@
                                         <option value="">{vehicle}</option>
                                         {list_Vehicle}
                                     </select>
-                                    <select style="float:right;" name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
+                                    <select style="float:right;" name="hotel" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
                                         <option value="">{hotel}</option>
                                         {list_Hotel}
                                     </select>
@@ -385,11 +385,9 @@
                                 <div id="nicdark_advanced_search_button"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_12 percentage">
-                                    <input type="submit" value="SEARCH"
+                                    <input type="submit" value="{search}" name="search"
                                            class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_yellow ">
                                 </div>
-
-                                <input type="hidden" value="4" name="qnt-taxonomies">
 
                             </form>
                         </div>
@@ -409,28 +407,28 @@
                                         <input type="hidden" name="_wpnonce" value="8710bc1035"/>
                                     </div>
                                     <p><span class="wpcf7-form-control-wrap text-926">
-                                            <input type="text"
-                                                                                             name="text-926"
+                                            <input type="text" name="name"
                                                                                              value=""
                                                                                              size="40"
                                                                                              class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_bg_greydark2 nicdark_border_none"
                                                                                              aria-required="true"
                                                                                              aria-invalid="false"
-                                                                                             placeholder="Name And Surname"/></span><span
+                                                                                             placeholder="{name_surname}"/></span><span
                                                 class="wpcf7-form-control-wrap email-430"><input type="email"
-                                                                                                 name="email-430"
+                                                                                                 name="email"
                                                                                                  value=""
                                                                                                  size="40"
                                                                                                  class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_bg_greydark2 nicdark_border_none"
                                                                                                  aria-required="true"
                                                                                                  aria-invalid="false"
-                                                                                                 placeholder="Email"/></span><span
-                                                class="wpcf7-form-control-wrap textarea-129"><textarea
-                                                    name="textarea-129" cols="40" rows="7"
+                                                                                                 placeholder="{email}"/></span><span
+                                                class="wpcf7-form-control-wrap textarea-129">
+                                            <textarea
+                                                    name="content" cols="40" rows="7"
                                                     class="wpcf7-form-control wpcf7-textarea nicdark_bg_greydark2 nicdark_border_none"
                                                     aria-invalid="false"
-                                                    placeholder="Additional Information"></textarea></span><input
-                                                type="submit" value="BOOK NOW"
+                                                    placeholder="{add_info}"></textarea></span>
+                                        <input type="submit" value="{contact}" name="contact"
                                                 class="wpcf7-form-control wpcf7-submit nicdark_bg_orange"/></p>
 
                                     <div class="wpcf7-response-output wpcf7-display-none"></div>

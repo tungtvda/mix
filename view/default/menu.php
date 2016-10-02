@@ -9,6 +9,7 @@ function view_menu($data = array())
     $asign['email']=$data['config'][0]->Email;
     $asign['monday_saturday']=returnLanguage('monday_saturday','Monday to Saturday');
     $asign['online_support']=returnLanguage('online_support','Monday to Saturday');
+    $asign['language']=returnLanguage('language','LANGUAGES');
 
     $asign['home']=returnLanguageField('name', $data['menu'][0]);
     $asign['Excursion']=returnLanguageField('name', $data['menu'][1]);
@@ -86,8 +87,12 @@ function view_menu($data = array())
             }
         }
     }
-//    $data['config']=$data['config'];
-//    $data['active']=$data;
-//    $data['menu']=$data['menu'];
+
+    if($_SESSION['language']=="cn"){
+        $asign['lang'] ="cn";
+    }
+    else{
+        $asign['lang'] ="en";
+    }
     print_template($asign, 'menu');
 }

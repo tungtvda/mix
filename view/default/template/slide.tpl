@@ -448,7 +448,7 @@
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage"><input
                                             type="hidden" value="destination-package" name="tax-0">
-                                    <select name="all_departure" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
+                                    <select name="departure" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_departure}</option>
                                        {list_departure}
                                     </select></div>
@@ -456,15 +456,15 @@
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage"><input
                                             type="hidden" value="typology-package" name="tax-1">
-                                    <select name="all_destination" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
+                                    <select name="destination" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_destination}</option>
                                        {list_destination}
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-2"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="duration-package" name="tax-2"><select
-                                            name="duration-package"
+                                              name="tax-2"><select
+                                            name="duration"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_duration}</option>
                                        {list_Durations}
@@ -477,7 +477,7 @@
                                         <option value="">{vehicle}</option>
                                         {list_Vehicle}
                                     </select>
-                                    <select style="float:right;" name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
+                                    <select style="float:right;" name="hotel" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
                                         <option value="">{hotel}</option>
                                         {list_Hotel}
                                     </select>
@@ -500,11 +500,9 @@
                                 <div id="nicdark_advanced_search_button"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input type="submit" value="{search}"
+                                    <input type="submit" value="{search}" name="search"
                                            class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_blue ">
                                 </div>
-
-                                <input type="hidden" value="4" name="qnt-taxonomies">
 
                             </form>
                         </div>
