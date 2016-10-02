@@ -95,6 +95,8 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 $ft->assign('currency',returnLanguage('currency','$'));
                 $ft->assign('detail',returnLanguage('detail','DETAIL'));
                 $ft->assign('booking',returnLanguage('booking','BOOKING'));
+                $ft->assign('vehicle',returnLanguage('vehicle',''));
+
             }
             if(get_class($item)=='danhmuctour')
             {

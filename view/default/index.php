@@ -45,6 +45,11 @@ function show_index($data = array())
     $asign['hour_support']=returnLanguage('hour_support','HOUR SUPPORT');
     $asign['packages_index']=returnLanguage('packages_index','PACKAGES');
 
+    $asign['detail']=returnLanguage('detail','DETAIL');
+    $asign['booking']=returnLanguage('booking','BOOKING');
+
+    $asign['search']=returnLanguage('search','SEARCH');
+    $asign['contact_us']=returnLanguage('contact_us','CONTACT US');
 
     $asign['video'] = "";
     if(count($data['video'])>0)
@@ -55,6 +60,25 @@ function show_index($data = array())
     $asign['count_destinations']=$data['count_destinations'];
     $asign['count_pack']=$data['count_pack'];
     $asign['count_cru']=$data['count_cru'];
+
+    $asign['list_departure']=returnSearchDeparture();
+    $asign['list_destination']=returnSearchDestination();
+    $asign['list_Durations']=returnSearchDurations();
+    $asign['list_Vehicle']=returnSearchVehicle();
+    $asign['list_Hotel']=returnSearchHotel();
+
+    $asign['departure']=returnLanguage('departure','Type Your Departure');
+    $asign['destination']=returnLanguage('destination','Type Your Destination');
+    $asign['search']=returnLanguage('search','SEARCH');
+    $asign['name_tour']=returnLanguage('name_tour','Type Your Tour');
+
+    $asign['vehicle']=returnLanguage('vehicle','Vehicle');
+    $asign['hotel']=returnLanguage('hotel','Hotel');
+
+    $asign['all_departure']=returnLanguage('all_departure','ALL Departure');
+    $asign['all_destination']=returnLanguage('all_destination','ALL Destinations');
+    $asign['all_duration']=returnLanguage('all_duration','ALL Durations');
+
     print_template($asign, 'index');
 }
 
