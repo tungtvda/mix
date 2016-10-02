@@ -54,6 +54,8 @@ class Language_en
             'hour_support'=>"HOUR SUPPORT",
             'packages_index'=>"PACKAGES",
 
+            'contact_us'=>"CONTACT US",
+
         );
     }
 }

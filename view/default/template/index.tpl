@@ -268,9 +268,9 @@
                     <div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix">
                         <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix">
                             <li class="  "><a class="title white nicdark_bg_orange "
-                                              href="#tab-1590d4d2-e42a-8"><i class=""></i>SEARCH</a></li>
+                                              href="#tab-1590d4d2-e42a-8"><i class=""></i>{search}</a></li>
                             <li class="  "><a class="title white nicdark_bg_yellow "
-                                              href="#tab-1431946341916-1-3"><i class=""></i>CONTACT US</a>
+                                              href="#tab-1431946341916-1-3"><i class=""></i>{contact_us}</a>
                             </li>
                         </ul>
 
@@ -307,7 +307,7 @@
 
 
                             <form id="advsearch_2" class="nicdark_advanced_search"
-                                  action="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/packages/"
+                                  action="{SITE-NAME}/search/"
                                   method="GET">
                                 <div id="nicdark_advanced_search_keyword"
                                      style="box-sizing:border-box; padding: 0px 10px;"
@@ -319,18 +319,23 @@
                                            type="text" placeholder="Type Your Destination" name="keyword"
                                            value="">
                                 </div>
+                                <div id="nicdark_advanced_search_tax-3"
+                                     style="box-sizing:border-box; padding: 0px 10px;"
+                                     class=" nicdark_width100_responsive grid grid_12 percentage"><input
+                                            type="hidden" value="person-package" name="tax-3">
+                                    <input id="nicdark_autocomplete"
+                                           class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
+                                           type="text" placeholder="{name_tour}" name="name"
+                                           value="">
+                                </div>
                                 <div id="nicdark_advanced_search_tax-0"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_12 percentage"><input
                                             type="hidden" value="destination-package" name="tax-0"><select
                                             name="destination-package"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Destinations</option>
-                                        <option value="africa">Africa</option>
-                                        <option value="america">America</option>
-                                        <option value="asia">Asia</option>
-                                        <option value="europe">Europe</option>
-                                        <option value="oceania">Oceania</option>
+                                        <option value="">{all_departure}</option>
+                                        {list_departure}
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-1"
                                      style="box-sizing:border-box; padding: 0px 10px;"
@@ -338,11 +343,8 @@
                                             type="hidden" value="typology-package" name="tax-1"><select
                                             name="typology-package"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Typologies</option>
-                                        <option value="cultural">Cultural</option>
-                                        <option value="luxury">Luxury</option>
-                                        <option value="relax">Relax</option>
-                                        <option value="sport">Sport</option>
+                                        <option value="">{all_destination}</option>
+                                        {list_destination}
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-2"
                                      style="box-sizing:border-box; padding: 0px 10px;"
@@ -350,32 +352,21 @@
                                             type="hidden" value="duration-package" name="tax-2"><select
                                             name="duration-package"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL Durations</option>
-                                        <option value="1-3-days">1 - 3 Days</option>
-                                        <option value="3-6-days">3 - 6 Days</option>
-                                        <option value="6-9-days">6 – 9 Days</option>
-                                        <option value="9-12-days">9 - 12 Days</option>
+                                        <option value="">{all_duration}</option>
+                                        {list_Durations}
                                     </select></div>
-                                <div id="nicdark_advanced_search_tax-3"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage"><input
-                                            type="hidden" value="person-package" name="tax-3"><select
-                                            name="person-package"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">ALL People</option>
-                                        <option value="1-person">1 Person</option>
-                                        <option value="2-people">2 People</option>
-                                        <option value="3-people">3 People</option>
-                                        <option value="4-people">4 People</option>
-                                    </select></div>
+
                                 <div id="nicdark_advanced_search_dates"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_12 percentage">
-                                    <input class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle nicdark_calendar_range nicdark_calendar_from"
-                                           placeholder="From" name="date_from" type="text" value="">
-                                    <input style="float:right;"
-                                           class="nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle nicdark_calendar_range nicdark_calendar_to"
-                                           placeholder="To" name="date_to" type="text" value="">
+                                    <select name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
+                                        <option value="">{vehicle}</option>
+                                        {list_Vehicle}
+                                    </select>
+                                    <select style="float:right;" name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
+                                        <option value="">{hotel}</option>
+                                        {list_Hotel}
+                                    </select>
                                 </div>
 
 
@@ -417,7 +408,8 @@
                                                value="wpcf7-f1094-p32-o4"/>
                                         <input type="hidden" name="_wpnonce" value="8710bc1035"/>
                                     </div>
-                                    <p><span class="wpcf7-form-control-wrap text-926"><input type="text"
+                                    <p><span class="wpcf7-form-control-wrap text-926">
+                                            <input type="text"
                                                                                              name="text-926"
                                                                                              value=""
                                                                                              size="40"

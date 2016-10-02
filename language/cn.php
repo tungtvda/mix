@@ -53,6 +53,8 @@ class language_cn
             'cruises'=>"CRUISES",
             'hour_support'=>"HOUR SUPPORT",
             'packages_index'=>"PACKAGES",
+
+            'contact_us'=>"CONTACT US",
         );
     }
 }
