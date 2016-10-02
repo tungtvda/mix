@@ -107,7 +107,7 @@
                         <ul class="nicdark_list border">
 
                             <li class="nicdark_border_greydark">
-                                <p><a id="en_test" class="white" href="#">ENGLISH<i
+                                <p><a id="en_lang" class="white" href="#">ENGLISH<i
                                                 class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
 
                                 <div class="nicdark_space15"></div>
@@ -115,7 +115,7 @@
 
                             <li class="nicdark_border_greydark">
                                 <div class="nicdark_space15"></div>
-                                <p><a id="cn" class="white" href="#">中国<i
+                                <p><a id="cn_lang" class="white" href="#">中国<i
                                                 class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
 
                                 <div class="nicdark_space15"></div>
@@ -147,7 +147,7 @@
 
                             <!--logo-->
                             <div class="nicdark_logo nicdark_marginleft10">
-                                <a href="{SITE-NAME}"><img alt=""  src="{SITE-NAME}/view/default/themes/images/logomix1.jpg"></a>
+                                <a href="{SITE-NAME}"><img alt="{Name}" title="{Name}"  src="{Logo}"></a>
                             </div>
                             <!--end logo-->
 

@@ -10,3 +10,5 @@ RewriteRule ^login controller/admin/login.php
 
 RewriteRule ^tour/([a-zA-Z0-9_-]+)/$ controller/default/thuvienanh.php?Id=$1
 RewriteRule ^tour/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/thuvienanh.php?Id=1&page=$2
+
+RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php?Id=$1
