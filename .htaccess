@@ -13,3 +13,15 @@ RewriteRule ^tour/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/thuvienanh.
 
 RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
 RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+
+RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
+RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+
+RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
+RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+
+RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
+RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+
+RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
+RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1

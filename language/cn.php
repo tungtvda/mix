@@ -79,6 +79,11 @@ class language_cn
 
             'hanoi_office'=>"HANOI OFFICE",
             'hcm_office'=>"HOCHIMINH CITY OFFICE",
+
+            // category tours
+            'view_as'=>"VIEW AS",
+            'gird'=>"GRID",
+            'list'=>"LIST",
         );
     }
 }
