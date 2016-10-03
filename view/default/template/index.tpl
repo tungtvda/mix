@@ -331,7 +331,8 @@
                                 <div id="nicdark_advanced_search_tax-0"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_12 percentage"><input
-                                            type="hidden" value="destination-package" name="tax-0"><select
+                                            type="hidden" value="destination-package" name="tax-0">
+                                    <select
                                             name="departure"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_departure}</option>
@@ -396,15 +397,9 @@
                             <div role="form" class="wpcf7" id="wpcf7-f1094-p32-o4" lang="en-US" dir="ltr">
                                 <div class="screen-reader-response"></div>
                                 <form name=""
-                                      action="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/#wpcf7-f1094-p32-o4"
+                                      action="{SITE-NAME}/contact/"
                                       method="post" class="wpcf7-form" novalidate="novalidate">
                                     <div style="display: none;">
-                                        <input type="hidden" name="_wpcf7" value="1094"/>
-                                        <input type="hidden" name="_wpcf7_version" value="4.1.2"/>
-                                        <input type="hidden" name="_wpcf7_locale" value="en_US"/>
-                                        <input type="hidden" name="_wpcf7_unit_tag"
-                                               value="wpcf7-f1094-p32-o4"/>
-                                        <input type="hidden" name="_wpnonce" value="8710bc1035"/>
                                     </div>
                                     <p><span class="wpcf7-form-control-wrap text-926">
                                             <input type="text" name="name"

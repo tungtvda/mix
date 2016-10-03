@@ -22,7 +22,8 @@ function show_danhmuctour($data = array())
         $asign['danhsach2'] = print_item('packages', $data['danhsach']);
     }
 
-
+    $asign['name_dm']=returnLanguageField('name', $data['menu'][1]);
+    $asign['PAGING']=$data['PAGING'];
     print_template($asign, 'danhmuctour');
 }
 

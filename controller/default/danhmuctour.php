@@ -26,22 +26,35 @@ $data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc'
 //echo $actual_link = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
 $actual_link=str_replace('/','',$_SERVER['REQUEST_URI']);
 $actual_link=str_replace('mix','',$actual_link);
+$actual_link = preg_replace('/[0-9]+/', '', $actual_link);
+$actual_link=str_replace('page-','',$actual_link);
 switch($actual_link){
     case 'excursion-tours':
         $dk="DanhMuc1Id=2";
         $data['current']=isset($_GET['page'])?$_GET['page']:'1';
-        $data['pagesize']=5;
+        $data['pagesize']=6;
         $data['count']=tour_count($dk);
         $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
-        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/'.$_GET['Id'].'/');
+        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/excursion-tours/');
+        $name=returnLanguageField('name', $data['menu'][1]);
+        $data['banner']=array(
+            'banner_img'=>$data['menu'][1]->img,
+            'name'=>returnLanguageField('name', $data['menu'][1]),
+            'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
+        );
+        $title=returnLanguageField('title', $data['menu'][1]);
+        $description=returnLanguageField('keyword', $data['menu'][1]);
+        $keyword=returnLanguageField('keyword', $data['menu'][1]);
         break;
+
 }
 
-$title=($data['menu'][0]->title)?$data['menu'][0]->title:'APT TRAVEL Viet Nam';
-$description=($data['menu'][0]->description)?$data['menu'][0]->description:'APT TRAVEL Viet Nam';
-$keywords=($data['menu'][0]->keyword)?$data['menu'][0]->keyword:'APT TRAVEL Viet Nam';
+$title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
+$description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
+$keywords=($keyword)?$keyword:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 show_header($title,$description,$keywords,$data);
 show_menu($data,'home');
-//show_slide($data);
+show_banner($data);
 show_danhmuctour($data);
+show_left($data);
 show_footer($data);

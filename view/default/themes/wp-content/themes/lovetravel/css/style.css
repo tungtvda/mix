@@ -99,6 +99,7 @@
 .detail_small{
     font-size: 14px;
     padding: 10px 20px;
+    text-transform: uppercase;
 }
 .bookinig_small{
     font-size: 14px;
@@ -110,4 +111,20 @@
 }
 .durations_detail_danhmuc, .durations_detail_danhmuc{
     font-size: 11px;
+}
+.link_banner a{
+    color: #ffffff;
+}
+.link_banner span{
+    color:#ec1b23;
+}
+.PAGING{
+    float: left;
+    /*display: inline;*/
+    list-style: none;
+    width: 100%;
+    text-align: center;
+}
+.PAGING li{
+    float: left;
 }
