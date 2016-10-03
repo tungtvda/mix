@@ -1,7 +1,7 @@
 <?php
 class menu
 {
-    public $id,$img,$name,$name_cn,$title,$title_en,$keyword,$keyword_cn,$description,$description_cn;
+    public $id,$img,$name,$name_cn,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn;
     public function menu($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
@@ -9,7 +9,7 @@ class menu
     $this->name=isset($data['name'])?$data['name']:'';
     $this->name_cn=isset($data['name_cn'])?$data['name_cn']:'';
     $this->title=isset($data['title'])?$data['title']:'';
-    $this->title_en=isset($data['title_en'])?$data['title_en']:'';
+    $this->title_cn=isset($data['title_cn'])?$data['title_cn']:'';
     $this->keyword=isset($data['keyword'])?$data['keyword']:'';
     $this->keyword_cn=isset($data['keyword_cn'])?$data['keyword_cn']:'';
     $this->description=isset($data['description'])?$data['description']:'';
@@ -23,7 +23,7 @@ class menu
             $this->name=addslashes($this->name);
             $this->name_cn=addslashes($this->name_cn);
             $this->title=addslashes($this->title);
-            $this->title_en=addslashes($this->title_en);
+            $this->title_cn=addslashes($this->title_cn);
             $this->keyword=addslashes($this->keyword);
             $this->keyword_cn=addslashes($this->keyword_cn);
             $this->description=addslashes($this->description);
@@ -36,7 +36,7 @@ class menu
             $this->name=stripslashes($this->name);
             $this->name_cn=stripslashes($this->name_cn);
             $this->title=stripslashes($this->title);
-            $this->title_en=stripslashes($this->title_en);
+            $this->title_cn=stripslashes($this->title_cn);
             $this->keyword=stripslashes($this->keyword);
             $this->keyword_cn=stripslashes($this->keyword_cn);
             $this->description=stripslashes($this->description);

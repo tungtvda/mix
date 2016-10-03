@@ -57,7 +57,7 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
     $str_from.='<p><label>name_cn</label><input class="text-input small-input" type="text"  name="name_cn" value="'.(($form!=false)?$form->name_cn:'').'" /></p>';
     $str_from.='<p><label>title</label><input class="text-input small-input" type="text"  name="title" value="'.(($form!=false)?$form->title:'').'" /></p>';
-    $str_from.='<p><label>title_en</label><input class="text-input small-input" type="text"  name="title_en" value="'.(($form!=false)?$form->title_en:'').'" /></p>';
+    $str_from.='<p><label>title_cn</label><input class="text-input small-input" type="text"  name="title_cn" value="'.(($form!=false)?$form->title_cn:'').'" /></p>';
     $str_from.='<p><label>keyword</label><input class="text-input small-input" type="text"  name="keyword" value="'.(($form!=false)?$form->keyword:'').'" /></p>';
     $str_from.='<p><label>keyword_cn</label><input class="text-input small-input" type="text"  name="keyword_cn" value="'.(($form!=false)?$form->keyword_cn:'').'" /></p>';
     $str_from.='<p><label>description</label><input class="text-input small-input" type="text"  name="description" value="'.(($form!=false)?$form->description:'').'" /></p>';
