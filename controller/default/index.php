@@ -30,10 +30,14 @@ $data['count_cru']=tour_count('DanhMuc1Id=4');
 //$data['ykien_index']=ykien_getByTop('6','','View desc');
 
 //$data['khachsan_noibat_1']=khachsan_getByTop('1','NoiBat=1','ViTri asc');
+$title=returnLanguageField('title', $data['menu'][0]);
+$description=returnLanguageField('keyword', $data['menu'][0]);
+$keyword=returnLanguageField('keyword', $data['menu'][0]);
 
-$title=($data['menu'][0]->title)?$data['menu'][0]->title:'APT TRAVEL Viet Nam';
-$description=($data['menu'][0]->description)?$data['menu'][0]->description:'APT TRAVEL Viet Nam';
-$keywords=($data['menu'][0]->keyword)?$data['menu'][0]->keyword:'APT TRAVEL Viet Nam';
+$title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
+$description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
+$keywords=($keyword)?$keyword:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
+
 show_header($title,$description,$keywords,$data);
 show_menu($data,'home');
 show_slide($data);

@@ -217,7 +217,7 @@
 
         <!--start header parallax image-->
 
-        <div class="nicdark_space160"></div>
+
 
         <!--end header parallax image-->
 
