@@ -24,6 +24,9 @@ function show_danhmuctour($data = array())
 
     $asign['name_dm']=returnLanguageField('name', $data['menu'][1]);
     $asign['PAGING']=$data['PAGING'];
+    $asign['view_as']=returnLanguage('view_as','VIEW AS');
+    $asign['gird']=returnLanguage('gird','GRID');
+    $asign['list']=returnLanguage('list','LIST');
     print_template($asign, 'danhmuctour');
 }
 

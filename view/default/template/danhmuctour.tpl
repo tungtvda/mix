@@ -41,10 +41,10 @@
                     <div class="nicdark_float_right nicdark_displaynone_iphonepotr nicdark_displaynone_iphoneland">
                         <a class="grey right nicdark_btn  small nicdark_padding10 nicdark_cursor_initial"><i class="icon-th-large"></i></a>
                         <select id="display_list" name="nicdark_layout" class="nicdark_float_right nicdark_padding0_left nicdark_padding0_right nicdark_width_initial nicdark_padding10 nicdark_bg_greydark nicdark_radius_none grey small subtitle">
-                            <option value="grid">GRID</option>
-                            <option value="list">LIST</option>
+                            <option value="grid">{gird}</option>
+                            <option value="list">{list}</option>
                         </select>
-                        <a class="white right nicdark_btn  small nicdark_padding1020">VIEW AS</a>
+                        <a class="white right nicdark_btn  small nicdark_padding1020">{view_as}</a>
                     </div>
                     <!--end view-->
 
@@ -62,7 +62,7 @@
 
             <!--start nicdark_masonry_container-->
             <div class="nicdark_ajax_results">
-                <div id="gird_result" class="nicdark_masonry_container" style="position: relative; height: 1629.94px;">
+                <div id="gird_result" class="nicdark_masonry_container" style="position: relative; ">
 
                     <!--start preview-->
                     {danhsach}
@@ -70,7 +70,7 @@
 
 
                 </div>
-                <div id="list_result" class="" style="position: relative; height: 1629.94px; display: none; width: 100%; float: left">
+                <div id="list_result" class="" style="position: relative;  display: none; width: 100%; float: left">
 
                    {danhsach2}
                 </div>
@@ -81,8 +81,7 @@
             <!--start pagination-->
             <div class="nicdark_focus nicdark_pagination center">
                 <div class="nicdark_space30"></div>
-                <!--<div onclick="nicdark_sort(1)" class=" active nicdark_btn nicdark_margin10 medium nicdark_border_grey center">1</div>
-                <div onclick="nicdark_sort(2)" class="  nicdark_btn nicdark_margin10 medium nicdark_border_grey center">2</div>-->
+
                 <ul class="PAGING">
                     {PAGING}
                 </ul>
