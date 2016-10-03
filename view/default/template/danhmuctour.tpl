@@ -84,27 +84,28 @@
 
                     <!--sort-->
                     <div class="nicdark_activity nicdark_width100_iphonepotr nicdark_width100_iphoneland">
-                        <a class="white left nicdark_btn  small nicdark_padding1020">SORT BY</a>
+                        <h4 style="color:#ffffff" class="white left nicdark_btn  small nicdark_padding1020">12 - RESULTS FOUNDED</h4>
+                        <!--<a class="white left nicdark_btn  small nicdark_padding1020">SORT BY</a>
                         <select id="nicdark_sort_feature" onchange="nicdark_sort()" name="nicdark_sort_feature" class="nicdark_padding0_left nicdark_width_initial nicdark_padding10 nicdark_bg_greydark  nicdark_radius_none grey small subtitle">
                             <option value="name">NAME</option>
                             <option value="price">PRICE</option>
                         </select>
-                        <a class="grey left nicdark_btn  small nicdark_padding100 nicdark_marginright30 nicdark_cursor_initial"><i class="icon-angle-down"></i></a>
+                        <a class="grey left nicdark_btn  small nicdark_padding100 nicdark_marginright30 nicdark_cursor_initial"><i class="icon-angle-down"></i></a>-->
                     </div>
                     <!--end sort-->
 
-                    <a class="nicdark_displaynone_iphoneland nicdark_displaynone_iphonepotr greydark2 left nicdark_btn  small nicdark_padding100 nicdark_marginright10">|</a>
+                    <!--<a class="nicdark_displaynone_iphoneland nicdark_displaynone_iphonepotr greydark2 left nicdark_btn  small nicdark_padding100 nicdark_marginright10">|</a>
 
 
                     <!--order-->
-                    <div class="nicdark_activity nicdark_width100_iphonepotr nicdark_width100_iphoneland">
+                    <!--<div class="nicdark_activity nicdark_width100_iphonepotr nicdark_width100_iphoneland">
                         <a class="white left nicdark_btn  small nicdark_padding1020">ORDER</a>
                         <select id="nicdark_asc_desc" onchange="nicdark_sort()" name="nicdark_asc_desc" class="nicdark_padding0_left nicdark_width_initial nicdark_padding10 nicdark_bg_greydark nicdark_radius_none grey small subtitle">
                             <option value="ASC">A/Z - 1/3</option>
                             <option value="DESC">Z/A - 3/1</option>
                         </select>
                         <a class="grey left nicdark_btn  small nicdark_padding100 nicdark_marginright40 nicdark_cursor_initial"><i class="icon-angle-down"></i></a>
-                    </div>
+                    </div>-->
                     <!--end order-->
 
 
@@ -136,103 +137,14 @@
                 <div id="gird_result" class="nicdark_masonry_container" style="position: relative; height: 1629.94px;">
 
                     <!--start preview-->
-                    <div class="grid grid_4 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing" style="position: absolute; left: 0px; top: 0px;">
-                        <div class="nicdark_archive1 nicdark_bg_white nicdark_border_grey nicdark_sizing ">
-
-
-                            <!--start image-->
-                            <div class="nicdark_focus nicdark_relative nicdark_fadeinout nicdark_overflow">
-
-                                <img alt="" class="nicdark_focus nicdark_zoom_image" src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-23-780.jpg">
-
-
-                                <!--price-->
-                                <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <a href="" class="nicdark_btn nicdark_bg_red left white medium">1700 USD</a>            </div>
-                                <!--end price-->
-
-
-                                <!--start content-->
-                                <div class="nicdark_fadein nicdark_filter greydark nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                                    <div class="nicdark_absolute nicdark_display_table nicdark_height100percentage nicdark_width_percentage100">
-                                        <div class="nicdark_cell nicdark_vertical_middle">
-                                            <a href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/packages/polynesia/" class="nicdark_btn nicdark_border_white white medium">BOOK</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--end content-->
-
-                            </div>
-                            <!--end image-->
-
-                            <div class="nicdark_textevidence nicdark_bg_red">
-                                <h4 class="white nicdark_margin20">Amsterdam</h4>
-                            </div>
-
-                            <div class="nicdark_focus nicdark_bg_greydark2">
-                                <div class="nicdark_bg_greydark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="icon-direction"></i> Europe </p>
-                                </div>
-                                <div class="nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                                    <p class="white"><i class="icon-info"></i> Relax </p>
-                                </div>
-                            </div>
-
-                            <div class="nicdark_margin20">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper erat et justo porta auctor nec lobortis elit.</p>
-                                <div class="nicdark_space20"></div><a href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/packages/polynesia/" class="grey nicdark_btn nicdark_border_grey medium nicdark_press">BOOK</a>        </div>
-
-                        </div>
-                    </div>
+                    {danhsach}
                     <!--end prev-->
 
 
                 </div>
-                <div id="list_result" class="nicdark_masonry_container" style="position: relative; height: 1629.94px; display: none">
+                <div id="list_result" class="" style="position: relative; height: 1629.94px; display: none; width: 100%; float: left">
 
-                        <div class="grid grid_12 percentage nicdark_masonry_item nicdark_padding10 nicdark_sizing">
-
-
-                            <div class="nicdark_focus nicdark_bg_red nicdark_relative">
-
-                                <div class="nicdark_width_percentage30 nicdark_focus nicdark_displaynone_iphonepotr nicdark_displaynone_iphoneland">
-                                    <div class="nicdark_space1"></div>
-                                </div>
-
-                                <div style="background-image:url(http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-23-780.jpg); background-size:cover; background-position:center center;" class="nicdark_displaynone_iphonepotr nicdark_displaynone_iphoneland nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
-                                    <div class="nicdark_displaynone_ipadpotr nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark"><p class="center white">SALE</p></div>
-                                </div>
-
-                                <div class="nicdark_width100_iphonepotr nicdark_width100_iphoneland nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
-                                    <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">
-                                        <h4 class="grey nicdark_margin20"><a href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/packages/polynesia/" class="grey">Amsterdam</a></h4>
-                                    </div>
-                                    <div class="nicdark_margin20">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut efficitur ante. Donec dapibus dictum scelerisque. Maecenas semper erat et justo porta auctor nec lobortis elit.</p>
-                                        <div class="nicdark_space20"></div>
-                                        <a title="Europe " class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05 nicdark_marginleft0"><i class="icon-direction"></i></a>
-                                        <a title="Relax " class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i class="icon-tree-1"></i></a>
-                                        <a title="3 - 6 Days " class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i class="icon-calendar-2"></i></a>
-                                        <a title="3 People " class="nicdark_bg_grey_hover nicdark_tooltip nicdark_transition nicdark_btn_icon nicdark_border_grey small grey nicdark_margin05"><i class="icon-users-1"></i></a>
-                                    </div>
-                                </div>
-
-                                <div class="nicdark_displaynone_iphonepotr nicdark_displaynone_iphoneland nicdark_width_percentage20 nicdark_height100percentage nicdark_absolute_floatnone right">
-                                    <div class="nicdark_filter nicdark_display_table nicdark_height100percentage center">
-
-                                        <div class="nicdark_cell nicdark_vertical_middle">
-                                            <h1 class="white">1700</h1>
-                                            <div class="nicdark_space10"></div>
-                                            <h4 class="white">USD</h4>
-                                            <div class="nicdark_space20"></div><a href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/packages/polynesia/" class="white nicdark_btn nicdark_border_white medium nicdark_press">BOOK</a>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
+                   {danhsach2}
                 </div>
             </div>
             <!--end nicdark_masonry_container-->
