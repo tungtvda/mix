@@ -87,3 +87,27 @@
     float:left;
     list-style: none;
 }
+.name_chitiet_danhmuc{
+    width: 85%;
+    box-sizing: border-box;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 1.3;
+    font-size: 14px;
+}
+.detail_small{
+    font-size: 14px;
+    padding: 10px 20px;
+}
+.bookinig_small{
+    font-size: 14px;
+    padding: 10px 20px;
+}
+.content_sub_danhmuc p{
+    height: 134px;
+    overflow: hidden;
+}
+.durations_detail_danhmuc, .durations_detail_danhmuc{
+    font-size: 11px;
+}
