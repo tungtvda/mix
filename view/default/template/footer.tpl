@@ -360,16 +360,13 @@
         });
         jQuery("#display_list").change(function(){
             value=jQuery('#display_list  option:selected').val()
-            alert(value)
-            if(value=="gird"){
-                jQuery('#gird_result').show();
-                jQuery('#list_result').css('display: none');
-
+            if(value=="grid"){
+                jQuery('#list_result').hide();
+                jQuery('#gird_result').slideDown();
             }
             else{
-                jQuery('#list_result').show();
                 jQuery('#gird_result').hide();
-
+                jQuery('#list_result').slideDown();
             }
         });
 

@@ -54,7 +54,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/menu.php');
         }
     }
-    if(isset($_POST["img"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["title"])&&isset($_POST["title_en"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"]))
+    if(isset($_POST["img"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -67,8 +67,8 @@ if(isset($_SESSION["Admin"]))
        $array['name_cn']='0';
        if(!isset($array['title']))
        $array['title']='0';
-       if(!isset($array['title_en']))
-       $array['title_en']='0';
+       if(!isset($array['title_cn']))
+       $array['title_cn']='0';
        if(!isset($array['keyword']))
        $array['keyword']='0';
        if(!isset($array['keyword_cn']))
