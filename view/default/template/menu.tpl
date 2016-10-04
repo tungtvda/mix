@@ -194,9 +194,7 @@
                                     <li id="menu-item-893"
                                         class="greydark nicdark_megamenu nicdark_displaynone_ipadland menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-893">
                                         <a class="{Vietnam_mn}" href="{SITE-NAME}/vietnam-visa">{Vietnam}</a>
-                                        <ul class="sub-menu">
-                                            {Vietnam_menu}
-                                        </ul>
+
                                     </li>
                                 </ul>
                             </div>

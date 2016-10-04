@@ -212,7 +212,7 @@ select.big { font-size: 17px; padding: 15px 10%; }
 /*color dark*/
 .nicdark_tab_dark .wpb_tabs_nav .ui-state-active a.title{
     /*color: #fff !important;*/
-    color: #2c3e50 !important;
+    color: #0086cd !important;
     font-family: 'Open Sans', sans-serif;
 }
 
