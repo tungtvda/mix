@@ -1,6 +1,6 @@
-php_value upload_max_filesize 40M
-php_value post_max_size 42M
-Options +FollowSymLinks
+#php_value upload_max_filesize 40M
+#php_value post_max_size 42M
+#Options +FollowSymLinks
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^.kzone.vn
 ErrorDocument 404 /404.php
@@ -14,14 +14,14 @@ RewriteRule ^tour/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/thuvienanh.
 RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
 RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
 
-RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
-RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+RewriteRule ^vacation-packages/$ controller/default/danhmuctour.php
+RewriteRule ^vacation-packages/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
 
-RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
-RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+RewriteRule ^cruise-tours/$ controller/default/danhmuctour.php
+RewriteRule ^cruise-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
 
-RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
-RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+RewriteRule ^multi-country/$ controller/default/danhmuctour.php
+RewriteRule ^multi-country/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
 
 RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
 RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1

@@ -314,7 +314,7 @@
             /*background-color: #4a515b !important;*/
             background: #ffffff !important;
             border: 1px solid #e4e8ea !important;
-            color: #a0a0a0 !important;
+            color: #ec1b23 !important;
             font-size: 14px !important;
         }
 
@@ -490,7 +490,7 @@
 
         /*slider range*/
         .nicdark_slider_range_blue.ui-slider .ui-slider-handle {
-            background-color: #14b9d5;
+            background-color: #ec1b23;
         }
 
         .nicdark_slider_range_blue.ui-slider .ui-slider-range {

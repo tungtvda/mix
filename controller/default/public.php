@@ -112,7 +112,7 @@ function show_menu($data1=array(),$active='trangchu')
     $data['Vacation_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=3','id desc');
     $data['Cruise_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=4','id desc');
     $data['Multi_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=5','id desc');
-    $data['Vietnam_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=6','id desc');
+//    $data['Vietnam_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=6','id desc');
     $data['danhmuc_subport']=danhmuc_subport_getByTop('','','id desc');
 
 

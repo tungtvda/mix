@@ -438,8 +438,7 @@
                                 </div>
                                 <div id="nicdark_advanced_search_tax-3"
                                      style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="person-package" name="tax-3">
+                                     class=" nicdark_width100_responsive grid grid_3 percentage">
                                     <input id="nicdark_autocomplete"
                                            class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
                                            type="text" placeholder="{name_tour}" name="name"
@@ -447,24 +446,21 @@
                                 </div>
                                 <div id="nicdark_advanced_search_tax-0"
                                      style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="destination-package" name="tax-0">
+                                     class=" nicdark_width100_responsive grid grid_3 percentage">
                                     <select name="departure" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_departure}</option>
                                        {list_departure}
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-1"
                                      style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                            type="hidden" value="typology-package" name="tax-1">
+                                     class=" nicdark_width100_responsive grid grid_3 percentage">
                                     <select name="destination" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_destination}</option>
                                        {list_destination}
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-2"
                                      style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_3 percentage"><input
-                                              name="tax-2"><select
+                                     class=" nicdark_width100_responsive grid grid_3 percentage"><select
                                             name="duration"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_duration}</option>

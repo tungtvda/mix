@@ -50,11 +50,11 @@ function view_menu($data = array())
     {
         $asign['Multi_menu'] = print_item('menu', $data['Multi_menu']);
     }
-    $asign['Vietnam_menu'] ="";
-    if(count($data['Vietnam_menu'])>0)
-    {
-        $asign['Vietnam_menu'] = print_item('menu', $data['Vietnam_menu']);
-    }
+//    $asign['Vietnam_menu'] ="";
+//    if(count($data['Vietnam_menu'])>0)
+//    {
+//        $asign['Vietnam_menu'] = print_item('menu', $data['Vietnam_menu']);
+//    }
     $asign['danhmuc_subport'] ="";
     if(count($data['danhmuc_subport'])>0)
     {

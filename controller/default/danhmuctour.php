@@ -45,6 +45,61 @@ switch($actual_link){
         $title=returnLanguageField('title', $data['menu'][1]);
         $description=returnLanguageField('keyword', $data['menu'][1]);
         $keyword=returnLanguageField('keyword', $data['menu'][1]);
+        $active="Excursion";
+        break;
+    case 'vacation-packages':
+        $dk="DanhMuc1Id=3";
+        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
+        $data['pagesize']=6;
+        $data['count']=tour_count($dk);
+        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/vacation-packages/');
+        $name=returnLanguageField('name', $data['menu'][2]);
+        $data['banner']=array(
+            'banner_img'=>$data['menu'][2]->img,
+            'name'=>returnLanguageField('name', $data['menu'][2]),
+            'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
+        );
+        $title=returnLanguageField('title', $data['menu'][2]);
+        $description=returnLanguageField('keyword', $data['menu'][2]);
+        $keyword=returnLanguageField('keyword', $data['menu'][2]);
+        $active="Vacation";
+        break;
+    case 'cruise-tours':
+        $dk="DanhMuc1Id=4";
+        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
+        $data['pagesize']=6;
+        $data['count']=tour_count($dk);
+        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/cruise-tours/');
+        $name=returnLanguageField('name', $data['menu'][3]);
+        $data['banner']=array(
+            'banner_img'=>$data['menu'][3]->img,
+            'name'=>returnLanguageField('name', $data['menu'][3]),
+            'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
+        );
+        $title=returnLanguageField('title', $data['menu'][3]);
+        $description=returnLanguageField('keyword', $data['menu'][3]);
+        $keyword=returnLanguageField('keyword', $data['menu'][3]);
+        $active="Cruise";
+        break;
+    case 'multi-country':
+        $dk="DanhMuc1Id=5";
+        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
+        $data['pagesize']=6;
+        $data['count']=tour_count($dk);
+        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/multi-country/');
+        $name=returnLanguageField('name', $data['menu'][4]);
+        $data['banner']=array(
+            'banner_img'=>$data['menu'][4]->img,
+            'name'=>returnLanguageField('name', $data['menu'][4]),
+            'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
+        );
+        $title=returnLanguageField('title', $data['menu'][4]);
+        $description=returnLanguageField('keyword', $data['menu'][4]);
+        $keyword=returnLanguageField('keyword', $data['menu'][4]);
+        $active="Multi";
         break;
 
 }
@@ -53,7 +108,7 @@ $title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel com
 $description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $keywords=($keyword)?$keyword:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 show_header($title,$description,$keywords,$data);
-show_menu($data,'home');
+show_menu($data,$active);
 show_banner($data);
 show_danhmuctour($data);
 show_left($data);

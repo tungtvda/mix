@@ -40,10 +40,10 @@
 
 
         <div class="nicdark_focus nicdark_bg_green">
-            <div class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50 " >
+            <div style="padding: 10px 8px !important;" class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50 " >
                 <p class="white durations_detail_danhmuc" ><i class="el el-icon-time"></i> {durations}</p>
             </div>
-            <div class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50" >
+            <div style="padding: 10px 8px !important;"  class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50" >
                 <p class="white durations_detail_danhmuc" ><i class="el el-arrow-right"></i> {destination} </p>
             </div>
         </div>
