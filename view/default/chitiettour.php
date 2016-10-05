@@ -27,6 +27,8 @@ function show_chitiettour($data = array())
 //    $asign['view_as']=returnLanguage('view_as','VIEW AS');
 //    $asign['gird']=returnLanguage('gird','GRID');
 //    $asign['list']=returnLanguage('list','LIST');
+    $asign['img']= $data['tour'][0]->img;
+    $asign['name_dm']= $data['banner']['name'];
     print_template($asign, 'chitiettour');
 }
 
