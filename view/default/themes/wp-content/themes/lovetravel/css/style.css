@@ -157,5 +157,16 @@
     border: 1px solid #f1f1f1;
     border-bottom-width: 0px;
     background-color: #ec1b23;
-    width: 14%;
+    text-align: center;
+}
+.booking_detail_div{
+    float: left; width: 30%
+}
+.social_div{
+    float: left; width: 60%;padding-top: 10px;
+}
+.wpb_tabs_nav .ui-state-active a.tab_detail{
+    color:#0086cd !important;
+    background-color: #ffffff !important;
+
 }

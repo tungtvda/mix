@@ -29,6 +29,36 @@ function show_chitiettour($data = array())
 //    $asign['list']=returnLanguage('list','LIST');
     $asign['img']= $data['tour'][0]->img;
     $asign['name_dm']= $data['banner']['name'];
+    $asign['price']=returnLanguageField('price', $data['tour'][0]);
+    $asign['durations']=returnLanguageField('durations', $data['tour'][0]);
+    $asign['departure']=returnLanguageField('departure', $data['tour'][0]);
+    $asign['destination']=returnLanguageField('destination', $data['tour'][0]);
+    $asign['hotel']=returnStart($data['tour'][0]->hotel);
+    $asign['vehicle']=returnLanguageField('vehicle', $data['tour'][0]);
+    $asign['id']=returnLanguageField('id', $data['tour'][0]);
+    $asign['link']=SITE_NAME.'/'.$data['tour'][0]->name_url.'.html';
+    $asign['schedule']=returnLanguageField('schedule', $data['tour'][0]);
+    $asign['price_list']=returnLanguageField('price_list', $data['tour'][0]);
+    $asign['content']=returnLanguageField('content', $data['tour'][0]);
+    $asign['list_img']=$data['tour'][0]->list_img;
+
+    // lang
+    $asign['price_lang']=returnLanguage('price','Price');
+    $asign['currency_lang']=returnLanguage('currency','$');
+    $asign['durations_lang']=returnLanguage('durations','Durations');
+    $asign['departure_lang']=returnLanguage('departure_detail','Departure');
+    $asign['departure_lang']=returnLanguage('departure_detail','Departure');
+    $asign['destination_lang']=returnLanguage('destination_detail','Destination');
+    $asign['hotel_lang']=returnLanguage('hotel','Hotel');
+    $asign['vehicle_lang']=returnLanguage('vehicle','Vehicle');
+    $asign['booking_lang']=returnLanguage('booking','Booking');
+    $asign['schedule_lang']=returnLanguage('schedule_detail','Schedule');
+    $asign['price_list_lang']=returnLanguage('price_list_detail','Price list');
+    $asign['description_lang']=returnLanguage('description_detail','Description');
+
+    $asign['gallery_lang']=returnLanguage('gallery_detail','Gallery');
+    $asign['comment_lang']=returnLanguage('comment_detail','Comment');
+
     print_template($asign, 'chitiettour');
 }
 
