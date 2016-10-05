@@ -4109,3 +4109,2638 @@ insert into tour (DanhMuc1Id,DanhMuc2Id,promotion,packages,name,name_cn,name_url
 <div>
 	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
 ','','VietNam - Cambodia - Laos','VietNam - Cambodia - Laos','VietNam - Cambodia - Laos','VietNam - Cambodia - Laos','VietNam - Cambodia - Laos','VietNam - Cambodia - Laos');
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',promotion='1',packages='0',name='Vietnam Overview Tour 8 days 7 nights',name_cn='越南旅游8天7夜概述',name_url='vietnam-overview-tour-8-days-7-nights',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='200',price_cn='200',durations='8 Days 7 Nights',durations_cn='8天7晚',departure='Hanoi',destination='Hochiminh',departure_time='',vehicle='',vehicle_cn='',hotel='0',schedule='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\"><em style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">From the architectural splendor of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hanoi</strong>, spectacular&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Halong Bay</strong>, charming&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoi An</strong>, historic&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hue</strong>, dynamic&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Saigon</strong>&nbsp;to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tay ninh</strong>&nbsp;and&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu chi Tunnel</strong>, this trip captures the best of Vietnam from north to south</em>.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 153);\"><strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small;\">Itinerary in Brief:</span></strong></span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 1: Hanoi arrival (D)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 2: Hanoi &ndash; Halong (B, L, D)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 3: Halong &ndash; Hanoi &ndash; Danang flight - Hoian (B )</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 4: Hoian (B, L)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 5: Hoian - Hue (B, L)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 6: Hue - Ho chi minh city (B)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 7: Ho chi minh &ndash; Tayninh &ndash; Cuchi tunnel (B, L)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 8: Ho chi minh departure (B)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(0, 0, 128);\">Day 1: Hanoi arrival (D)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Arrival at Noi Bai Airport, you will be warmly welcomed and transferred to hotel by private Mix Tourist&#39;s guide with signboard.&nbsp;We spend the rest of the day to expolore Hanoi city with the 11th century&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temple of Literature</strong>&nbsp;- the first University of Vietnam, the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Restored Sword Lake (Hoan Kiem Lake) and Ngoc Son Temple</strong>. Take a cyclo tour &nbsp;around the 36 streets of the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hanoi old quarter</strong>&nbsp;to learn more about simple life of Hanoian. Enjoy&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Water puppet show</strong>- a remarkable Vietnamese art form that combines traditional music, fireworks, underwater puppeteers, and elaborate puppets floating gracefully over water Dinner at local restaurant. Overnight at hotel in Hanoi. (The first day&rsquo;s program can be re- arranged according to your arrival time in Hanoi).</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(0, 0, 128);\">Day 2: Hanoi &ndash; Halong bay ( B, L,D )</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Breakfast at hotel, then 8:30 AM &nbsp;start a 3. 5 hour drive through the Red River Delta to Ha Long City. Comfort stop en route for photos and coffee ( by your own ) before arriving to Ha Long City.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">11.30 &ndash; 12.15 &nbsp; Welcome you at Bai Chay Tourist International Port</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">12.30 &nbsp; Check in Overnight Cruise, welcome drink and program introduction</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">13.00 &ndash; 14.30 &nbsp; The cruise start the journey Lunch served with local cuisines menu and passing the paramount view at Ha Long such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kicking Dog Island , Fighting Chicken Islet, Huong Peak, Thien Cung Cave,Dau Go Island</strong>&hellip;</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">15.00 &ndash; 16.00 &nbsp; Explore Surprise Cave &ndash; one of the most famous caves on the Ha Long bay.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">16.30 &ndash; 17.30 &nbsp; Small boat take you to Titop seaside: visiting islands, climb to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Titop Mountain</strong>&nbsp;200m in height to see the whole bay and swimming at Titop Seaside.&nbsp;18.00 &nbsp; Return to your cruise or relaxation or enjoy sunset on the bay</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">19.30 &ndash; 21.00 &nbsp; Dinner at the restaurant with organised menu21.00 &nbsp; Free at your leisure like lying on deck or going to catch squid&hellip;Overnight on junk.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 3: Halong bay &ndash; &nbsp;Hanoi &ndash; Danang flight - Hoian ( Brunch )</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Rising to the tranquil beauty of the bay we have time for an early morning dip with joys and emotions for watching sunrise on sea followed by breakfast. This morning we continue to move around the bay to find more secluded areas. The junk will be near us at all times serving as a back up vessel for those that require it. At around midday we will return to the main harbor before transferring to our awaiting vehicle for a 3.5 hour journey directly to the airport for flight to Danang. The guide in Danang will pick you up, transfer to hotel in Hoian, check in, relax.Hue. The guide in Hue will pick you up, transfer to hotel, check in, relax.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 4: Hoian &nbsp;ancient town (B, L)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Today there are a lot of time to explore &nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoian ancient town</strong>, once a major Asian trading port in the seventeenth and eighteenth centuries. Hoi An&rsquo;s architecture and relaxed lifestyle have changed little over the years. Take a leisurely walking tour of the ancient town center and visit the sites of former merchants&rsquo; homes, a 400 year-<strong style=\"margin: 0px; padding: 0px;\">old Japanese Covered Bridge, and a Chinese Communal Hall</strong>. Believed to have been settled no less than 2,200 years ago, Hoi An was known as Faifo to early Western traders. &nbsp;Hoi An was one of the major ports of Southeast Asia from the 17th to 19th centuries. Chinese, Japanese, French, English, Spanish, Portuguese and other traders had small communities here, and the old wooden houses, bridges and temples that remain are reminiscent of a Vietnam of centuries past. This unique old trading town slowly became isolated due to its river silting up and by destroyed rail lines, leaving it untouched by war and frozen in time. Nowadays, this absolutely charming and relaxed town has been designated a UNESCO World Heritage Site. Free at leisure. Overnight at hotel in Hoian.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 5: Hoian &ndash; Hue &nbsp;(B, L)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">After breakfast at hotel, say good bye Hoian and embark on northern bound journey to Hue, the former imperial capital of Vietnam. Stop en route at the beautiful&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Non Nuoc Beach</strong>&nbsp;and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cham Museum</strong>, which contains the finest collection of Cham sculpture in the world. In Danang you will visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Marble Mountains</strong>, five sacred hills containing dozens of Buddhist shrines. The guide and driver will take you daparture to Hue. Arrival Hue in Hue at noon time.&nbsp;This afternoon we visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Imperial Citadel and the Purple Forbidden City</strong>. This royal residence was built in the 19th century by the Nguyen dynasty, the City was home to the former Emperors of Vietnam from 1802 until 1945. We then take a walk to the bustling&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Dong Ba Market</strong>&nbsp;and pass many fantastic eating spots where visitors have a chance to sample some local delicacies. Overnight at hotel in Hue.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 6: Hue &ndash; Ho chi minh (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Breakfast at hotel, we embark on a boat for cruise upstream on the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Perfume River</strong>, viewing the city and the tranquil villages on the riverbank. We will walk up to visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Mu pagoda</strong>, a nicely located pagoda, overlooks the Perfume River and the beautiful scenery beyond, where you get to learn more about the Buddhism in Vietnam. &nbsp;One of the most poignant displays here is a car belonging to a former monk, who in 1963, drove to Saigon and set himself alight to protest against the South Vietnamese regime and its treatment of Buddhists. Disembark the board for a visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Elaborate mausoleum of former emperor Tu Duc</strong>, &nbsp;built decades before its occupant&#39;s death the tomb was used as a palace retreat before the emperors final resting place. Transfer to the airport for flight to Ho chi minh. The guide in Ho chi minh will pick you up, transfer to hotel in city center, check in, relax.Overnight at hotel in Ho chi minh</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 7: Ho chi minh &ndash; Tayninh &ndash; Cuchi tunnel (B, L)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">The head quarter of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cao Dai</strong>&nbsp;sect is located in Tay Ninh. This religion was founded in 1923 and now numbers over 2 million members. After breakfast we travel by roads to Tay Ninh to see the ornate temple of Cao Dai and attend the fantastic mid-day service when the followers fill the hall wearing colored robes, a symbol of the curious combination of the Confucianism, Taoism and Buddhism. We then continue to the famous&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, which were an incredible underground network constructed by Vietnamese fighters during the long struggle for independence. The tunnels contained hospitals, plus accommodation and schools, and were used as a military base for the Vietcong in the American war. Transfer back HCM City.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 8: Ho chi minh departure (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Morning &nbsp;we discover the dynamic city with the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace&nbsp;</strong>which was the former residence of the President of South Vietnam until end of April 1975, and some French colonial structures including the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Notre Dame Cathedral</strong>, the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Old Sai Gon Post Office, War Remnant Museum</strong>, free for shopping in Ben Thanh market until transfer to the airport for your departure flight. Say goodbye Vietnam. See you at the next trips</span></p>
+',schedule_cn='<div>
+	从河内，壮观的下龙湾，迷人的会安，顺化的历史，西贡动态到西宁和古芝地道的建筑的辉煌，此行抓住了最好的越南从北到南。</div>
+<div>
+	&nbsp;</div>
+<div>
+	在行程简介：</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：抵达河内（D）</div>
+<div>
+	第2天：河内 - 下龙湾（早，午，晚餐）</div>
+<div>
+	第3天：下龙 - 河内 - 岘港航班 - 会安（B）</div>
+<div>
+	第4天：会安（早，午）</div>
+<div>
+	第5天：会安 - 顺化（早，午）</div>
+<div>
+	第6天：顺化 - 胡志明市（B）</div>
+<div>
+	第7天：胡志明市 - Tayninh - Cuchi隧道（B，L）</div>
+<div>
+	第8天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：抵达河内（D）</div>
+<div>
+	&nbsp;</div>
+<div>
+	河内内排机场抵达，您将热烈欢迎私人酒店和truyền与招牌混旅游指南。度过我们的其余部分expolore河内市的一天，11世纪文庙 - 越南的第一个大学，还剑湖（Hoan Kiem湖）和玉山寺。看看周围的36个街道河内老城区的一环之旅，进一步了解Hanoian的简单的生活。享受水上木偶显示─一个了不起的结合了传统的越南艺术形成CO音乐，烟火，水下木偶和木偶精心优雅地浮在水面上晚餐于当地餐厅。夜宿酒店在河内。 （第一天的节目可以在河内再西奥CUA安排到达时间）。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：河内 - 下龙湾（早，午，晚餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，然后8:30 AM开始通过红河三角洲到下龙市3.5小时车程。舒适站连接的照片和咖啡（由你自己的）路线下龙市是前到达。</div>
+<div>
+	11:30至12:15在白斋旅游欢迎各位国际港务</div>
+<div>
+	隔夜克鲁斯入住12:30，欢迎饮料和项目介绍</div>
+<div>
+	13:00至14:30巡航开始与当地和传递最重要的美食在下龙湾新和成认为踢狗岛，斗鸡岛，山顶梅家，添Cung洞，斗围棋岛服的征程午餐菜单...</div>
+<div>
+	15:00至16:00探索惊喜洞 - 下龙的飞行最著名的洞穴之一。</div>
+<div>
+	16:30至17:30小船带你到海边Titop：来访的岛屿，爬200米的高度Titop山看到在海边Titop整个海湾和游泳。 18:00返回到您的巡航或放松或享受在海湾日落</div>
+<div>
+	19:30在与您的休闲主办喜欢趴在甲板上或去捕捉乌贼......夜宿垃圾menu21.00免费餐厅下午9时00晚餐。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾 - 河内 - 岘港航班 - 海（早午餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	瑞星海湾的宁静美丽有时间，争取早日钟晨泳与乐趣和情感观看海上其次是早餐日出。我们继续往前今天早上在海湾附近发现较偏僻的哪些方面。垃圾将始终充当nhữngC&oacute;需要一个备份船只靠近我们。在中午时分我们正在等待车辆3.5小时的车程到机场，飞往特吕克到岘港之前返回到主港我们运。导游接你在SE岘港，送往酒店在会安，检查，relax.Hue。导游接您在顺化SE，送往酒店，办理入住手续，放松。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第4天：会安古镇（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天有很多的时间去探索会安古镇，在十七和十八世纪曾经是亚洲主要的贸易港口。会安的架构和悠闲的生活方式多年来变化不大。就拿古悠闲市中心的步行游览参观前客商的家的网站，一个400岁的日本廊桥和中国公共大厅。相信落脚2200年前过去时没少煤，被称为Faifo会安到早期的西方贸易商。会安是从17至19世纪东南亚的主要港口之一。中国人，日语，法语，英语，西班牙语，葡萄牙语等小社区&ldquo;曾在这里交易，而老木制房屋，桥梁，寺庙是让人想起有限公司次还过去几个世纪的越南。这种独特的老城区成为慢慢地分离交易无对淤塞通过破坏河流和铁路线，离开战争不变，并及时冻结了。如今，这绝对迷人和轻松的小镇联合国教科文组织指定为世界BI遗产。自由活动。夜宿酒店会安。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：会安 - 顺化（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，说在北开往海之旅越南顺化的前帝国首都再见，走上。恩停止在美丽的努尔卡海滩和湛博物馆，世界蔡湛雕塑的最美好的收藏路线。在岘港，前往五行山禁令，包含许多佛教圣地五神山。导游司机带你去daparture SE顺化。抵达色调色调中午的时间。今天下午参观帝国城堡Chung和紫禁城。这种皇家住所是由阮朝建于19世纪，城市是家庭对越南的前皇帝从1802 1945年我们购买，直到然后步行到繁华的东巴市场，并通过许多美妙的饮食景点，游客有机会品尝当地美食。夜宿酒店色调。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：顺化 - 胡志明市（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，乘船踏上涌邮轮上游的香水河，观赏城市和在河边宁静的村庄。我们将步行参观天姥寺，一个很好的位于宝塔，俯瞰着香水河和美丽的风光之外，你在哪里得到更多地了解了越南佛教。这里的一个最凄美的显示器是属于前行者，谁在1963年，驱车前往西贡，并给自己定下了抗议下车佛教徒的南越政权VA治疗一辆车。下船董事会进行了访问前皇帝陵墓细说嗣德，几十年来建墓乘员的死亡被用来trướcKHI作为宫廷撤退最后的归宿是在皇帝面前。转移到机场，飞往胡志明市。在胡志明市SE接你指导，送往酒店在市中心，检查，relax.Overnight在酒店胡志明市</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：胡志明市 - Tayninh - Cuchi隧道（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	曹代派的头季位于西宁。这个宗教是超过200万会员成立于1923年，现在的数字。通过公路旅行早餐后涌看到华丽的西宁曹岱庙，并出席了梦幻般的中午服务追随者填补了大厅KHI戴着有色长袍，儒，道，佛的好奇组合的象征。然后，我们继续前往著名的古芝地道，越南战机独立KHI构建一个令人难以置信的地下网络DJO洛杉矶长期斗争发动。隧道包含医院，加上住宿和学校用作美国的战争军事基地L&agrave;为越共。驱车返回胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早上涌发现城市统一宫动态是南越总统故居mA断，直到1975年4月的结束，一些法国殖民结构巴黎圣母院GOM，老西贡邮政总局，战争遗迹博物馆，免费滨城市场在逛街，直到转移到机场，飞机起飞。说再见越南。看到你在接下来的行程</div>
+',price_list='<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(0, 0, 128); font-size: small;\">Tour includes:</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; All accommodation in double/ twin room with daily breakfast at selected hotels</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; 2 days 1 night cruise on Halong Bay ( private cabin &ndash; sharing boat )</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; All tours &amp; transfers in private air-conditioned vehicle</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Private English or French&nbsp; speaking guide&nbsp;</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Meals as indicated in the itinerary at local restaurant with local foods (B = breakfast; L = Lunch; D = Dinner)</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Boat cruise as stated</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Domestic airfare &amp; airport taxes: Hanoi &ndash; Danang, Hue &ndash; Ho chi minh</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Entrance fees and permits for all sights visited</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Mineral water &amp; towel</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Government taxes &amp; Service charges</span><br style=\"margin: 0px; padding: 0px;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(0, 0, 128); font-size: small;\">Tour excludes:</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; International flights to and from Vietnam</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Vietnam visa arrangement (upon request visa on arrival at 10 USD, not including stamping fee at 25 USD)&nbsp;</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Meals not indicated in the itinerary&nbsp;</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Kayak in Halong Bay</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Surcharge on Christmas, New Year and our Lunar New Year</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Personal travel insurance&nbsp;</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Personal expenses such as Telephone and Laundry bills</span><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">&bull; Tips and gratuities</span></p>
+',price_list_cn='<div>
+	游览包括：</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull;在选择酒店的双人/双床间每日早餐所有住宿</div>
+<div>
+	在下龙湾&bull;2天1夜游（私人舱 - 共享舟）</div>
+<div>
+	&bull;所有的旅游和交通的私人空调车</div>
+<div>
+	&bull;英语或法语导游私人</div>
+<div>
+	&bull;餐点在当地的食物当地餐厅的行程表示（B =早餐，L =午餐，D =晚餐）</div>
+<div>
+	&bull;作为陈述游船</div>
+<div>
+	&bull;国内机票及机场税：河内 - 岘港，顺化 - 胡志明市</div>
+<div>
+	&bull;所有景点门票参观和许可证</div>
+<div>
+	&bull;矿泉水和毛巾</div>
+<div>
+	&bull;政府税和服务费</div>
+<div>
+	&nbsp;</div>
+<div>
+	游不包括：</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull;航班往返越南国际</div>
+<div>
+	&bull;越南签证安排（应要求提供落地签证$ 10不包括在25美元冲压费）</div>
+<div>
+	&bull;客人没有在行程指示</div>
+<div>
+	&bull;下龙湾独木舟打印</div>
+<div>
+	&bull;收费在圣诞节，新年和农历新年我们</div>
+<div>
+	&bull;个人旅游保险</div>
+<div>
+	&bull;个人费用和电话账单洗衣新和成</div>
+<div>
+	&bull;提示及酬金</div>
+',content='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\"><em style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">From the architectural splendor of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hanoi</strong>, spectacular&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Halong Bay</strong>, charming&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoi An</strong>, historic&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hue</strong>, dynamic&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Saigon</strong>&nbsp;to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tay ninh</strong>&nbsp;and&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu chi Tunnel</strong>, this trip captures the best of Vietnam from north to south</em>.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 153);\"><strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small;\">Itinerary in Brief:</span></strong></span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 1: Hanoi arrival (D)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 2: Hanoi &ndash; Halong (B, L, D)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 3: Halong &ndash; Hanoi &ndash; Danang flight - Hoian (B )</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 4: Hoian (B, L)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 5: Hoian - Hue (B, L)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 6: Hue - Ho chi minh city (B)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 7: Ho chi minh &ndash; Tayninh &ndash; Cuchi tunnel (B, L)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Day 8: Ho chi minh departure (B)</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(0, 0, 128);\">Day 1: Hanoi arrival (D)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Arrival at Noi Bai Airport, you will be warmly welcomed and transferred to hotel by private Mix Tourist&#39;s guide with signboard.&nbsp;We spend the rest of the day to expolore Hanoi city with the 11th century&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temple of Literature</strong>&nbsp;- the first University of Vietnam, the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Restored Sword Lake (Hoan Kiem Lake) and Ngoc Son Temple</strong>. Take a cyclo tour &nbsp;around the 36 streets of the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hanoi old quarter</strong>&nbsp;to learn more about simple life of Hanoian. Enjoy&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Water puppet show</strong>- a remarkable Vietnamese art form that combines traditional music, fireworks, underwater puppeteers, and elaborate puppets floating gracefully over water Dinner at local restaurant. Overnight at hotel in Hanoi. (The first day&rsquo;s program can be re- arranged according to your arrival time in Hanoi).</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(0, 0, 128);\">Day 2: Hanoi &ndash; Halong bay ( B, L,D )</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Breakfast at hotel, then 8:30 AM &nbsp;start a 3. 5 hour drive through the Red River Delta to Ha Long City. Comfort stop en route for photos and coffee ( by your own ) before arriving to Ha Long City.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">11.30 &ndash; 12.15 &nbsp; Welcome you at Bai Chay Tourist International Port</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">12.30 &nbsp; Check in Overnight Cruise, welcome drink and program introduction</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">13.00 &ndash; 14.30 &nbsp; The cruise start the journey Lunch served with local cuisines menu and passing the paramount view at Ha Long such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kicking Dog Island , Fighting Chicken Islet, Huong Peak, Thien Cung Cave,Dau Go Island</strong>&hellip;</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">15.00 &ndash; 16.00 &nbsp; Explore Surprise Cave &ndash; one of the most famous caves on the Ha Long bay.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">16.30 &ndash; 17.30 &nbsp; Small boat take you to Titop seaside: visiting islands, climb to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Titop Mountain</strong>&nbsp;200m in height to see the whole bay and swimming at Titop Seaside.&nbsp;18.00 &nbsp; Return to your cruise or relaxation or enjoy sunset on the bay</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">19.30 &ndash; 21.00 &nbsp; Dinner at the restaurant with organised menu21.00 &nbsp; Free at your leisure like lying on deck or going to catch squid&hellip;Overnight on junk.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 3: Halong bay &ndash; &nbsp;Hanoi &ndash; Danang flight - Hoian ( Brunch )</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Rising to the tranquil beauty of the bay we have time for an early morning dip with joys and emotions for watching sunrise on sea followed by breakfast. This morning we continue to move around the bay to find more secluded areas. The junk will be near us at all times serving as a back up vessel for those that require it. At around midday we will return to the main harbor before transferring to our awaiting vehicle for a 3.5 hour journey directly to the airport for flight to Danang. The guide in Danang will pick you up, transfer to hotel in Hoian, check in, relax.Hue. The guide in Hue will pick you up, transfer to hotel, check in, relax.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 4: Hoian &nbsp;ancient town (B, L)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Today there are a lot of time to explore &nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoian ancient town</strong>, once a major Asian trading port in the seventeenth and eighteenth centuries. Hoi An&rsquo;s architecture and relaxed lifestyle have changed little over the years. Take a leisurely walking tour of the ancient town center and visit the sites of former merchants&rsquo; homes, a 400 year-<strong style=\"margin: 0px; padding: 0px;\">old Japanese Covered Bridge, and a Chinese Communal Hall</strong>. Believed to have been settled no less than 2,200 years ago, Hoi An was known as Faifo to early Western traders. &nbsp;Hoi An was one of the major ports of Southeast Asia from the 17th to 19th centuries. Chinese, Japanese, French, English, Spanish, Portuguese and other traders had small communities here, and the old wooden houses, bridges and temples that remain are reminiscent of a Vietnam of centuries past. This unique old trading town slowly became isolated due to its river silting up and by destroyed rail lines, leaving it untouched by war and frozen in time. Nowadays, this absolutely charming and relaxed town has been designated a UNESCO World Heritage Site. Free at leisure. Overnight at hotel in Hoian.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 5: Hoian &ndash; Hue &nbsp;(B, L)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">After breakfast at hotel, say good bye Hoian and embark on northern bound journey to Hue, the former imperial capital of Vietnam. Stop en route at the beautiful&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Non Nuoc Beach</strong>&nbsp;and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cham Museum</strong>, which contains the finest collection of Cham sculpture in the world. In Danang you will visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Marble Mountains</strong>, five sacred hills containing dozens of Buddhist shrines. The guide and driver will take you daparture to Hue. Arrival Hue in Hue at noon time.&nbsp;This afternoon we visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Imperial Citadel and the Purple Forbidden City</strong>. This royal residence was built in the 19th century by the Nguyen dynasty, the City was home to the former Emperors of Vietnam from 1802 until 1945. We then take a walk to the bustling&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Dong Ba Market</strong>&nbsp;and pass many fantastic eating spots where visitors have a chance to sample some local delicacies. Overnight at hotel in Hue.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 6: Hue &ndash; Ho chi minh (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Breakfast at hotel, we embark on a boat for cruise upstream on the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Perfume River</strong>, viewing the city and the tranquil villages on the riverbank. We will walk up to visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Mu pagoda</strong>, a nicely located pagoda, overlooks the Perfume River and the beautiful scenery beyond, where you get to learn more about the Buddhism in Vietnam. &nbsp;One of the most poignant displays here is a car belonging to a former monk, who in 1963, drove to Saigon and set himself alight to protest against the South Vietnamese regime and its treatment of Buddhists. Disembark the board for a visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Elaborate mausoleum of former emperor Tu Duc</strong>, &nbsp;built decades before its occupant&#39;s death the tomb was used as a palace retreat before the emperors final resting place. Transfer to the airport for flight to Ho chi minh. The guide in Ho chi minh will pick you up, transfer to hotel in city center, check in, relax.Overnight at hotel in Ho chi minh</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 7: Ho chi minh &ndash; Tayninh &ndash; Cuchi tunnel (B, L)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">The head quarter of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cao Dai</strong>&nbsp;sect is located in Tay Ninh. This religion was founded in 1923 and now numbers over 2 million members. After breakfast we travel by roads to Tay Ninh to see the ornate temple of Cao Dai and attend the fantastic mid-day service when the followers fill the hall wearing colored robes, a symbol of the curious combination of the Confucianism, Taoism and Buddhism. We then continue to the famous&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, which were an incredible underground network constructed by Vietnamese fighters during the long struggle for independence. The tunnels contained hospitals, plus accommodation and schools, and were used as a military base for the Vietcong in the American war. Transfer back HCM City.</span></p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(51, 51, 153);\">Day 8: Ho chi minh departure (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small;\">Morning &nbsp;we discover the dynamic city with the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace&nbsp;</strong>which was the former residence of the President of South Vietnam until end of April 1975, and some French colonial structures including the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Notre Dame Cathedral</strong>, the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Old Sai Gon Post Office, War Remnant Museum</strong>, free for shopping in Ben Thanh market until transfer to the airport for your departure flight. Say goodbye Vietnam. See you at the next trips</span></p>
+',content_cn='<div>
+	从河内，壮观的下龙湾，迷人的会安，顺化的历史，西贡动态到西宁和古芝地道的建筑的辉煌，此行抓住了最好的越南从北到南。</div>
+<div>
+	&nbsp;</div>
+<div>
+	在行程简介：</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：抵达河内（D）</div>
+<div>
+	第2天：河内 - 下龙湾（早，午，晚餐）</div>
+<div>
+	第3天：下龙 - 河内 - 岘港航班 - 会安（B）</div>
+<div>
+	第4天：会安（早，午）</div>
+<div>
+	第5天：会安 - 顺化（早，午）</div>
+<div>
+	第6天：顺化 - 胡志明市（B）</div>
+<div>
+	第7天：胡志明市 - Tayninh - Cuchi隧道（B，L）</div>
+<div>
+	第8天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：抵达河内（D）</div>
+<div>
+	&nbsp;</div>
+<div>
+	河内内排机场抵达，您将热烈欢迎私人酒店和truyền与招牌混旅游指南。度过我们的其余部分expolore河内市的一天，11世纪文庙 - 越南的第一个大学，还剑湖（Hoan Kiem湖）和玉山寺。看看周围的36个街道河内老城区的一环之旅，进一步了解Hanoian的简单的生活。享受水上木偶显示─一个了不起的结合了传统的越南艺术形成CO音乐，烟火，水下木偶和木偶精心优雅地浮在水面上晚餐于当地餐厅。夜宿酒店在河内。 （第一天的节目可以在河内再西奥CUA安排到达时间）。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：河内 - 下龙湾（早，午，晚餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，然后8:30 AM开始通过红河三角洲到下龙市3.5小时车程。舒适站连接的照片和咖啡（由你自己的）路线下龙市是前到达。</div>
+<div>
+	11:30至12:15在白斋旅游欢迎各位国际港务</div>
+<div>
+	隔夜克鲁斯入住12:30，欢迎饮料和项目介绍</div>
+<div>
+	13:00至14:30巡航开始与当地和传递最重要的美食在下龙湾新和成认为踢狗岛，斗鸡岛，山顶梅家，添Cung洞，斗围棋岛服的征程午餐菜单...</div>
+<div>
+	15:00至16:00探索惊喜洞 - 下龙的飞行最著名的洞穴之一。</div>
+<div>
+	16:30至17:30小船带你到海边Titop：来访的岛屿，爬200米的高度Titop山看到在海边Titop整个海湾和游泳。 18:00返回到您的巡航或放松或享受在海湾日落</div>
+<div>
+	19:30在与您的休闲主办喜欢趴在甲板上或去捕捉乌贼......夜宿垃圾menu21.00免费餐厅下午9时00晚餐。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾 - 河内 - 岘港航班 - 海（早午餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	瑞星海湾的宁静美丽有时间，争取早日钟晨泳与乐趣和情感观看海上其次是早餐日出。我们继续往前今天早上在海湾附近发现较偏僻的哪些方面。垃圾将始终充当nhữngC&oacute;需要一个备份船只靠近我们。在中午时分我们正在等待车辆3.5小时的车程到机场，飞往特吕克到岘港之前返回到主港我们运。导游接你在SE岘港，送往酒店在会安，检查，relax.Hue。导游接您在顺化SE，送往酒店，办理入住手续，放松。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第4天：会安古镇（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天有很多的时间去探索会安古镇，在十七和十八世纪曾经是亚洲主要的贸易港口。会安的架构和悠闲的生活方式多年来变化不大。就拿古悠闲市中心的步行游览参观前客商的家的网站，一个400岁的日本廊桥和中国公共大厅。相信落脚2200年前过去时没少煤，被称为Faifo会安到早期的西方贸易商。会安是从17至19世纪东南亚的主要港口之一。中国人，日语，法语，英语，西班牙语，葡萄牙语等小社区&ldquo;曾在这里交易，而老木制房屋，桥梁，寺庙是让人想起有限公司次还过去几个世纪的越南。这种独特的老城区成为慢慢地分离交易无对淤塞通过破坏河流和铁路线，离开战争不变，并及时冻结了。如今，这绝对迷人和轻松的小镇联合国教科文组织指定为世界BI遗产。自由活动。夜宿酒店会安。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：会安 - 顺化（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，说在北开往海之旅越南顺化的前帝国首都再见，走上。恩停止在美丽的努尔卡海滩和湛博物馆，世界蔡湛雕塑的最美好的收藏路线。在岘港，前往五行山禁令，包含许多佛教圣地五神山。导游司机带你去daparture SE顺化。抵达色调色调中午的时间。今天下午参观帝国城堡Chung和紫禁城。这种皇家住所是由阮朝建于19世纪，城市是家庭对越南的前皇帝从1802 1945年我们购买，直到然后步行到繁华的东巴市场，并通过许多美妙的饮食景点，游客有机会品尝当地美食。夜宿酒店色调。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：顺化 - 胡志明市（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，乘船踏上涌邮轮上游的香水河，观赏城市和在河边宁静的村庄。我们将步行参观天姥寺，一个很好的位于宝塔，俯瞰着香水河和美丽的风光之外，你在哪里得到更多地了解了越南佛教。这里的一个最凄美的显示器是属于前行者，谁在1963年，驱车前往西贡，并给自己定下了抗议下车佛教徒的南越政权VA治疗一辆车。下船董事会进行了访问前皇帝陵墓细说嗣德，几十年来建墓乘员的死亡被用来trướcKHI作为宫廷撤退最后的归宿是在皇帝面前。转移到机场，飞往胡志明市。在胡志明市SE接你指导，送往酒店在市中心，检查，relax.Overnight在酒店胡志明市</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：胡志明市 - Tayninh - Cuchi隧道（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	曹代派的头季位于西宁。这个宗教是超过200万会员成立于1923年，现在的数字。通过公路旅行早餐后涌看到华丽的西宁曹岱庙，并出席了梦幻般的中午服务追随者填补了大厅KHI戴着有色长袍，儒，道，佛的好奇组合的象征。然后，我们继续前往著名的古芝地道，越南战机独立KHI构建一个令人难以置信的地下网络DJO洛杉矶长期斗争发动。隧道包含医院，加上住宿和学校用作美国的战争军事基地L&agrave;为越共。驱车返回胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早上涌发现城市统一宫动态是南越总统故居mA断，直到1975年4月的结束，一些法国殖民结构巴黎圣母院GOM，老西贡邮政总局，战争遗迹博物馆，免费滨城市场在逛街，直到转移到机场，飞机起飞。说再见越南。看到你在接下来的行程</div>
+',list_img='',title='Vietnam Overview Tour 8 days 7 nights',title_cn='Vietnam Overview Tour 8 days 7 nights',keyword='Vietnam Overview Tour 8 days 7 nights',keyword_cn='Vietnam Overview Tour 8 days 7 nights',description='Vietnam Overview Tour 8 days 7 nights',description_cn='Vietnam Overview Tour 8 days 7 nights' where id=5;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',promotion='1',packages='1',name='Vietnam Family Holiday 14 days',name_cn='越南家庭度假14天',name_url='vietnam-family-holiday-14-days',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='120',price_cn='120',durations='14 Days',durations_cn='14天',departure='Ha noi',destination=' Ho chi minh',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='3',schedule='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 1: Hanoi arrival</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 2: Hanoi city tour (B, L)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 3: Hanoi &ndash; Halong Bay on board (B, L, D)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 4: Halong &ndash; Hanoi &ndash; Danang - Hoian (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 5: Hoian ( B )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 6: Hoian &ndash; Hue ( B )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 7: Hue city ( B, L )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 8: Hue &ndash; Ho chi minh ( B , L )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 9: Ho chi minh &ndash; Mekong delta (B, L)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 10: Ho chi minh &ndash; Phu Quoc (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 11: Phu Quoc relaxation (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 12: Phu Quoc relaxation (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 13: Phu Quoc &ndash; Ho chi minh (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 14: Ho chi minh departure (B)</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 1: Hanoi arrival</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Noi Bai Airport, you will be warmly welcomed and transferred to hotel by Mix Tourist&#39;s guide with signboard, check in, relax. Today is free at your leisure to rest or explore, discovering your own first impressions of Vietnam. Overnight at hotel.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 2: Hanoi city tour ( B, L )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, This morning we start city tour &nbsp;with the Ho Chi Minh Complex. This famous site contains the mausoleum of the nation&rsquo;s founder Ho Chi Minh (Close on Monday, Friday &amp; October for annual maintenance ), the Presidential Palace and the Ho Chi Minh&rsquo;s house on stilts. Close to this complex is the One Pillar Pagoda, whose origins date back to the foundation of city. We follow this with the impressive Ethnology Museum, dedicated to Vietnam&#39;s 54 ethnic groups. &nbsp;Lunch at local restaurant. Afternoon, visit the Temple of Literature, which is well known as the first university of Vietnam, Vietnam&rsquo;s first university. &nbsp;Constructed in 1070, the gardens and well-preserved architecture offer a relaxing glimpse into Vietnam&rsquo;s past. We continue to visit the Restored Sword Lake (Hoan Kiem Lake) and Ngoc Son Temple, &nbsp;do a cyclo tour around &nbsp; around the 36 streets of the Hanoi old quarter to learn more about simple life of Hanoian. Enjoy water puppet show- a remarkable Vietnamese art form that combines traditional music, fireworks, underwater puppeteers, and elaborate puppets floating gracefully over water.Overnight at hotel in Hanoi</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 3 : Hanoi &ndash; Halong bay on board ( B, L,D )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, then 8:30 AM &nbsp;start a 3. 5 hour drive through the Red River Delta to Ha Long City. Comfort stop en route for photos and coffee ( by your own ) before arriving to Ha Long City.11.30 &ndash; 12.15 &nbsp; Welcome you at H&ograve;n Gai Tourist International Port&nbsp;12.30 &nbsp; Check in Overnight Cruise, welcome drink and programme introduction&nbsp;13.00 &ndash; 14.30 &nbsp; The cruise start the journeyLunch served with local cuisines menu and passing the paramount view at Ha Longsuch as Kicking Dog Island , Fighting Chicken Islet, Huong Peak, Thien Cung Cave,Dau Go Island&hellip;&nbsp;15.00 &ndash; 16.00 &nbsp; Explore Surprise Cave &ndash; one of the most famous caves on the Ha Long bay.&nbsp;16.30 &ndash; 17.30 &nbsp; Small boat take you to Titop seaside: visiting islands, climb to Titop Mountain 200m in height to see the whole bay and swimming at Titop Seaside.&nbsp;18.00 &nbsp; Return to your cruise or relaxation or enjoy sunset on the bay19.30 &ndash; 21.00 &nbsp; Dinner at the restaurant with organised menu21.00 &nbsp; Free at your leisure like lying on deck or going to catch squid&hellip;Overnight on junk.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 4: &nbsp;Halong &ndash; Hanoi &ndash; Danang flight &ndash; Hoian ( Brunch )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Rising to the tranquil beauty of the bay we have time for an early morning dip with joys and emotions for watching sunrise on sea followed by breakfast. This morning we continue to move around the bay to find more secluded areas. The junk will be near us at all times serving as a back up vessel for those that require it. At around midday we will return to the main harbor before transferring to our awaiting vehicle for a 3.5 hour journey directly to the airport for flight to Danang. The guide in Danang will pick you up, transfer to hotel in Hoian, check in, relax.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 5: Hoian ancient town ( B )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Today there are a lot of time to explore &nbsp;Hoian ancient town, once a major Asian trading port in the seventeenth and eighteenth centuries. Hoi An&rsquo;s architecture and relaxed lifestyle have changed little over the years. Take a leisurely walking tour of the ancient town center and visit the sites of former merchants&rsquo; homes, a 400 year-old Japanese Covered Bridge, and a Chinese Communal Hall. Believed to have been settled no less than 2,200 years ago, Hoi An was known as Faifo to early Western traders. &nbsp;Hoi An was one of the major ports of Southeast Asia from the 17th to 19th centuries. Chinese, Japanese, French, English, Spanish, Portuguese and other traders had small communities here, and the old wooden houses, bridges and temples that remain are reminiscent of a Vietnam of centuries past. This unique old trading town slowly became isolated due to its river silting up and by destroyed rail lines, leaving it untouched by war and frozen in time. Nowadays, this absolutely charming and relaxed town has been designated a UNESCO World Heritage Site. Free at leisure. Overnight at hotel in Hoian.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 6: Hoian &ndash; Hue ( B )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	This morning there is plenty of time to discover Hoian by yourself. You might like to take a boat ride with one of the local women across the Thu Bon River. Perhaps you would like to hire a bicycle and head off on a scenic ride to Cua Dai beach, about 4 km away. There&#39;s even the chance to improve your culinary skills with a Vietnamese cooking lesson. One thing is for sure - there is no shortage of things to do in this town!.&nbsp;Afternoon, say good bye Hoian and embark on northern bound journey to Hue, the former imperial capital of Vietnam. &nbsp;Stop en route at the beautiful Non Nuoc Beach and the Cham Museum, which contains the finest collection of Cham sculpture in the world. &nbsp;In Danang you will visit the Marble Mountains, five sacred hills containing dozens of Buddhist shrines. The guide and driver will take you over the beautiful Hai Van Pass - Vietnam&#39;s geographical and psychological boundary between north and south. The peak of the pass lies perpetually shrouded in clouds.Arrival Hue in Hue late afternoon, check in, relax.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 7: Hue city ( B, L )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, we then set out for the exploration of Hue&#39;s famous highlights, including the Citadel and the Forbidden Purple City. Built in the 19th century by the Nguyen dynasty, the City was home to the former Emperors of Vietnam from 1802 until 1945. We embark on a boat for cruise upstream on the Perfume River, viewing the city and the tranquil villages on the riverbank. We will walk up to visit the Thien Mu pagoda, a nicely located pagoda, overlooks the Perfume River and the beautiful scenery beyond, where you get to learn more about the Buddhism in Vietnam. &nbsp;One of the most poignant displays here is a car belonging to a former monk, who in 1963, drove to Saigon and set himself alight to protest against the South Vietnamese regime and its treatment of Buddhists. Disembark the board for a visit the elaborate mausoleum of former emperor Tu Duc, built decades before its occupant&#39;s death the tomb was used as a palace retreat before the emperors final resting place. End of city tour with a walk to the bustling Dong Ba Market and pass many fantastic eating spots where visitors have a chance to sample some local delicacies. &nbsp;Overnight at hotel in Hue.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 8: Hue - Ho chi minh ( B, L)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Morning after breakfast transfer to airport for the flight to Ho chi minh. Pick up at Tan Son Nhat airport, transfer to city center. We spend the rest of the day to visit the Reunification Palace which was the former residence of the President of South Vietnam until end of April 1975, and some French colonial structures including the Notre Dame Cathedral, the Old Sai Gon Post Office before we shall see the exhibition on Vietnam War to the famous War Museum. Lunch at local restaurant. Afternoon, we pass a place with its famous lacquers and the tour ends at the city&#39;s finest shopping street, Dong Khoi Street and the bustling Ben Thanh Market where anything and everything is for sale. Overnight at hotel in Ho chi minh.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 9: Ho chi minh &ndash; Mekong delta &ndash; Ho chi minh (B, L)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, then drive to My Tho. After arrival in My Tho, you will ride on a local motor boat along Dragon Island, Unicorn Island, Phoenix Island, Turtle Island and stop at the famous Unicorn Island. While at the Unicorn Island, While at the Unicorn Island, you will visit natural pure honey at the bee keeping farm. Taste some honey tea, rice wine, banana wine&hellip; Walking on the village and taking rowing boat along the natural water coconut canal to see the local lifestyle in the Mekong Delta. From there, you will continue your motor boat trip to Ben Tre province to visit a handmade coconut candy workshop. Then transfer to a small motor boat and travel along the lush, green canals that are so beautiful for photography. Stop at local restaurant for lunch. After that we walk to another area on the Unicorn Island to visit the tropical fruit garden, enjoy the fruits &amp; listening to the Southern traditional music. Then the local motorboat will take you back to My Tho, where the car/van will drive you back to Ho chi minh city.Overnight at hotel in Ho Chi Minh City.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 10: Ho chi minh &ndash; Phu quoc (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Take the short flight from Saigon to Phu Quoc island, a sleepy tropical island in the Gulf of Thailand, 45km south-west of the Vietnam. Transfer to resort on arrival. Phu Quoc&#39;s interior is still mostly covered in dense tropical forest and its coastline is ringed with deserted sandy beaches. There are three days free to enjoy this tropical hideaway.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 11: Phu quoc beach (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Relax and enjoy your Phu quoc sandy beach: swim, sunbathe and take in the delights of this beautiful holiday resort. Optional sightseeing or visit to offshore islands, scuba diving and other water sports (by your own) or just relax and enjoy the resort facility. Overnight in Phu quoc.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 12: Phu quoc beach (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	All day free at leisure, relax at beautiful Phu quoc beaches.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 13: Phu quoc- Ho chi minh (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	At leisure before transfer to airport for flight back Ho chi minh city. Pick up, transfer to the hotel in city. Check in, relax.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 14: Ho chi minh departure (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, free time until &nbsp;transfer to the airport for your departure flight. Say goodbye Vietnam.</p>
+',schedule_cn='<div>
+	第1天：抵达河内</div>
+<div>
+	第2天：河内城市观光（B，L）</div>
+<div>
+	第3天：河内 - 下龙湾在船上（早，午，晚餐）</div>
+<div>
+	第4天：下龙 - 河内 - 岘港 - 会安（B）</div>
+<div>
+	第5天：会安（B）</div>
+<div>
+	第6天：会安 - 顺化（B）</div>
+<div>
+	第7天：顺化市（B，L）</div>
+<div>
+	第8天：色调 - 胡志明市（早，午）</div>
+<div>
+	第9天：胡志明市 - 湄公河三角洲（B，L）</div>
+<div>
+	第10天：胡志明市 - 富国（B）</div>
+<div>
+	第11天：富国放松（B）</div>
+<div>
+	第12天：富国放松（B）</div>
+<div>
+	第13天：富国 - 胡志明市（B）</div>
+<div>
+	第14天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：抵达河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	河内内排机场抵达，您将受到热烈的欢迎和配合旅游指南与招牌转移到酒店，办理入住手续，放松。今天是自由活动休息或探索，发现越南自己的第一印象。夜宿酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：河内城市观光（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，开始城市游涌今天上午与胡志明情结。这个著名的网站包含国家的缔造者胡志明（周一，周五和十月进行年度维修关闭），总统府和胡志明高跷房子的陵墓。接近这个复杂的是独柱寺，CO的起源可以追溯到城市的基础。我们跟着这与令人印象深刻的民族学博物馆，专门为越南的54个民族。午餐于当地餐厅。下午，参观文庙，众所周知马越南，越南的第一所大学的第一所大学。在1070建造，花园和保存完好的建筑提供一个轻松窥见到越南的过去。我们将继续通过围绕周围的河内老城区的36街道环游览参观还剑湖（Hoan Kiem湖）和玉山寺，详细了解Hanoian的简单的生活。享受水上木偶显示─一个了不起的结合了传统的越南艺术形成CO音乐，烟火，水下木偶和木偶精心优雅地浮在water.Overnight在酒店在河内</div>
+<div>
+	第3天：河内 - 船上下龙湾（早，午，晚餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，然后8:30 AM开始通过红河三角洲到下龙市3.5小时车程。舒适站连接的照片和咖啡（由你自己的）路线抵达下龙湾City.11.30之前 - 12:15欢迎你鸿基观光港国际邮轮过夜入住12:30，欢迎饮料及计划引进13:00至14:30游船开始journeyLunch美食与当地的菜单服务，并通过在哈Longsuch的极端观点是踢狗岛，斗鸡岛，山顶梅家，添Cung洞，斗围棋岛... 15:00至16点探索惊喜洞 - 在下龙湾最著名的洞穴之一飞行。 16:30至17:30小船带你到海边Titop：来访的岛屿，爬200米的高度Titop山看到在海边Titop整个海湾和游泳。 18:00返回到您的巡航或放松或享受在bay19.30夕阳 - 在与menu21.00自由活动主办喜欢趴在甲板上或去捕捉乌贼......夜宿垃圾餐厅晚餐21:00。</div>
+<div>
+	第4天：下龙 - 河内 - 岘港航班 - 海（早午餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	瑞星海湾的宁静美丽有时间，争取早日钟晨泳与乐趣和情感观看海上其次是早餐日出。我们继续往前今天早上在海湾附近发现较偏僻的哪些方面。垃圾将始终充当nhữngC&oacute;需要一个备份船只靠近我们。在中午时分我们正在等待车辆3.5小时的车程到机场，飞往特吕克到岘港之前返回到主港我们运。导游接你在SE岘港，送往酒店在会安，检查，放松。</div>
+<div>
+	第5天：会安古镇（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天有很多的时间去探索会安古镇，在十七和十八世纪曾经是亚洲主要的贸易港口。会安的架构和悠闲的生活方式多年来变化不大。就拿古悠闲市中心的步行游览参观前客商的家的网站，一个400岁的日本廊桥和中国公共大厅。相信落脚2200年前过去时没少煤，被称为Faifo会安到早期的西方贸易商。会安是从17至19世纪东南亚的主要港口之一。中国人，日语，法语，英语，西班牙语，葡萄牙语等小社区&ldquo;曾在这里交易，而老木制房屋，桥梁，寺庙是让人想起有限公司次还过去几个世纪的越南。这种独特的老城区成为慢慢地分离交易无对淤塞通过破坏河流和铁路线，离开战争不变，并及时冻结了。如今，这绝对迷人和轻松的小镇联合国教科文组织指定为世界BI遗产。自由活动。夜宿酒店会安。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：会安 - 顺化（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	有很多今天早晨自己去发现会安时间。你可能想乘船与整个秋盆河当地的女性之一。也许你租一辆自行车&mu;介子，并阻止在一个风景优美的乘车前往楚带海滩，约4公里的路程。甚至还有电平与越南烹饪厨艺课程提高技能的机会。有一件事是肯定的 - 没有任何事情在这个小镇做&ldquo;荒！午后，在说海北部的必然之旅越南顺化的前帝国首都再见，走上。恩停止在美丽的努尔卡海滩和湛博物馆，世界蔡湛雕塑的最美好的收藏路线。在岘港，前往五行山禁令，包含许多佛教圣地五神山。该导游和司机带您在美丽的SE海云通 - 越南的地理和南北giữa心理界限。通的峰值就在于永远笼罩在色调色调在下午clouds.Arrival，检查，放松。</div>
+<div>
+	第7天：顺化市（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，再订出的色相著名的亮点，城堡和故宫GOM紫城的涌探索。由阮朝建于19世纪，城市是家庭对越南从1802年以前的皇帝到1945年我们购买，直到踏上船巡航上游的香水河，观赏城市和在河边宁静的村庄。我们将步行参观天姥寺，一个很好的位于宝塔，俯瞰着香水河和美丽的风光之外，你在哪里得到更多地了解了越南佛教。这里的一个最凄美的显示器是属于前行者，谁在1963年，驱车前往西贡，并给自己定下了抗议下车佛教徒的南越政权VA治疗一辆车。下船董事会进行了访问前皇帝嗣德的精心陵墓，建几十年trướcKHI在墓主死后被用作宫殿撤退最后的归宿是在皇帝面前。城市游与步行到繁华的东巴市场，并最终传递许多美妙的饮食景点，游客有机会品尝一些当地美食。夜宿酒店色调。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：色调 - 胡志明市（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐送往机场，飞往胡志明市后，早晨。拿起在新山一机场，转移到市中心。花了我们的休息，参观统一宫那天是南越总统故居mA断，直到1975年4月的结束，一些法国殖民结构巴黎圣母院GOM，老西贡邮局前，我们将看到的展会上著名的越南战争到战争博物馆。午餐于当地餐厅。当天下午，郑某凭借其通行的地方著名漆和游览这个城市最好的购物街，董Khoi大街繁华的滨城市场，其中任何东西，一切都是为了销售结束，。夜宿酒店在胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：胡志明市 - 湄公河三角洲 - 胡志明市（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐于酒店，然后开车到我的芹苴。在沿龙岛，麒麟岛，凤凰岛，龟岛当地摩托艇我的芹苴，禁车程，到达后停在著名的麒麟岛。而在麒麟岛，而在麒麟岛，在蜜蜂纯天然蜂蜜禁止访问用来饲养。品尝蜜茶，黄酒，葡萄酒香蕉......走在村里，并采取划船沿运河天然椰子水，看在湄公河三角洲当地的生活方式。从那里，继续禁止CUA机动船前往参观槟知省一个手工制作的椰子糖车间。然后转移到一个小机动船和旅行沿着郁郁葱葱的绿色运河是如此美丽摄影有限公司。在当地餐馆享用午餐。再经过步行到涌在麒麟岛CO面积参观热带水果园，享受水果和听江南传统音乐。那么本地摩托艇SE你回到我的芹苴，其中汽车/面包车SE开车送你回胡志明市city.Overnight在酒店胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：胡志明市 - 富国（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	乘坐从西贡到富国岛，在泰国湾一个沉睡的热带岛屿，越南45公里西南的短途飞行。转移到度假胜地的到来。富国的内饰依然大多覆盖着茂密的热带森林周围尽是弗吉尼亚州海岸线荒芜的沙滩。有三个无天，享受这个热带度假胜地。</div>
+<div>
+	第11天：富国海滩（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	放松和享受CUA富国沙滩：游泳，享受日光浴，并采取在这个美丽的度假胜地的乐趣。可选的观光或访问近海海岛，潜水等水上运动项目（由你自己的），或只是放松和享受度假设施。隔夜富国。</div>
+<div>
+	第12天：富国海滩（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	全日自由活动，在富国岛的美丽的海滩放松。</div>
+<div>
+	第13天：富国胡志明（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	在休闲是送往机场，乘机返回胡志明市前。接机，送往酒店的城市。检查，放松。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第14天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐于酒店，自由时间关闭，直到转移到机场，飞机起飞。说再见越南。</div>
+',price_list='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour includes:</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; All accommodation in double/twin roomwith daily breakfast at selected hotels<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; 2 days 1 night cruise on Halong Bay ( private cabin &ndash; sharing boat )<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; All tours &amp; transfers in private air-conditioned vehicles<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Private English or French&nbsp; speaking guide&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Meals as indicated in the itinerary&nbsp; at local restaurant with local foods (B= breakfast; L=Lunch; D = Dinner)<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Boat cruise as stated<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Domestic airfare &amp; airport taxes: Hanoi &ndash; Hue, Danang&nbsp; &ndash; Ho chi minh, Ho chi minh &ndash; Phu Quoc, Phu Quoc &ndash; Ho chi minh<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Entrance fees and permits for all sights visited<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Mineral water &amp; towel<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Government taxes &amp; Service charges<br style=\"margin: 0px; padding: 0px;\" />
+	<br style=\"margin: 0px; padding: 0px;\" />
+	<strong style=\"margin: 0px; padding: 0px;\">Tour excludes:</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; International flights to and from Vietnam<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Vietnam visa arrangement (upon request visa on arrival at 10 USD, not including stamping fee at 25 USD)&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Meals not indicated in the itinerary&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Kayak in Halong Bay<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Surcharge on Christmas, New Year and Our Lunar New Year<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Personal travel insurance (Compulsory)<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Personal expenses such as&nbsp; Telephone and Laundry bills<br style=\"margin: 0px; padding: 0px;\" />
+	&bull; Tips and gratuities</p>
+',price_list_cn='<div>
+	游览包括：</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull;在选定的酒店在双/双roomwith每日早餐所有住宿</div>
+<div>
+	在下龙湾&bull;2天1夜游（私人舱 - 共享舟）</div>
+<div>
+	&bull;所有的旅游和交通的私人空调车</div>
+<div>
+	&bull;英语或法语导游私人</div>
+<div>
+	&bull;餐点在当地的食物当地餐厅的行程表示（B =早餐，L =午餐，D =晚餐）</div>
+<div>
+	&bull;作为陈述游船</div>
+<div>
+	&bull;国内机票及机场税：河内 - 顺化，岘港 - 胡志明市，胡志明市 - 富国，富国 - 胡志明市</div>
+<div>
+	&bull;所有景点门票参观和许可证</div>
+<div>
+	&bull;矿泉水和毛巾</div>
+<div>
+	&bull;政府税和服务费</div>
+<div>
+	&nbsp;</div>
+<div>
+	游不包括：</div>
+<div>
+	&nbsp;</div>
+<div>
+	&bull;航班往返越南国际</div>
+<div>
+	&bull;越南签证安排（应要求提供落地签证$ 10不包括在25美元冲压费）</div>
+<div>
+	&bull;客人没有在行程指示</div>
+<div>
+	&bull;下龙湾独木舟打印</div>
+<div>
+	&bull;收费在圣诞节，新年和农历新年的我们</div>
+<div>
+	&bull;个人旅游保险（强制）</div>
+<div>
+	&bull;个人费用和电话账单洗衣新和成</div>
+<div>
+	&bull;提示及酬金</div>
+',content='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 1: Hanoi arrival</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 2: Hanoi city tour (B, L)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 3: Hanoi &ndash; Halong Bay on board (B, L, D)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 4: Halong &ndash; Hanoi &ndash; Danang - Hoian (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 5: Hoian ( B )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 6: Hoian &ndash; Hue ( B )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 7: Hue city ( B, L )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 8: Hue &ndash; Ho chi minh ( B , L )</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 9: Ho chi minh &ndash; Mekong delta (B, L)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 10: Ho chi minh &ndash; Phu Quoc (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 11: Phu Quoc relaxation (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 12: Phu Quoc relaxation (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 13: Phu Quoc &ndash; Ho chi minh (B)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 14: Ho chi minh departure (B)</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 1: Hanoi arrival</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Noi Bai Airport, you will be warmly welcomed and transferred to hotel by Mix Tourist&#39;s guide with signboard, check in, relax. Today is free at your leisure to rest or explore, discovering your own first impressions of Vietnam. Overnight at hotel.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 2: Hanoi city tour ( B, L )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, This morning we start city tour &nbsp;with the Ho Chi Minh Complex. This famous site contains the mausoleum of the nation&rsquo;s founder Ho Chi Minh (Close on Monday, Friday &amp; October for annual maintenance ), the Presidential Palace and the Ho Chi Minh&rsquo;s house on stilts. Close to this complex is the One Pillar Pagoda, whose origins date back to the foundation of city. We follow this with the impressive Ethnology Museum, dedicated to Vietnam&#39;s 54 ethnic groups. &nbsp;Lunch at local restaurant. Afternoon, visit the Temple of Literature, which is well known as the first university of Vietnam, Vietnam&rsquo;s first university. &nbsp;Constructed in 1070, the gardens and well-preserved architecture offer a relaxing glimpse into Vietnam&rsquo;s past. We continue to visit the Restored Sword Lake (Hoan Kiem Lake) and Ngoc Son Temple, &nbsp;do a cyclo tour around &nbsp; around the 36 streets of the Hanoi old quarter to learn more about simple life of Hanoian. Enjoy water puppet show- a remarkable Vietnamese art form that combines traditional music, fireworks, underwater puppeteers, and elaborate puppets floating gracefully over water.Overnight at hotel in Hanoi</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 3 : Hanoi &ndash; Halong bay on board ( B, L,D )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, then 8:30 AM &nbsp;start a 3. 5 hour drive through the Red River Delta to Ha Long City. Comfort stop en route for photos and coffee ( by your own ) before arriving to Ha Long City.11.30 &ndash; 12.15 &nbsp; Welcome you at H&ograve;n Gai Tourist International Port&nbsp;12.30 &nbsp; Check in Overnight Cruise, welcome drink and programme introduction&nbsp;13.00 &ndash; 14.30 &nbsp; The cruise start the journeyLunch served with local cuisines menu and passing the paramount view at Ha Longsuch as Kicking Dog Island , Fighting Chicken Islet, Huong Peak, Thien Cung Cave,Dau Go Island&hellip;&nbsp;15.00 &ndash; 16.00 &nbsp; Explore Surprise Cave &ndash; one of the most famous caves on the Ha Long bay.&nbsp;16.30 &ndash; 17.30 &nbsp; Small boat take you to Titop seaside: visiting islands, climb to Titop Mountain 200m in height to see the whole bay and swimming at Titop Seaside.&nbsp;18.00 &nbsp; Return to your cruise or relaxation or enjoy sunset on the bay19.30 &ndash; 21.00 &nbsp; Dinner at the restaurant with organised menu21.00 &nbsp; Free at your leisure like lying on deck or going to catch squid&hellip;Overnight on junk.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 4: &nbsp;Halong &ndash; Hanoi &ndash; Danang flight &ndash; Hoian ( Brunch )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Rising to the tranquil beauty of the bay we have time for an early morning dip with joys and emotions for watching sunrise on sea followed by breakfast. This morning we continue to move around the bay to find more secluded areas. The junk will be near us at all times serving as a back up vessel for those that require it. At around midday we will return to the main harbor before transferring to our awaiting vehicle for a 3.5 hour journey directly to the airport for flight to Danang. The guide in Danang will pick you up, transfer to hotel in Hoian, check in, relax.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 5: Hoian ancient town ( B )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Today there are a lot of time to explore &nbsp;Hoian ancient town, once a major Asian trading port in the seventeenth and eighteenth centuries. Hoi An&rsquo;s architecture and relaxed lifestyle have changed little over the years. Take a leisurely walking tour of the ancient town center and visit the sites of former merchants&rsquo; homes, a 400 year-old Japanese Covered Bridge, and a Chinese Communal Hall. Believed to have been settled no less than 2,200 years ago, Hoi An was known as Faifo to early Western traders. &nbsp;Hoi An was one of the major ports of Southeast Asia from the 17th to 19th centuries. Chinese, Japanese, French, English, Spanish, Portuguese and other traders had small communities here, and the old wooden houses, bridges and temples that remain are reminiscent of a Vietnam of centuries past. This unique old trading town slowly became isolated due to its river silting up and by destroyed rail lines, leaving it untouched by war and frozen in time. Nowadays, this absolutely charming and relaxed town has been designated a UNESCO World Heritage Site. Free at leisure. Overnight at hotel in Hoian.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 6: Hoian &ndash; Hue ( B )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	This morning there is plenty of time to discover Hoian by yourself. You might like to take a boat ride with one of the local women across the Thu Bon River. Perhaps you would like to hire a bicycle and head off on a scenic ride to Cua Dai beach, about 4 km away. There&#39;s even the chance to improve your culinary skills with a Vietnamese cooking lesson. One thing is for sure - there is no shortage of things to do in this town!.&nbsp;Afternoon, say good bye Hoian and embark on northern bound journey to Hue, the former imperial capital of Vietnam. &nbsp;Stop en route at the beautiful Non Nuoc Beach and the Cham Museum, which contains the finest collection of Cham sculpture in the world. &nbsp;In Danang you will visit the Marble Mountains, five sacred hills containing dozens of Buddhist shrines. The guide and driver will take you over the beautiful Hai Van Pass - Vietnam&#39;s geographical and psychological boundary between north and south. The peak of the pass lies perpetually shrouded in clouds.Arrival Hue in Hue late afternoon, check in, relax.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 7: Hue city ( B, L )</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, we then set out for the exploration of Hue&#39;s famous highlights, including the Citadel and the Forbidden Purple City. Built in the 19th century by the Nguyen dynasty, the City was home to the former Emperors of Vietnam from 1802 until 1945. We embark on a boat for cruise upstream on the Perfume River, viewing the city and the tranquil villages on the riverbank. We will walk up to visit the Thien Mu pagoda, a nicely located pagoda, overlooks the Perfume River and the beautiful scenery beyond, where you get to learn more about the Buddhism in Vietnam. &nbsp;One of the most poignant displays here is a car belonging to a former monk, who in 1963, drove to Saigon and set himself alight to protest against the South Vietnamese regime and its treatment of Buddhists. Disembark the board for a visit the elaborate mausoleum of former emperor Tu Duc, built decades before its occupant&#39;s death the tomb was used as a palace retreat before the emperors final resting place. End of city tour with a walk to the bustling Dong Ba Market and pass many fantastic eating spots where visitors have a chance to sample some local delicacies. &nbsp;Overnight at hotel in Hue.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 8: Hue - Ho chi minh ( B, L)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Morning after breakfast transfer to airport for the flight to Ho chi minh. Pick up at Tan Son Nhat airport, transfer to city center. We spend the rest of the day to visit the Reunification Palace which was the former residence of the President of South Vietnam until end of April 1975, and some French colonial structures including the Notre Dame Cathedral, the Old Sai Gon Post Office before we shall see the exhibition on Vietnam War to the famous War Museum. Lunch at local restaurant. Afternoon, we pass a place with its famous lacquers and the tour ends at the city&#39;s finest shopping street, Dong Khoi Street and the bustling Ben Thanh Market where anything and everything is for sale. Overnight at hotel in Ho chi minh.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 9: Ho chi minh &ndash; Mekong delta &ndash; Ho chi minh (B, L)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, then drive to My Tho. After arrival in My Tho, you will ride on a local motor boat along Dragon Island, Unicorn Island, Phoenix Island, Turtle Island and stop at the famous Unicorn Island. While at the Unicorn Island, While at the Unicorn Island, you will visit natural pure honey at the bee keeping farm. Taste some honey tea, rice wine, banana wine&hellip; Walking on the village and taking rowing boat along the natural water coconut canal to see the local lifestyle in the Mekong Delta. From there, you will continue your motor boat trip to Ben Tre province to visit a handmade coconut candy workshop. Then transfer to a small motor boat and travel along the lush, green canals that are so beautiful for photography. Stop at local restaurant for lunch. After that we walk to another area on the Unicorn Island to visit the tropical fruit garden, enjoy the fruits &amp; listening to the Southern traditional music. Then the local motorboat will take you back to My Tho, where the car/van will drive you back to Ho chi minh city.Overnight at hotel in Ho Chi Minh City.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 10: Ho chi minh &ndash; Phu quoc (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Take the short flight from Saigon to Phu Quoc island, a sleepy tropical island in the Gulf of Thailand, 45km south-west of the Vietnam. Transfer to resort on arrival. Phu Quoc&#39;s interior is still mostly covered in dense tropical forest and its coastline is ringed with deserted sandy beaches. There are three days free to enjoy this tropical hideaway.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 11: Phu quoc beach (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Relax and enjoy your Phu quoc sandy beach: swim, sunbathe and take in the delights of this beautiful holiday resort. Optional sightseeing or visit to offshore islands, scuba diving and other water sports (by your own) or just relax and enjoy the resort facility. Overnight in Phu quoc.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 12: Phu quoc beach (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	All day free at leisure, relax at beautiful Phu quoc beaches.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	Day 13: Phu quoc- Ho chi minh (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	At leisure before transfer to airport for flight back Ho chi minh city. Pick up, transfer to the hotel in city. Check in, relax.</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Day 14: Ho chi minh departure (B)</h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Breakfast at hotel, free time until &nbsp;transfer to the airport for your departure flight. Say goodbye Vietnam.</p>
+',content_cn='<div>
+	第1天：抵达河内</div>
+<div>
+	第2天：河内城市观光（B，L）</div>
+<div>
+	第3天：河内 - 下龙湾在船上（早，午，晚餐）</div>
+<div>
+	第4天：下龙 - 河内 - 岘港 - 会安（B）</div>
+<div>
+	第5天：会安（B）</div>
+<div>
+	第6天：会安 - 顺化（B）</div>
+<div>
+	第7天：顺化市（B，L）</div>
+<div>
+	第8天：色调 - 胡志明市（早，午）</div>
+<div>
+	第9天：胡志明市 - 湄公河三角洲（B，L）</div>
+<div>
+	第10天：胡志明市 - 富国（B）</div>
+<div>
+	第11天：富国放松（B）</div>
+<div>
+	第12天：富国放松（B）</div>
+<div>
+	第13天：富国 - 胡志明市（B）</div>
+<div>
+	第14天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：抵达河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	河内内排机场抵达，您将受到热烈的欢迎和配合旅游指南与招牌转移到酒店，办理入住手续，放松。今天是自由活动休息或探索，发现越南自己的第一印象。夜宿酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：河内城市观光（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，开始城市游涌今天上午与胡志明情结。这个著名的网站包含国家的缔造者胡志明（周一，周五和十月进行年度维修关闭），总统府和胡志明高跷房子的陵墓。接近这个复杂的是独柱寺，CO的起源可以追溯到城市的基础。我们跟着这与令人印象深刻的民族学博物馆，专门为越南的54个民族。午餐于当地餐厅。下午，参观文庙，众所周知马越南，越南的第一所大学的第一所大学。在1070建造，花园和保存完好的建筑提供一个轻松窥见到越南的过去。我们将继续通过围绕周围的河内老城区的36街道环游览参观还剑湖（Hoan Kiem湖）和玉山寺，详细了解Hanoian的简单的生活。享受水上木偶显示─一个了不起的结合了传统的越南艺术形成CO音乐，烟火，水下木偶和木偶精心优雅地浮在water.Overnight在酒店在河内</div>
+<div>
+	第3天：河内 - 船上下龙湾（早，午，晚餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，然后8:30 AM开始通过红河三角洲到下龙市3.5小时车程。舒适站连接的照片和咖啡（由你自己的）路线抵达下龙湾City.11.30之前 - 12:15欢迎你鸿基观光港国际邮轮过夜入住12:30，欢迎饮料及计划引进13:00至14:30游船开始journeyLunch美食与当地的菜单服务，并通过在哈Longsuch的极端观点是踢狗岛，斗鸡岛，山顶梅家，添Cung洞，斗围棋岛... 15:00至16点探索惊喜洞 - 在下龙湾最著名的洞穴之一飞行。 16:30至17:30小船带你到海边Titop：来访的岛屿，爬200米的高度Titop山看到在海边Titop整个海湾和游泳。 18:00返回到您的巡航或放松或享受在bay19.30夕阳 - 在与menu21.00自由活动主办喜欢趴在甲板上或去捕捉乌贼......夜宿垃圾餐厅晚餐21:00。</div>
+<div>
+	第4天：下龙 - 河内 - 岘港航班 - 海（早午餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	瑞星海湾的宁静美丽有时间，争取早日钟晨泳与乐趣和情感观看海上其次是早餐日出。我们继续往前今天早上在海湾附近发现较偏僻的哪些方面。垃圾将始终充当nhữngC&oacute;需要一个备份船只靠近我们。在中午时分我们正在等待车辆3.5小时的车程到机场，飞往特吕克到岘港之前返回到主港我们运。导游接你在SE岘港，送往酒店在会安，检查，放松。</div>
+<div>
+	第5天：会安古镇（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天有很多的时间去探索会安古镇，在十七和十八世纪曾经是亚洲主要的贸易港口。会安的架构和悠闲的生活方式多年来变化不大。就拿古悠闲市中心的步行游览参观前客商的家的网站，一个400岁的日本廊桥和中国公共大厅。相信落脚2200年前过去时没少煤，被称为Faifo会安到早期的西方贸易商。会安是从17至19世纪东南亚的主要港口之一。中国人，日语，法语，英语，西班牙语，葡萄牙语等小社区&ldquo;曾在这里交易，而老木制房屋，桥梁，寺庙是让人想起有限公司次还过去几个世纪的越南。这种独特的老城区成为慢慢地分离交易无对淤塞通过破坏河流和铁路线，离开战争不变，并及时冻结了。如今，这绝对迷人和轻松的小镇联合国教科文组织指定为世界BI遗产。自由活动。夜宿酒店会安。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：会安 - 顺化（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	有很多今天早晨自己去发现会安时间。你可能想乘船与整个秋盆河当地的女性之一。也许你租一辆自行车&mu;介子，并阻止在一个风景优美的乘车前往楚带海滩，约4公里的路程。甚至还有电平与越南烹饪厨艺课程提高技能的机会。有一件事是肯定的 - 没有任何事情在这个小镇做&ldquo;荒！午后，在说海北部的必然之旅越南顺化的前帝国首都再见，走上。恩停止在美丽的努尔卡海滩和湛博物馆，世界蔡湛雕塑的最美好的收藏路线。在岘港，前往五行山禁令，包含许多佛教圣地五神山。该导游和司机带您在美丽的SE海云通 - 越南的地理和南北giữa心理界限。通的峰值就在于永远笼罩在色调色调在下午clouds.Arrival，检查，放松。</div>
+<div>
+	第7天：顺化市（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，再订出的色相著名的亮点，城堡和故宫GOM紫城的涌探索。由阮朝建于19世纪，城市是家庭对越南从1802年以前的皇帝到1945年我们购买，直到踏上船巡航上游的香水河，观赏城市和在河边宁静的村庄。我们将步行参观天姥寺，一个很好的位于宝塔，俯瞰着香水河和美丽的风光之外，你在哪里得到更多地了解了越南佛教。这里的一个最凄美的显示器是属于前行者，谁在1963年，驱车前往西贡，并给自己定下了抗议下车佛教徒的南越政权VA治疗一辆车。下船董事会进行了访问前皇帝嗣德的精心陵墓，建几十年trướcKHI在墓主死后被用作宫殿撤退最后的归宿是在皇帝面前。城市游与步行到繁华的东巴市场，并最终传递许多美妙的饮食景点，游客有机会品尝一些当地美食。夜宿酒店色调。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：色调 - 胡志明市（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐送往机场，飞往胡志明市后，早晨。拿起在新山一机场，转移到市中心。花了我们的休息，参观统一宫那天是南越总统故居mA断，直到1975年4月的结束，一些法国殖民结构巴黎圣母院GOM，老西贡邮局前，我们将看到的展会上著名的越南战争到战争博物馆。午餐于当地餐厅。当天下午，郑某凭借其通行的地方著名漆和游览这个城市最好的购物街，董Khoi大街繁华的滨城市场，其中任何东西，一切都是为了销售结束，。夜宿酒店在胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：胡志明市 - 湄公河三角洲 - 胡志明市（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐于酒店，然后开车到我的芹苴。在沿龙岛，麒麟岛，凤凰岛，龟岛当地摩托艇我的芹苴，禁车程，到达后停在著名的麒麟岛。而在麒麟岛，而在麒麟岛，在蜜蜂纯天然蜂蜜禁止访问用来饲养。品尝蜜茶，黄酒，葡萄酒香蕉......走在村里，并采取划船沿运河天然椰子水，看在湄公河三角洲当地的生活方式。从那里，继续禁止CUA机动船前往参观槟知省一个手工制作的椰子糖车间。然后转移到一个小机动船和旅行沿着郁郁葱葱的绿色运河是如此美丽摄影有限公司。在当地餐馆享用午餐。再经过步行到涌在麒麟岛CO面积参观热带水果园，享受水果和听江南传统音乐。那么本地摩托艇SE你回到我的芹苴，其中汽车/面包车SE开车送你回胡志明市city.Overnight在酒店胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：胡志明市 - 富国（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	乘坐从西贡到富国岛，在泰国湾一个沉睡的热带岛屿，越南45公里西南的短途飞行。转移到度假胜地的到来。富国的内饰依然大多覆盖着茂密的热带森林周围尽是弗吉尼亚州海岸线荒芜的沙滩。有三个无天，享受这个热带度假胜地。</div>
+<div>
+	第11天：富国海滩（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	放松和享受CUA富国沙滩：游泳，享受日光浴，并采取在这个美丽的度假胜地的乐趣。可选的观光或访问近海海岛，潜水等水上运动项目（由你自己的），或只是放松和享受度假设施。隔夜富国。</div>
+<div>
+	第12天：富国海滩（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	全日自由活动，在富国岛的美丽的海滩放松。</div>
+<div>
+	第13天：富国胡志明（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	在休闲是送往机场，乘机返回胡志明市前。接机，送往酒店的城市。检查，放松。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第14天：胡志明出发（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐于酒店，自由时间关闭，直到转移到机场，飞机起飞。说再见越南。</div>
+',list_img='',title='Vietnam Family Holiday 14 days',title_cn='Vietnam Family Holiday 14 days',keyword='Vietnam Family Holiday 14 days',keyword_cn='Vietnam Family Holiday 14 days',description='Vietnam Family Holiday 14 days',description_cn='Vietnam Family Holiday 14 days' where id=4;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',promotion='1',packages='1',name='Mekong Delta Discover 3 days',name_cn='湄公河三角洲发现3天',name_url='mekong-delta-discover-3-days',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='100',price_cn='100',durations='3 Days 2 Nights',durations_cn='3天2夜',departure='Hochiminh',destination='Cantho',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='3',schedule='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Ho Chi Minh City - Ben Tre - Boat Cruise - Home stay (L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Pick up at your hotel, Drive to Ben Tre. Here,&nbsp;take a boat to Coconut Island. Enjoy a brief walk on the island, trying native fruits and viewing local handicraft productions. Continue by boat to Tan Thach commune to visit a family-run enterprise making coconut candies. Take a horse-drawn cart to Quoi Son to visit a bee farm and to enjoy tea and candies. Float on a sampan through the narrow, tree-lined canals of the Mekong Delta. Enjoy lunch at Qui Island. After lunch continue by boat to Phu Tuc village for an overnight stay. Enjoy fishing and sightseeing during a late-afternoon rowboat trip along the Tien River. Visit a local family home and have a dinner of traditional Mekong Delta foods. After dinner take in a performance of traditional rural music. Spend the night in a home stay in Ben Tre.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Ben Tre - Cai Be Floating Market &ndash; Vinh Long &ndash; Can tho (B, L)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<img alt=\"Mekong-Delta.jpg\" border=\"0\" height=\"110\" src=\"http://www.asiaviewtravel.com/images/Download/Mekong-Delta.jpg\" style=\"margin: 0px; padding: 0px; border: none;\" width=\"160\" /></td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					After breakfast depart for Cai Be. Take a boat trip along the mighty Mekong River and its tributaries to view the daily lives of people who work and play on the waterways of the Mekong Delta and canals to Vinh Long. We will stop at the home of a Bonsai gardener for a sumptuous Delta lunch, including the popular dish of &quot;Elephant ear fish&quot;, before continuing our exploration of the tributaries and canals of the delta. Towards the end of the day we arrive in Can tho where we stay in a lovely hotel.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Can tho - Ho chi minh (B, L)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Rising early to the sounds of the Delta coming to life for another day, we breakfast and start our trip with a boat cruise on sparking streams along the endless waterway of Mighty Mekong River to Cai rang floating markets. There will be hundreds of boats loaded with fruits, vegetables and fish jostling for trade. Sellers advertisers their wares by crying out across the waters. We visit the lush orchards and are treated to a delicious tropical fruits. After Lunch,&nbsp; drive back&nbsp; to Ho Chi Minh city. Drop off at your hotel. End of tour.</p>
+',schedule_cn='<div>
+	第1天：胡志明市 - 槟知 - 游船 - 家庭寄宿（午，晚餐）</div>
+<div>
+	拿起您的酒店，驱车前往槟知。在这里，乘船到椰岛。享受岛上的一个简短的散步，试图本地水果和观赏当地手工艺品制作。坐船到潭公社西哈奇继续参观一个家庭式经营的企业制作的椰子糖果。乘坐马拉车到Quoi儿子参观养蜂场，并享受茶和糖果。通过湄公河三角洲的窄，绿树成荫的运河漂浮在舢板。在奎岛享用午餐。午餐后继续乘船到富TUC村里过夜。享受垂钓和观光KHI沿田河午后划艇之旅。家里参观当地的家庭和具有传统食品湄公河三角洲的晚餐。晚餐后参加传统乡村音乐的表现。借宿家庭留在槟。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：槟知 - 蔡是浮动的市场 - 永隆 - 芹苴（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	湄公河Delta.jpg</div>
+<div>
+	早餐后出发蔡定。您可以沿着强大的湄公河支流乘船前往查看VA谁的工作和湄公河三角洲为永隆和运河水道发挥人民的日常生活。我们将停止在盆景园丁回家了丰盛的午餐三角洲，包括&ldquo;象耳鱼&rdquo;的受欢迎的菜，就是继续我们三角洲的支流和运河探索前。朝一天结束的时候到达芹苴钟我们在哪里停留在一个可爱的酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：芹苴 - 胡志明市（早，午）</div>
+<div>
+	早起到三角洲未来生活的另一天，颂早餐，开始我们的游船之旅上沿引发无尽的湄公河航道流的强大蔡响了水上市场的声音。数以百计的船只将有满载水果，蔬菜和鱼拥挤贸易。通过在共同开发的海域哭出来卖房广告商品。我们参观郁郁葱葱的果园，是一个美味的热带水果处理，。午餐后，乘车返回胡志明市。在您的酒店下车。游览结束。</div>
+',price_list='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour includes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Tours &amp; transfers in private air-conditioned vehicles<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;1 night at hotel in Can tho with daily breakfast at selected hotels<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;1 night at home stay in Ben tre<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Private English speaking guide&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Meals as indicated in the itinerary at local restaurant with local foods (B = breakfast; L = Lunch; D = Dinner)<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Boat cruise as stated<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Entrance fees and permits for all sights visited<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Mineral Water and towel<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Government taxes &amp; Service charges</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour excludes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;International flights to and from Vietnam.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Vietnam visa arrangement (upon request visa on arrival at 15 USD, not including stamping fee at 25 USD)&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Meals not indicated in the itinerary&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;All other services which are not mentioned above<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal travel insurance (Compulsory).<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal expenses such as Telephone and Laundry bills.<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Tips and gratuities</p>
+',price_list_cn='<div>
+	游览包括：</div>
+<div>
+	&bull;旅游及私人空调车接送</div>
+<div>
+	&bull;1晚酒店芹苴与选定的酒店每日早餐</div>
+<div>
+	&bull;1晚住宿在家槟</div>
+<div>
+	&bull;私人英语导游</div>
+<div>
+	&bull;餐点在当地的食物当地餐厅的行程表示（B =早餐，L =午餐，D =晚餐）</div>
+<div>
+	&bull;作为陈述游船</div>
+<div>
+	&bull;所有景点门票参观和许可证</div>
+<div>
+	&bull;矿泉水和毛巾</div>
+<div>
+	&bull;政府税和服务费</div>
+<div>
+	&nbsp;</div>
+<div>
+	游不包括：</div>
+<div>
+	&bull;航班往返越南国际。</div>
+<div>
+	&bull;越南签证安排（应要求提供落地签证$ 15不包括在25美元冲压费）</div>
+<div>
+	&bull;客人没有在行程指示</div>
+<div>
+	&bull;所有其他服务上面没有提到M&agrave;</div>
+<div>
+	&bull;个人旅游保险（强制）。</div>
+<div>
+	&bull;个人费用和电话账单洗衣新和成。</div>
+<div>
+	&bull;提示及酬金</div>
+',content='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Ho Chi Minh City - Ben Tre - Boat Cruise - Home stay (L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Pick up at your hotel, Drive to Ben Tre. Here,&nbsp;take a boat to Coconut Island. Enjoy a brief walk on the island, trying native fruits and viewing local handicraft productions. Continue by boat to Tan Thach commune to visit a family-run enterprise making coconut candies. Take a horse-drawn cart to Quoi Son to visit a bee farm and to enjoy tea and candies. Float on a sampan through the narrow, tree-lined canals of the Mekong Delta. Enjoy lunch at Qui Island. After lunch continue by boat to Phu Tuc village for an overnight stay. Enjoy fishing and sightseeing during a late-afternoon rowboat trip along the Tien River. Visit a local family home and have a dinner of traditional Mekong Delta foods. After dinner take in a performance of traditional rural music. Spend the night in a home stay in Ben Tre.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Ben Tre - Cai Be Floating Market &ndash; Vinh Long &ndash; Can tho (B, L)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<img alt=\"Mekong-Delta.jpg\" border=\"0\" height=\"110\" src=\"http://www.asiaviewtravel.com/images/Download/Mekong-Delta.jpg\" style=\"margin: 0px; padding: 0px; border: none;\" width=\"160\" /></td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					After breakfast depart for Cai Be. Take a boat trip along the mighty Mekong River and its tributaries to view the daily lives of people who work and play on the waterways of the Mekong Delta and canals to Vinh Long. We will stop at the home of a Bonsai gardener for a sumptuous Delta lunch, including the popular dish of &quot;Elephant ear fish&quot;, before continuing our exploration of the tributaries and canals of the delta. Towards the end of the day we arrive in Can tho where we stay in a lovely hotel.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Can tho - Ho chi minh (B, L)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Rising early to the sounds of the Delta coming to life for another day, we breakfast and start our trip with a boat cruise on sparking streams along the endless waterway of Mighty Mekong River to Cai rang floating markets. There will be hundreds of boats loaded with fruits, vegetables and fish jostling for trade. Sellers advertisers their wares by crying out across the waters. We visit the lush orchards and are treated to a delicious tropical fruits. After Lunch,&nbsp; drive back&nbsp; to Ho Chi Minh city. Drop off at your hotel. End of tour.</p>
+',content_cn='<div>
+	第1天：胡志明市 - 槟知 - 游船 - 家庭寄宿（午，晚餐）</div>
+<div>
+	拿起您的酒店，驱车前往槟知。在这里，乘船到椰岛。享受岛上的一个简短的散步，试图本地水果和观赏当地手工艺品制作。坐船到潭公社西哈奇继续参观一个家庭式经营的企业制作的椰子糖果。乘坐马拉车到Quoi儿子参观养蜂场，并享受茶和糖果。通过湄公河三角洲的窄，绿树成荫的运河漂浮在舢板。在奎岛享用午餐。午餐后继续乘船到富TUC村里过夜。享受垂钓和观光KHI沿田河午后划艇之旅。家里参观当地的家庭和具有传统食品湄公河三角洲的晚餐。晚餐后参加传统乡村音乐的表现。借宿家庭留在槟。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：槟知 - 蔡是浮动的市场 - 永隆 - 芹苴（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	湄公河Delta.jpg</div>
+<div>
+	早餐后出发蔡定。您可以沿着强大的湄公河支流乘船前往查看VA谁的工作和湄公河三角洲为永隆和运河水道发挥人民的日常生活。我们将停止在盆景园丁回家了丰盛的午餐三角洲，包括&ldquo;象耳鱼&rdquo;的受欢迎的菜，就是继续我们三角洲的支流和运河探索前。朝一天结束的时候到达芹苴钟我们在哪里停留在一个可爱的酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：芹苴 - 胡志明市（早，午）</div>
+<div>
+	早起到三角洲未来生活的另一天，颂早餐，开始我们的游船之旅上沿引发无尽的湄公河航道流的强大蔡响了水上市场的声音。数以百计的船只将有满载水果，蔬菜和鱼拥挤贸易。通过在共同开发的海域哭出来卖房广告商品。我们参观郁郁葱葱的果园，是一个美味的热带水果处理，。午餐后，乘车返回胡志明市。在您的酒店下车。游览结束。</div>
+',list_img='',title='Mekong Delta Discover 3 days',title_cn='Mekong Delta Discover 3 days',keyword='Mekong Delta Discover 3 days',keyword_cn='Mekong Delta Discover 3 days',description='Mekong Delta Discover 3 days',description_cn='Mekong Delta Discover 3 days' where id=3;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',promotion='1',packages='1',name='Saigon - Mekong Discover 6 days',name_cn='西贡 - 湄公河发现6天',name_url='saigon-mekong-discover-6-days',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='90',price_cn='90',durations='6 Days 5 Nights',durations_cn='6天5夜',departure='Hochiminh',destination='Chaudoc',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='3',schedule='<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">This trip designed for individual traveler who is keen to explore all aspects of the Mekong Delta. Ho Chi Minh, Cu Chi Tunnel, Vinh Long, Cai Be floating market, Can Tho, Chau Doc and Sa Dec are some of what you will see on this itinerary.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Itinerary brief:</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 1: Ho Chi Minh City Arrival<br style=\"margin: 0px; padding: 0px;\" />
+	Day 2: Ho Chi Minh City - Cu chi - Ho Chi Minh&nbsp; (B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 3: Ho Chi Minh - My tho - Ben tre - Can Tho&nbsp;(B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 4: Can Tho - Chau Doc&nbsp;(B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 5: Chau Doc - Xeo Quit - Ho Chi Minh City&nbsp;(B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 6: Ho Chi Minh Departure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Itinerary in Details</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Ho Chi Minh City Arrival&nbsp;</strong><br style=\"margin: 0px; padding: 0px;\" />
+	On arrival at Tan Son Nhat Airport, you will be warmly welcomed and transfered to hotel in city center by private Asia View Travel&rsquo;s guide and driver, check in, relax. Overnight at hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Ho Chi Minh City - Cu chi - Ho Chi Minh City (B, L)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<img alt=\"Nha-tho-Duc-Ba-HCMC1.jpg\" border=\"0\" height=\"160\" src=\"http://www.asiaviewtravel.com/images/Download/Nha-tho-Duc-Ba-HCMC1.jpg\" style=\"margin: 0px; padding: 0px; border: none;\" width=\"110\" /></td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					The sightseeing tour of Ho Chi Minh City begins with a visit to the Reunification Palace which was the former residence of the President of South Vietnam until end of April 1975. Close to the palace are some striking French colonial structures including the Notre Dame Cathedral and the Old Sai Gon Post Office and the War Remnant Museum.<br style=\"margin: 0px; padding: 0px;\" />
+					Afternoon we drive out this afternoon to explore the Cu Chi Tunnels. At the height of the Vietnam war, the tunnel system stretched from the outskirts of Saigon&nbsp; all the way to the Cambodian border of over 250 kilometers of tunnels. The tunnel system, built over 25 years starting in the 1940s,&nbsp; let the Viet Minh&nbsp; and, later, the Viet Cong, control a huge rural area.&nbsp; It was an underground city with living areas, kitchens, storage, weapons factories, field hospitals, command centers.&nbsp; In places, it was several&nbsp; stories deep and housed up to 10,000 people who virtually lived underground for years.... getting married, giving birth,going to school. Transfer back HCM city for overnight.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Ho Chi Minh&nbsp; - My tho - Ben tre - Can Tho (B, L)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<img alt=\"cho-noi-4- new.JPG\" border=\"0\" height=\"110\" src=\"http://www.asiaviewtravel.com/images/Download/cho-noi-4-%20new.JPG\" style=\"margin: 0px; padding: 0px; border: none;\" width=\"160\" /></td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					8:00 AM You will be picked up at your hotel, transfer to My Tho, 84km from Ho chi minh city. This trip provides a look at a wide variety of the life and scenery on Vietnam River from the peaceful Mekong Delta region. The huge ships, which come from many different countries moving slowly, quietly along the river is what you will see at the Saigon River. Do not miss this sight! On the way you will see daily activities of local people along the river sellers and buyers bargaining, exchanging fish, the products that they got from their working on the sea. From My Tho, you will ride on a local motor boat around Dragon Island, Unicorn Island, Phoenix Island, Turtle Island and stop at the famous Unicorn Island. While at the Unicorn Island, you will take a short trek and go for a rowing boat trip. You will also enjoy lunch, tropical fruit and free time&nbsp; bike ride in the rural village.<br style=\"margin: 0px; padding: 0px;\" />
+					From there, you will continue your motor boat trip to Ben Tre province to visit a handmade coconut candy workshop. Then transfer to a small motor boat and travel along the lush, green canals that are so beautiful for photography. We continue drive to Can Tho. Overnight at the hotel in Can Tho.<br style=\"margin: 0px; padding: 0px;\" />
+					&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 4: Can Tho - Chau Doc (B, L)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Cruising along the small and picturesque tributaries by machine boat, we will see the Cai Rang floating market (the nicest one with heaps of rowing boats). Take in the beautiful scenery and the daily life in Mekong River and you will roam through the , village to visit a rice husking mill and a rice noodles making shop. We now travel by land to Chau Doc, on the way we will pass Crocodile Farm. On arrival at Chau Doc, visit the Sam mountain to enjoy the a breath-taking view and enjoy the sunset on the top of Sam Mountain. Over night at hotel in Chau Doc.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 5: Chau Doc - Xeo Quit - Ho Chi Minh City (B, L)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	The return trip begins as we depart this border town. A part of the pleasure of travelling in this region is the simple joy of seeing the rice fields and the smiling faces of the people. On arrival we board a boat for an exploration of the Xeo Quit Forest which was once a stronghold of the communist troop during the American wartime. This boundless cajeput forests are dissevered by numerous narrow canals surrounded by aquatic grass and plants, tall trees and vines. The cool and humid air mixing with the fragrance of flowers as well as the beautiful song of bird in the quiet environment make for an unforgettable excursion. After the boat trip we drive back to Ho Chi Minh City, passing through the charming countryside. Overnight at hotel Ho Chi Minh City.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 6: Ho Chi Minh Departure&nbsp;</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Breakfast at hotel, free time until&nbsp;transfer to&nbsp;the airport for your&nbsp;departure flight. Say goodbye Vietnam.</p>
+',schedule_cn='<div>
+	专为散客此行谁是热衷于探索湄公河三角洲的各个方面。胡志明市，古芝地道，永隆，蔡成为水上市场，芹苴，朱笃和萨dEC被一些什么，你会在这个行程见。</div>
+<div>
+	&nbsp;</div>
+<div>
+	简要行程：</div>
+<div>
+	第1天：胡志明市到达</div>
+<div>
+	第2天：胡志明市 - 古芝 - 胡志明市（早，午）</div>
+<div>
+	第3天：胡志明市 - 我的芹苴 - 本 - 芹苴（B，L）</div>
+<div>
+	第4天：芹苴 - 朱笃（B，L）</div>
+<div>
+	第5天：朱笃 - XEO退出 - 胡志明市（早，午）</div>
+<div>
+	第6天：胡志明市出发</div>
+<div>
+	&nbsp;</div>
+<div>
+	行程中的细节</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：胡志明市到达</div>
+<div>
+	论新山一机场后，你会受到热烈的欢迎，并在市中心地区查看旅行的导游和司机转移到私人酒店，办理入住手续，放松。夜宿酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：胡志明市 - 古芝 - 胡志明市（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	芽-寿 - 德钡HCMC1.jpg</div>
+<div>
+	胡志明市的观光旅游开始向统一宫参观了南越总统故居mA断，直到1975年四月靠近皇宫的结束有一些引人注目的法国殖民结构巴黎圣母院大教堂GOM和老西贡邮局和战争遗迹博物馆。</div>
+<div>
+	我们赶走下午下午游览古芝地道。在越南战争的高度，隧道系统从西贡郊区延伸到柬埔寨一路超过二百五十公里的隧道边界。隧道系统，内置了20世纪40年代开始25年来，让越南胡志明市和后来的越共，控制庞大的农村地区。这是一个地下城与谋生的地方，厨房，仓库，武器工厂，野战医院，指挥中心。在一些地方，它被安置奥钢联的故事深达10000人实际上谁住在地下多年....结婚，生下，上学。晚餐后，返回胡志明市过夜。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：胡志明市 - 我的芹苴 - 本 - 芹苴（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	换NOI -4- new.JPG</div>
+<div>
+	8:00 AM你将在酒店，距离胡志明市转移到我的芹苴，84公里被拾起。此行提供了一个看各种各样的和平生活和风景越南湄公河三角洲地区。巨大的船，kh&aacute;cDJO来自许多国家的缓慢移动，静静地沿河是你将在西贡河看到的。不要错过这个景象！在路上，你会看到沿河卖家和买家讨价还价的当地人，交换鱼的日常活动，产品来自共C&oacute;涌的海面上工作了。从围绕神龙岛，麒麟岛，凤凰岛，龟岛当地摩托艇我的芹苴，禁止行驶和停在著名的麒麟岛。而在麒麟岛，采取短期跋涉禁令，去划艇之旅。 *您将在乡村享受午餐cũng，热带水果和自由时间骑自行车。</div>
+<div>
+	从那里，继续禁止CUA机动船前往参观槟知省一个手工制作的椰子糖车间。然后转移到一个小机动船和旅行沿着郁郁葱葱的绿色运河是如此美丽摄影有限公司。我们将继续驱动器芹苴。隔夜在芹苴酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第4天：芹苴 - 朱笃（B，L）</div>
+<div>
+	沿着船机风景如画的小支流巡航，才让我们将看到水上市场（最好的一个用划艇的堆）。您可以在风景秀丽，湄公河，并通过禁止漫游的日常生活，参观碾米磨村和米粉制作店。现在，我们通过土地朱笃旅行，在路上，我们将通过鳄鱼农场。论朱笃抵达后参观山姆山享受一个惊人的观点，并享受山姆山顶日落。在晚上在酒店朱笃。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：朱笃 - XEO退出 - 胡志明市（早，午）</div>
+<div>
+	回程开始为钟离开这个边陲小镇。在这一地区旅行的乐趣的一部分是眼看着稻田和人民的笑脸的简单的快乐。到达目的地后板为XEO的涌勘探船退出森林曾经是共军的据点M&agrave;KHI美国战时。这无边的cajeput森林由草包围许多狭窄的运河和植物水生，高大的树木和藤蔓割裂。与花香，以及鸟在安静的环境优美的歌声凉爽和潮湿空气混合使一个难忘的游览。船行回来后开车涌胡志明市，穿过迷人的乡村。夜宿酒店胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：胡志明市出发</div>
+<div>
+	早餐于酒店，自由时间关闭，直到转移到机场，飞机起飞。说再见越南。</div>
+',price_list='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour includes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Tours &amp; transfers in private air-conditioned vehicles<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;All accommodation with daily breakfast at selected hotels<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Private English speaking guide&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Meals as indicated in the itinerary at local restaurant with local foods (B = breakfast; L = Lunch; D = Dinner)<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Boat cruise as stated<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Entrance fees and permits for all sights visited<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Mineral Water and towel<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Government taxes &amp; Service charges</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour excludes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;International flights to and from Vietnam.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Vietnam visa arrangement (upon request visa on arrival at 15 USD, not including stamping fee at 25 USD)&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Meals not indicated in the itinerary&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal travel insurance (Compulsory).<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal expenses such as Telephone and Laundry bills.<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Tips and gratuities</p>
+',price_list_cn='<div>
+	游览包括：</div>
+<div>
+	&bull;旅游及私人空调车接送</div>
+<div>
+	&bull;在选定的酒店，每日早餐所有住宿</div>
+<div>
+	&bull;私人英语导游</div>
+<div>
+	&bull;餐点在当地的食物当地餐厅的行程表示（B =早餐，L =午餐，D =晚餐）</div>
+<div>
+	&bull;作为陈述游船</div>
+<div>
+	&bull;所有景点门票参观和许可证</div>
+<div>
+	&bull;矿泉水和毛巾</div>
+<div>
+	&bull;政府税和服务费</div>
+<div>
+	&nbsp;</div>
+<div>
+	游不包括：</div>
+<div>
+	&bull;航班往返越南国际。</div>
+<div>
+	&bull;越南签证安排（应要求提供落地签证$ 15不包括在25美元冲压费）</div>
+<div>
+	&bull;客人没有在行程指示</div>
+<div>
+	&bull;个人旅游保险（强制）。</div>
+<div>
+	&bull;个人费用和电话账单洗衣新和成。</div>
+<div>
+	&bull;提示及酬金</div>
+',content='<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">This trip designed for individual traveler who is keen to explore all aspects of the Mekong Delta. Ho Chi Minh, Cu Chi Tunnel, Vinh Long, Cai Be floating market, Can Tho, Chau Doc and Sa Dec are some of what you will see on this itinerary.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Itinerary brief:</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Day 1: Ho Chi Minh City Arrival<br style=\"margin: 0px; padding: 0px;\" />
+	Day 2: Ho Chi Minh City - Cu chi - Ho Chi Minh&nbsp; (B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 3: Ho Chi Minh - My tho - Ben tre - Can Tho&nbsp;(B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 4: Can Tho - Chau Doc&nbsp;(B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 5: Chau Doc - Xeo Quit - Ho Chi Minh City&nbsp;(B, L)<br style=\"margin: 0px; padding: 0px;\" />
+	Day 6: Ho Chi Minh Departure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Itinerary in Details</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Ho Chi Minh City Arrival&nbsp;</strong><br style=\"margin: 0px; padding: 0px;\" />
+	On arrival at Tan Son Nhat Airport, you will be warmly welcomed and transfered to hotel in city center by private Asia View Travel&rsquo;s guide and driver, check in, relax. Overnight at hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Ho Chi Minh City - Cu chi - Ho Chi Minh City (B, L)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<img alt=\"Nha-tho-Duc-Ba-HCMC1.jpg\" border=\"0\" height=\"160\" src=\"http://www.asiaviewtravel.com/images/Download/Nha-tho-Duc-Ba-HCMC1.jpg\" style=\"margin: 0px; padding: 0px; border: none;\" width=\"110\" /></td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					The sightseeing tour of Ho Chi Minh City begins with a visit to the Reunification Palace which was the former residence of the President of South Vietnam until end of April 1975. Close to the palace are some striking French colonial structures including the Notre Dame Cathedral and the Old Sai Gon Post Office and the War Remnant Museum.<br style=\"margin: 0px; padding: 0px;\" />
+					Afternoon we drive out this afternoon to explore the Cu Chi Tunnels. At the height of the Vietnam war, the tunnel system stretched from the outskirts of Saigon&nbsp; all the way to the Cambodian border of over 250 kilometers of tunnels. The tunnel system, built over 25 years starting in the 1940s,&nbsp; let the Viet Minh&nbsp; and, later, the Viet Cong, control a huge rural area.&nbsp; It was an underground city with living areas, kitchens, storage, weapons factories, field hospitals, command centers.&nbsp; In places, it was several&nbsp; stories deep and housed up to 10,000 people who virtually lived underground for years.... getting married, giving birth,going to school. Transfer back HCM city for overnight.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Ho Chi Minh&nbsp; - My tho - Ben tre - Can Tho (B, L)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<img alt=\"cho-noi-4- new.JPG\" border=\"0\" height=\"110\" src=\"http://www.asiaviewtravel.com/images/Download/cho-noi-4-%20new.JPG\" style=\"margin: 0px; padding: 0px; border: none;\" width=\"160\" /></td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					8:00 AM You will be picked up at your hotel, transfer to My Tho, 84km from Ho chi minh city. This trip provides a look at a wide variety of the life and scenery on Vietnam River from the peaceful Mekong Delta region. The huge ships, which come from many different countries moving slowly, quietly along the river is what you will see at the Saigon River. Do not miss this sight! On the way you will see daily activities of local people along the river sellers and buyers bargaining, exchanging fish, the products that they got from their working on the sea. From My Tho, you will ride on a local motor boat around Dragon Island, Unicorn Island, Phoenix Island, Turtle Island and stop at the famous Unicorn Island. While at the Unicorn Island, you will take a short trek and go for a rowing boat trip. You will also enjoy lunch, tropical fruit and free time&nbsp; bike ride in the rural village.<br style=\"margin: 0px; padding: 0px;\" />
+					From there, you will continue your motor boat trip to Ben Tre province to visit a handmade coconut candy workshop. Then transfer to a small motor boat and travel along the lush, green canals that are so beautiful for photography. We continue drive to Can Tho. Overnight at the hotel in Can Tho.<br style=\"margin: 0px; padding: 0px;\" />
+					&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 4: Can Tho - Chau Doc (B, L)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Cruising along the small and picturesque tributaries by machine boat, we will see the Cai Rang floating market (the nicest one with heaps of rowing boats). Take in the beautiful scenery and the daily life in Mekong River and you will roam through the , village to visit a rice husking mill and a rice noodles making shop. We now travel by land to Chau Doc, on the way we will pass Crocodile Farm. On arrival at Chau Doc, visit the Sam mountain to enjoy the a breath-taking view and enjoy the sunset on the top of Sam Mountain. Over night at hotel in Chau Doc.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 5: Chau Doc - Xeo Quit - Ho Chi Minh City (B, L)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	The return trip begins as we depart this border town. A part of the pleasure of travelling in this region is the simple joy of seeing the rice fields and the smiling faces of the people. On arrival we board a boat for an exploration of the Xeo Quit Forest which was once a stronghold of the communist troop during the American wartime. This boundless cajeput forests are dissevered by numerous narrow canals surrounded by aquatic grass and plants, tall trees and vines. The cool and humid air mixing with the fragrance of flowers as well as the beautiful song of bird in the quiet environment make for an unforgettable excursion. After the boat trip we drive back to Ho Chi Minh City, passing through the charming countryside. Overnight at hotel Ho Chi Minh City.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 6: Ho Chi Minh Departure&nbsp;</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Breakfast at hotel, free time until&nbsp;transfer to&nbsp;the airport for your&nbsp;departure flight. Say goodbye Vietnam.</p>
+',content_cn='<div>
+	专为散客此行谁是热衷于探索湄公河三角洲的各个方面。胡志明市，古芝地道，永隆，蔡成为水上市场，芹苴，朱笃和萨dEC被一些什么，你会在这个行程见。</div>
+<div>
+	&nbsp;</div>
+<div>
+	简要行程：</div>
+<div>
+	第1天：胡志明市到达</div>
+<div>
+	第2天：胡志明市 - 古芝 - 胡志明市（早，午）</div>
+<div>
+	第3天：胡志明市 - 我的芹苴 - 本 - 芹苴（B，L）</div>
+<div>
+	第4天：芹苴 - 朱笃（B，L）</div>
+<div>
+	第5天：朱笃 - XEO退出 - 胡志明市（早，午）</div>
+<div>
+	第6天：胡志明市出发</div>
+<div>
+	&nbsp;</div>
+<div>
+	行程中的细节</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：胡志明市到达</div>
+<div>
+	论新山一机场后，你会受到热烈的欢迎，并在市中心地区查看旅行的导游和司机转移到私人酒店，办理入住手续，放松。夜宿酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：胡志明市 - 古芝 - 胡志明市（早，午）</div>
+<div>
+	&nbsp;</div>
+<div>
+	芽-寿 - 德钡HCMC1.jpg</div>
+<div>
+	胡志明市的观光旅游开始向统一宫参观了南越总统故居mA断，直到1975年四月靠近皇宫的结束有一些引人注目的法国殖民结构巴黎圣母院大教堂GOM和老西贡邮局和战争遗迹博物馆。</div>
+<div>
+	我们赶走下午下午游览古芝地道。在越南战争的高度，隧道系统从西贡郊区延伸到柬埔寨一路超过二百五十公里的隧道边界。隧道系统，内置了20世纪40年代开始25年来，让越南胡志明市和后来的越共，控制庞大的农村地区。这是一个地下城与谋生的地方，厨房，仓库，武器工厂，野战医院，指挥中心。在一些地方，它被安置奥钢联的故事深达10000人实际上谁住在地下多年....结婚，生下，上学。晚餐后，返回胡志明市过夜。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：胡志明市 - 我的芹苴 - 本 - 芹苴（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	换NOI -4- new.JPG</div>
+<div>
+	8:00 AM你将在酒店，距离胡志明市转移到我的芹苴，84公里被拾起。此行提供了一个看各种各样的和平生活和风景越南湄公河三角洲地区。巨大的船，kh&aacute;cDJO来自许多国家的缓慢移动，静静地沿河是你将在西贡河看到的。不要错过这个景象！在路上，你会看到沿河卖家和买家讨价还价的当地人，交换鱼的日常活动，产品来自共C&oacute;涌的海面上工作了。从围绕神龙岛，麒麟岛，凤凰岛，龟岛当地摩托艇我的芹苴，禁止行驶和停在著名的麒麟岛。而在麒麟岛，采取短期跋涉禁令，去划艇之旅。 *您将在乡村享受午餐cũng，热带水果和自由时间骑自行车。</div>
+<div>
+	从那里，继续禁止CUA机动船前往参观槟知省一个手工制作的椰子糖车间。然后转移到一个小机动船和旅行沿着郁郁葱葱的绿色运河是如此美丽摄影有限公司。我们将继续驱动器芹苴。隔夜在芹苴酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第4天：芹苴 - 朱笃（B，L）</div>
+<div>
+	沿着船机风景如画的小支流巡航，才让我们将看到水上市场（最好的一个用划艇的堆）。您可以在风景秀丽，湄公河，并通过禁止漫游的日常生活，参观碾米磨村和米粉制作店。现在，我们通过土地朱笃旅行，在路上，我们将通过鳄鱼农场。论朱笃抵达后参观山姆山享受一个惊人的观点，并享受山姆山顶日落。在晚上在酒店朱笃。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：朱笃 - XEO退出 - 胡志明市（早，午）</div>
+<div>
+	回程开始为钟离开这个边陲小镇。在这一地区旅行的乐趣的一部分是眼看着稻田和人民的笑脸的简单的快乐。到达目的地后板为XEO的涌勘探船退出森林曾经是共军的据点M&agrave;KHI美国战时。这无边的cajeput森林由草包围许多狭窄的运河和植物水生，高大的树木和藤蔓割裂。与花香，以及鸟在安静的环境优美的歌声凉爽和潮湿空气混合使一个难忘的游览。船行回来后开车涌胡志明市，穿过迷人的乡村。夜宿酒店胡志明市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：胡志明市出发</div>
+<div>
+	早餐于酒店，自由时间关闭，直到转移到机场，飞机起飞。说再见越南。</div>
+',list_img='',title='Saigon - Mekong Discover 6 days',title_cn='Saigon - Mekong Discover 6 days',keyword='Saigon - Mekong Discover 6 days',keyword_cn='Saigon - Mekong Discover 6 days',description='Saigon - Mekong Discover 6 days',description_cn='Saigon - Mekong Discover 6 days' where id=2;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',promotion='1',packages='1',name='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',name_cn='从胡志明市半天古芝地道乘豪华快艇',name_url='half-day-cu-chi-tunnels-from-ho-chi-minh-city-by-luxury-speedboat',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='84.46',price_cn='84.46',durations='3 days 4 nights',durations_cn='3天4夜',departure='Cu Chi',destination='Ho Chi Minh',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',schedule='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	38 meters (125 feet) long<br style=\"margin: 0px; padding: 0px;\" />
+	8 meters (23 feet) wide<br style=\"margin: 0px; padding: 0px;\" />
+	03 desks, 02 bars<br style=\"margin: 0px; padding: 0px;\" />
+	01 small library<br style=\"margin: 0px; padding: 0px;\" />
+	01 message room<br style=\"margin: 0px; padding: 0px;\" />
+	Total number of room 10<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Deluxe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Room&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<strong style=\"margin: 0px; padding: 0px;\">Ginger Deluxe room</strong><br style=\"margin: 0px; padding: 0px;\" />
+				Number of rooms:&nbsp;&nbsp;&nbsp;&nbsp; 2<br style=\"margin: 0px; padding: 0px;\" />
+				Average room size:&nbsp;&nbsp;&nbsp;16 sqm<br style=\"margin: 0px; padding: 0px;\" />
+				Number of beds: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01 Queen - size bed of 165 cm x 205 cm<br style=\"margin: 0px; padding: 0px;\" />
+				Maximum number of persons allowed: &nbsp; 02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+				Panorama seaview:&nbsp;&nbsp;&nbsp;&nbsp; 03<br style=\"margin: 0px; padding: 0px;\" />
+				Room type:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Non - smoking</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					<strong style=\"margin: 0px; padding: 0px;\">Ginger&nbsp; room</strong><br style=\"margin: 0px; padding: 0px;\" />
+					Number of rooms:&nbsp;&nbsp;&nbsp; 8<br style=\"margin: 0px; padding: 0px;\" />
+					Average room size:&nbsp;&nbsp;&nbsp;14 sqm<br style=\"margin: 0px; padding: 0px;\" />
+					Number of beds: &nbsp;&nbsp;&nbsp;&nbsp; 02 single - size beds of 95 cm x 205 cm each<br style=\"margin: 0px; padding: 0px;\" />
+					Maximum number of persons allowed: &nbsp;02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+					Panorama seaview:&nbsp;&nbsp;&nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+					Room type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non - smoking</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Room amenities (all room types)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				Individually controlled air-conditioning&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Stocked mini-bar&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				In-house phone<br style=\"margin: 0px; padding: 0px;\" />
+				Slippers&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Wardrobe<br style=\"margin: 0px; padding: 0px;\" />
+				Umbrella/raincoat at the reception<br style=\"margin: 0px; padding: 0px;\" />
+				Separate glass standing shower cabin<br style=\"margin: 0px; padding: 0px;\" />
+				Bath robe</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				Electric shaver outlet<br style=\"margin: 0px; padding: 0px;\" />
+				Shower<br style=\"margin: 0px; padding: 0px;\" />
+				Hot water<br style=\"margin: 0px; padding: 0px;\" />
+				Hair dryer (request housekeeping)&nbsp;&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Bathroom amenities<br style=\"margin: 0px; padding: 0px;\" />
+				Life vests<br style=\"margin: 0px; padding: 0px;\" />
+				Toilet<br style=\"margin: 0px; padding: 0px;\" />
+				Fire extingisher / Smoke detector</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Life on board</strong><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Measuring 38 meters (125 feet) long and 8 meters (23 feet) wide, our custom-built wooden junk features three decks, all outfitted with elegant Asian inspired decor. The lower deck is devoted to Passenger Cabins, with sleeping space for 20 people. The Reception, Restaurant, Ginger Bar, Gift Shop and Library are all located on the main deck. On the top deck passengers will find the Sunset Bar and a spacious lounge area, perfect for our morning Tai Chi classes, weekend BBQs and sunset cocktails. Guests are welcome to make use of our binoculars, snorkeling equipment, and top-of-the-line Canadian made Seaward kayaks.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Restaurant</strong><br style=\"margin: 0px; padding: 0px;\" />
+	A pleasant ambiance, attentive staff and great views make our restaurant the perfect place to sample the exotic delights of Vietnamese cuisine. Guests can look forward to lavish international breakfast buffets, casual, sit-down lunches of Vietnamese dishes, and formal dinners with delectable fusion cuisine. All dishes are prepared to please both the eye and the palate. Special BBQ dinners are served on the Sundeck on weekends, or upon a group&rsquo;s request</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">ITINERARY 3 DAYS 2 NIGHTS</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Hanoi - Halong Ginger&nbsp;Cruise (L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	We depart from the capital at 8 :30 am for Ha Long Bay approximately three hours away. En route, we stop on the way for short break and&nbsp; photo.. Upon arrival at Ha Long Bay&nbsp; we will be met by captain and cruise and transferred to our deluxe junk. Welcome aboard and set sail through bay while lunch is served. Passage into the magical bay, where thousands of sculpted limestone islands rise from the waves like dragons&rsquo; teeth.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	After lunch, take a short trek to a nearby summit for a panoramic view of the bay dotted with golden sails, go swimming on a quite beach or sunbathing on the sundeck.&nbsp; Later afternoon, visit an interesting fishing village with opportunity to interact with fishmen who have been living in the bay for almost three generations.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	Back on board and enjoy cocktails while watching sunset and later unwind at restaurant for a lavish dinner</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Halong Bay Cruise with Ginger (B, L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	After breakfast, transfer to your day &ndash; trip boat with private crew and cruise to the bay&rsquo;s most untouched areas. Enjoy swimming on quiet beaches, visiting water tunnels, fishing villages or kayaking. Lunch served on board by your private chef. Return to the mother boat for the night.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Halong Bay &ndash; Hanoi (Brunch)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Greet the day with a morning Tai Chi exercise with an opportunity to view the sunrise over the bay. After breakfast, visit beautiful limestone grotto then back to the boat for a final glimpse of the Halong Bay while cruising back to the dock.<br style=\"margin: 0px; padding: 0px;\" />
+	The car and driver will pic k up you, transfer back Hanoi. Drop off at your hotel in Hanoi. End of tour.</p>
+',schedule_cn='<div>
+	38米（125英尺）</div>
+<div>
+	8米（23英尺）宽</div>
+<div>
+	03桌，02条</div>
+<div>
+	01小型图书馆</div>
+<div>
+	01消息房间</div>
+<div>
+	房间10总数</div>
+<div>
+	姜豪华02</div>
+<div>
+	生姜08室</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	姜豪华房</div>
+<div>
+	房间数：2</div>
+<div>
+	平均客房面积：16平方米</div>
+<div>
+	病床数：01女王 - 165厘米&times;205厘米大床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：03</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	姜室</div>
+<div>
+	房间数：8</div>
+<div>
+	平均客房面积：14平方米</div>
+<div>
+	病床数：02单 - 95厘米&times;205厘米每个尺寸的床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：02</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	房间设施（所有房型）</div>
+<div>
+	&nbsp;</div>
+<div>
+	独立控制空调</div>
+<div>
+	迷你酒吧</div>
+<div>
+	在内部电话</div>
+<div>
+	拖鞋</div>
+<div>
+	衣柜</div>
+<div>
+	雨伞/雨衣在招待会</div>
+<div>
+	独立的玻璃站立淋浴房</div>
+<div>
+	浴袍</div>
+<div>
+	电动剃须刀插座</div>
+<div>
+	淋浴</div>
+<div>
+	热水</div>
+<div>
+	吹风机（要求家政）</div>
+<div>
+	浴室设施</div>
+<div>
+	救生衣</div>
+<div>
+	厕所</div>
+<div>
+	消防extingisher /烟雾探测器</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	船上的生活</div>
+<div>
+	测量38米（125英尺）长，8米（23英尺）宽，我们的定制木帆船特色三层甲板，全部采用典雅的亚洲风格的装饰装备。下层是专门客舱，与20人的睡眠空间。接待处，餐厅，酒吧生姜，礼品店和图书馆都位于主甲板上。在顶层甲板的乘客会发现，日落酒吧和一个宽敞的休息区，非常适合我们早上太极班，周末烧烤和日落鸡尾酒。客人可以利用我们的望远镜，潜水设备，以及顶级的在线加拿大取得西沃德皮艇。</div>
+<div>
+	餐厅</div>
+<div>
+	一个愉悦的氛围，细心的工作人员和美丽的风景让我们的餐厅品尝越南美食，异国美食的完美场所。客人可以期待丰盛的国际自助早餐，休闲，坐下来越南菜肴的午餐，并与美味的风味美食正式晚宴。所有的菜都准备请两个眼睛和上腭。特殊的烧烤晚餐送达森德克在周末，或者在一个小组的要求</div>
+<div>
+	&nbsp;</div>
+<div>
+	行程3天2夜</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：河内 - 下龙湾姜游轮（午，晚餐）</div>
+<div>
+	我们从首都起飞时刻为8时30分的下龙湾约三小时的路程。途中，我们停止对短暂的休息和照片的方式..一旦在下龙湾我们将船长和巡航得到满足，转移到我们的豪华垃圾的到来。欢迎登机，虽然供应午餐通过海湾起航。通道进入神奇的海湾，在那里成千上万的雕刻石灰岩岛屿，从波浪状龙的牙齿上升。</div>
+<div>
+	午餐后，采取短期跋涉到附近的峰会上点缀着金色的船帆一个海湾尽收眼底，去游泳在安静的海滩享受日光浴，或在阳台上。后来下午参观了一个有趣的渔村机会与谁一直生活在海湾几乎三代渔夫交互。</div>
+<div>
+	回到船上，享受一边看日落鸡尾酒，后来在餐厅享受一个奢华的晚餐</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：下龙湾游船姜（早，午，晚餐）</div>
+<div>
+	私人船员和邮轮旅游船海湾最从未接触过的地区 - 早餐后，转移到你的一天。喜欢游泳的宁静的海滩，参观水隧道，渔村和皮划艇。午餐由您的私人厨师在船上用餐。返回母船过夜。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾 - 河内（早午餐）</div>
+<div>
+	迎接新的一天早晨太极拳练习有机会在海湾观日出。早餐后，游览美丽的石灰岩洞穴，然后回船下龙湾的最后一瞥，而巡航回到了被告席。</div>
+<div>
+	赛车和车手将PIC k上一你，驱车返回河内。在你的酒店在河内下车。游览结束。</div>
+',price_list='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour includes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;3 days Ginger cruise as stated&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;2 night 2 in double/twin private cabin on Ginger boat<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Round Trip private&nbsp; transfers in private air-conditioned vehicles from Hanoi<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;English speaking guide on board&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Welcome drink<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;2 Lunches, 2 Dinners and 1 Breakfast and 1 Brunch on board<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Kayak on day 2<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Entrance fees and permits for all sights visited<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Onboard Insurance<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Government taxes &amp; Service charges</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour excludes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;International flights to and from Vietnam.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Vietnam visa arrangement (upon request visa on arrival at 15 USD, not including stamping fee at 25 USD)&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;All other services which are not mentioned above<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal travel insurance (Compulsory).<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Peak surcharge for Christmas, New Year and Lunar New Year<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal expenses such as Telephone and Laundry bills, Spa<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Tips and gratuities</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Children Policy:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Children aged from 5 -11 will&nbsp; bear 50% adult&rsquo;s cost&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Children under 5 year old will be free of charge&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Children reduction applicable only if sharing a cabin with maximum of 2 adults and only 1 child maximum per cabin</p>
+<div>
+	&nbsp;</div>
+',price_list_cn='<div>
+	游览包括：</div>
+<div>
+	&bull;3天姜克鲁斯说</div>
+<div>
+	&bull;2夜2在姜舟大床/双床私人小屋</div>
+<div>
+	&bull;在从河内私人空调车往返私人接送</div>
+<div>
+	&bull;英语船上指南</div>
+<div>
+	&bull;欢迎饮料</div>
+<div>
+	&bull;2午餐，晚餐2和1份早餐和早午餐1船上</div>
+<div>
+	&bull;独木舟第2天</div>
+<div>
+	&bull;所有景点门票和参观证</div>
+<div>
+	&bull;板载保险</div>
+<div>
+	&bull;政府税和服务费</div>
+<div>
+	&nbsp;</div>
+<div>
+	游不包括：</div>
+<div>
+	&bull;国际航班往返越南。</div>
+<div>
+	&bull;越南签证安排（在15美元时要求客人在抵达签证，这还不包括在25美元冲压费）</div>
+<div>
+	&bull;这是不是上面提到的所有其他服务</div>
+<div>
+	&bull;个人旅游保险（强制）。</div>
+<div>
+	&bull;峰附加费圣诞节，新年及农历新年</div>
+<div>
+	&bull;个人消费，如电话和洗衣票据，温泉</div>
+<div>
+	&bull;提示及酬金</div>
+<div>
+	&nbsp;</div>
+<div>
+	儿童政策：</div>
+<div>
+	&bull;从5 -11岁的儿童将承担50％的成年的成本</div>
+<div>
+	&bull;在5岁的儿童将是免费的</div>
+<div>
+	&bull;仅减少儿童如果适用与共享最多2名成人舱和只每舱1名儿童最大</div>
+',content='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	38 meters (125 feet) long<br style=\"margin: 0px; padding: 0px;\" />
+	8 meters (23 feet) wide<br style=\"margin: 0px; padding: 0px;\" />
+	03 desks, 02 bars<br style=\"margin: 0px; padding: 0px;\" />
+	01 small library<br style=\"margin: 0px; padding: 0px;\" />
+	01 message room<br style=\"margin: 0px; padding: 0px;\" />
+	Total number of room 10<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Deluxe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Room&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<strong style=\"margin: 0px; padding: 0px;\">Ginger Deluxe room</strong><br style=\"margin: 0px; padding: 0px;\" />
+				Number of rooms:&nbsp;&nbsp;&nbsp;&nbsp; 2<br style=\"margin: 0px; padding: 0px;\" />
+				Average room size:&nbsp;&nbsp;&nbsp;16 sqm<br style=\"margin: 0px; padding: 0px;\" />
+				Number of beds: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01 Queen - size bed of 165 cm x 205 cm<br style=\"margin: 0px; padding: 0px;\" />
+				Maximum number of persons allowed: &nbsp; 02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+				Panorama seaview:&nbsp;&nbsp;&nbsp;&nbsp; 03<br style=\"margin: 0px; padding: 0px;\" />
+				Room type:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Non - smoking</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					<strong style=\"margin: 0px; padding: 0px;\">Ginger&nbsp; room</strong><br style=\"margin: 0px; padding: 0px;\" />
+					Number of rooms:&nbsp;&nbsp;&nbsp; 8<br style=\"margin: 0px; padding: 0px;\" />
+					Average room size:&nbsp;&nbsp;&nbsp;14 sqm<br style=\"margin: 0px; padding: 0px;\" />
+					Number of beds: &nbsp;&nbsp;&nbsp;&nbsp; 02 single - size beds of 95 cm x 205 cm each<br style=\"margin: 0px; padding: 0px;\" />
+					Maximum number of persons allowed: &nbsp;02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+					Panorama seaview:&nbsp;&nbsp;&nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+					Room type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non - smoking</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Room amenities (all room types)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				Individually controlled air-conditioning&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Stocked mini-bar&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				In-house phone<br style=\"margin: 0px; padding: 0px;\" />
+				Slippers&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Wardrobe<br style=\"margin: 0px; padding: 0px;\" />
+				Umbrella/raincoat at the reception<br style=\"margin: 0px; padding: 0px;\" />
+				Separate glass standing shower cabin<br style=\"margin: 0px; padding: 0px;\" />
+				Bath robe</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				Electric shaver outlet<br style=\"margin: 0px; padding: 0px;\" />
+				Shower<br style=\"margin: 0px; padding: 0px;\" />
+				Hot water<br style=\"margin: 0px; padding: 0px;\" />
+				Hair dryer (request housekeeping)&nbsp;&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Bathroom amenities<br style=\"margin: 0px; padding: 0px;\" />
+				Life vests<br style=\"margin: 0px; padding: 0px;\" />
+				Toilet<br style=\"margin: 0px; padding: 0px;\" />
+				Fire extingisher / Smoke detector</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Life on board</strong><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Measuring 38 meters (125 feet) long and 8 meters (23 feet) wide, our custom-built wooden junk features three decks, all outfitted with elegant Asian inspired decor. The lower deck is devoted to Passenger Cabins, with sleeping space for 20 people. The Reception, Restaurant, Ginger Bar, Gift Shop and Library are all located on the main deck. On the top deck passengers will find the Sunset Bar and a spacious lounge area, perfect for our morning Tai Chi classes, weekend BBQs and sunset cocktails. Guests are welcome to make use of our binoculars, snorkeling equipment, and top-of-the-line Canadian made Seaward kayaks.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Restaurant</strong><br style=\"margin: 0px; padding: 0px;\" />
+	A pleasant ambiance, attentive staff and great views make our restaurant the perfect place to sample the exotic delights of Vietnamese cuisine. Guests can look forward to lavish international breakfast buffets, casual, sit-down lunches of Vietnamese dishes, and formal dinners with delectable fusion cuisine. All dishes are prepared to please both the eye and the palate. Special BBQ dinners are served on the Sundeck on weekends, or upon a group&rsquo;s request</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">ITINERARY 3 DAYS 2 NIGHTS</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Hanoi - Halong Ginger&nbsp;Cruise (L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	We depart from the capital at 8 :30 am for Ha Long Bay approximately three hours away. En route, we stop on the way for short break and&nbsp; photo.. Upon arrival at Ha Long Bay&nbsp; we will be met by captain and cruise and transferred to our deluxe junk. Welcome aboard and set sail through bay while lunch is served. Passage into the magical bay, where thousands of sculpted limestone islands rise from the waves like dragons&rsquo; teeth.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	After lunch, take a short trek to a nearby summit for a panoramic view of the bay dotted with golden sails, go swimming on a quite beach or sunbathing on the sundeck.&nbsp; Later afternoon, visit an interesting fishing village with opportunity to interact with fishmen who have been living in the bay for almost three generations.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	Back on board and enjoy cocktails while watching sunset and later unwind at restaurant for a lavish dinner</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Halong Bay Cruise with Ginger (B, L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	After breakfast, transfer to your day &ndash; trip boat with private crew and cruise to the bay&rsquo;s most untouched areas. Enjoy swimming on quiet beaches, visiting water tunnels, fishing villages or kayaking. Lunch served on board by your private chef. Return to the mother boat for the night.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Halong Bay &ndash; Hanoi (Brunch)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Greet the day with a morning Tai Chi exercise with an opportunity to view the sunrise over the bay. After breakfast, visit beautiful limestone grotto then back to the boat for a final glimpse of the Halong Bay while cruising back to the dock.<br style=\"margin: 0px; padding: 0px;\" />
+	The car and driver will pic k up you, transfer back Hanoi. Drop off at your hotel in Hanoi. End of tour.</p>
+',content_cn='<div>
+	38米（125英尺）</div>
+<div>
+	8米（23英尺）宽</div>
+<div>
+	03桌，02条</div>
+<div>
+	01小型图书馆</div>
+<div>
+	01消息房间</div>
+<div>
+	房间10总数</div>
+<div>
+	姜豪华02</div>
+<div>
+	生姜08室</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	姜豪华房</div>
+<div>
+	房间数：2</div>
+<div>
+	平均客房面积：16平方米</div>
+<div>
+	病床数：01女王 - 165厘米&times;205厘米大床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：03</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	姜室</div>
+<div>
+	房间数：8</div>
+<div>
+	平均客房面积：14平方米</div>
+<div>
+	病床数：02单 - 95厘米&times;205厘米每个尺寸的床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：02</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	房间设施（所有房型）</div>
+<div>
+	&nbsp;</div>
+<div>
+	独立控制空调</div>
+<div>
+	迷你酒吧</div>
+<div>
+	在内部电话</div>
+<div>
+	拖鞋</div>
+<div>
+	衣柜</div>
+<div>
+	雨伞/雨衣在招待会</div>
+<div>
+	独立的玻璃站立淋浴房</div>
+<div>
+	浴袍</div>
+<div>
+	电动剃须刀插座</div>
+<div>
+	淋浴</div>
+<div>
+	热水</div>
+<div>
+	吹风机（要求家政）</div>
+<div>
+	浴室设施</div>
+<div>
+	救生衣</div>
+<div>
+	厕所</div>
+<div>
+	消防extingisher /烟雾探测器</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	船上的生活</div>
+<div>
+	测量38米（125英尺）长，8米（23英尺）宽，我们的定制木帆船特色三层甲板，全部采用典雅的亚洲风格的装饰装备。下层是专门客舱，与20人的睡眠空间。接待处，餐厅，酒吧生姜，礼品店和图书馆都位于主甲板上。在顶层甲板的乘客会发现，日落酒吧和一个宽敞的休息区，非常适合我们早上太极班，周末烧烤和日落鸡尾酒。客人可以利用我们的望远镜，潜水设备，以及顶级的在线加拿大取得西沃德皮艇。</div>
+<div>
+	餐厅</div>
+<div>
+	一个愉悦的氛围，细心的工作人员和美丽的风景让我们的餐厅品尝越南美食，异国美食的完美场所。客人可以期待丰盛的国际自助早餐，休闲，坐下来越南菜肴的午餐，并与美味的风味美食正式晚宴。所有的菜都准备请两个眼睛和上腭。特殊的烧烤晚餐送达森德克在周末，或者在一个小组的要求</div>
+<div>
+	&nbsp;</div>
+<div>
+	行程3天2夜</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：河内 - 下龙湾姜游轮（午，晚餐）</div>
+<div>
+	我们从首都起飞时刻为8时30分的下龙湾约三小时的路程。途中，我们停止对短暂的休息和照片的方式..一旦在下龙湾我们将船长和巡航得到满足，转移到我们的豪华垃圾的到来。欢迎登机，虽然供应午餐通过海湾起航。通道进入神奇的海湾，在那里成千上万的雕刻石灰岩岛屿，从波浪状龙的牙齿上升。</div>
+<div>
+	午餐后，采取短期跋涉到附近的峰会上点缀着金色的船帆一个海湾尽收眼底，去游泳在安静的海滩享受日光浴，或在阳台上。后来下午参观了一个有趣的渔村机会与谁一直生活在海湾几乎三代渔夫交互。</div>
+<div>
+	回到船上，享受一边看日落鸡尾酒，后来在餐厅享受一个奢华的晚餐</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：下龙湾游船姜（早，午，晚餐）</div>
+<div>
+	私人船员和邮轮旅游船海湾最从未接触过的地区 - 早餐后，转移到你的一天。喜欢游泳的宁静的海滩，参观水隧道，渔村和皮划艇。午餐由您的私人厨师在船上用餐。返回母船过夜。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾 - 河内（早午餐）</div>
+<div>
+	迎接新的一天早晨太极拳练习有机会在海湾观日出。早餐后，游览美丽的石灰岩洞穴，然后回船下龙湾的最后一瞥，而巡航回到了被告席。</div>
+<div>
+	赛车和车手将PIC k上一你，驱车返回河内。在你的酒店在河内下车。游览结束。</div>
+',list_img='',title='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',title_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',keyword='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',keyword_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',description='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',description_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat' where id=1;
+update tour set DanhMuc1Id='6',DanhMuc2Id='15',promotion='1',packages='1',name='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',name_cn='从胡志明市半天古芝地道乘豪华快艇',name_url='half-day-cu-chi-tunnels-from-ho-chi-minh-city-by-luxury-speedboat',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='84.46',price_cn='84.46',durations='3 days 4 nights',durations_cn='3天4夜',departure='Cu Chi',destination='Ho Chi Minh',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',schedule='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	38 meters (125 feet) long<br style=\"margin: 0px; padding: 0px;\" />
+	8 meters (23 feet) wide<br style=\"margin: 0px; padding: 0px;\" />
+	03 desks, 02 bars<br style=\"margin: 0px; padding: 0px;\" />
+	01 small library<br style=\"margin: 0px; padding: 0px;\" />
+	01 message room<br style=\"margin: 0px; padding: 0px;\" />
+	Total number of room 10<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Deluxe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Room&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<strong style=\"margin: 0px; padding: 0px;\">Ginger Deluxe room</strong><br style=\"margin: 0px; padding: 0px;\" />
+				Number of rooms:&nbsp;&nbsp;&nbsp;&nbsp; 2<br style=\"margin: 0px; padding: 0px;\" />
+				Average room size:&nbsp;&nbsp;&nbsp;16 sqm<br style=\"margin: 0px; padding: 0px;\" />
+				Number of beds: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01 Queen - size bed of 165 cm x 205 cm<br style=\"margin: 0px; padding: 0px;\" />
+				Maximum number of persons allowed: &nbsp; 02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+				Panorama seaview:&nbsp;&nbsp;&nbsp;&nbsp; 03<br style=\"margin: 0px; padding: 0px;\" />
+				Room type:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Non - smoking</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					<strong style=\"margin: 0px; padding: 0px;\">Ginger&nbsp; room</strong><br style=\"margin: 0px; padding: 0px;\" />
+					Number of rooms:&nbsp;&nbsp;&nbsp; 8<br style=\"margin: 0px; padding: 0px;\" />
+					Average room size:&nbsp;&nbsp;&nbsp;14 sqm<br style=\"margin: 0px; padding: 0px;\" />
+					Number of beds: &nbsp;&nbsp;&nbsp;&nbsp; 02 single - size beds of 95 cm x 205 cm each<br style=\"margin: 0px; padding: 0px;\" />
+					Maximum number of persons allowed: &nbsp;02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+					Panorama seaview:&nbsp;&nbsp;&nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+					Room type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non - smoking</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Room amenities (all room types)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				Individually controlled air-conditioning&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Stocked mini-bar&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				In-house phone<br style=\"margin: 0px; padding: 0px;\" />
+				Slippers&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Wardrobe<br style=\"margin: 0px; padding: 0px;\" />
+				Umbrella/raincoat at the reception<br style=\"margin: 0px; padding: 0px;\" />
+				Separate glass standing shower cabin<br style=\"margin: 0px; padding: 0px;\" />
+				Bath robe</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				Electric shaver outlet<br style=\"margin: 0px; padding: 0px;\" />
+				Shower<br style=\"margin: 0px; padding: 0px;\" />
+				Hot water<br style=\"margin: 0px; padding: 0px;\" />
+				Hair dryer (request housekeeping)&nbsp;&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Bathroom amenities<br style=\"margin: 0px; padding: 0px;\" />
+				Life vests<br style=\"margin: 0px; padding: 0px;\" />
+				Toilet<br style=\"margin: 0px; padding: 0px;\" />
+				Fire extingisher / Smoke detector</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Life on board</strong><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Measuring 38 meters (125 feet) long and 8 meters (23 feet) wide, our custom-built wooden junk features three decks, all outfitted with elegant Asian inspired decor. The lower deck is devoted to Passenger Cabins, with sleeping space for 20 people. The Reception, Restaurant, Ginger Bar, Gift Shop and Library are all located on the main deck. On the top deck passengers will find the Sunset Bar and a spacious lounge area, perfect for our morning Tai Chi classes, weekend BBQs and sunset cocktails. Guests are welcome to make use of our binoculars, snorkeling equipment, and top-of-the-line Canadian made Seaward kayaks.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Restaurant</strong><br style=\"margin: 0px; padding: 0px;\" />
+	A pleasant ambiance, attentive staff and great views make our restaurant the perfect place to sample the exotic delights of Vietnamese cuisine. Guests can look forward to lavish international breakfast buffets, casual, sit-down lunches of Vietnamese dishes, and formal dinners with delectable fusion cuisine. All dishes are prepared to please both the eye and the palate. Special BBQ dinners are served on the Sundeck on weekends, or upon a group&rsquo;s request</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">ITINERARY 3 DAYS 2 NIGHTS</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Hanoi - Halong Ginger&nbsp;Cruise (L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	We depart from the capital at 8 :30 am for Ha Long Bay approximately three hours away. En route, we stop on the way for short break and&nbsp; photo.. Upon arrival at Ha Long Bay&nbsp; we will be met by captain and cruise and transferred to our deluxe junk. Welcome aboard and set sail through bay while lunch is served. Passage into the magical bay, where thousands of sculpted limestone islands rise from the waves like dragons&rsquo; teeth.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	After lunch, take a short trek to a nearby summit for a panoramic view of the bay dotted with golden sails, go swimming on a quite beach or sunbathing on the sundeck.&nbsp; Later afternoon, visit an interesting fishing village with opportunity to interact with fishmen who have been living in the bay for almost three generations.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	Back on board and enjoy cocktails while watching sunset and later unwind at restaurant for a lavish dinner</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Halong Bay Cruise with Ginger (B, L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	After breakfast, transfer to your day &ndash; trip boat with private crew and cruise to the bay&rsquo;s most untouched areas. Enjoy swimming on quiet beaches, visiting water tunnels, fishing villages or kayaking. Lunch served on board by your private chef. Return to the mother boat for the night.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Halong Bay &ndash; Hanoi (Brunch)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Greet the day with a morning Tai Chi exercise with an opportunity to view the sunrise over the bay. After breakfast, visit beautiful limestone grotto then back to the boat for a final glimpse of the Halong Bay while cruising back to the dock.<br style=\"margin: 0px; padding: 0px;\" />
+	The car and driver will pic k up you, transfer back Hanoi. Drop off at your hotel in Hanoi. End of tour.</p>
+',schedule_cn='<div>
+	38米（125英尺）</div>
+<div>
+	8米（23英尺）宽</div>
+<div>
+	03桌，02条</div>
+<div>
+	01小型图书馆</div>
+<div>
+	01消息房间</div>
+<div>
+	房间10总数</div>
+<div>
+	姜豪华02</div>
+<div>
+	生姜08室</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	姜豪华房</div>
+<div>
+	房间数：2</div>
+<div>
+	平均客房面积：16平方米</div>
+<div>
+	病床数：01女王 - 165厘米&times;205厘米大床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：03</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	姜室</div>
+<div>
+	房间数：8</div>
+<div>
+	平均客房面积：14平方米</div>
+<div>
+	病床数：02单 - 95厘米&times;205厘米每个尺寸的床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：02</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	房间设施（所有房型）</div>
+<div>
+	&nbsp;</div>
+<div>
+	独立控制空调</div>
+<div>
+	迷你酒吧</div>
+<div>
+	在内部电话</div>
+<div>
+	拖鞋</div>
+<div>
+	衣柜</div>
+<div>
+	雨伞/雨衣在招待会</div>
+<div>
+	独立的玻璃站立淋浴房</div>
+<div>
+	浴袍</div>
+<div>
+	电动剃须刀插座</div>
+<div>
+	淋浴</div>
+<div>
+	热水</div>
+<div>
+	吹风机（要求家政）</div>
+<div>
+	浴室设施</div>
+<div>
+	救生衣</div>
+<div>
+	厕所</div>
+<div>
+	消防extingisher /烟雾探测器</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	船上的生活</div>
+<div>
+	测量38米（125英尺）长，8米（23英尺）宽，我们的定制木帆船特色三层甲板，全部采用典雅的亚洲风格的装饰装备。下层是专门客舱，与20人的睡眠空间。接待处，餐厅，酒吧生姜，礼品店和图书馆都位于主甲板上。在顶层甲板的乘客会发现，日落酒吧和一个宽敞的休息区，非常适合我们早上太极班，周末烧烤和日落鸡尾酒。客人可以利用我们的望远镜，潜水设备，以及顶级的在线加拿大取得西沃德皮艇。</div>
+<div>
+	餐厅</div>
+<div>
+	一个愉悦的氛围，细心的工作人员和美丽的风景让我们的餐厅品尝越南美食，异国美食的完美场所。客人可以期待丰盛的国际自助早餐，休闲，坐下来越南菜肴的午餐，并与美味的风味美食正式晚宴。所有的菜都准备请两个眼睛和上腭。特殊的烧烤晚餐送达森德克在周末，或者在一个小组的要求</div>
+<div>
+	&nbsp;</div>
+<div>
+	行程3天2夜</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：河内 - 下龙湾姜游轮（午，晚餐）</div>
+<div>
+	我们从首都起飞时刻为8时30分的下龙湾约三小时的路程。途中，我们停止对短暂的休息和照片的方式..一旦在下龙湾我们将船长和巡航得到满足，转移到我们的豪华垃圾的到来。欢迎登机，虽然供应午餐通过海湾起航。通道进入神奇的海湾，在那里成千上万的雕刻石灰岩岛屿，从波浪状龙的牙齿上升。</div>
+<div>
+	午餐后，采取短期跋涉到附近的峰会上点缀着金色的船帆一个海湾尽收眼底，去游泳在安静的海滩享受日光浴，或在阳台上。后来下午参观了一个有趣的渔村机会与谁一直生活在海湾几乎三代渔夫交互。</div>
+<div>
+	回到船上，享受一边看日落鸡尾酒，后来在餐厅享受一个奢华的晚餐</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：下龙湾游船姜（早，午，晚餐）</div>
+<div>
+	私人船员和邮轮旅游船海湾最从未接触过的地区 - 早餐后，转移到你的一天。喜欢游泳的宁静的海滩，参观水隧道，渔村和皮划艇。午餐由您的私人厨师在船上用餐。返回母船过夜。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾 - 河内（早午餐）</div>
+<div>
+	迎接新的一天早晨太极拳练习有机会在海湾观日出。早餐后，游览美丽的石灰岩洞穴，然后回船下龙湾的最后一瞥，而巡航回到了被告席。</div>
+<div>
+	赛车和车手将PIC k上一你，驱车返回河内。在你的酒店在河内下车。游览结束。</div>
+',price_list='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour includes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;3 days Ginger cruise as stated&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;2 night 2 in double/twin private cabin on Ginger boat<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Round Trip private&nbsp; transfers in private air-conditioned vehicles from Hanoi<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;English speaking guide on board&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Welcome drink<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;2 Lunches, 2 Dinners and 1 Breakfast and 1 Brunch on board<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Kayak on day 2<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Entrance fees and permits for all sights visited<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Onboard Insurance<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Government taxes &amp; Service charges</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Tour excludes:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;International flights to and from Vietnam.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Vietnam visa arrangement (upon request visa on arrival at 15 USD, not including stamping fee at 25 USD)&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;All other services which are not mentioned above<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal travel insurance (Compulsory).<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Peak surcharge for Christmas, New Year and Lunar New Year<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Personal expenses such as Telephone and Laundry bills, Spa<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Tips and gratuities</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Children Policy:</strong><br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Children aged from 5 -11 will&nbsp; bear 50% adult&rsquo;s cost&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Children under 5 year old will be free of charge&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	&bull;&nbsp;Children reduction applicable only if sharing a cabin with maximum of 2 adults and only 1 child maximum per cabin</p>
+<div>
+	&nbsp;</div>
+',price_list_cn='<div>
+	游览包括：</div>
+<div>
+	&bull;3天姜克鲁斯说</div>
+<div>
+	&bull;2夜2在姜舟大床/双床私人小屋</div>
+<div>
+	&bull;在从河内私人空调车往返私人接送</div>
+<div>
+	&bull;英语船上指南</div>
+<div>
+	&bull;欢迎饮料</div>
+<div>
+	&bull;2午餐，晚餐2和1份早餐和早午餐1船上</div>
+<div>
+	&bull;独木舟第2天</div>
+<div>
+	&bull;所有景点门票和参观证</div>
+<div>
+	&bull;板载保险</div>
+<div>
+	&bull;政府税和服务费</div>
+<div>
+	&nbsp;</div>
+<div>
+	游不包括：</div>
+<div>
+	&bull;国际航班往返越南。</div>
+<div>
+	&bull;越南签证安排（在15美元时要求客人在抵达签证，这还不包括在25美元冲压费）</div>
+<div>
+	&bull;这是不是上面提到的所有其他服务</div>
+<div>
+	&bull;个人旅游保险（强制）。</div>
+<div>
+	&bull;峰附加费圣诞节，新年及农历新年</div>
+<div>
+	&bull;个人消费，如电话和洗衣票据，温泉</div>
+<div>
+	&bull;提示及酬金</div>
+<div>
+	&nbsp;</div>
+<div>
+	儿童政策：</div>
+<div>
+	&bull;从5 -11岁的儿童将承担50％的成年的成本</div>
+<div>
+	&bull;在5岁的儿童将是免费的</div>
+<div>
+	&bull;仅减少儿童如果适用与共享最多2名成人舱和只每舱1名儿童最大</div>
+',content='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	38 meters (125 feet) long<br style=\"margin: 0px; padding: 0px;\" />
+	8 meters (23 feet) wide<br style=\"margin: 0px; padding: 0px;\" />
+	03 desks, 02 bars<br style=\"margin: 0px; padding: 0px;\" />
+	01 small library<br style=\"margin: 0px; padding: 0px;\" />
+	01 message room<br style=\"margin: 0px; padding: 0px;\" />
+	Total number of room 10<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Deluxe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+	Ginger Room&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				<strong style=\"margin: 0px; padding: 0px;\">Ginger Deluxe room</strong><br style=\"margin: 0px; padding: 0px;\" />
+				Number of rooms:&nbsp;&nbsp;&nbsp;&nbsp; 2<br style=\"margin: 0px; padding: 0px;\" />
+				Average room size:&nbsp;&nbsp;&nbsp;16 sqm<br style=\"margin: 0px; padding: 0px;\" />
+				Number of beds: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 01 Queen - size bed of 165 cm x 205 cm<br style=\"margin: 0px; padding: 0px;\" />
+				Maximum number of persons allowed: &nbsp; 02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+				Panorama seaview:&nbsp;&nbsp;&nbsp;&nbsp; 03<br style=\"margin: 0px; padding: 0px;\" />
+				Room type:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Non - smoking</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px;\">
+					<strong style=\"margin: 0px; padding: 0px;\">Ginger&nbsp; room</strong><br style=\"margin: 0px; padding: 0px;\" />
+					Number of rooms:&nbsp;&nbsp;&nbsp; 8<br style=\"margin: 0px; padding: 0px;\" />
+					Average room size:&nbsp;&nbsp;&nbsp;14 sqm<br style=\"margin: 0px; padding: 0px;\" />
+					Number of beds: &nbsp;&nbsp;&nbsp;&nbsp; 02 single - size beds of 95 cm x 205 cm each<br style=\"margin: 0px; padding: 0px;\" />
+					Maximum number of persons allowed: &nbsp;02 adults + 01 child under 12 years old<br style=\"margin: 0px; padding: 0px;\" />
+					Panorama seaview:&nbsp;&nbsp;&nbsp; 02<br style=\"margin: 0px; padding: 0px;\" />
+					Room type: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Non - smoking</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Room amenities (all room types)</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				Individually controlled air-conditioning&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Stocked mini-bar&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				In-house phone<br style=\"margin: 0px; padding: 0px;\" />
+				Slippers&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Wardrobe<br style=\"margin: 0px; padding: 0px;\" />
+				Umbrella/raincoat at the reception<br style=\"margin: 0px; padding: 0px;\" />
+				Separate glass standing shower cabin<br style=\"margin: 0px; padding: 0px;\" />
+				Bath robe</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				Electric shaver outlet<br style=\"margin: 0px; padding: 0px;\" />
+				Shower<br style=\"margin: 0px; padding: 0px;\" />
+				Hot water<br style=\"margin: 0px; padding: 0px;\" />
+				Hair dryer (request housekeeping)&nbsp;&nbsp;&nbsp;&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+				Bathroom amenities<br style=\"margin: 0px; padding: 0px;\" />
+				Life vests<br style=\"margin: 0px; padding: 0px;\" />
+				Toilet<br style=\"margin: 0px; padding: 0px;\" />
+				Fire extingisher / Smoke detector</td>
+		</tr>
+	</tbody>
+</table>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<table border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+			<td style=\"margin: 0px; padding: 0px;\">
+				&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Life on board</strong><br style=\"margin: 0px; padding: 0px;\" />
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Measuring 38 meters (125 feet) long and 8 meters (23 feet) wide, our custom-built wooden junk features three decks, all outfitted with elegant Asian inspired decor. The lower deck is devoted to Passenger Cabins, with sleeping space for 20 people. The Reception, Restaurant, Ginger Bar, Gift Shop and Library are all located on the main deck. On the top deck passengers will find the Sunset Bar and a spacious lounge area, perfect for our morning Tai Chi classes, weekend BBQs and sunset cocktails. Guests are welcome to make use of our binoculars, snorkeling equipment, and top-of-the-line Canadian made Seaward kayaks.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Restaurant</strong><br style=\"margin: 0px; padding: 0px;\" />
+	A pleasant ambiance, attentive staff and great views make our restaurant the perfect place to sample the exotic delights of Vietnamese cuisine. Guests can look forward to lavish international breakfast buffets, casual, sit-down lunches of Vietnamese dishes, and formal dinners with delectable fusion cuisine. All dishes are prepared to please both the eye and the palate. Special BBQ dinners are served on the Sundeck on weekends, or upon a group&rsquo;s request</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">ITINERARY 3 DAYS 2 NIGHTS</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 1: Hanoi - Halong Ginger&nbsp;Cruise (L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	We depart from the capital at 8 :30 am for Ha Long Bay approximately three hours away. En route, we stop on the way for short break and&nbsp; photo.. Upon arrival at Ha Long Bay&nbsp; we will be met by captain and cruise and transferred to our deluxe junk. Welcome aboard and set sail through bay while lunch is served. Passage into the magical bay, where thousands of sculpted limestone islands rise from the waves like dragons&rsquo; teeth.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	After lunch, take a short trek to a nearby summit for a panoramic view of the bay dotted with golden sails, go swimming on a quite beach or sunbathing on the sundeck.&nbsp; Later afternoon, visit an interesting fishing village with opportunity to interact with fishmen who have been living in the bay for almost three generations.&nbsp;<br style=\"margin: 0px; padding: 0px;\" />
+	Back on board and enjoy cocktails while watching sunset and later unwind at restaurant for a lavish dinner</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 2: Halong Bay Cruise with Ginger (B, L, D)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	After breakfast, transfer to your day &ndash; trip boat with private crew and cruise to the bay&rsquo;s most untouched areas. Enjoy swimming on quiet beaches, visiting water tunnels, fishing villages or kayaking. Lunch served on board by your private chef. Return to the mother boat for the night.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Day 3: Halong Bay &ndash; Hanoi (Brunch)</strong><br style=\"margin: 0px; padding: 0px;\" />
+	Greet the day with a morning Tai Chi exercise with an opportunity to view the sunrise over the bay. After breakfast, visit beautiful limestone grotto then back to the boat for a final glimpse of the Halong Bay while cruising back to the dock.<br style=\"margin: 0px; padding: 0px;\" />
+	The car and driver will pic k up you, transfer back Hanoi. Drop off at your hotel in Hanoi. End of tour.</p>
+',content_cn='<div>
+	38米（125英尺）</div>
+<div>
+	8米（23英尺）宽</div>
+<div>
+	03桌，02条</div>
+<div>
+	01小型图书馆</div>
+<div>
+	01消息房间</div>
+<div>
+	房间10总数</div>
+<div>
+	姜豪华02</div>
+<div>
+	生姜08室</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	姜豪华房</div>
+<div>
+	房间数：2</div>
+<div>
+	平均客房面积：16平方米</div>
+<div>
+	病床数：01女王 - 165厘米&times;205厘米大床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：03</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	姜室</div>
+<div>
+	房间数：8</div>
+<div>
+	平均客房面积：14平方米</div>
+<div>
+	病床数：02单 - 95厘米&times;205厘米每个尺寸的床</div>
+<div>
+	人的最大数目：02名成人和01孩子12岁</div>
+<div>
+	全景海景：02</div>
+<div>
+	房间类型：非 - 吸烟</div>
+<div>
+	房间设施（所有房型）</div>
+<div>
+	&nbsp;</div>
+<div>
+	独立控制空调</div>
+<div>
+	迷你酒吧</div>
+<div>
+	在内部电话</div>
+<div>
+	拖鞋</div>
+<div>
+	衣柜</div>
+<div>
+	雨伞/雨衣在招待会</div>
+<div>
+	独立的玻璃站立淋浴房</div>
+<div>
+	浴袍</div>
+<div>
+	电动剃须刀插座</div>
+<div>
+	淋浴</div>
+<div>
+	热水</div>
+<div>
+	吹风机（要求家政）</div>
+<div>
+	浴室设施</div>
+<div>
+	救生衣</div>
+<div>
+	厕所</div>
+<div>
+	消防extingisher /烟雾探测器</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	船上的生活</div>
+<div>
+	测量38米（125英尺）长，8米（23英尺）宽，我们的定制木帆船特色三层甲板，全部采用典雅的亚洲风格的装饰装备。下层是专门客舱，与20人的睡眠空间。接待处，餐厅，酒吧生姜，礼品店和图书馆都位于主甲板上。在顶层甲板的乘客会发现，日落酒吧和一个宽敞的休息区，非常适合我们早上太极班，周末烧烤和日落鸡尾酒。客人可以利用我们的望远镜，潜水设备，以及顶级的在线加拿大取得西沃德皮艇。</div>
+<div>
+	餐厅</div>
+<div>
+	一个愉悦的氛围，细心的工作人员和美丽的风景让我们的餐厅品尝越南美食，异国美食的完美场所。客人可以期待丰盛的国际自助早餐，休闲，坐下来越南菜肴的午餐，并与美味的风味美食正式晚宴。所有的菜都准备请两个眼睛和上腭。特殊的烧烤晚餐送达森德克在周末，或者在一个小组的要求</div>
+<div>
+	&nbsp;</div>
+<div>
+	行程3天2夜</div>
+<div>
+	&nbsp;</div>
+<div>
+	第1天：河内 - 下龙湾姜游轮（午，晚餐）</div>
+<div>
+	我们从首都起飞时刻为8时30分的下龙湾约三小时的路程。途中，我们停止对短暂的休息和照片的方式..一旦在下龙湾我们将船长和巡航得到满足，转移到我们的豪华垃圾的到来。欢迎登机，虽然供应午餐通过海湾起航。通道进入神奇的海湾，在那里成千上万的雕刻石灰岩岛屿，从波浪状龙的牙齿上升。</div>
+<div>
+	午餐后，采取短期跋涉到附近的峰会上点缀着金色的船帆一个海湾尽收眼底，去游泳在安静的海滩享受日光浴，或在阳台上。后来下午参观了一个有趣的渔村机会与谁一直生活在海湾几乎三代渔夫交互。</div>
+<div>
+	回到船上，享受一边看日落鸡尾酒，后来在餐厅享受一个奢华的晚餐</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：下龙湾游船姜（早，午，晚餐）</div>
+<div>
+	私人船员和邮轮旅游船海湾最从未接触过的地区 - 早餐后，转移到你的一天。喜欢游泳的宁静的海滩，参观水隧道，渔村和皮划艇。午餐由您的私人厨师在船上用餐。返回母船过夜。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾 - 河内（早午餐）</div>
+<div>
+	迎接新的一天早晨太极拳练习有机会在海湾观日出。早餐后，游览美丽的石灰岩洞穴，然后回船下龙湾的最后一瞥，而巡航回到了被告席。</div>
+<div>
+	赛车和车手将PIC k上一你，驱车返回河内。在你的酒店在河内下车。游览结束。</div>
+',list_img='',title='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',title_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',keyword='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',keyword_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',description='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',description_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat' where id=1;

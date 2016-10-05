@@ -107,7 +107,7 @@
                         <ul class="nicdark_list border">
 
                             <li class="nicdark_border_greydark">
-                                <p><a id="en_lang" class="white" href="#">ENGLISH<i
+                                <p><a id="en_lang" class="white" href="javascript:void()">ENGLISH<i
                                                 class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
 
                                 <div class="nicdark_space15"></div>
@@ -115,7 +115,7 @@
 
                             <li class="nicdark_border_greydark">
                                 <div class="nicdark_space15"></div>
-                                <p><a id="cn_lang" class="white" href="#">中国<i
+                                <p><a id="cn_lang" class="white" href="javascript:void()">中国<i
                                                 class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
 
                                 <div class="nicdark_space15"></div>

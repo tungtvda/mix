@@ -8,8 +8,8 @@ RewriteRule ^(.*)$ http://radio.kzone.vn/$1 [R=permanent,L]
 RewriteRule ^admin controller/admin/index.php
 RewriteRule ^login controller/admin/login.php
 
-RewriteRule ^tour/([a-zA-Z0-9_-]+)/$ controller/default/thuvienanh.php?Id=$1
-RewriteRule ^tour/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/thuvienanh.php?Id=1&page=$2
+RewriteRule ^tour/([a-zA-Z0-9_-]+)/$ controller/default/chitietdanhmuc.php?Id=$1
+RewriteRule ^tour/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/chitietdanhmuc.php?Id=1&page=$2
 
 RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
 RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
@@ -25,3 +25,8 @@ RewriteRule ^multi-country/page-([0-9]+)$ controller/default/danhmuctour.php?pag
 
 RewriteRule ^excursion-tours/$ controller/default/danhmuctour.php
 RewriteRule ^excursion-tours/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+
+RewriteRule ^destinations/$ controller/default/danhmuctour.php
+RewriteRule ^destinations/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
+
+RewriteRule ^(.*).html$ controller/default/chitiettour.php?Id=$1
