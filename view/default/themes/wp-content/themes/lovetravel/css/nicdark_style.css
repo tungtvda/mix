@@ -34,7 +34,7 @@ SOME BASIC CLASSES
 /* 1- START NICDARK FRAMEWORK*/
 html{ color: #a4a4a4; }
 body{
-    margin:0px; padding:0px; overflow-x:hidden; background-color: #14b9d5;
+    margin:0px; padding:0px; overflow-x:hidden;
 }
 body.nicdark_boxed_img{ background-image: url(../img/img4.jpg) !important; background-size: cover; background-attachment: fixed; }
 

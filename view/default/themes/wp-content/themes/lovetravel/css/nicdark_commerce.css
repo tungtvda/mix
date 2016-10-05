@@ -408,9 +408,10 @@
 .product .price {
     float: left;
     width: 100%;
-    margin: 10px 0px;
+    /* margin: 5px 0px; */
+    padding: 5px 0px 5px 0px;
     font-size: 17px;
-    border-bottom: 1px dotted ;
+    border-bottom: 1px dotted;
 }
 
 .product .price del {
@@ -2881,7 +2882,7 @@ table.order_details {
 .entry-summary div .price {
     -webkit-box-shadow: inset 0px 0px 0px 0px rgba(244, 244, 246, 1.0);
     box-shadow: inset 0px 0px 0px 0px rgba(244, 244, 246, 1.0);
-    font-size: 15px;
+    font-size: 14px;
     text-align: left;
 }
 

@@ -12,44 +12,11 @@
 
                     <!--sort-->
                     <div class="nicdark_activity nicdark_width100_iphonepotr nicdark_width100_iphoneland">
-                        <h4 style="color:#ffffff;text-transform: uppercase;"
-                            class="white left nicdark_btn  small nicdark_padding1020">{name_dm}</h4>
-                        <!--<a class="white left nicdark_btn  small nicdark_padding1020">SORT BY</a>
-                        <select id="nicdark_sort_feature" onchange="nicdark_sort()" name="nicdark_sort_feature" class="nicdark_padding0_left nicdark_width_initial nicdark_padding10 nicdark_bg_greydark  nicdark_radius_none grey small subtitle">
-                            <option value="name">NAME</option>
-                            <option value="price">PRICE</option>
-                        </select>
-                        <a class="grey left nicdark_btn  small nicdark_padding100 nicdark_marginright30 nicdark_cursor_initial"><i class="icon-angle-down"></i></a>-->
+                        <h1 style="color:#ffffff;text-transform: uppercase; padding-top: 3px !important;padding-bottom: 4px !important;"
+                            class="white left nicdark_btn  small nicdark_padding1020">{name_dm}</h1>
                     </div>
-                    <!--end sort-->
-
-                    <!--<a class="nicdark_displaynone_iphoneland nicdark_displaynone_iphonepotr greydark2 left nicdark_btn  small nicdark_padding100 nicdark_marginright10">|</a>
 
 
-                    <!--order-->
-                    <!--<div class="nicdark_activity nicdark_width100_iphonepotr nicdark_width100_iphoneland">
-                        <a class="white left nicdark_btn  small nicdark_padding1020">ORDER</a>
-                        <select id="nicdark_asc_desc" onchange="nicdark_sort()" name="nicdark_asc_desc" class="nicdark_padding0_left nicdark_width_initial nicdark_padding10 nicdark_bg_greydark nicdark_radius_none grey small subtitle">
-                            <option value="ASC">A/Z - 1/3</option>
-                            <option value="DESC">Z/A - 3/1</option>
-                        </select>
-                        <a class="grey left nicdark_btn  small nicdark_padding100 nicdark_marginright40 nicdark_cursor_initial"><i class="icon-angle-down"></i></a>
-                    </div>-->
-                    <!--end order-->
-
-
-                    <!--view-->
-                    <div class="nicdark_float_right nicdark_displaynone_iphonepotr nicdark_displaynone_iphoneland">
-                        <a class="grey right nicdark_btn  small nicdark_padding10 nicdark_cursor_initial"><i
-                                    class="icon-th-large"></i></a>
-                        <select id="display_list" name="nicdark_layout"
-                                class="nicdark_float_right nicdark_padding0_left nicdark_padding0_right nicdark_width_initial nicdark_padding10 nicdark_bg_greydark nicdark_radius_none grey small subtitle">
-                            <option value="grid">{gird}</option>
-                            <option value="list">{list}</option>
-                        </select>
-                        <a class="white right nicdark_btn  small nicdark_padding1020">{view_as}</a>
-                    </div>
-                    <!--end view-->
                 </div>
                 <div class="nicdark_space10"></div>
                 <div itemscope="" itemtype="http://schema.org/Product" id="product-1379"
@@ -60,8 +27,8 @@
                         <a href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-9-600.jpg"
                            itemprop="image" class="woocommerce-main-image zoom" title=""
                            data-rel="prettyPhoto[product-gallery]">
-                            <img width="600" height="600"
-                                 src="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-9-600.jpg"
+                            <img
+                                 src="{img}"
                                  class="attachment-shop_single wp-post-image"
                                  alt="love-travel-9-600"
                                  title="love-travel-9-600">
@@ -70,7 +37,7 @@
 
                     <div class="summary entry-summary">
 
-                        <h1 itemprop="name" class="product_title entry-title">Bora Bora</h1>
+                        <!--<h1 itemprop="name" class="product_title entry-title">Bora Bora</h1>-->
 
                         <div class="woocommerce-product-rating" itemprop="aggregateRating" itemscope=""
                              itemtype="http://schema.org/AggregateRating">
@@ -84,28 +51,23 @@
                         <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
 
                             <p class="price">
-                                <i class="icon-dollar"></i> Price:
-                                <ins><span class="amount">$1,150.00</span></ins>
+                                <i class="icon-dollar"></i> Price: <ins><span class="amount">$1,150.00</span></ins>
                             </p>
                             <p class="price">
                                 <i class="icon-calendar"></i> Durations: <span class="parameter">3 Ngay 2 Dem</span>
                             </p>
                             <p class="price">
-                                <i class="icon-logout"></i> Departure:
-                                <ins><span class="parameter">Ho Chi Minh</span></ins>
+                                <i class="icon-logout"></i> Departure: <ins><span class="parameter">Ho Chi Minh</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-login"></i> Destination:
-                                <ins><span class="parameter">Ha Noi</span></ins>
+                                <i class="icon-login"></i> Destination: <ins><span class="parameter">Ha Noi</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-home"></i> Hotel:
-                                <ins><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i
+                                <i class="icon-home"></i> Hotel: <ins><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i
                                             class="icon-star"></i><i class="icon-star"></i></ins>
                             </p>
-                            <p class="price">
-                                <i class="icon-plane"></i> Vehicle:
-                                <ins><span class="parameter">$1,150.00</span></ins>
+                            <p class="price" style="margin-bottom: 10px">
+                                <i class="icon-plane"></i> Vehicle: <ins><span class="parameter">$1,150.00</span></ins>
                             </p>
 
                         </div>
