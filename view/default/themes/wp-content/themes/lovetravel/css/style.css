@@ -144,3 +144,18 @@
     background-color: #1bbc9b;
     color: #ffffff;
 }
+.parameter{
+    color: #0086cd;
+    font-weight: bold;
+    font-size: 14px;
+}
+.booking_detail{
+    color: #ffffff;
+    display: block;
+    padding: 10px 20px;
+    border-radius: 0px 0px 0px 0px;
+    border: 1px solid #f1f1f1;
+    border-bottom-width: 0px;
+    background-color: #1bbc9b;
+    width: 14%;
+}
