@@ -214,3 +214,26 @@ function returnArrSearch($table, $field){
     }
     return $string;
 }
+function returnStart($number)
+{
+    $string='<i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i>';
+    switch($number){
+        case 1:
+            $string='<i class="icon-star"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i>';
+            break;
+        case 2:
+            $string='<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i>';
+            break;
+        case 3:
+            $string='<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star" style="color: #dedada;"></i><i class="icon-star" style="color: #dedada;"></i>';
+            break;
+        case 4:
+            $string='<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star" style="color: #dedada;"></i>';
+            break;
+        case 5:
+            $string='<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>';
+            break;
+
+    }
+    return $string;
+}

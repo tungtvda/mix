@@ -23,15 +23,12 @@
                      class="post-1379 product type-product status-publish has-post-thumbnail product_cat-promotions sale shipping-taxable purchasable product-type-simple product-cat-promotions instock">
 
                     <div class="images">
-
-                        <a href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/uploads/2015/05/love-travel-9-600.jpg"
-                           itemprop="image" class="woocommerce-main-image zoom" title=""
+                        <a itemprop="image" class="woocommerce-main-image zoom" title="{name_dm}"
                            data-rel="prettyPhoto[product-gallery]">
-                            <img
-                                 src="{img}"
-                                 class="attachment-shop_single wp-post-image"
-                                 alt="love-travel-9-600"
-                                 title="love-travel-9-600">
+                            <img src="{img}"
+                                    class="attachment-shop_single wp-post-image"
+                                    alt="{name_dm}"
+                                    title="{name_dm}">
                         </a>
                     </div>
 
@@ -48,43 +45,50 @@
                             </div>
                         </div>
 
-                        <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+                        <div itemprop="offers" itemscope="" >
 
                             <p class="price">
-                                <i class="icon-dollar"></i> Price: <ins><span class="amount">$1,150.00</span></ins>
+                                <i class="icon-dollar"></i> {price_lang}: <ins><span class="amount">{currency_lang}{price}</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-calendar"></i> Durations: <span class="parameter">3 Ngay 2 Dem</span>
+                                <i class="icon-calendar"></i> {durations_lang}: <span class="parameter">{durations}</span>
                             </p>
                             <p class="price">
-                                <i class="icon-logout"></i> Departure: <ins><span class="parameter">Ho Chi Minh</span></ins>
+                                <i class="icon-logout"></i> {departure_lang}: <ins><span class="parameter">{departure}</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-login"></i> Destination: <ins><span class="parameter">Ha Noi</span></ins>
+                                <i class="icon-login"></i> {destination_lang}: <ins><span class="parameter">{destination}</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-home"></i> Hotel: <ins><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i
-                                            class="icon-star"></i><i class="icon-star"></i></ins>
+                                <i class="icon-home"></i> {hotel_lang}: <ins>{hotel}</ins>
                             </p>
                             <p class="price" style="margin-bottom: 10px">
-                                <i class="icon-plane"></i> Vehicle: <ins><span class="parameter">$1,150.00</span></ins>
+                                <i class="icon-plane"></i> {vehicle_lang}: <ins><span class="parameter">{vehicle}</span></ins>
                             </p>
 
                         </div>
                         <div itemprop="description">
                             <p>
-                            <div class="addthis_toolbox addthis_default_style "><a class="addthis_button_facebook_like"
-                                                                                   fb:like:layout="button_count"></a> <a
-                                        class="addthis_button_tweet"></a> <a class="addthis_button_pinterest_pinit"
-                                                                             pi:pinit:layout="horizontal"></a> <a
-                                        class="addthis_counter addthis_pill_style"></a></div>
-                            <script type="text/javascript"
-                                    src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5254127c1833f872"></script>
+
                             </p>
                         </div>
 
                         <div itemprop="description">
-                            <a href="" class="booking_detail">Booking</a>
+                            <div class="booking_detail_div grid grid_3">
+                                <a href="{SITE-NAME}/booking/{id}" class="booking_detail">{booking_lang}</a>
+                            </div>
+                            <div class="social_div grid grid_9">
+                                <div class="addthis_toolbox addthis_default_style "><a class="addthis_button_facebook_like"
+                                                                                       fb:like:layout="button_count"></a> <a
+                                            class="addthis_button_tweet"></a> <a class="addthis_button_pinterest_pinit"
+                                                                                 pi:pinit:layout="horizontal"></a> <a
+                                            class="addthis_counter addthis_pill_style"></a></div>
+                                <script type="text/javascript"
+                                        src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5254127c1833f872"></script>
+                            </div>
+
+
+
                         </div>
 
                     </div><!-- .summary -->
@@ -100,70 +104,92 @@
                                 <div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix ui-widget ui-widget-content ui-corner-all">
                                     <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all"
                                         role="tablist">
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top"
-                                            role="tab" tabindex="-1" aria-controls="tab-f73e40db-041f-3c4fe-3a9f"
-                                            aria-labelledby="ui-id-1" aria-selected="false" aria-expanded="true"><a
-                                                    class="title white nicdark_bg_blue  ui-tabs-anchor"
+                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-tabs-active ui-state-active"
+                                            role="tab" tabindex="0" aria-controls="tab-f73e40db-041f-3c4fe-3a9f"
+                                            aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true"><a
+                                                    class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
                                                     href="#tab-f73e40db-041f-3c4fe-3a9f" role="presentation"
-                                                    tabindex="-1" id="ui-id-1"><i class=""></i>TOUR GALLERY</a></li>
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-tabs-active ui-state-active"
-                                            role="tab" tabindex="0" aria-controls="tab-ffb99a93-e384-0c4fe-3a9f"
-                                            aria-labelledby="ui-id-2" aria-selected="true" aria-expanded="false"><a
-                                                    class="title white nicdark_bg_blue  ui-tabs-anchor"
+                                                    tabindex="-1" id="ui-id-1"><i class=""></i>{schedule_lang}</a></li>
+                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                            role="tab" tabindex="-1" aria-controls="tab-ffb99a93-e384-0c4fe-3a9f"
+                                            aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a
+                                                    class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
                                                     href="#tab-ffb99a93-e384-0c4fe-3a9f" role="presentation"
-                                                    tabindex="-1" id="ui-id-2"><i class=""></i>TOUR MAP</a></li>
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-tabs-active ui-state-active"
-                                            role="tab" tabindex="1" aria-controls="tab-ffb99a93-e384-0c4fe-3a9f1"
-                                            aria-labelledby="ui-id-3" aria-selected="true" aria-expanded="false"><a
-                                                    class="title white nicdark_bg_blue  ui-tabs-anchor"
-                                                    href="#tab-ffb99a93-e384-0c4fe-3a9f1" role="presentation"
-                                                    tabindex="-1" id="ui-id-3"><i class=""></i>TOUR MAP2</a></li>
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-tabs-active ui-state-active"
-                                            role="tab" tabindex="2" aria-controls="tab-ffb99a93-e384-0c4fe-3a9f2"
-                                            aria-labelledby="ui-id-4" aria-selected="true" aria-expanded="false"><a
-                                                    class="title white nicdark_bg_blue  ui-tabs-anchor"
-                                                    href="#tab-ffb99a93-e384-0c4fe-3a9f2" role="presentation"
-                                                    tabindex="-1" id="ui-id-4"><i class=""></i>TOUR MAP2</a></li>
+                                                    tabindex="-1" id="ui-id-2"><i class=""></i>{price_list_lang}</a></li>
+                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                            role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1122-0c4fe-3a9f"
+                                            aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a
+                                                    class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
+                                                    href="#tab-ffb99a93-1122-0c4fe-3a9f" role="presentation"
+                                                    tabindex="-1" id="ui-id-3"><i class=""></i>{description_lang}</a></li>
+                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                            role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1123-0c4fe-3a9f"
+                                            aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a
+                                                    class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
+                                                    href="#tab-ffb99a93-1123-0c4fe-3a9f" role="presentation"
+                                                    tabindex="-1" id="ui-id-4"><i class=""></i>{gallery_lang}</a></li>
+                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                            role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1124-0c4fe-3a9f"
+                                            aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a
+                                                    class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
+                                                    href="#tab-ffb99a93-1124-0c4fe-3a9f" role="presentation"
+                                                    tabindex="-1" id="ui-id-5"><i class=""></i>{comment_lang}</a></li>
                                     </ul>
 
 
                                     <div id="tab-f73e40db-041f-3c4fe-3a9f"
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="true"
-                                         style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready">
-                                            <div class="wpb_wrapper">
-                                                ádfasfasdfádfasdfasdfasdf
-                                            </div>
+                                         aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false"
+                                         style="display: block;">
+                                        <div class="wpb_revslider_element wpb_content_element">
+                                          {schedule}
                                         </div>
+
                                     </div>
                                     <div id="tab-ffb99a93-e384-0c4fe-3a9f"
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="false"
-                                         style="display: block;">
+                                         aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true"
+                                         style="display: none;">
                                         <div class="wpb_gmaps_widget wpb_content_element map_ready">
                                             <div class="wpb_wrapper">
-                                               ádfasfasdf
+                                                <div class="wpb_map_wraper">{price_list}
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="tab-ffb99a93-e384-0c4fe-3a9f1"
+                                    <div id="tab-ffb99a93-1122-0c4fe-3a9f"
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="false"
-                                         style="display: block;">
+                                         aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true"
+                                         style="display: none;">
                                         <div class="wpb_gmaps_widget wpb_content_element map_ready">
                                             <div class="wpb_wrapper">
-                                                ádfasfasdfsadfasdf
+                                                <div class="wpb_map_wraper">
+                                                   {content}
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="tab-ffb99a93-e384-0c4fe-3a9f2"
+                                    <div id="tab-ffb99a93-1123-0c4fe-3a9f"
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="false"
-                                         style="display: block;">
+                                         aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true"
+                                         style="display: none;">
                                         <div class="wpb_gmaps_widget wpb_content_element map_ready">
                                             <div class="wpb_wrapper">
-                                                ádfasfasdf ègnesdfaga
+                                                <div class="wpb_map_wraper">
+                                                   {list_img}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="tab-ffb99a93-1124-0c4fe-3a9f"
+                                         class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
+                                         aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true"
+                                         style="display: none;">
+                                        <div class="wpb_gmaps_widget wpb_content_element map_ready">
+                                            <div class="wpb_wrapper">
+                                                <div class="wpb_map_wraper">
+                                                    sdfgsdfggsdfgdsgsdfgdsfgsdfg 223
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

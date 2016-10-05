@@ -85,6 +85,17 @@ class Language_en
             'gird'=>"GRID",
             'list'=>"LIST",
 
+            // detail tour
+            'price'=>"Price",
+            'durations'=>"Durations",
+            'departure_detail'=>"Departure",
+            'destination_detail'=>"Destination",
+            'schedule_detail'=>"Schedule",
+            'price_list_detail'=>"Price list",
+            'description_detail'=>"Description",
+            'gallery_detail'=>"Gallery",
+            'comment_detail'=>"Comment"
+
 
         );
     }

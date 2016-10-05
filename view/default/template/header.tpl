@@ -1111,7 +1111,7 @@
         .woocommerce form h3:after,
         .product .related h2:after,
         .woocommerce-cart .cart-collaterals .cart_totals .wc-proceed-to-checkout {
-            background-color: #1bbc9b;
+            background-color: #0086cd;
         }
 
         .entry-summary div .price ins {
