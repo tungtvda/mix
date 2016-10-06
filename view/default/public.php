@@ -120,6 +120,7 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 } else {
                     $ft->assign('content',strip_tags($content));
                 }
+                $ft->assign('detail',returnLanguage('detail','DETAIL'));
                 $ft->assign('link',link_newsdetail($item));
             }
 

@@ -33,6 +33,8 @@ function view_left($data=array())
     $asign['all_destination']=returnLanguage('all_destination','ALL Destinations');
     $asign['all_duration']=returnLanguage('all_duration','ALL Durations');
     $asign['online_support']=returnLanguage('online_support','Monday to Saturday');
+    $asign['new_left']=returnLanguage('new_left','News');
+    $asign['fanpage_left']=returnLanguage('fanpage_left','News');
 
     $asign['news_list'] ="";
     if(count($data['news_list'])>0)

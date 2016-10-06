@@ -41,7 +41,6 @@
                     <div class="nicdark_float_right nicdark_displaynone_iphonepotr nicdark_displaynone_iphoneland">
                         <a class="grey right nicdark_btn  small nicdark_padding10 nicdark_cursor_initial"><i class="icon-th-large"></i></a>
                         <select id="display_list" name="nicdark_layout" class="nicdark_float_right nicdark_padding0_left nicdark_padding0_right nicdark_width_initial nicdark_padding10 nicdark_bg_greydark nicdark_radius_none grey small subtitle">
-                            <option value="grid">{gird}</option>
                             <option value="list">{list}</option>
                         </select>
                         <a class="white right nicdark_btn  small nicdark_padding1020">{view_as}</a>
@@ -62,24 +61,22 @@
 
             <!--start nicdark_masonry_container-->
             <div class="nicdark_ajax_results">
-                <div id="gird_result" class="nicdark_masonry_container" style="position: relative; ">
+                <div id="list_result" class="" style="position: relative;   width: 100%; float: left">
 
-                    <!--start preview-->
-                    {danhsach}
-                    <!--end prev-->
-                    <div style="padding: 10px !important;">
-                        {mess}
-                    </div>
 
                 </div>
-                <div id="list_result" class="" style="position: relative;  display: none; width: 100%; float: left">
+            </div>
+            <div class="wpb_wrapper" style="padding: 10px">
 
-                   {danhsach2}
-                    <div style="padding: 10px !important;">
-                        {mess}
-                    </div>
 
+
+                {danhsach2}
+                <div style="padding: 10px !important;">
+                    {mess}
                 </div>
+
+
+
             </div>
             <!--end nicdark_masonry_container-->
 

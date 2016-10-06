@@ -30,3 +30,6 @@ RewriteRule ^destinations/$ controller/default/danhmuctour.php
 RewriteRule ^destinations/page-([0-9]+)$ controller/default/danhmuctour.php?page=$1
 
 RewriteRule ^(.*).html$ controller/default/chitiettour.php?Id=$1
+
+RewriteRule ^news/$ controller/default/danhmuctintuc.php
+RewriteRule ^news/page-([0-9]+)$ controller/default/danhmuctintuc.php?page=$1

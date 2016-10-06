@@ -40,11 +40,11 @@
             <div class="nicdark_space1"></div>
         </div>
 
-        <div title="{name}" style="background-image:url({img}); background-size:cover; background-position:center center;"
+        <a href=""><div title="{name}" style="background-image:url({img}); background-size:cover; background-position:center center;"
              class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
             <div class="nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark">
               </div>
-        </div>
+        </div></a>
 
         <div class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
             <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">

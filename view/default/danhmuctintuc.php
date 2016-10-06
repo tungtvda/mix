@@ -7,17 +7,16 @@
  */
 require_once DIR . '/view/default/public.php';
 require_once DIR . '/common/cls_fast_template.php';
-function show_danhmuctour($data = array())
+function show_danhmuctintuc($data = array())
 {
     $asign = array();
 
-    $asign['danhsach'] = "";
+
     $asign['danhsach2'] = "";
     $asign['mess']='';
     if(count($data['danhsach'])>0)
     {
-        $asign['danhsach'] = print_item('danhmuc', $data['danhsach']);
-        $asign['danhsach2'] = print_item('packages', $data['danhsach']);
+        $asign['danhsach2'] = print_item('news_cate', $data['danhsach']);
     }
     else{
         $asign['mess']=returnLanguage('system_data_mess','The system is updated data');
@@ -28,7 +27,7 @@ function show_danhmuctour($data = array())
     $asign['view_as']=returnLanguage('view_as','VIEW AS');
     $asign['gird']=returnLanguage('gird','GRID');
     $asign['list']=returnLanguage('list','LIST');
-    print_template($asign, 'danhmuctour');
+    print_template($asign, 'news');
 }
 
 
