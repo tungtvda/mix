@@ -65,7 +65,7 @@ if(count($danhmuc)>0){
 //       exit;
        $dk="DanhMuc2Id=".$danhmuc[0]->id;
        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
-       $data['pagesize']=3;
+       $data['pagesize']=6;
        $data['count']=tour_count($dk);
        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/tour/'.$danhmuc[0]->name_url.'/');
