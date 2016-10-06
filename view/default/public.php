@@ -111,16 +111,17 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
             {
                 $ft->assign('name',returnLanguageField('name', $item));
                 $content=returnLanguageField('content', $item);
-                if (strlen($content) > 200) {
+                if (strlen($content) > 210) {
                     $ten1=strip_tags($content);
 
-                    $ten = substr($ten1, 0, 200);
+                    $ten = substr($ten1, 0, 210);
                     $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
                     $ft->assign('content',$name);
                 } else {
                     $ft->assign('content',strip_tags($content));
                 }
                 $ft->assign('detail',returnLanguage('detail','DETAIL'));
+                $ft->assign('news',returnLanguage('news','News'));
                 $ft->assign('link',link_newsdetail($item));
             }
 
