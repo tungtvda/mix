@@ -17,7 +17,7 @@
             <div class="nicdark_space20"></div>
             <div class="nicdark_divider left small"><span style="background-color: #0086cd;"  class="nicdark_bg_white "></span></div>
             <div class="nicdark_space20"></div>
-            <p class="white" style="color: #ec1b23;"><i class="icon-pencil-1"></i> {news} | <i class="icon-calendar"></i> 2016/01/01 10:00:00</p>
+            <p class="white" style="color: #ec1b23;"><i class="icon-pencil-1"></i> {news} | <i class="icon-calendar"></i> {created}</p>
             <div class="nicdark_space20"></div>
             <a  href="{link}" style="color: #0086cd;border: 1px solid #0086cd;" class="white nicdark_btn small nicdark_border_white">{detail}</a>
 

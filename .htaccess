@@ -35,3 +35,4 @@ RewriteRule ^news/$ controller/default/danhmuctintuc.php
 RewriteRule ^news/page-([0-9]+)$ controller/default/danhmuctintuc.php?page=$1
 RewriteRule ^news/([a-zA-Z0-9_-]+)/$ controller/default/danhmuctintuc.php?Id=$1
 RewriteRule ^news/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/danhmuctintuc.php?Id=$1&page=$2
+RewriteRule ^(.*)-new.html$ controller/default/chitiettintuc.php?Id=$1

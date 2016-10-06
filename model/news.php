@@ -1,7 +1,7 @@
 <?php
 class news
 {
-    public $id,$danhmuc_id,$name,$name_cn,$name_url,$img,$content,$content_cn,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn;
+    public $id,$danhmuc_id,$name,$name_cn,$name_url,$img,$content,$content_cn,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn,$created;
     public function news($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
@@ -18,6 +18,7 @@ class news
     $this->keyword_cn=isset($data['keyword_cn'])?$data['keyword_cn']:'';
     $this->description=isset($data['description'])?$data['description']:'';
     $this->description_cn=isset($data['description_cn'])?$data['description_cn']:'';
+    $this->created=isset($data['created'])?$data['created']:'';
           $this->encode();
     }
     public function encode()
@@ -36,6 +37,7 @@ class news
             $this->keyword_cn=addslashes($this->keyword_cn);
             $this->description=addslashes($this->description);
             $this->description_cn=addslashes($this->description_cn);
+            $this->created=addslashes($this->created);
         }
     public function decode()
         {
@@ -53,5 +55,6 @@ class news
             $this->keyword_cn=stripslashes($this->keyword_cn);
             $this->description=stripslashes($this->description);
             $this->description_cn=stripslashes($this->description_cn);
+            $this->created=stripslashes($this->created);
         }
 }

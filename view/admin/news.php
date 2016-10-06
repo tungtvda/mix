@@ -29,7 +29,7 @@ function view_news($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>danhmuc_id</th><th>name</th><th>name_cn</th><th>name_url</th><th>img</th><th>title_cn</th>';
+    return '<th>id</th><th>danhmuc_id</th><th>name</th><th>name_cn</th><th>name_url</th><th>img</th><th>created</th>';
 }
 //
 function showTableBody($data)
@@ -44,7 +44,7 @@ function showTableBody($data)
         $TableBody.="<td>".$obj->name_cn."</td>";
         $TableBody.="<td>".$obj->name_url."</td>";
         $TableBody.="<td><img src=\"".$obj->img."\" width=\"50px\" height=\"50px\"/> </td>";
-        $TableBody.="<td>".$obj->title_cn."</td>";
+        $TableBody.="<td>".$obj->created."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
         $TableBody.="</td>";
@@ -78,5 +78,6 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>keyword_cn</label><input class="text-input small-input" type="text"  name="keyword_cn" value="'.(($form!=false)?$form->keyword_cn:'').'" /></p>';
     $str_from.='<p><label>description</label><input class="text-input small-input" type="text"  name="description" value="'.(($form!=false)?$form->description:'').'" /></p>';
     $str_from.='<p><label>description_cn</label><input class="text-input small-input" type="text"  name="description_cn" value="'.(($form!=false)?$form->description_cn:'').'" /></p>';
+    $str_from.='<p><label>created</label><input class="text-input small-input" type="text"  name="created" value="'.(($form!=false)?$form->created:'').'" /></p>';
     return $str_from;
 }
