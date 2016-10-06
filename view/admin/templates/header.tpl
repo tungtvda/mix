@@ -107,7 +107,7 @@
                 <li class="dropdown {kichhoat_tintuc}"><a href="#"><span class=" icon-edit"></span> Tin tức</a>
                     <ul>
                         <li><a href="{SITE-NAME}/controller/admin/danhmuc_tintuc.php">Danh mục</a></li>
-                        <li><a href="{SITE-NAME}/controller/admin/new.php">Danh sách </a></li>
+                        <li><a href="{SITE-NAME}/controller/admin/news.php">Danh sách </a></li>
                     </ul>
                 </li>
 

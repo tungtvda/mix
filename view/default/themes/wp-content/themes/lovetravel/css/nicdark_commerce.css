@@ -2040,9 +2040,9 @@ p.stars a.star-5:after {
 
 /*top rated*/
 .widget.widget_top_rated_products ul.product_list_widget li {
-    padding: 20px;
+    padding: 10px;
     box-sizing: border-box;
-    min-height: 100px;
+    /*min-height: 100px;*/
 }
 
 .widget.widget_top_rated_products ul.product_list_widget li a {

@@ -60,6 +60,8 @@ function  show_left($data1=array(),$active='trangchu')
 //    $data['tieude_13']=tieude_getById(13);
 //    $data['tin_moinhat']=tintuc_getByTop(10,'','Id desc');
 //    $data['quangcao_left']=quangcao_getByTop('','TrangThai=1','Id asc');
+    $data['danhmuc_subport']=danhmuc_subport_getByTop('','','id desc');
+    $data['news_list']=news_getByTop(4,'','id desc');
     view_left($data);
 }
 

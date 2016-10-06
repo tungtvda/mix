@@ -32,5 +32,47 @@ function view_left($data=array())
     $asign['all_departure']=returnLanguage('all_departure','ALL Departure');
     $asign['all_destination']=returnLanguage('all_destination','ALL Destinations');
     $asign['all_duration']=returnLanguage('all_duration','ALL Durations');
+    $asign['online_support']=returnLanguage('online_support','Monday to Saturday');
+
+    $asign['news_list'] ="";
+    if(count($data['news_list'])>0)
+    {
+        $asign['news_list'] = print_item('news', $data['news_list']);
+    }
+
+    $asign['danhmuc_subport'] ="";
+    if(count($data['danhmuc_subport'])>0)
+    {
+        foreach($data['danhmuc_subport'] as $dmtour1) {
+            $id_dmtour2 = "danhmuc_id=" . $dmtour1->id;
+            $data['subport'] = subport_getByTop('', $id_dmtour2, 'id desc');
+            if (count($data['subport']) > 0) {
+                $asign['danhmuc_subport'] .= " <div class=\"nicdark_space10\"></div><div class=\"nicdark_focus\">
+                <label class=\"lable_subpport\">".returnLanguageField('name', $dmtour1)."</label>
+
+                <div class=\"nicdark_space10\"></div>
+                <ul class=\"subpport\">";
+                foreach($data['subport'] as $subport) {
+                    $asign['danhmuc_subport'] .= "<li>
+                        <a href='tel:$subport->phone_format' class=\"mobi_subpport\">
+                            <i class=\"icon-mobile\"></i>".$subport->phone."
+                        </a>
+                        <span>|</span>
+                        <a href=\"\" class=\"skype_subpport\">
+                            <i class=\"icon-skype-1\"></i>
+                        </a>
+                        <span>|</span>
+                        <a href=\"\" class=\"yahoo_subpport\">
+                            <i class=\"icon-yahoo\"></i>
+                        </a>
+                    </li>";
+                }
+
+                $asign['danhmuc_subport'] .= "</ul>
+
+            </div><div class=\"nicdark_space10\"></div>";
+            }
+        }
+    }
     print_template($asign,'left');
 }
