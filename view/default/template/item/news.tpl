@@ -7,7 +7,7 @@
                 class="product-title">{name}</span>
     </a>
     <div class="date_news" >
-        <i class="icon-calendar"></i> <span>2016/01/01</span>
+        <i class="icon-calendar"></i> <span>{created}</span>
     </div>
 
 
