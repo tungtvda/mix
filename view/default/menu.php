@@ -19,6 +19,7 @@ function view_menu($data = array())
     $asign['Cruise']=returnLanguageField('name', $data['menu'][3]);
     $asign['Multi']=returnLanguageField('name', $data['menu'][4]);
     $asign['Vietnam']=returnLanguageField('name', $data['menu'][5]);
+    $asign['new']=returnLanguageField('name', $data['menu'][6]);
 
     $asign['home_mn'] = ($data['active'] == 'home') ? 'current' : '';
     $asign['Excursion_mn'] = ($data['active'] == 'Excursion') ? 'current' : '';
@@ -26,6 +27,7 @@ function view_menu($data = array())
     $asign['Cruise_mn'] = ($data['active'] == 'Cruise') ? 'current' : '';
     $asign['Multi_mn'] = ($data['active'] == 'Multi') ? 'current' : '';
     $asign['Vietnam_mn'] = ($data['active'] == 'Vietnam') ? 'current' : '';
+    $asign['new_mn'] = ($data['active'] == 'new') ? 'current' : '';
 
 
 
@@ -50,11 +52,11 @@ function view_menu($data = array())
     {
         $asign['Multi_menu'] = print_item('menu', $data['Multi_menu']);
     }
-//    $asign['Vietnam_menu'] ="";
-//    if(count($data['Vietnam_menu'])>0)
-//    {
-//        $asign['Vietnam_menu'] = print_item('menu', $data['Vietnam_menu']);
-//    }
+    $asign['new_menu'] ="";
+    if(count($data['new_menu'])>0)
+    {
+        $asign['new_menu'] = print_item('menu', $data['new_menu']);
+    }
     $asign['danhmuc_subport'] ="";
     if(count($data['danhmuc_subport'])>0)
     {

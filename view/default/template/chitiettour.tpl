@@ -141,7 +141,7 @@
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
                                          aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false"
                                          style="display: block;">
-                                        <div class="wpb_revslider_element wpb_content_element">
+                                        <div class="wpb_revslider_element wpb_content_element content_detail">
                                           {schedule}
                                         </div>
 
@@ -150,7 +150,7 @@
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
                                          aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true"
                                          style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready">
+                                        <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                             <div class="wpb_wrapper">
                                                 <div class="wpb_map_wraper">{price_list}
                                                 </div>
@@ -161,7 +161,7 @@
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
                                          aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true"
                                          style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready">
+                                        <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                             <div class="wpb_wrapper">
                                                 <div class="wpb_map_wraper">
                                                    {content}
@@ -173,7 +173,7 @@
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
                                          aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true"
                                          style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready">
+                                        <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                             <div class="wpb_wrapper">
                                                 <div class="wpb_map_wraper">
                                                    {list_img}
@@ -185,113 +185,30 @@
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
                                          aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true"
                                          style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready">
+                                        <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                             <div class="wpb_wrapper">
                                                 <div class="wpb_map_wraper">
-                                                    sdfgsdfggsdfgdsgsdfgdsfgsdfg 223
+                                                    <div class="fb-comments" data-href="{link}" data-colorscheme="light" data-numposts="5" data-width="100%"></div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>
-                            </div>
+                        </div>
+                        <div class="vc_col-sm-12 wpb_column vc_column_container ">
+                            <div class="wpb_wrapper">
+                                <h3  class=" title left lienquan">{you_may_also_detail}</h3>
+                                <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
 
-                            <h3 style="color:;" class=" title left">INCLUDED AND NOT</h3>
-                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span>
-                            </div>
+                                <div class="nicdark_masonry_container" style="position: relative; height: 264.328px;">
 
-                            <div class="nicdark_divider  left small "><span style="background-color:#f1f1f1;"></span>
-                            </div>
-                            <div class="vc_empty_space" style="height: 25px"><span class="vc_empty_space_inner"></span>
-                            </div>
+                                   {tour_noibat}
 
-                            <ul class="nicdark_list border">
-                                <li class="nicdark_border_grey">
-                                    <h5 class="grey subtitle"><i class="icon-cup nicdark_marginright10"></i> ALL DRINKS
-                                        INCLUDED <a class="nicdark_btn nicdark_bg_green extrasmall   white right"
-                                                    href="#">YES</a></h5>
-                                    <div class="nicdark_space15"></div>
-                                </li>
-                                <li class="nicdark_border_grey">
-                                    <div class="nicdark_space15"></div>
-                                    <h5 class="grey subtitle"><i class="icon-food-1 nicdark_marginright10"></i> LUNCH IN
-                                        RESTAURANT <a class="nicdark_btn nicdark_bg_green extrasmall   white right"
-                                                      href="#">YES</a></h5>
-                                    <div class="nicdark_space15"></div>
-                                </li>
-                                <li class="nicdark_border_grey">
-                                    <div class="nicdark_space15"></div>
-                                    <h5 class="grey subtitle"><i class="icon-tag-2 nicdark_marginright10"></i> ALL
-                                        TICKETS MEUSEUM<a class="nicdark_btn nicdark_bg_green extrasmall   white right"
-                                                          href="#">YES</a></h5>
-                                    <div class="nicdark_space15"></div>
-                                </li>
-                                <li class="nicdark_border_grey">
-                                    <div class="nicdark_space15"></div>
-                                    <h5 class="grey subtitle"><i class="icon-shop nicdark_marginright10"></i> TYPICAL
-                                        SOUVENIR <a class="nicdark_btn nicdark_bg_red extrasmall   white right"
-                                                    href="#">NOT</a></h5>
-                                </li>
-                            </ul>
-                            <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span>
-                            </div>
 
-                            <h3 style="color:;" class=" title left">PACKAGE DETAILS</h3>
-                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span>
-                            </div>
-
-                            <div class="nicdark_divider  left small "><span style="background-color:#f1f1f1;"></span>
-                            </div>
-                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span>
-                            </div>
-
-                            <h5 class="  nicdark_bg_grey nicdark_toogle_header big white wpb_toggle">DAY 1 - VENICE AND
-                                PADUA<i class=" nicdark_iconbg right medium grey"></i></h5>
-                            <div class="nicdark_border_grey  nicdark_toogle_content wpb_toggle_content">
-                                <div class="nicdark_margin200"><p>Toggle content goes here, click edit button to change
-                                        this text.</p>
                                 </div>
-                            </div>
-                            <div class="last_toggle_el_margin"></div>
-                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span>
-                            </div>
 
-                            <h5 class="  nicdark_bg_grey nicdark_toogle_header big white wpb_toggle">DAY 2 - VERONA
-                                ARENA<i class=" nicdark_iconbg right medium grey"></i></h5>
-                            <div class="nicdark_border_grey  nicdark_toogle_content wpb_toggle_content">
-                                <div class="nicdark_margin200"><p>Toggle content goes here, click edit button to change
-                                        this text.</p>
-                                </div>
                             </div>
-                            <div class="last_toggle_el_margin"></div>
-                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span>
-                            </div>
-
-                            <h5 class="  nicdark_bg_grey nicdark_toogle_header big white wpb_toggle">DAY 3 - MILAN
-                                WEEK<i class=" nicdark_iconbg right medium grey"></i></h5>
-                            <div class="nicdark_border_grey  nicdark_toogle_content wpb_toggle_content">
-                                <div class="nicdark_margin200"><p>Toggle content goes here, click edit button to change
-                                        this text.</p>
-                                </div>
-                            </div>
-                            <div class="last_toggle_el_margin"></div>
-                            <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span>
-                            </div>
-
-                            <h5 class="  nicdark_bg_grey nicdark_toogle_header big white wpb_toggle">DAY 4 - GARDA
-                                LAKE<i class=" nicdark_iconbg right medium grey"></i></h5>
-                            <div class="nicdark_border_grey  nicdark_toogle_content wpb_toggle_content">
-                                <div class="nicdark_margin200"><p>Toggle content goes here, click edit button to change
-                                        this text.</p>
-                                </div>
-                            </div>
-                            <div class="last_toggle_el_margin"></div>
-                            <div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span>
-                            </div>
-
-
                         </div>
                     </div>
 

@@ -193,7 +193,15 @@
                                     </li>
                                     <li id="menu-item-893"
                                         class="greydark nicdark_megamenu nicdark_displaynone_ipadland menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-893">
-                                        <a class="{Vietnam_mn}" href="{SITE-NAME}/vietnam-visa">{Vietnam}</a>
+                                        <a class="{Vietnam_mn}" href="{SITE-NAME}/new/">{Vietnam}</a>
+
+                                    </li>
+                                    <li id="menu-item-893"
+                                        class="greydark nicdark_megamenu nicdark_displaynone_ipadland menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-893">
+                                        <a class="{new_mn}" href="{SITE-NAME}/new/">{new}</a>
+                                        <ul class="sub-menu">
+                                            {new_menu}
+                                        </ul>
 
                                     </li>
                                 </ul>

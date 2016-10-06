@@ -94,7 +94,8 @@ class Language_en
             'price_list_detail'=>"Price list",
             'description_detail'=>"Description",
             'gallery_detail'=>"Gallery",
-            'comment_detail'=>"Comment"
+            'comment_detail'=>"Comment",
+            'you_may_also_detail'=>"YOU MAY ALSO LIKE"
 
 
         );

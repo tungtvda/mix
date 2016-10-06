@@ -58,6 +58,13 @@ function show_chitiettour($data = array())
 
     $asign['gallery_lang']=returnLanguage('gallery_detail','Gallery');
     $asign['comment_lang']=returnLanguage('comment_detail','Comment');
+    $asign['you_may_also_detail']=returnLanguage('you_may_also_detail','YOU MAY ALSO LIKE');
+
+    $asign['tour_noibat'] = "";
+    if(count($data['tour_noibat'])>0)
+    {
+        $asign['tour_noibat'] = print_item('tour_noibat', $data['tour_noibat']);
+    }
 
     print_template($asign, 'chitiettour');
 }

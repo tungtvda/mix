@@ -28,6 +28,7 @@ $actual_link=str_replace('/','',$_SERVER['REQUEST_URI']);
 $actual_link=str_replace('mix','',$actual_link);
 $actual_link = preg_replace('/[0-9]+/', '', $actual_link);
 $actual_link=str_replace('page-','',$actual_link);
+$img_banner='';
 switch($actual_link){
     case 'excursion-tours':
         $dk="DanhMuc1Id=2";
@@ -42,6 +43,7 @@ switch($actual_link){
             'name'=>returnLanguageField('name', $data['menu'][1]),
             'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
         );
+        $img_banner=$data['menu'][1]->img;
         $title=returnLanguageField('title', $data['menu'][1]);
         $description=returnLanguageField('keyword', $data['menu'][1]);
         $keyword=returnLanguageField('keyword', $data['menu'][1]);
@@ -60,6 +62,7 @@ switch($actual_link){
             'name'=>returnLanguageField('name', $data['menu'][2]),
             'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
         );
+        $img_banner=$data['menu'][2]->img;
         $title=returnLanguageField('title', $data['menu'][2]);
         $description=returnLanguageField('keyword', $data['menu'][2]);
         $keyword=returnLanguageField('keyword', $data['menu'][2]);
@@ -78,6 +81,7 @@ switch($actual_link){
             'name'=>returnLanguageField('name', $data['menu'][3]),
             'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
         );
+        $img_banner=$data['menu'][3]->img;
         $title=returnLanguageField('title', $data['menu'][3]);
         $description=returnLanguageField('keyword', $data['menu'][3]);
         $keyword=returnLanguageField('keyword', $data['menu'][3]);
@@ -96,6 +100,7 @@ switch($actual_link){
             'name'=>returnLanguageField('name', $data['menu'][4]),
             'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
         );
+        $img_banner=$data['menu'][4]->img;
         $title=returnLanguageField('title', $data['menu'][4]);
         $description=returnLanguageField('keyword', $data['menu'][4]);
         $keyword=returnLanguageField('keyword', $data['menu'][4]);
@@ -103,6 +108,7 @@ switch($actual_link){
         break;
 
 }
+$data['link_anh']=$img_banner;
 
 $title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
