@@ -22,33 +22,50 @@ $data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
 
 $data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
 
-
-//echo $actual_link = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['PHP_SELF'];
-$actual_link=str_replace('/','',$_SERVER['REQUEST_URI']);
-$actual_link=str_replace('mix','',$actual_link);
-$actual_link = preg_replace('/[0-9]+/', '', $actual_link);
-$actual_link=str_replace('page-','',$actual_link);
-$img_banner='';
-switch($actual_link){
-    case 'news':
-        $dk="";
-        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
-        $data['pagesize']=6;
-        $data['count']=news_count($dk);
-        $data['danhsach']=news_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
-        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/news/');
-        $name=returnLanguageField('name', $data['menu'][6]);
-        $data['banner']=array(
-            'banner_img'=>$data['menu'][6]->img,
-            'name'=>returnLanguageField('name', $data['menu'][6]),
-            'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
-        );
-        $img_banner=$data['menu'][6]->img;
-        $title=returnLanguageField('title', $data['menu'][6]);
-        $description=returnLanguageField('keyword', $data['menu'][6]);
-        $keyword=returnLanguageField('keyword', $data['menu'][6]);
-        $active="news";
-        break;
+if(isset($_GET['Id']))
+{
+    $danhmuc_new=danhmuc_tintuc_getByTop('','name_url="'.$_GET['Id'].'"','');
+    if(count($danhmuc_new)==0)
+    {
+        redict(SITE_NAME);
+    }
+    $dk="danhmuc_id=".$danhmuc_new[0]->id;
+    $data['current']=isset($_GET['page'])?$_GET['page']:'1';
+    $data['pagesize']=6;
+    $data['count']=news_count($dk);
+    $data['danhsach']=news_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+    $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/news/'.$danhmuc_new[0]->name_url.'/');
+    $name_dm=returnLanguageField('name', $data['menu'][6]);
+    $name=returnLanguageField('name', $danhmuc_new[0]);
+    $data['banner']=array(
+        'banner_img'=>$danhmuc_new[0]->img,
+        'name'=>returnLanguageField('name', $danhmuc_new[0]),
+        'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a><i class="icon-angle-right"></i><a  href="'.SITE_NAME.'/news/">'.$name_dm.'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
+    );
+    $img_banner=$danhmuc_new[0]->img;
+    $title=returnLanguageField('title', $danhmuc_new[0]);
+    $description=returnLanguageField('keyword', $danhmuc_new[0]);
+    $keyword=returnLanguageField('keyword', $danhmuc_new[0]);
+    $active="news";
+}
+else{
+    $dk="";
+    $data['current']=isset($_GET['page'])?$_GET['page']:'1';
+    $data['pagesize']=6;
+    $data['count']=news_count($dk);
+    $data['danhsach']=news_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+    $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/news/');
+    $name=returnLanguageField('name', $data['menu'][6]);
+    $data['banner']=array(
+        'banner_img'=>$data['menu'][6]->img,
+        'name'=>returnLanguageField('name', $data['menu'][6]),
+        'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
+    );
+    $img_banner=$data['menu'][6]->img;
+    $title=returnLanguageField('title', $data['menu'][6]);
+    $description=returnLanguageField('keyword', $data['menu'][6]);
+    $keyword=returnLanguageField('keyword', $data['menu'][6]);
+    $active="news";
 }
 $data['link_anh']=$img_banner;
 

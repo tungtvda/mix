@@ -21,12 +21,17 @@ $data['tour_PROMOTIONS']=tour_getByTop(3,'promotion=1 ','id desc');
 $data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
 
 $data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
-
-$link='/mix/tour/';
+$link=link_chitiet_danhmuc_tour;
 $actual_link=str_replace($link,'',$_SERVER['REQUEST_URI']);
 $actual_link=str_replace('/','',$actual_link);
 $actual_link = preg_replace('/[0-9]+/', '', $actual_link);
 $actual_link=str_replace('page-','',$actual_link);
+if(isset($_GET['Id'])){
+    $actual_link= $_GET['Id'];
+}
+else{
+    redict(SITE_NAME);
+}
 $danhmuc=danhmuc_2_getByTop(1,'name_url="'.$actual_link.'"','');
 if(count($danhmuc)>0){
     $danhmuc_1=danhmuc_1_getByTop(1,'id='.$danhmuc[0]->danhmuc1_id,'');
@@ -63,7 +68,7 @@ if(count($danhmuc)>0){
        $data['pagesize']=6;
        $data['count']=tour_count($dk);
        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
-       $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . $link_dm);
+       $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/tour/'.$danhmuc[0]->name_url.'/');
        $name1=returnLanguageField('name', $danhmuc_1[0]);
        $name2=returnLanguageField('name', $danhmuc[0]);
 
