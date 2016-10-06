@@ -80,7 +80,7 @@
                 {danhmuc_subport}
             </div>
 
-            <h3 class=" title left lienquan">Fanpage</h3>
+            <h3 class=" title left lienquan">{fanpage_left}</h3>
             <div class="nicdark_space20"></div>
             <div class="nicdark_margin020">
                 <div class="fb-page" data-href="https://www.facebook.com/travelmixtourist" data-width="245"
@@ -92,7 +92,7 @@
                 <div class="nicdark_space20"></div>
             </div>
 
-            <h3 class=" title left lienquan">News</h3>
+            <h3 class=" title left lienquan">{new_left}</h3>
             <div id="woocommerce_top_rated_products-3" class="widget woocommerce widget_top_rated_products">
                 <ul class="product_list_widget">
                    {news_list}

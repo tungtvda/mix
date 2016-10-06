@@ -80,6 +80,12 @@ class language_cn
             'hanoi_office'=>"HANOI OFFICE",
             'hcm_office'=>"HOCHIMINH CITY OFFICE",
 
+            // category tours
+            'view_as'=>"VIEW AS",
+            'gird'=>"GRID",
+            'list'=>"LIST",
+            'system_data_mess'=>'The system is updated data',
+
             // detail tour
             'price'=>"Price",
             'durations'=>"Durations",
@@ -90,7 +96,11 @@ class language_cn
             'description_detail'=>"Description",
             'gallery_detail'=>"Gallery",
             'comment_detail'=>"Comment",
-            'you_may_also_detail'=>"YOU MAY ALSO LIKE"
+            'you_may_also_detail'=>"YOU MAY ALSO LIKE",
+
+            // left
+             'new_left'=>"News",
+            'fanpage_left'=>"Fanpage",
         );
     }
 }

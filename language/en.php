@@ -84,6 +84,7 @@ class Language_en
             'view_as'=>"VIEW AS",
             'gird'=>"GRID",
             'list'=>"LIST",
+            'system_data_mess'=>'The system is updated data',
 
             // detail tour
             'price'=>"Price",
@@ -95,7 +96,11 @@ class Language_en
             'description_detail'=>"Description",
             'gallery_detail'=>"Gallery",
             'comment_detail'=>"Comment",
-            'you_may_also_detail'=>"YOU MAY ALSO LIKE"
+            'you_may_also_detail'=>"YOU MAY ALSO LIKE",
+
+            // left
+            'new_left'=>"News",
+            'fanpage_left'=>"Fanpage",
 
 
         );
