@@ -72,6 +72,7 @@ if(count($danhmuc)>0){
            'name'=>returnLanguageField('name', $danhmuc[0]),
            'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i><a  href="'.$link_dm.'">'.$name1.'</a> <i class="icon-angle-right"></i> <span>'.$name2.'</span>'
        );
+       $data['link_anh']=$danhmuc[0]->banner;
        $title=returnLanguageField('title', $danhmuc[0]);
        $description=returnLanguageField('keyword', $danhmuc[0]);
        $keyword=returnLanguageField('keyword', $danhmuc[0]);

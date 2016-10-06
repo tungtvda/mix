@@ -85,7 +85,8 @@ $data['banner']=array(
     'url'=>$url
 );
 
-
+$data['tour_noibat']=tour_getByTop(6,'id!='.$data['tour'][0]->id.' and DanhMuc1Id='.$data['tour'][0]->DanhMuc1Id,'id desc');
+$data['link_anh']=$data['tour'][0]->img;
 
 $title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
