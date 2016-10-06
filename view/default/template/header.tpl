@@ -15,6 +15,8 @@
     <meta charset="UTF-8">
 
     <title>{Title}</title>
+    <meta name="description" content="{description}"/>
+    <meta name="keywords" content="{keyword}"/>
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--meta responsive-->
@@ -124,12 +126,6 @@
             src='{SITE-NAME}/view/default/themes/wp-content/themes/lovetravel/js/plugins/parallax/jquery.parallax-1.1.33a05.js?ver=4.2.2'></script>
     <script type='text/javascript'
             src='{SITE-NAME}/view/default/themes/wp-content/themes/lovetravel/js/plugins/countdown/jquery.countdown3a05.js?ver=4.2.2'></script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd"/>
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml"/>
-    <meta name="generator" content="WordPress 4.2.2"/>
-    <meta name="generator" content="WooCommerce 2.3.9"/>
-    <link rel='canonical' href='index.html'/>
-    <link rel='shortlink' href='index.html'/>
     <script type="text/javascript">
         jQuery(document).ready(function () {
             // CUSTOM AJAX CONTENT LOADING FUNCTION

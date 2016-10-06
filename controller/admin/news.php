@@ -4,6 +4,7 @@ require_once DIR.'/model/newsService.php';
 require_once DIR.'/model/danhmuc_tintucService.php';
 require_once DIR.'/view/admin/news.php';
 require_once DIR.'/common/messenger.php';
+require_once DIR.'/common/locdautiengviet.php';
 $data=array();
 $insert=true;
 if(isset($_SESSION["Admin"]))
@@ -69,6 +70,7 @@ if(isset($_SESSION["Admin"]))
        $array['name_cn']='0';
        if(!isset($array['name_url']))
        $array['name_url']='0';
+        $array['name_url']=LocDau($array['name']);
        if(!isset($array['img']))
        $array['img']='0';
        if(!isset($array['content']))

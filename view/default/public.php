@@ -102,33 +102,29 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                 $ft->assign('vehicle',returnLanguage('vehicle',''));
 
             }
-            if(get_class($item)=='danhmuctour')
+            if(get_class($item)=='danhmuc_tintuc') {
+                $ft->assign('name', returnLanguageField('name', $item));
+                $ft->assign('link',link_news($item));
+                $ft->assign('view_all', returnLanguage('view_all', 'VIEW ALL'));
+            }
+            if(get_class($item)=='news')
             {
+                $ft->assign('name',returnLanguageField('name', $item));
+                $content=returnLanguageField('content', $item);
+                if (strlen($content) > 200) {
+                    $ten1=strip_tags($content);
 
-                $ft->assign('Link',link_danhmuctour($item));
-
+                    $ten = substr($ten1, 0, 200);
+                    $name = substr($ten, 0, strrpos($ten, ' ')) . "...";
+                    $ft->assign('content',$name);
+                } else {
+                    $ft->assign('content',strip_tags($content));
+                }
+                $ft->assign('link',link_newsdetail($item));
             }
 
 
-
-            if(get_class($item)=='danhmucdiemnghiduong')
-            {
-
-                $ft->assign('Link',link_danhmucdiemnghiduong($item));
-
-            }
-            if(get_class($item)=='danhmuchoivien')
-            {
-                $ft->assign('Link',link_danhmuchoivien($item));
-            }
-            if(get_class($item)=='album')
-            {
-                $ft->assign('Link',link_album($item));
-            }
-
-
-
-            $dem=$dem+1;
+                $dem=$dem+1;
             $result.=$ft->parse_and_return('item');
         }
         return $result;
@@ -146,6 +142,15 @@ function link_tour($app)
 function link_tourdetail($app)
 {
     return SITE_NAME.'/'.$app->name_url.'.html';
+}
+
+function link_news($app)
+{
+    return SITE_NAME.'/news/'.$app->name_url.'/';
+}
+function link_newsdetail($app)
+{
+    return SITE_NAME.'/news/'.$app->name_url.'.html';
 }
 
 
