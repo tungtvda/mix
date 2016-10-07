@@ -34,17 +34,17 @@
 
 
         <div class="nicdark_textevidence nicdark_bg_greydark">
-            <a href="{link}" title="{name}"><h4 class="white nicdark_margin20">{name}
+            <a href="{link}" title="{name}"><h4 class="white nicdark_margin20 name_chitiet_danhmuc">{name}
                </h4></a>
         </div>
 
 
         <div class="nicdark_focus nicdark_bg_green">
-            <div class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                <p class="white"><i class="el el-icon-time"></i> {durations}</p>
+            <div style="padding: 10px 0px !important;" class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50 title-left">
+                <p class="white" style="font-size: 14px"><i class="el el-icon-time"></i> {durations}</p>
             </div>
-            <div class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50">
-                <p class="white"><i class="el el-arrow-right"></i> {destination} </p>
+            <div class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50 title-right">
+                <p class="white" style="font-size: 14px"><a href="{link}"><i class="el el-arrow-right"></i> {detail} </a></p>
             </div>
         </div>
 
@@ -52,11 +52,11 @@
             <p>{content}</p>
 
             <div class="nicdark_space20"></div>
-            <a href="{link}"
+            <!--<a href="{link}"
                class="nicdark_border_grey grey nicdark_btn nicdark_outline medium ">{detail} <i class="el el-eye-open"></i>
-            </a>
-            <a href="{SITE-NAME}/booking/{id}"
-               class="nicdark_mpopup_window nicdark_marginleft10 grey nicdark_btn nicdark_border_grey medium nicdark_outline ">
+            </a>-->
+            <a href="{SITE-NAME}/booking/{name_url}"
+               class="nicdark_border_grey grey nicdark_btn nicdark_outline medium">
                 {booking}  <i class="el el-shopping-cart-sign"></i>
             </a>
 

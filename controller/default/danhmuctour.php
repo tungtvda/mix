@@ -106,6 +106,25 @@ switch($actual_link){
         $keyword=returnLanguageField('keyword', $data['menu'][4]);
         $active="Multi";
         break;
+    case 'destinations':
+        $dk="DanhMuc1Id=6";
+        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
+        $data['pagesize']=6;
+        $data['count']=tour_count($dk);
+        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
+        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/multi-country/');
+        $name=returnLanguageField('name', $data['menu'][5]);
+        $data['banner']=array(
+            'banner_img'=>$data['menu'][5]->img,
+            'name'=>returnLanguageField('name', $data['menu'][5]),
+            'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
+        );
+        $img_banner=$data['menu'][5]->img;
+        $title=returnLanguageField('title', $data['menu'][5]);
+        $description=returnLanguageField('keyword', $data['menu'][5]);
+        $keyword=returnLanguageField('keyword', $data['menu'][5]);
+        $active="Multi";
+        break;
     default:
         redict(SITE_NAME);
 

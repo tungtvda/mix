@@ -52,8 +52,8 @@
 
             <div class="nicdark_space20"></div>
 
-            <div class="nicdark_margin10">
-                <div class="widget widget_text"><h2>{mix_tourist}</h2>
+            <div class="nicdark_margin10 margin_footer" >
+                <div class="widget widget_text margin_footer" ><h2>{mix_tourist}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
@@ -80,8 +80,6 @@
 
                         </ul>
 
-                        <div class="nicdark_space20"></div>
-
                     </div>
                 </div>
             </div>
@@ -92,8 +90,8 @@
 
             <div class="nicdark_space20"></div>
 
-            <div class="nicdark_margin10">
-                <div id="text-2" class="widget widget_text"><h2>{customer_service}</h2>
+            <div class="nicdark_margin10 margin_footer">
+                <div id="text-2" class="widget widget_text margin_footer"><h2>{customer_service}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
@@ -117,7 +115,6 @@
 
                         </ul>
 
-                        <div class="nicdark_space20"></div>
 
                     </div>
                 </div>
@@ -129,8 +126,8 @@
 
             <div class="nicdark_space20"></div>
 
-            <div class="nicdark_margin10">
-                <div id="text-2" class="widget widget_text"><h2>{useful_links}</h2>
+            <div class="nicdark_margin10 margin_footer">
+                <div id="text-2" class="widget widget_text margin_footer"><h2>{useful_links}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
@@ -141,7 +138,6 @@
                             </li>
                         </ul>
 
-                        <div class="nicdark_space20"></div>
                     </div>
                 </div>
             </div>
@@ -227,17 +223,15 @@
     <div class="nicdark_container nicdark_clearfix">
 
         <div class="grid grid_6 nicdark_aligncenter_iphoneland nicdark_aligncenter_iphonepotr">
-            <div class="nicdark_space20"></div>
-
             <p class="white" style="color: #a4a4a4;">© Copyright 2016 by MIXTOURIST</p>
         </div>
 
 
-        <div class="grid grid_6">
+        <div class="grid grid_6" style="margin-top: -60px">
             <div class="nicdark_focus right nicdark_aligncenter_iphoneland nicdark_aligncenter_iphonepotr">
                 <!--back to top-->
 
-                <div class="nicdark_margin10">
+                <div  class="nicdark_margin10">
                     <a href="#start_nicdark_framework"
                        class="nicdark_zoom nicdark_internal_link right nicdark_btn_icon nicdark_bg_greydark2 small nicdark_radius white"><i
                                 class="icon-up-open"></i></a>

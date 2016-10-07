@@ -38,24 +38,23 @@
                </h4></a>
         </div>
 
-
         <div class="nicdark_focus nicdark_bg_green">
-            <div style="padding: 10px 8px !important;" class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50 " >
-                <p class="white durations_detail_danhmuc" ><i class="el el-icon-time"></i> {durations}</p>
+            <div style="padding: 10px 0px !important;" class="nicdark_bg_greendark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50 title-left">
+                <p class="white" style="font-size: 14px"><i class="el el-icon-time"></i> {durations}</p>
             </div>
-            <div style="padding: 10px 8px !important;"  class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50" >
-                <p class="white durations_detail_danhmuc" ><i class="el el-arrow-right"></i> {destination} </p>
+            <div class="nicdark_bg_violetdark nicdark_focus nicdark_padding1020 nicdark_sizing nicdark_width_percentage50 title-right">
+                <p class="white" style="font-size: 14px"><a href="{link}"><i class="el el-arrow-right"></i> {detail} </a></p>
             </div>
         </div>
 
         <div class="nicdark_margin20 content_sub content_sub_danhmuc">
             <p>{content}</p>
 
-            <div class="nicdark_space20"></div>
-            <a href="{link}"
+            <div class="nicdark_space20" style="height: 5px"></div>
+            <!--<a href="{link}"
                class="nicdark_border_grey grey nicdark_btn nicdark_outline  detail_small">{detail} <i class="el el-eye-open"></i>
-            </a>
-            <a href="{SITE-NAME}/booking/{id}"
+            </a>-->
+            <a href="{SITE-NAME}/booking/{name_url}" style="padding: 10px"
                class="nicdark_border_grey grey nicdark_btn nicdark_outline booking_small">
                 {booking}  <i class="el el-shopping-cart-sign"></i>
             </a>

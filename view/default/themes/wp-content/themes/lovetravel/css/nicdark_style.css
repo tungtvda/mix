@@ -123,7 +123,7 @@ p.center,h1.center,h2.center,h3.center,h4.center,h5.center,h6.center{ text-align
 p.right,h1.right,h2.right,h3.right,h4.right,h5.right,h6.right, span.right{ text-align: right; }
 /*size*/
 p{
-    /*font-size:15px; */
+    font-size:14px;
     /*line-height: 22px; */
     /*color:#a4a4a4; */
 }

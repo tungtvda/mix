@@ -84,6 +84,41 @@ function show_index($data = array())
     $asign['name_surname']=returnLanguage('name_surname','Name And Surname');
     $asign['add_info']=returnLanguage('add_info','Additional Information');
     $asign['contact']=returnLanguage('contact','CONTACT');
+    $asign['online_support']=returnLanguage('online_support','Support');
+    $asign['danhmuc_subport'] ="";
+    if(count($data['danhmuc_subport'])>0)
+    {
+        foreach($data['danhmuc_subport'] as $dmtour1) {
+            $id_dmtour2 = "danhmuc_id=" . $dmtour1->id;
+            $data['subport'] = subport_getByTop('', $id_dmtour2, 'id desc');
+            if (count($data['subport']) > 0) {
+                $asign['danhmuc_subport'] .= "<div class=\"nicdark_focus\">
+                <label class=\"lable_subpport\">".returnLanguageField('name', $dmtour1)."</label>
+
+                <div class=\"nicdark_space10\"></div>
+                <ul class=\"subpport\">";
+                foreach($data['subport'] as $subport) {
+                    $asign['danhmuc_subport'] .= "<li>
+                        <a href='tel:$subport->phone_format' class=\"mobi_subpport\">
+                            <i class=\"icon-mobile\"></i>".$subport->phone."
+                        </a>
+                        <span>|</span>
+                        <a href=\"\" class=\"skype_subpport\">
+                            <i class=\"icon-skype-1\"></i>
+                        </a>
+                        <span>|</span>
+                        <a href=\"\" class=\"yahoo_subpport\">
+                            <i class=\"icon-yahoo\"></i>
+                        </a>
+                    </li>";
+                }
+
+                $asign['danhmuc_subport'] .= "</ul>
+
+            </div><div class=\"nicdark_space10\"></div>";
+            }
+        }
+    }
 
     print_template($asign, 'index');
 }

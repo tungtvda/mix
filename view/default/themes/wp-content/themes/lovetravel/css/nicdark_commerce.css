@@ -617,10 +617,11 @@ button.single_add_to_cart_button {
 
 .woocommerce-tabs {
     clear: both;
-    margin: 60px 0px;
+    margin: 10px 0px;
     padding: 0px;
     float: left;
     width: 100%;
+    border-top: 1px dotted #0086cd;
 }
 
 .woocommerce-tabs li {

@@ -3,30 +3,21 @@
     <div class="nicdark_container nicdark_vc nicdark_clearfix">
         <div class="vc_col-sm-12 wpb_column vc_column_container ">
             <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 60px"><span
-                            class="vc_empty_space_inner"></span></div>
 
-                <h1 style="color:;" class=" title center">{top_promotions}</h1>
+
+                <h1  class=" title center title_index">{top_promotions}</h1>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h3 style="color:;" class=" subtitle center">{best_travel_packages_available}</h3>
-
-                <div class="vc_empty_space" style="height: 25px"><span
-                            class="vc_empty_space_inner"></span></div>
-
-                <div class="nicdark_divider  center big "><span style="background-color:#f1f1f1;"></span>
-                </div>
-                <div class="vc_empty_space" style="height: 20px"><span
-                            class="vc_empty_space_inner"></span></div>
+                <h3 class="  center title_sub_index">{best_travel_packages_available}</h3>
 
 
             </div>
         </div>
     </div>
 </section>
-<section id="" class="nicdark_section  vc_row wpb_row vc_row-fluid">
+<section id="" class="nicdark_section  vc_row wpb_row vc_row-fluid" style=" margin-bottom: 0px;">
     <div class="nicdark_container nicdark_vc nicdark_clearfix">
         <div class="vc_col-sm-12 wpb_column vc_column_container  vc_custom_1430745958006">
             <div class="wpb_wrapper">
@@ -57,18 +48,7 @@
         </div>
     </div>
 </section>
-<section id="" class="nicdark_section  vc_row wpb_row vc_row-fluid">
-    <div class="nicdark_container nicdark_vc nicdark_clearfix">
-        <div class="vc_col-sm-12 wpb_column vc_column_container ">
-            <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 50px"><span
-                            class="vc_empty_space_inner"></span></div>
 
-
-            </div>
-        </div>
-    </div>
-</section>
 
 <section
         style="background:url({SITE-NAME}/view/default/themes/wp-content/uploads/2015/05/love-travel-27-1920.jpg) 50% 0 fixed; background-size:cover;"
@@ -92,7 +72,7 @@
                         <div class="vc_empty_space" style="height: 30px"><span
                                     class="vc_empty_space_inner"></span></div>
 
-                        <a title="" target="" href="#"
+                        <a title="" target="" href="{SITE-NAME}/video/"
                            class=" nicdark_btn nicdark_bg_blue medium    nicdark_square white"> <i
                                     class=" nicdark_marginright10  icon-anchor"></i>{more_videos}</a>
 
@@ -104,7 +84,7 @@
                 </div>
                 <div class="vc_col-sm-6 vc_col-xs-12">
                     <div class="wpb_wrapper video-right">
-                        <iframe src="{video}" width="100%" height="327"></iframe>
+                        <iframe width="100%" height="327" src="{video}" frameborder="0" allowfullscreen></iframe>
                     </div>
 
                 </div>
@@ -123,23 +103,16 @@
     <div class="nicdark_container nicdark_vc nicdark_clearfix">
         <div class="vc_col-sm-12 wpb_column vc_column_container ">
             <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 60px"><span
-                            class="vc_empty_space_inner"></span></div>
 
-                <h1 style="color:;" class=" title center">{our_destinations}</h1>
 
-                <div class="vc_empty_space" style="height: 20px"><span
-                            class="vc_empty_space_inner"></span></div>
-
-                <h3 style="color:;" class=" subtitle center">{choose_you}</h3>
+                <h1  class=" title center "><a href="{SITE-NAME}/destinations/" class="title_index">{our_destinations}</a></h1>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <div class="nicdark_divider  center big "><span style="background-color:#f1f1f1;"></span>
-                </div>
-                <div class="vc_empty_space" style="height: 30px"><span
-                            class="vc_empty_space_inner"></span></div>
+                <h3  class=" subtitle center title_sub_index">{choose_you}</h3>
+
+
 
 
             </div>
@@ -156,7 +129,7 @@
         id="counter-parallax" class="nicdark_section  nicdark_imgparallax  vc_row wpb_row vc_row-fluid vc_hidden-sm vc_hidden-xs">
     <div class="nicdark_filter greydark">
         <div class="nicdark_container nicdark_vc nicdark_clearfix">
-            <div class="vc_col-sm-12 wpb_column vc_column_container ">
+            <div class="vc_col-sm-12 wpb_column vc_column_container height_bg">
                 <div class="wpb_wrapper">
                     <section id=""
                              class="nicdark_section  vc_row wpb_row vc_inner vc_row-fluid vc_custom_1430753455786">
@@ -235,23 +208,15 @@
     <div class="nicdark_container nicdark_vc nicdark_clearfix">
         <div class="vc_col-sm-12 wpb_column vc_column_container ">
             <div class="wpb_wrapper">
-                <div class="vc_empty_space" style="height: 60px"><span
-                            class="vc_empty_space_inner"></span></div>
 
-                <h1 style="color:;" class=" title center">{packages_index}</h1>
+                <h1  class=" title center title_index">{packages_index}</h1>
 
                 <div class="vc_empty_space" style="height: 20px"><span
                             class="vc_empty_space_inner"></span></div>
 
-                <h3 style="color:;" class=" subtitle center">{best_travel_packages_available}</h3>
+                <h3  class=" subtitle center title_sub_index">{best_travel_packages_available}</h3>
 
-                <div class="vc_empty_space" style="height: 20px"><span
-                            class="vc_empty_space_inner"></span></div>
 
-                <div class="nicdark_divider  center big "><span style="background-color:#f1f1f1;"></span>
-                </div>
-                <div class="vc_empty_space" style="height: 30px"><span
-                            class="vc_empty_space_inner"></span></div>
 
 
             </div>
@@ -268,7 +233,7 @@
                     <div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix">
                         <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix">
                             <li class="  "><a class="title white nicdark_bg_orange "
-                                              href="#tab-1590d4d2-e42a-8"><i class=""></i>{search}</a></li>
+                                              href="#tab-1590d4d2-e42a-8"><i class=""></i>{online_support}</a></li>
                             <li class="  "><a class="title white nicdark_bg_yellow "
                                               href="#tab-1431946341916-1-3"><i class=""></i>{contact_us}</a>
                             </li>
@@ -277,120 +242,33 @@
 
                         <div id="tab-1590d4d2-e42a-8"
                              class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
-                            <style type="text/css">#advsearch_2 #nicdark_advanced_search_prices .nicdark_slider_range {
-                                    width: 100% !important;
-                                    margin-top: 20px;
-                                    margin-bottom: 10px;
-                                }
 
-                                #advsearch_2 #nicdark_advanced_search_prices .nicdark_slider_amount {
-                                    width: 100% !important;
-                                }
+                            <div class="nicdark_switcher_content nicdark_border_grey nicdark_bg_white nicdark_padding20 nicdark_focus nicdark_sizing">
 
-                                #advsearch_2 #nicdark_advanced_search_keyword {
-                                    display: none;
-                                }
+                                {danhmuc_subport}
+                                <div class="nicdark_space20 boder"></div>
 
-                                #advsearch_2 #nicdark_advanced_search_tax-2 {
-                                    display: none;
-                                }</style>
+                                <div class="nicdark_focus">
 
-                            <script type="text/javascript">
-                                /* <![CDATA[ */
-
-                                var availablePackages = ["Port Elizabeth", "Mombasa", "Fiji", "Polynesia", "Amsterdam", "Hallstatt", "Rome", "Dubai", "London", "Berlin", "New Delhi", "Cuba",
-                                    " "
-                                ];
-
-                                /* ]]&gt; */
-                            </script>
-
-
-                            <form id="advsearch_2" class="nicdark_advanced_search"
-                                  action="{SITE-NAME}/search/"
-                                  method="GET">
-                                <div id="nicdark_advanced_search_keyword"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage">
-                                    <input type="hidden" value="true" name="advsearch">
-                                    <input type="hidden" value="packages" name="posttype">
-                                    <input id="nicdark_autocomplete"
-                                           class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
-                                           type="text" placeholder="Type Your Destination" name="keyword"
-                                           value="">
-                                </div>
-                                <div id="nicdark_advanced_search_tax-3"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage"><input
-                                            type="hidden" value="person-package" name="tax-3">
-                                    <input id="nicdark_autocomplete"
-                                           class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
-                                           type="text" placeholder="{name_tour}" name="name"
-                                           value="">
-                                </div>
-                                <div id="nicdark_advanced_search_tax-0"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage"><input
-                                            type="hidden" value="destination-package" name="tax-0">
-                                    <select
-                                            name="departure"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">{all_departure}</option>
-                                        {list_departure}
-                                    </select></div>
-                                <div id="nicdark_advanced_search_tax-1"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage"><input
-                                            type="hidden" value="typology-package" name="tax-1"><select
-                                            name="destination"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">{all_destination}</option>
-                                        {list_destination}
-                                    </select></div>
-                                <div id="nicdark_advanced_search_dates"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage"><input
-                                            type="hidden" value="duration-package" name="tax-2"><select
-                                            name="duration"
-                                            class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">{all_duration}</option>
-                                        {list_Durations}
-                                    </select></div>
-
-                                <div id="nicdark_advanced_search_dates"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage">
-                                    <select name="vehicle" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
-                                        <option value="">{vehicle}</option>
-                                        {list_Vehicle}
-                                    </select>
-                                    <select style="float:right;" name="hotel" class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
-                                        <option value="">{hotel}</option>
-                                        {list_Hotel}
-                                    </select>
+                                    <div class="fb-page" data-href="https://www.facebook.com/mixtourist" data-width="250"
+                                         data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
+                                         data-show-facepile="true">
+                                        <blockquote cite="https://www.facebook.com/mixtourist" class="fb-xfbml-parse-ignore"><a
+                                                    href="https://www.facebook.com/mixtourist">Mix Tourist</a></blockquote>
+                                    </div>
                                 </div>
 
-
-                                <div id="nicdark_advanced_search_prices"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage">
-                                    <div class="nicdark_margintop30 nicdark_bg_greydark2 nicdark_border_none2 nicdark_slider_range nicdark_slider_range_yellow nicdark_activity nicdark_width_percentage49 nicdark_width100_iphonepotr"></div>
-                                    <div class="nicdark_displayblock_iphonepotr nicdark_displaynone_desktop"
-                                         style="height: 20px; float:left; width:100%"></div>
-                                    <input name="price_from_to" style="float:right;"
-                                           class="nicdark_bg_greydark2 nicdark_border_none grey subtitle medium  nicdark_slider_amount nicdark_width_percentage49 nicdark_width100_iphonepotr"
-                                           type="text">
+                                <div class="nicdark_space20 boder"></div>
+                                <div id="TA_rated26" class="TA_rated">
+                                    <ul id="IsR09pfIC" class="TA_links aaKpuIR">
+                                        <li id="XAGoca" class="NsM7kDgvNz">
+                                            <a target="_blank" href="https://www.tripadvisor.com.vn/"><img src="https://www.tripadvisor.com.vn/img/cdsi/img2/badges/ollie-11424-2.gif" alt="TripAdvisor"/></a>
+                                        </li>
+                                    </ul>
                                 </div>
+                                <script src="https://www.jscache.com/wejs?wtype=rated&amp;uniq=26&amp;locationId=1224867&amp;lang=vi&amp;display_version=2"></script>
 
-
-                                <div id="nicdark_advanced_search_button"
-                                     style="box-sizing:border-box; padding: 0px 10px;"
-                                     class=" nicdark_width100_responsive grid grid_12 percentage">
-                                    <input type="submit" value="{search}" name="search"
-                                           class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_yellow ">
-                                </div>
-
-                            </form>
+                            </div>
                         </div>
                         <div id="tab-1431946341916-1-3"
                              class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
@@ -446,7 +324,7 @@
         </div>
     </div>
 </section>
-<section id="" class="nicdark_section  vc_row wpb_row vc_row-fluid">
+<!--<section id="" class="nicdark_section  vc_row wpb_row vc_row-fluid">
     <div class="nicdark_container nicdark_vc nicdark_clearfix">
         <div class="vc_col-sm-12 wpb_column vc_column_container ">
             <div class="wpb_wrapper">
@@ -458,28 +336,18 @@
         </div>
     </div>
 </section>
-<!--end content-->
 
-<!--second section-->
 <section class="nicdark_section">
     <div class="nicdark_container nicdark_clearfix">
         <div class="grid grid_12 percentage">
             <div class="nicdark_archive1 nicdark_padding010" style="box-sizing:border-box;">
-                <!--link pagination-->
+
                 <div class="nicdark_focus">
                     <div class="singlelinkpages">
                     </div>
                 </div>
-                <!--end link pagination-->
-
-
-                <!--start author-->
-                <!--end author-->
-
-
-                <!--start comments-->
-                <!--end comments-->    </div>
+         </div>
         </div>
     </div>
-</section>
-<!--end second section-->
+</section>-->
+

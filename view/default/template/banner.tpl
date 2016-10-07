@@ -6,8 +6,8 @@
         <!--start nicdark_container-->
         <div class="nicdark_container nicdark_clearfix">
 
-            <div class="grid grid_12">
-                <div class="nicdark_space120"></div>
+            <div class="grid grid_12 height_bg">
+                <div class="nicdark_space70"></div>
                 <h1 class="white center subtitle">{name_dm}</h1>
                 <div class="nicdark_space20"></div>
                 <div class="nicdark_divider center big"><span class="nicdark_bg_white "></span></div>

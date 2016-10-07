@@ -12,7 +12,7 @@
 
                     <!--sort-->
                     <div class="nicdark_activity nicdark_width100_iphonepotr nicdark_width100_iphoneland">
-                        <h1 style="color:#ffffff;text-transform: uppercase; padding-top: 3px !important;padding-bottom: 4px !important;"
+                        <h1 style="color:#ffffff;text-transform: uppercase; padding-top: 3px !important;padding-bottom: 4px !important;font-weight: normal;"
                             class="white left nicdark_btn  small nicdark_padding1020">{name_dm}</h1>
                     </div>
 
@@ -45,13 +45,13 @@
                             </div>
                         </div>
 
-                        <div itemprop="offers" itemscope="" >
+                        <div itemprop="offers" class="detail_font">
 
                             <p class="price">
                                 <i class="icon-dollar"></i> {price_lang}: <ins><span class="amount">{currency_lang}{price}</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-calendar"></i> {durations_lang}: <span class="parameter">{durations}</span>
+                                <i class="icon-calendar"></i> {durations_lang}: <ins><span class="parameter">{durations}</span></ins>
                             </p>
                             <p class="price">
                                 <i class="icon-logout"></i> {departure_lang}: <ins><span class="parameter">{departure}</span></ins>
@@ -75,7 +75,7 @@
 
                         <div itemprop="description">
                             <div class="booking_detail_div grid grid_3">
-                                <a href="{SITE-NAME}/booking/{id}" class="booking_detail">{booking_lang}</a>
+                                <a href="{SITE-NAME}/booking/{name_url}" class="booking_detail">{booking_lang}</a>
                             </div>
                             <div class="social_div grid grid_9">
                                 <div class="addthis_toolbox addthis_default_style "><a class="addthis_button_facebook_like"
