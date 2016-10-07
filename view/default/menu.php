@@ -6,6 +6,7 @@ function view_menu($data = array())
 {
     $asign = array();
 //    print_r()
+
     $asign['email']=$data['config'][0]->Email;
     $asign['Logo']=$data['config'][0]->Logo;
     $asign['Name']=$data['config'][0]->Name;
@@ -27,7 +28,7 @@ function view_menu($data = array())
     $asign['Cruise_mn'] = ($data['active'] == 'Cruise') ? 'current' : '';
     $asign['Multi_mn'] = ($data['active'] == 'Multi') ? 'current' : '';
     $asign['Vietnam_mn'] = ($data['active'] == 'Vietnam') ? 'current' : '';
-    $asign['new_mn'] = ($data['active'] == 'new') ? 'current' : '';
+    $asign['new_mn'] = ($data['active'] == 'news') ? 'current' : '';
 
 
 

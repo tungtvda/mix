@@ -106,6 +106,8 @@ switch($actual_link){
         $keyword=returnLanguageField('keyword', $data['menu'][4]);
         $active="Multi";
         break;
+    default:
+        redict(SITE_NAME);
 
 }
 $data['link_anh']=$img_banner;

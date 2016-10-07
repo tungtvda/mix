@@ -32,7 +32,7 @@ SOME BASIC CLASSES
 
 
 /* 1- START NICDARK FRAMEWORK*/
-html{ color: #a4a4a4; }
+/*html{ color: #a4a4a4; }*/
 body{
     margin:0px; padding:0px; overflow-x:hidden;
 }
@@ -109,7 +109,9 @@ body.nicdark_boxed_img{ background-image: url(../img/img4.jpg) !important; backg
 p,h1,h2,h3,h4,h5,h6{ margin:0px; padding:0px; font-weight: normal; }
 hr{ border-top: 1px solid #f1f1f1 !important; border: 0px; }
 /*font*/
-h1,h2,h3,h4,h5,h6,input[type="text"],textarea,select{ color: #5e6d81; }
+h1,h2,h3,h4,h5,h6,input[type="text"],textarea,select{
+    /*color: #5e6d81; */
+}
 h1.subtitle,h2.subtitle,h3.subtitle,h4.subtitle,h5.subtitle,h6.subtitle,input[type="text"].subtitle,textarea.subtitle,select.subtitle, span.subtitle{ color:#a4a4a4; }
 /*color*/
 p.white,h1.white,h2.white,h3.white,h4.white,h5.white,h6.white,a.white,i.white,span.white, input[type="text"].white, textarea.white, input[type="submit"].white, select.white, small.white{ color:#ffffff; }
@@ -120,7 +122,11 @@ p.greydark2,h1.greydark2,h2.greydark2,h3.greydark2,h4.greydark2,h5.greydark2,h6.
 p.center,h1.center,h2.center,h3.center,h4.center,h5.center,h6.center{ text-align: center; }
 p.right,h1.right,h2.right,h3.right,h4.right,h5.right,h6.right, span.right{ text-align: right; }
 /*size*/
-p{ font-size:15px; line-height: 22px; color:#a4a4a4; }
+p{
+    /*font-size:15px; */
+    /*line-height: 22px; */
+    /*color:#a4a4a4; */
+}
 h1{ font-size: 30px; line-height: 30px; }
 h1.extrasize{ font-size: 45px; line-height: 45px; }
 h2{ font-size: 25px; line-height: 25px; }

@@ -21,8 +21,6 @@ $data['tour_PROMOTIONS']=tour_getByTop(3,'promotion=1 ','id desc');
 $data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
 
 $data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
-echo $_GET['Id'];
-exit;
 if(isset($_GET['Id']))
 {
     $name_url=addslashes($_GET['Id']);

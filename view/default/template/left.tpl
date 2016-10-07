@@ -75,12 +75,12 @@
 
             </div>
 
-            <h3 class=" title left lienquan">{online_support}</h3>
+            <!--<h3 class=" title left lienquan">{online_support}</h3>
             <div class="nicdark_margin020">
                 {danhmuc_subport}
-            </div>
+            </div>-->
 
-            <h3 class=" title left lienquan">{fanpage_left}</h3>
+            <h3 class=" title left lienquan"></h3>
             <div class="nicdark_space20"></div>
             <div class="nicdark_margin020">
                 <div class="fb-page" data-href="https://www.facebook.com/travelmixtourist" data-width="245"

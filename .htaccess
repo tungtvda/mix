@@ -35,4 +35,15 @@ RewriteRule ^news/$ controller/default/danhmuctintuc.php
 RewriteRule ^news/page-([0-9]+)$ controller/default/danhmuctintuc.php?page=$1
 RewriteRule ^news/([a-zA-Z0-9_-]+)/$ controller/default/danhmuctintuc.php?Id=$1
 RewriteRule ^news/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/danhmuctintuc.php?Id=$1&page=$2
-RewriteRule ^(.*)-new.html$ controller/default/chitiettintuc.php?Id=$1
+RewriteRule ^news/(.*).html$ controller/default/chitiettintuc.php?Id=$1
+
+RewriteRule ^vietnam-visa/$ controller/default/info.php
+RewriteRule ^about-us/$ controller/default/info.php
+RewriteRule ^why-us/$ controller/default/info.php
+RewriteRule ^our-service/$ controller/default/info.php
+RewriteRule ^contact/$ controller/default/info.php
+RewriteRule ^terms-conditions/$ controller/default/info.php
+RewriteRule ^terms-conditions/$ controller/default/info.php
+RewriteRule ^payment-method/$ controller/default/info.php
+RewriteRule ^privacy-policy/$ controller/default/info.php
+RewriteRule ^faq/$ controller/default/info.php

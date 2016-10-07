@@ -11,20 +11,22 @@ function show_chitiettintuc($data = array())
 {
     $asign = array();
 
-    $asign['img']= $data['tour'][0]->img;
+    $asign['img']= $data['news'][0]->img;
+    $asign['created']= $data['news'][0]->created;
     $asign['name_dm']= $data['banner']['name'];
-    $asign['link']=SITE_NAME.'/news/'.$data['tour'][0]->name_url.'.html';
-    $asign['content']=returnLanguageField('content', $data['tour'][0]);
+    $asign['link']=SITE_NAME.'/news/'.$data['news'][0]->name_url.'.html';
+    $asign['content']=returnLanguageField('content', $data['news'][0]);
+//
+//
+//
+    $asign['related_rticles']=returnLanguage('related_rticles','Related articles');
+    $asign['new_left']=returnLanguage('new_left','News');
 
-
-
-    $asign['you_may_also_detail']=returnLanguage('you_may_also_detail','YOU MAY ALSO LIKE');
-
-//    $asign['tour_noibat'] = "";
-//    if(count($data['tour_noibat'])>0)
-//    {
-//        $asign['tour_noibat'] = print_item('tour_noibat', $data['tour_noibat']);
-//    }
+    $asign['tour_noibat'] = "";
+    if(count($data['tour_noibat'])>0)
+    {
+        $asign['tour_noibat'] = print_item('news_noibat', $data['tour_noibat']);
+    }
 
     print_template($asign, 'chitiettintuc');
 }

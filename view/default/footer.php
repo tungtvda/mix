@@ -40,9 +40,10 @@ function view_footer($data = array())
     $asign['payment_method']=returnLanguage('payment_method','Payment Method');
     $asign['privacy_policy']=returnLanguage('privacy_policy','Privacy Policy');
 
-    $asign['useful_links']=returnLanguage('privacy_policy','Privacy Policy');
+    $asign['useful_links']=returnLanguage('useful_links','Privacy Policy');
     $asign['hanoi_office']=returnLanguage('hanoi_office','HANOI OFFICE');
     $asign['hcm_office']=returnLanguage('hcm_office','HOCHIMINH CITY OFFICE');
+    $asign['faq']=returnLanguage('faq','FAQ');
 
     $asign['link'] = "";
     if(count($data['link'])>0)
