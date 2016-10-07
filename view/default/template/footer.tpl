@@ -135,7 +135,10 @@
                     <div class="textwidget">
                         <ul class="nicdark_list">
                             {link}
-
+                            <li>
+                                <p class="nicdark_margin100 white nicdark_margintop0">
+                                    <a href="{SITE-NAME}/faq/"><i class=""></i>-&nbsp;&nbsp; {faq}</a></p>
+                            </li>
                         </ul>
 
                         <div class="nicdark_space20"></div>

@@ -110,6 +110,7 @@ function show_menu($data1=array(),$active='trangchu')
     $data['config']=$data1['config'];
     $data['active']=$active;
     $data['menu']=$data1['menu'];
+
     $data['Excursion_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=2','id desc');
     $data['Vacation_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=3','id desc');
     $data['Cruise_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=4','id desc');
@@ -117,8 +118,6 @@ function show_menu($data1=array(),$active='trangchu')
     $data['new_menu']=danhmuc_tintuc_getByTop('','','id desc');
 //    $data['Vietnam_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=6','id desc');
     $data['danhmuc_subport']=danhmuc_subport_getByTop('','','id desc');
-
-
 //    $data['danhmuctourquocte1_menu']=danhmuctourtrongnuoc1_getByTop('','Id!=1 and DanhMucId=2','ViTri asc');
 //    $data['Link_menu']=link_menu_right_getByTop('','','ViTri asc');
 //    $data['album_menu']=album_getByTop('','','ViTri asc');

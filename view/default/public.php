@@ -152,7 +152,7 @@ function link_news($app)
 }
 function link_newsdetail($app)
 {
-    return SITE_NAME.'/'.$app->name_url.'-new.html';
+    return SITE_NAME.'/news/'.$app->name_url.'.html';
 }
 
 

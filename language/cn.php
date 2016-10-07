@@ -68,6 +68,7 @@ class language_cn
             'why_us'=>"Why us",
             'our_service'=>"Our services",
             'contact_footer'=>"Contact",
+            'faq'=>"faq",
 
             'customer_service'=>"Customer service",
             'vietnam_visa'=>"Vietnam visa",
@@ -101,6 +102,7 @@ class language_cn
             // left
              'new_left'=>"News",
             'fanpage_left'=>"Fanpage",
+            'related_rticles'=>'Related articles'
         );
     }
 }
