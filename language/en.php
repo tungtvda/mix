@@ -13,7 +13,7 @@ class Language_en
         return array(
             // lang menu
             'monday_saturday' => "Monday to Saturday",
-            'online_support'=>"ONLINE SUPPORT",
+            'online_support'=>"SUPPORT",
             'language'=>"LANGUAGES",
 
             // lang slide
@@ -68,7 +68,7 @@ class Language_en
             'why_us'=>"Why us",
             'our_service'=>"Our services",
             'contact_footer'=>"Contact",
-            'faq'=>"faq",
+            'contact_footer'=>"faq",
 
             'customer_service'=>"Customer service",
             'vietnam_visa'=>"Vietnam visa",

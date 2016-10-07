@@ -41,6 +41,7 @@ function show_chitiettour($data = array())
     $asign['price_list']=returnLanguageField('price_list', $data['tour'][0]);
     $asign['content']=returnLanguageField('content', $data['tour'][0]);
     $asign['list_img']=$data['tour'][0]->list_img;
+    $asign['name_url']=$data['tour'][0]->name_url;
 
     // lang
     $asign['price_lang']=returnLanguage('price','Price');

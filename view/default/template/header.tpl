@@ -292,7 +292,7 @@
 
         .nicdark_tab_dark.wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab {
             /*background-color: #434a54 !important;*/
-            background: rgba(255, 255, 255, 0.9) !important;
+            background: rgba(255, 255, 255, 0.45) !important;
             /*box-shadow: 0px 0px 0px 0px #4a515b !important;*/
         }
 
@@ -402,7 +402,7 @@
         }
 
         .nicdark_bg_greendark {
-            background-color: #18b292;
+            background-color: #FFFFFF;
         }
 
         .nicdark_iconbg.green {
@@ -516,7 +516,8 @@
 
         /*second*/
         .nicdark_bg_violetdark {
-            background-color: #BA71DA;
+            /*background-color: #BA71DA;*/
+            background-color: #FFFFFF;
         }
 
         .nicdark_border_violet, .nicdark_border_violet td, .nicdark_border_violet th {
@@ -618,11 +619,11 @@
         /****************************************START RED******************************************************/
         /*first*/
         .nicdark_bg_red {
-            background-color: #f76570;
+            background-color: #ec1a22;
         }
 
         .nicdark_bg_red_hover:hover {
-            background-color: #f76570 !important;
+            background-color: #ec1a22 !important;
         }
 
         p.red, h1.red, h2.red, h3.red, h4.red, h5.red, h6.red, a.red, i.red, span.red, input[type="text"].red, textarea.red, input[type="submit"].red, select.red {
@@ -1333,8 +1334,8 @@
         }
 
         .vc_custom_1430753455786 {
-            margin-top: 100px !important;
-            margin-bottom: 100px !important;
+            margin-top: 31px !important;
+            /*margin-bottom: 100px !important;*/
         }
 
         .vc_custom_1431947118714 {

@@ -33,7 +33,7 @@ $data['count_cru']=tour_count('DanhMuc1Id=4');
 $title=returnLanguageField('title', $data['menu'][0]);
 $description=returnLanguageField('keyword', $data['menu'][0]);
 $keyword=returnLanguageField('keyword', $data['menu'][0]);
-
+$data['danhmuc_subport']=danhmuc_subport_getByTop('','','id desc');
 $title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $keywords=($keyword)?$keyword:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';

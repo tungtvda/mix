@@ -15,9 +15,11 @@
 }
 .content_sub{
     text-align: center;
+    margin-bottom: 0px ;
 }
 .content_sub p{
     text-align: justify;
+    font-size: 14px;
 }
 .content_sub div.nicdark_space20{
     border-bottom: 1px solid #e6e6e6;
@@ -25,6 +27,7 @@
 .content_sub a{
     border: none;
     color: #ed1c27;
+    font-weight: bold;
 }
 .video-right{
     margin-top: 36px;
@@ -168,13 +171,24 @@
 .wpb_tabs_nav .ui-state-active a.tab_detail{
     color:#0086cd !important;
     background-color: #ffffff !important;
+    font-weight: normal!important;
 
+}
+.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a
+{
+    font-weight: normal!important;
 }
 .content_detail{
     padding: 10px;
 }
 .lienquan{
-    color:#0086cd; margin-top: 20px;     padding-bottom: 10px;border-bottom: 1px solid;    font-weight: bold;
+    color:#0086cd; margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px dotted;
+    font-size: 16px;
+}
+.boder{
+    border-top: 1px solid #0086cd;
 }
 .wpb_tabs .wpb_tabs_nav li {
     float: left;
@@ -216,4 +230,45 @@
     line-height: 35px;
     float: left;
     width: 100%;
+}
+.title_index{
+    color: #0086cd;
+}
+.title_sub_index{
+    color: #ed1c27 !important;
+    font-size: 14px;
+
+}
+.title-right{
+    background-color: #ffffff;
+    border-bottom: 1px dotted #d0d0cd;
+    text-align: center;
+    border-left: 1px dotted #d0d0cd;
+}
+.title-right a{
+    color: #ed1c27;
+}
+.title-left p{
+    color: #ed1c27;
+}
+.title-left{
+    background-color: #ffffff;
+    border-bottom: 1px dotted #d0d0cd;
+    text-align: center;
+
+}
+.name_desti{
+    color: #0086cd !important; font-weight: 700
+}
+.sub_tittle_packet:hover{
+    color: #0086cd !important;
+}
+.height_bg{
+    height: 200px;
+}
+.margin_footer{
+    margin-bottom: 0px;
+}
+.detail_font p{
+    font-size: 14px;
 }

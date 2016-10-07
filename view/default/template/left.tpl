@@ -15,10 +15,10 @@
                 <div class="nicdark_space10"></div>
                 <form class="nicdark_advanced_search" action="{SITE-NAME}/search/" method="GET">
                     <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
-                    <input id="nicdark_autocomplete"
+                    <!--<input id="nicdark_autocomplete"
                            class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
                            type="text" placeholder="{name_tour}" name="name"
-                           value="">
+                           value="">-->
 
                     <select name="departure"
                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
@@ -40,7 +40,7 @@
                     </select>
 
 
-                    <div class="nicdark_focus">
+                    <!--<div class="nicdark_focus">
                         <select name="vehicle"
                                 class="nicdark_activity nicdark_width_percentage49 nicdark_bg_greydark2 nicdark_border_none  grey medium subtitle">
                             <option value="">{vehicle}</option>
@@ -51,7 +51,7 @@
                             <option value="">{hotel}</option>
                             {list_Hotel}
                         </select>
-                    </div>
+                    </div>-->
 
                     <div class="nicdark_margintop20 nicdark_bg_grey2 nicdark_slider_range nicdark_slider_range_green nicdark_focus ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all"
                          aria-disabled="false">
@@ -61,7 +61,7 @@
                            style="left: 10%;"></a><a class="ui-slider-handle ui-state-default ui-corner-all"
                                                      href="#" style="left: 90%;"></a></div>
                     <div class="nicdark_space20"></div>
-                    <input name="price_from_to"
+                    <input style="color: #ec1b23;" name="price_from_to"
                            class="nicdark_focus nicdark_bg_greydark grey subtitle medium  nicdark_slider_amount"
                            type="text" value="">
 
@@ -70,7 +70,6 @@
 
 
                 </form>
-                <div class="nicdark_space10"></div>
 
 
             </div>
@@ -89,7 +88,7 @@
                     <blockquote cite="https://www.facebook.com/travelmixtourist" class="fb-xfbml-parse-ignore"><a
                                 href="https://www.facebook.com/travelmixtourist">MixTourist Viet Nam</a></blockquote>
                 </div>
-                <div class="nicdark_space20"></div>
+
             </div>
 
             <h3 class=" title left lienquan">{new_left}</h3>

@@ -44,7 +44,7 @@
                             <option value="grid">{gird}</option>
                             <option value="list">{list}</option>
                         </select>
-                        <a class="white right nicdark_btn  small nicdark_padding1020">{view_as}</a>
+                        <!--<a class="white right nicdark_btn  small nicdark_padding1020">{view_as}</a>-->
                     </div>
                     <!--end view-->
 
