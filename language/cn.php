@@ -102,7 +102,12 @@ class language_cn
             // left
              'new_left'=>"News",
             'fanpage_left'=>"Fanpage",
-            'related_rticles'=>'Related articles'
+            'related_rticles'=>'Related articles',
+
+            // tim kiem
+            'search_resul_tour'=>"Search results for keyword tour ",
+            'search_resul_news'=>"Search results for keyword news ",
+            'no_search'=>'No search results',
         );
     }
 }

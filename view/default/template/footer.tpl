@@ -24,7 +24,7 @@
         <div class="grid grid_3 nomargin percentage">
 
             <div class="nicdark_space20"></div>
-            <div class="nicdark_margin10">
+            <div class="nicdark_margin10 margin_footer">
                 <div class="widget widget_text logo_ft" style="text-align: center">
                     <a href="{SITE-NAME}"><img src="{SITE-NAME}/view/default/themes/images/logomix.png" alt="{Name}"></a>
 

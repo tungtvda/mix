@@ -47,3 +47,4 @@ RewriteRule ^terms-conditions/$ controller/default/info.php
 RewriteRule ^payment-method/$ controller/default/info.php
 RewriteRule ^privacy-policy/$ controller/default/info.php
 RewriteRule ^faq/$ controller/default/info.php
+RewriteRule ^search$ controller/default/search.php
