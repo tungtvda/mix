@@ -30,6 +30,8 @@ function show_chitiettour($data = array())
     $asign['img']= $data['tour'][0]->img;
     $asign['name_dm']= $data['banner']['name'];
     $asign['price']=returnLanguageField('price', $data['tour'][0]);
+    $asign['price_children_5_10']=$data['tour'][0]->price_children_5_10;
+    $asign['price_children_under_5']=$data['tour'][0]->price_children_under_5;
     $asign['durations']=returnLanguageField('durations', $data['tour'][0]);
     $asign['departure']=returnLanguageField('departure', $data['tour'][0]);
     $asign['destination']=returnLanguageField('destination', $data['tour'][0]);
@@ -75,6 +77,7 @@ function show_chitiettour($data = array())
     {
         $asign['tour_noibat'] = print_item('tour_noibat', $data['tour_noibat']);
     }
+    $asign['date_now'] = date('Y-m-d', strtotime(date(DATETIME_FORMAT)));
 
     print_template($asign, 'chitiettour');
 }
