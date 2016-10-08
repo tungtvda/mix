@@ -59,7 +59,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/tour.php');
         }
     }
-    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_cn"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
+    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_cn"])&&isset($_POST["price_children_5_10"])&&isset($_POST["price_children_under_5"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -85,6 +85,10 @@ if(isset($_SESSION["Admin"]))
        $array['price']='0';
        if(!isset($array['price_cn']))
        $array['price_cn']='0';
+       if(!isset($array['price_children_5_10']))
+       $array['price_children_5_10']='0';
+       if(!isset($array['price_children_under_5']))
+       $array['price_children_under_5']='0';
        if(!isset($array['durations']))
        $array['durations']='0';
        if(!isset($array['durations_cn']))

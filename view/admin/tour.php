@@ -29,7 +29,7 @@ function view_tour($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>DanhMuc1Id</th><th>DanhMuc2Id</th><th>promotion</th><th>packages</th><th>name</th><th>name_cn</th><th>img</th>';
+    return '<th>id</th><th>DanhMuc1Id</th><th>DanhMuc2Id</th><th>promotion</th><th>packages</th><th>name</th><th>img</th><th>price_cn</th><th>price_children_5_10</th><th>price_children_under_5</th>';
 }
 //
 function showTableBody($data)
@@ -44,8 +44,10 @@ function showTableBody($data)
         $TableBody.="<td>".$obj->promotion."</td>";
         $TableBody.="<td>".$obj->packages."</td>";
         $TableBody.="<td>".$obj->name."</td>";
-        $TableBody.="<td>".$obj->name_cn."</td>";
         $TableBody.="<td><img src=\"".$obj->img."\" width=\"50px\" height=\"50px\"/> </td>";
+        $TableBody.="<td>".$obj->price_cn."</td>";
+        $TableBody.="<td>".$obj->price_children_5_10."</td>";
+        $TableBody.="<td>".$obj->price_children_under_5."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
         $TableBody.="</td>";
@@ -57,24 +59,45 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
-    $str_from.='<p><label>DanhMuc1Id</label>';
-    $str_from.='<select name="DanhMuc1Id">';
-    if(isset($ListKey['DanhMuc1Id']))
+    $str_from.='<p><label>Chọn danh mục cấp 1</label>';
+    $str_from.='<select name="DanhMuc1Id" id="DanhMuc1Id">';
+    if($form!=false)
     {
-        foreach($ListKey['DanhMuc1Id'] as $key)
+        if(isset($ListKey['DanhMuc1Id']))
         {
-            $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc1Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
+            foreach($ListKey['DanhMuc1Id'] as $key)
+            {
+                $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc1Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
+            }
+        }
+    }
+    else
+    {
+
+        if(isset($ListKey['DanhMuc1Id']))
+        {
+            foreach($ListKey['DanhMuc1Id'] as $key)
+            {
+                $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc1Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
+            }
         }
     }
     $str_from.='</select></p>';
-    $str_from.='<p><label>DanhMuc2Id</label>';
-    $str_from.='<select name="DanhMuc2Id">';
-    if(isset($ListKey['DanhMuc2Id']))
+    $str_from.='<p><label>Chọn danh mục cấp 2</label>';
+    $str_from.='<select name="DanhMuc2Id" id="DanhMuc2Id">';
+    if($form!=false)
     {
-        foreach($ListKey['DanhMuc2Id'] as $key)
+        if(isset($ListKey['DanhMuc2Id']))
         {
-            $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc2Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
+            foreach($ListKey['DanhMuc2Id'] as $key)
+            {
+                $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc2Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
+            }
         }
+    }
+    else
+    {
+        $str_from .= '<option value="1">Chọn danh mục cấp 2</option>';
     }
     $str_from.='</select></p>';
     $str_from.='<p><label>promotion</label><input  type="checkbox"  name="promotion" value="1" '.(($form!=false)?(($form->promotion=='1')?'checked':''):'').' /></p>';
@@ -85,6 +108,8 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>img</label><input class="text-input small-input" type="text"  name="img" value="'.(($form!=false)?$form->img:'').'"/><a class="button" onclick="openKcEditor(\'img\');">Upload ảnh</a></p>';
     $str_from.='<p><label>price</label><input class="text-input small-input" type="text"  name="price" value="'.(($form!=false)?$form->price:'').'" /></p>';
     $str_from.='<p><label>price_cn</label><input class="text-input small-input" type="text"  name="price_cn" value="'.(($form!=false)?$form->price_cn:'').'" /></p>';
+    $str_from.='<p><label>price_children_5_10</label><input class="text-input small-input" type="text"  name="price_children_5_10" value="'.(($form!=false)?$form->price_children_5_10:'').'" /></p>';
+    $str_from.='<p><label>price_children_under_5</label><input class="text-input small-input" type="text"  name="price_children_under_5" value="'.(($form!=false)?$form->price_children_under_5:'').'" /></p>';
     $str_from.='<p><label>durations</label><input class="text-input small-input" type="text"  name="durations" value="'.(($form!=false)?$form->durations:'').'" /></p>';
     $str_from.='<p><label>durations_cn</label><input class="text-input small-input" type="text"  name="durations_cn" value="'.(($form!=false)?$form->durations_cn:'').'" /></p>';
     $str_from.='<p><label>departure</label><input class="text-input small-input" type="text"  name="departure" value="'.(($form!=false)?$form->departure:'').'" /></p>';
