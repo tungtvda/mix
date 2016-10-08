@@ -121,9 +121,9 @@
                             <div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span>
                             </div>
 
-                            <div style="width: 100%" class="wpb_tabs wpb_content_element  nicdark_tab_padding0"
+                            <div id="booking" style="width: 100%" class="wpb_tabs wpb_content_element  nicdark_tab_padding0"
                                  data-interval="0">
-                                <div id="booking" class=" vc_col-sm-4" style="padding: 0px !important;">
+                                <div  class=" vc_col-sm-4" style="padding: 0px !important;">
                                     <h3 class=" title left lienquan" style="margin-top: 6px">{booking_form}</h3>
                                     <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                         <div class="wpb_wrapper">
@@ -139,13 +139,19 @@
                                                         select: function(date, obj) {
                                                             date_check=(date[0] === null? '':date[0].format('YYYY-MM-DD'));
                                                             date_now="{date_now}";
-                                                            if(date_check<date_now){
-                                                                alert('{check_param_date}');
+                                                            if(date_check==''){
+                                                                alert('{check_date}');
                                                             }
                                                             else{
-                                                                $('#date_input').val(date_check);
-                                                                $("#date_table").text(date_check);
+                                                                if(date_check<date_now){
+                                                                    alert('{check_param_date}');
+                                                                }
+                                                                else{
+                                                                    $('#date_input').val(date_check);
+                                                                    $("#date_table").text(date_check);
+                                                                }
                                                             }
+
 
                                                         }
                                                     });

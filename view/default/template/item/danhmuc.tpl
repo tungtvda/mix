@@ -54,7 +54,7 @@
             <!--<a href="{link}"
                class="nicdark_border_grey grey nicdark_btn nicdark_outline  detail_small">{detail} <i class="el el-eye-open"></i>
             </a>-->
-            <a href="{SITE-NAME}/booking/{name_url}" style="padding: 10px"
+            <a href="{link}#booking" style="padding: 10px"
                class="nicdark_border_grey grey nicdark_btn nicdark_outline booking_small">
                 {booking}  <i class="el el-shopping-cart-sign"></i>
             </a>

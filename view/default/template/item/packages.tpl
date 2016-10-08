@@ -82,7 +82,7 @@
                     <a href="{link}" title="{name}"
                        class="nicdark_border_white white nicdark_btn nicdark_outline medium ">{detail}</a>
                     <div class="nicdark_space20"></div>
-                    <a href="{SITE-NAME}/booking/{name_url}"
+                    <a href="{link}#booking"
                        class="nicdark_border_white white nicdark_btn nicdark_outline medium ">{booking}</a>
                 </div>
 
