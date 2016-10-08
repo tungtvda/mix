@@ -40,6 +40,10 @@ function show_chitiettour($data = array())
     $asign['schedule']=returnLanguageField('schedule', $data['tour'][0]);
     $asign['price_list']=returnLanguageField('price_list', $data['tour'][0]);
     $asign['content']=returnLanguageField('content', $data['tour'][0]);
+    $asign['inclusion']=returnLanguageField('inclusion', $data['tour'][0]);
+    $asign['exclusion']=returnLanguageField('exclusion', $data['tour'][0]);
+    $asign['summary']=returnLanguageField('summary', $data['tour'][0]);
+    $asign['highlights']=returnLanguageField('highlights', $data['tour'][0]);
     $asign['list_img']=$data['tour'][0]->list_img;
     $asign['name_url']=$data['tour'][0]->name_url;
 
@@ -56,6 +60,11 @@ function show_chitiettour($data = array())
     $asign['schedule_lang']=returnLanguage('schedule_detail','Schedule');
     $asign['price_list_lang']=returnLanguage('price_list_detail','Price list');
     $asign['description_lang']=returnLanguage('description_detail','Description');
+    $asign['inclusion_lang']=returnLanguage('inclusion_detail','Inclusion');
+    $asign['exclusion_lang']=returnLanguage('exclusion_detail','Exclusion');
+    $asign['summary_lang']=returnLanguage('summary','Summary');
+    $asign['highlights_lang']=returnLanguage('highlights','Highlights');
+    $asign['booking_form']=returnLanguage('booking_form','Booking form');
 
     $asign['gallery_lang']=returnLanguage('gallery_detail','Gallery');
     $asign['comment_lang']=returnLanguage('comment_detail','Comment');

@@ -37,12 +37,16 @@ if(count($_GET)==1){
     }
 }
 else{
-//    $dk='id >0 ';
-//    if(isset())
+    $dk='id >0 ';
+    if(isset($data['danhsach'])){
+
+    }
+    print_r($_GET);
     $data['danhsach_news']=array();
-    $data['danhsach'];
+    $data['danhsach']=array();
     $field_not='';
 }
+//exit;
 $name=returnLanguageField('name', $data['menu'][7]);
 $data['banner']=array(
     'banner_img'=>$data['menu'][7]->img,

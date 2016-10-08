@@ -10416,7 +10416,7 @@ a.wpb_button_a:hover {
 /* Google maps
 ---------------------------------------------------------- */
 .wpb_gmaps_widget .wpb_wrapper {
-  background-color: #f7f7f7;
+  /*background-color: #f7f7f7;*/
   padding: 5px;
 }
 .wpb_gmaps_widget .wpb_map_wraper iframe {
@@ -10496,7 +10496,7 @@ a.wpb_button_a:hover {
 }
 .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header,
 .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab {
-  background-color: #f7f7f7;
+  /*background-color: #f7f7f7;*/
 }
 .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tab,
 .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content {

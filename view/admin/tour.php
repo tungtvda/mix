@@ -57,66 +57,24 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
-//    $str_from.='<p><label>DanhMuc1Id</label>';
-//    $str_from.='<select name="DanhMuc1Id">';
-//    if(isset($ListKey['DanhMuc1Id']))
-//    {
-//        foreach($ListKey['DanhMuc1Id'] as $key)
-//        {
-//            $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc1Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
-//        }
-//    }
-//    $str_from.='</select></p>';
-//    $str_from.='<p><label>DanhMuc2Id</label>';
-//    $str_from.='<select name="DanhMuc2Id">';
-//    if(isset($ListKey['DanhMuc2Id']))
-//    {
-//        foreach($ListKey['DanhMuc2Id'] as $key)
-//        {
-//            $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc2Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
-//        }
-//    }
-//    $str_from.='</select></p>';
-
-    $str_from.='<p><label>Chọn danh mục cấp 1</label>';
-    $str_from.='<select name="DanhMuc1Id" id="DanhMuc1Id">';
-    if($form!=false)
+    $str_from.='<p><label>DanhMuc1Id</label>';
+    $str_from.='<select name="DanhMuc1Id">';
+    if(isset($ListKey['DanhMuc1Id']))
     {
-        if(isset($ListKey['DanhMuc1Id']))
+        foreach($ListKey['DanhMuc1Id'] as $key)
         {
-            foreach($ListKey['DanhMuc1Id'] as $key)
-            {
-                $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc1Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
-            }
-        }
-    }
-    else
-    {
-
-        if(isset($ListKey['DanhMuc1Id']))
-        {
-            foreach($ListKey['DanhMuc1Id'] as $key)
-            {
-                $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc1Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
-            }
+            $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc1Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
         }
     }
     $str_from.='</select></p>';
-    $str_from.='<p><label>Chọn danh mục cấp 2</label>';
-    $str_from.='<select name="DanhMuc2Id" id="DanhMuc2Id">';
-    if($form!=false)
+    $str_from.='<p><label>DanhMuc2Id</label>';
+    $str_from.='<select name="DanhMuc2Id">';
+    if(isset($ListKey['DanhMuc2Id']))
     {
-        if(isset($ListKey['DanhMuc2Id']))
+        foreach($ListKey['DanhMuc2Id'] as $key)
         {
-            foreach($ListKey['DanhMuc2Id'] as $key)
-            {
-                $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc2Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
-            }
+            $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->DanhMuc2Id==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
         }
-    }
-    else
-    {
-        $str_from .= '<option value="1">Chọn danh mục cấp 2</option>';
     }
     $str_from.='</select></p>';
     $str_from.='<p><label>promotion</label><input  type="checkbox"  name="promotion" value="1" '.(($form!=false)?(($form->promotion=='1')?'checked':''):'').' /></p>';
@@ -135,6 +93,10 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>vehicle</label><input class="text-input small-input" type="text"  name="vehicle" value="'.(($form!=false)?$form->vehicle:'').'" /></p>';
     $str_from.='<p><label>vehicle_cn</label><input class="text-input small-input" type="text"  name="vehicle_cn" value="'.(($form!=false)?$form->vehicle_cn:'').'" /></p>';
     $str_from.='<p><label>hotel</label><input class="text-input small-input" type="text"  name="hotel" value="'.(($form!=false)?$form->hotel:'').'" /></p>';
+    $str_from.='<p><label>summary</label><textarea name="summary">'.(($form!=false)?$form->summary:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'summary\'); </script></p>';
+    $str_from.='<p><label>summary_cn</label><textarea name="summary_cn">'.(($form!=false)?$form->summary_cn:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'summary_cn\'); </script></p>';
+    $str_from.='<p><label>highlights</label><textarea name="highlights">'.(($form!=false)?$form->highlights:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'highlights\'); </script></p>';
+    $str_from.='<p><label>highlights_cn</label><textarea name="highlights_cn">'.(($form!=false)?$form->highlights_cn:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'highlights_cn\'); </script></p>';
     $str_from.='<p><label>schedule</label><textarea name="schedule">'.(($form!=false)?$form->schedule:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'schedule\'); </script></p>';
     $str_from.='<p><label>schedule_cn</label><textarea name="schedule_cn">'.(($form!=false)?$form->schedule_cn:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'schedule_cn\'); </script></p>';
     $str_from.='<p><label>price_list</label><textarea name="price_list">'.(($form!=false)?$form->price_list:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'price_list\'); </script></p>';
@@ -148,5 +110,9 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>keyword_cn</label><input class="text-input small-input" type="text"  name="keyword_cn" value="'.(($form!=false)?$form->keyword_cn:'').'" /></p>';
     $str_from.='<p><label>description</label><input class="text-input small-input" type="text"  name="description" value="'.(($form!=false)?$form->description:'').'" /></p>';
     $str_from.='<p><label>description_cn</label><input class="text-input small-input" type="text"  name="description_cn" value="'.(($form!=false)?$form->description_cn:'').'" /></p>';
+    $str_from.='<p><label>inclusion</label><textarea name="inclusion">'.(($form!=false)?$form->inclusion:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'inclusion\'); </script></p>';
+    $str_from.='<p><label>inclusion_cn</label><textarea name="inclusion_cn">'.(($form!=false)?$form->inclusion_cn:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'inclusion_cn\'); </script></p>';
+    $str_from.='<p><label>exclusion</label><textarea name="exclusion">'.(($form!=false)?$form->exclusion:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'exclusion\'); </script></p>';
+    $str_from.='<p><label>exclusion_cn</label><textarea name="exclusion_cn">'.(($form!=false)?$form->exclusion_cn:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'exclusion_cn\'); </script></p>';
     return $str_from;
 }

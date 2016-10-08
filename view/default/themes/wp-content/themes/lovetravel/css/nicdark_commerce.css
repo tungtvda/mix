@@ -621,7 +621,7 @@ button.single_add_to_cart_button {
     padding: 0px;
     float: left;
     width: 100%;
-    border-top: 1px dotted #0086cd;
+    /*border-top: 1px dotted #0086cd;*/
 }
 
 .woocommerce-tabs li {
