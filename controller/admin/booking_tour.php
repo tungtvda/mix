@@ -54,7 +54,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/booking_tour.php');
         }
     }
-    if(isset($_POST["tour_id"])&&isset($_POST["name_tour"])&&isset($_POST["name_customer"])&&isset($_POST["phone"])&&isset($_POST["email"])&&isset($_POST["city"])&&isset($_POST["country"])&&isset($_POST["departure_day"])&&isset($_POST["adults"])&&isset($_POST["children_6_11"])&&isset($_POST["children_5"])&&isset($_POST["request"])&&isset($_POST["created"]))
+    if(isset($_POST["tour_id"])&&isset($_POST["name_tour"])&&isset($_POST["name_customer"])&&isset($_POST["language"])&&isset($_POST["phone"])&&isset($_POST["email"])&&isset($_POST["address"])&&isset($_POST["departure_day"])&&isset($_POST["adults"])&&isset($_POST["children_5_10"])&&isset($_POST["children_5"])&&isset($_POST["price"])&&isset($_POST["price_children"])&&isset($_POST["price_children_under_5"])&&isset($_POST["request"])&&isset($_POST["created"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -65,22 +65,28 @@ if(isset($_SESSION["Admin"]))
        $array['name_tour']='0';
        if(!isset($array['name_customer']))
        $array['name_customer']='0';
+       if(!isset($array['language']))
+       $array['language']='0';
        if(!isset($array['phone']))
        $array['phone']='0';
        if(!isset($array['email']))
        $array['email']='0';
-       if(!isset($array['city']))
-       $array['city']='0';
-       if(!isset($array['country']))
-       $array['country']='0';
+       if(!isset($array['address']))
+       $array['address']='0';
        if(!isset($array['departure_day']))
        $array['departure_day']='0';
        if(!isset($array['adults']))
        $array['adults']='0';
-       if(!isset($array['children_6_11']))
-       $array['children_6_11']='0';
+       if(!isset($array['children_5_10']))
+       $array['children_5_10']='0';
        if(!isset($array['children_5']))
        $array['children_5']='0';
+       if(!isset($array['price']))
+       $array['price']='0';
+       if(!isset($array['price_children']))
+       $array['price_children']='0';
+       if(!isset($array['price_children_under_5']))
+       $array['price_children_under_5']='0';
        if(!isset($array['request']))
        $array['request']='0';
        if(!isset($array['status']))

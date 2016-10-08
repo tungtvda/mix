@@ -13,7 +13,7 @@
 
 
                 <div class="nicdark_space10"></div>
-                <form class="nicdark_advanced_search" action="{SITE-NAME}/search/" method="GET">
+                <form class="nicdark_advanced_search" action="{SITE-NAME}/search" method="GET">
                     <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
                     <!--<input id="nicdark_autocomplete"
                            class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
@@ -25,8 +25,7 @@
                         <option value="">{all_departure}</option>
                         {list_departure}
                     </select>
-                    <input
-                            type="hidden" value="typology-package" name="tax-1"><select
+                    <select
                             name="destination"
                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                         <option value="">{all_destination}</option>

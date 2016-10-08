@@ -20268,3 +20268,834 @@ update tour set DanhMuc1Id='5',DanhMuc2Id='12',promotion='1',packages='0',name='
 <div>
 	早餐后，你将被转移到机场，乘搭飞机离境。感谢您与Mixtourist旅行。下次见到你的旅</div>
 ',list_img='',title='Central And South Of Laos',title_cn='Central And South Of Laos',keyword='Central And South Of Laos',keyword_cn='Central And South Of Laos',description='Central And South Of Laos',description_cn='Central And South Of Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=9;
+update tour set DanhMuc1Id='5',DanhMuc2Id='12',promotion='1',packages='1',name='Explore Laos',name_cn='探索老挝',name_url='explore-laos',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='500',price_cn='500',price_children_5_10='50',price_children_under_5='10',durations='11 Days 10 Nights',durations_cn='11天10夜',departure='Houay Xay',destination='Luang Prabang',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your adventure into the heart and soul of Laos will begin at the border crossing of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Houay Xay</strong>. Here you will be met by your local Mixtourist guide who will escort you to your boat for your overnight cruise to<strong style=\"margin: 0px; padding: 0px;\">Luang Prabang.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	En route you&rsquo;ll make a stop to visit an authentic hill tribe settlement where you can enjoy observing the genuine way of existence and see how the locals utilize the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Mekong River&nbsp;</strong>as a source of life. Along the way you&rsquo;ll enjoy a delicious buffet lunch onboard your boat and in the afternoon you&rsquo;ll come to rest at<strong style=\"margin: 0px; padding: 0px;\">Pakbeng.</strong></p>
+',summary_cn='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your adventure into the heart and soul of Laos will begin at the border crossing of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Houay Xay</strong>. Here you will be met by your local Mixtourist guide who will escort you to your boat for your overnight cruise to<strong style=\"margin: 0px; padding: 0px;\">Luang Prabang.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	En route you&rsquo;ll make a stop to visit an authentic hill tribe settlement where you can enjoy observing the genuine way of existence and see how the locals utilize the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Mekong River&nbsp;</strong>as a source of life. Along the way you&rsquo;ll enjoy a delicious buffet lunch onboard your boat and in the afternoon you&rsquo;ll come to rest at<strong style=\"margin: 0px; padding: 0px;\">Pakbeng.</strong></p>
+',highlights='<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your adventure into the heart and soul of Laos will begin at the border crossing of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Houay Xay</strong>. Here you will be met by your local Mixtourist guide who will escort you to your boat for your overnight cruise to<strong style=\"margin: 0px; padding: 0px;\">Luang Prabang.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	En route you&rsquo;ll make a stop to visit an authentic hill tribe settlement where you can enjoy observing the genuine way of existence and see how the locals utilize the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Mekong River&nbsp;</strong>as a source of life. Along the way you&rsquo;ll enjoy a delicious buffet lunch onboard your boat and in the afternoon you&rsquo;ll come to rest at<strong style=\"margin: 0px; padding: 0px;\">Pakbeng.</strong></p>
+',highlights_cn='<p>
+	sadfsafsadf</p>
+',schedule='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\"><strong style=\"margin: 0px; padding: 0px; font-size: small;\">Day 1: HOUAY XAY - PAKBENG (L, D)&nbsp;</strong></span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your adventure into the heart and soul of Laos will begin at the border crossing of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Houay Xay</strong>. Here you will be met by your local Mixtourist guide who will escort you to your boat for your overnight cruise to<strong style=\"margin: 0px; padding: 0px;\">Luang Prabang.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	En route you&rsquo;ll make a stop to visit an authentic hill tribe settlement where you can enjoy observing the genuine way of existence and see how the locals utilize the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Mekong River&nbsp;</strong>as a source of life. Along the way you&rsquo;ll enjoy a delicious buffet lunch onboard your boat and in the afternoon you&rsquo;ll come to rest at<strong style=\"margin: 0px; padding: 0px;\">Pakbeng.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Situated halfway between Houay Xay and Luang Prabang, the quaint rural hillside town is most certainly relaxed and is home to a good number of tasty local restaurants. You&rsquo;ll arrive in Pakbeng just in time to see the sunset over the Mekong. Overnight in Pakbeng</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 2: PAKBENG - PAK OU - LUANG PRABANG&nbsp; ( B, L)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Early risers can pay a visit to the morning market to see local residents and hill tribes all converge to buy, sell and exchange their wares. We&rsquo;ll get back on the boat at 8.30am and cruise down the Mekong to see how traditional rice alcohol or&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&lsquo;Lao Lao&rsquo;</strong>&nbsp;is made at the village of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Baw.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Take lunch on board as we carry on cruising to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Pak Ou Caves</strong>, known locally as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&lsquo;Tam Ting</strong>&rsquo;. These two caves are carved out of a huge limestone cliff and are filled with thousands of gold lacquered Buddha statues, some only a few centimeters in height and some as tall as a person. These caves are an important<strong style=\"margin: 0px; padding: 0px;\">Buddhist pilgrimage</strong>&nbsp;site and you will see many people visit them in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Pii Mai, Lao New Year</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After visiting the Pak Ou Caves you will be met by your private driver and our guide for a transfer to your hotel. Overnight in<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Luang Prabang</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: LUANG PRABANG (B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your tour of Luang Prabang will begin at the former&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Royal Palace</strong>&nbsp;which now exists as the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">National Museum</strong>. Here you can learn about Laos&rsquo; rich history and culture and there are usually special exhibits on display to see. You&rsquo;ll then move on to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Mai Buddhist temple</strong>, one of the most richly decorated temples of Luang Prabang and&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Sensoukarahm</strong>, which is decorated in a stenciled gold fa&ccedil;ade.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	To round off your morning you will visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Xieng Thong</strong>, the most famous temple in Luang Prabang. This temple, also known as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temple of the Golden City</strong>, rests on the northern tip of the peninsula close to the Mekong River. The temple was built by&nbsp;<strong style=\"margin: 0px; padding: 0px;\">King Setthathirat</strong>&nbsp;in 1560 and remains a significant spiritual place in Laos.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	If you wish, in the evening you can attend a personal Baci ceremony. These ceremonies are deeply rooted in the Laos culture and are used to celebrate a special occasion - whether a wedding, an annual festival, or as a welcome.&nbsp; Overnight in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 4: LUANG PRABANG - KUANG SI WATERFALL - LUANG FRABANG</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">This morning you have the option of getting up early to observe the local monks collecting alms. The rising sun brings with it long lines of orange-robed monks who walk barefoot around the city collecting offerings made by locals and should be seen at least once. You can then return to the hotel and take advantage of being one of the first to reach the breakfast service!</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast your guide will pick you up in a private car and whisk you out into the countryside, taking you on an hour-long drive through beautiful landscapes, small villages and rice paddies. You will make a brief stop at one of the villages before coming to rest at the famous&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kuang Si Waterfalls.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	An elegant three-tier waterfall, the main fall of Kuang Si is approximately 60 meters high and there are several turquoise blue pools in which to bathe or swim. If you&rsquo;re in the mood for some gentle exercise, there&rsquo;s the chance to scale the track up to the top of the falls which provide spectacular views of the surrounding area.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Once you&rsquo;ve had your fill of the natural beauty around the falls you will next have the opportunity to visit the<strong style=\"margin: 0px; padding: 0px;\">Tat Kuang Si Bear Rescue Center</strong>&nbsp;located near the falls. The center is home to around a dozen sun bears that were rescued from the grasps of poachers. The center attempts to rehabilitate the bears and raise awareness of the plight the endangered species face.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The remainder of your final day in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Luang Prabang</strong>&nbsp;will be spent at your own leisure, but be sure to ask your guide if you would like any recommendations for delicious local food, or even the best place to grab a refreshing cocktail. Overnight in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: LUANG PRABANG - VANG VIENG(B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast you&rsquo;ll depart for&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vang Vieng</strong>, taking a five-hour drive with a stop along the way in Kasi, a rural region famous for its delicious fruit. Your journey will take you down numerous picturesque, winding mountain roads lined with spectacular scenery.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Vang Vieng is a quaint, laid-back town on the banks of the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Nam Song River</strong>&nbsp;flanked by outstanding limestone karst landscapes which surround the town. Vang Vieng was originally settled in the early 1350s. It was then known as Mouang Song but renamed Vang Vieng during French colonial times in the 19th century.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your afternoon will be free to spend at your leisure with a driver and expert Mixtourist guide at your disposal. Feel free to ask their advice on one of the many exciting activities available. Perhaps you might like to explore the exquisite cave formations, nearby villages and a local organic farm where you can stop to enjoy a cup of delicious mulberry tea.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	If you&rsquo;re feeling active and adventurous you can take your pick of numerous outdoor activities such as cycling, kayaking, rock climbing, trekking and tubing. These activities are not included in your tour but can be easily arranged. Overnight in Vang Vieng</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: VANG VIENG - VIENTIANE (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast you will be transfer by your private driver and Mixtourist guide to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vientiane</strong>, stopping after 90 minutes at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Nam Ngum Lake</strong>, the largest lake in Laos. An artificial lake, Nam Ngum was the first hydroelectric dam built in Laos to produce electricity.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You are welcome to take your lunch here (not included) or hire a boat for a short tour of the lake (also not included).</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then continue your drive on to Vientiane, a journey which should take approximately two and a half hours. Upon arrival you will enjoy spending the rest of the day at your leisure, perhaps taking an evening promenade along the banks of the Mekong and stop at the daily night market. Overnight in Vientiane</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: VIENTIANE (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Today go on a guided tour of the Laos capital,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vientiane.</strong>&nbsp;Situated on a bend of the Mekong River, Vientiane is one of the smallest capital cities in the world, and many of its treasures can be unearthed simply by putting on one&rsquo;s walking shoes (or sandals!) and exploring the place on foot.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Start near the center of town at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Sisaket</strong>,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vientiane&rsquo;s oldest surviving temple</strong>. The courtyard contains over 300 different Buddha images, either sculpted or cast in the characteristic Lao style. Next is<strong style=\"margin: 0px; padding: 0px;\">Wat Phra Keo</strong>, which displays both Khmer and Lao works of art and now serves as a religious museum.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Next you will visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">COPE,</strong>&nbsp;an association that works to help landmine victims from unexploded ordinances left over from the Vietnam War with the USA.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Hit the streets again in the afternoon as we go to Patuxay, situated at the end of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lane Xang</strong>, a large, tree-lined avenue. This Arc De Triomphe inspired building also incorporates traditional Lao motifs such as &lsquo;Kinnari&rsquo;, the mythical bird-woman said to represent feminine beauty, grace and accomplishment.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Climb to the top and get fantastic panoramic views of the city. After coming down, it&rsquo;s a short drive to the holiest site in Laos,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lao&rsquo;s National Monument:</strong>&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tat Luang.</strong>&nbsp;Constructed in the 16<sup style=\"margin: 0px; padding: 0px;\">th</sup>&nbsp;century by King Setthethirat, its sharp angles and beautiful decoration make it an arresting sight as the sun shines on its gold-leaf and towering main spire.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Another holy site is next.&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Simuang</strong>&nbsp;is the most venerated temple in Vientiane, as it is believed to be the guardian of the spirit of the city. Walk around its main<strong style=\"margin: 0px; padding: 0px;\">, Angkorian-era pillar</strong>&nbsp;three times and make a wish. It is believed that if you do this your wish will be granted. Overnight in Vientiane</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: VIENTIANE - BAN KONGLOR (B, L)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	An early rise is recommended this morning as your local Mixtourist guide will meet you at 8am to embark up the journey southbound to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Kong Lor</strong>&nbsp;along highway 13. After driving for three hours you will make a stop at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Prabath Phonsane</strong>, also known as Temple of the Footprint of Buddha.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After the temple you will leave the highway and enter the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phou Hin Poun</strong>&nbsp;region, a National Protected Area. The scenery along the two-hour drive becomes even more outstanding as you journey past spectacular limestone karsts, lush forests and rice paddies. A delightful picnic lunch (brought from Vientiane) will be taken at a suitable spot whenever you prefer.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival in the quaint town of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Kong Lor</strong>&nbsp;you&rsquo;ll be able to check in and freshen up before heading out to explore the famous Kong Lor Caves. The 7.5km stretch of caves is the longest and most spectacular cave complex in Laos. After donning a life jacket and head torch you&rsquo;ll board a long tail boat and take a cruise along the underground Hin Boun River section.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Inside the caves you will be able to explore the vast formations of stalactites and stalagmites on foot, led by your expert guide. Certain places in the caves reach up to 100m high and 90m wide. The cave is still used by local villagers as a thoroughfare &ndash; it&rsquo;s certainly much quicker taking this route rather than climbing over the mountains the cave cuts through!</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Once you emerge out of the other side you can stop for refreshments at one of the local villages to enjoy the ambience and culture of rural life in Laos. You will later make the return journey by boat, travelling downstream through the cave back to Ban Kong Lor. Overnight in Ban Kong Lor</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: KONG LOR CAVES - THAKLEK -SAVANNAKHET (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Take advantage of the crisp clear morning air and take a walk before breakfast around the surrounding picturesque villages accompanied by your expert local guide. Early mornings are fascinating insights into local life as people prepare for their upcoming day.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then embark upon your journey to Savannakhet, stopping after four hours at Thakhek, just in time for lunch at your leisure. Thakhek is a quaint, sleepy town with many attractive colonial buildings and makes for a relaxing pit stop before you continue on the 90-minute journey to Savannakhet.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Before entering the town of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Savannakhe</strong>t you will make a stop at the beautiful 16th Century temple of<strong style=\"margin: 0px; padding: 0px;\">That Ing Hang</strong>. An impressive central stupa dominates a courtyard which is flanked by statues of Lord Buddha, in a style similar to Wat Sisaket in Vientiane. That Ing Hang is among the most revered temples in Laos and many Buddhists will travel here during December for the annual &lsquo;Boun Phathat&rsquo; ceremony.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then continue to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Savannakhet,</strong>&nbsp;a city famous for being the birthplace of the father of the Lao People&rsquo;s Democratic Republic (Lao PDR), Kaysone Phomvihane.Led by your expert Mixtourist guide you&rsquo;ll enjoy a short tour of the architectural highlights including the remarkable&nbsp;<strong style=\"margin: 0px; padding: 0px;\">St. Teresa Catholic Church</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The day is then yours to enjoy as you wish. If you like, you can pay a visit to the fascinating&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Dinosaur Museum</strong>. The museum contains dinosaur remains found by paleontologists nearby which are between 150 &ndash; 250 million years old. Overnight in Savannakhet</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: SAVANAKHET - SALAVAN - TAD LO - TAD ETU ( B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We&rsquo;ll set-off early for today&rsquo;s drive to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bolaven Plateau</strong>. Take a stop at the Tad Lo area to see its three different waterfalls:&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Hang, Tad Lo and Tad Suong</strong>. Continue to the twin waterfalls of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Yuang and Tad Fane,</strong>&nbsp;which pour down into a gorge in the dense jungle. Both tea and coffee are produced in this region, cultivated between 1000-1300 meters above sea level by the families who inhabit the 250 villages of the area. We&rsquo;ll pay a visit to one of these plantations. Overnight in Tad Etu</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: TAD ETU - WAT PHOU - KHONG ISLAND (B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Drive to the UNESCO World Heritage Site of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Phou</strong>. This spectacular temple pre-dates Angkor Wat and was built by the rulers of the Khmer empire. The temple is constructed on three levels: the water reservoir, the galleries and the sanctuary itself, it is one of the holiest temples of the Laos people.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then pass through&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Champasak,</strong>&nbsp;a quaint town where French colonial buildings offer a pronounced contrast to Wat Phou, before continuing south, making a brief stop at the small village of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Nong Bune</strong>, renowned for its delicate wood carvings.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Kiet Ngong</strong>&nbsp;you&rsquo;ll enjoy lunch in a simple local restaurant before taking your 90-minute elephant ride through the forest to Mount Asa. This tour is part of a community-based project designed to help the local villagers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	During your elephant ride you&rsquo;ll enjoy spectacular views of Xe Pian National Park. The park is a vast region of wetlands and lush green forest that lines the Mekong River with an astounding 29 recorded ecosystems. Here you may be able to spot numerous species of bird such as egrets, sarus crane and hornbill, not to mention other inhabitants including wild elephants and gibbons.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After your elephant ride through the park, your Mixtourist guide will lead you south to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Si Phan Don</strong>, the 4000 Islands Region. Here the Mekong River stretches to over 14km wide and flows around, between, over and under an uncountable number of islands, creating waterfalls and rapids.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Once you arrive at the Mekong, you&rsquo;ll take a short boat crossing to your hotel, arriving sometime in the late afternoon. Your evening will then be free to spend at your leisure. Overnight in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khong Island</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: KHONG ISLAND - SIPHANDON - PAKSE (B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Our guide will meet you after breakfast and you&rsquo;ll then venture out together to explore the peaceful villages and plantations of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Don Det and Don Khone</strong>&nbsp;islands.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On your outward bound boat trip you might even have the unique chance to spot the rare&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Irrawaddy Dolphin</strong>. Sightings aren&rsquo;t guaranteed, but mornings and late afternoons when the water is cooler offer the best opportunity. Once you land upon the island you can opt for either a bike tour or tuk-tuk ride to explore the islands.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll visit the impressive&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lippi</strong>&nbsp;falls next, which lie to the west of Don Khone, close to the Cambodian border. Known as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Somphamit</strong>&nbsp;(&lsquo;trap spirit&rsquo;) to locals, islanders believe the falls act as a trap to catch bad spirits.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	These islands played a crucial role during the times of French occupation as they linked Laos and Cambodia and Vietnam&rsquo;s south. A railway and bridge were built across the waterfalls and is a perfect place to soak up the spectacular surrounding views.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll continue your exploration at a lazy, relaxed stride as you adapt to the steady pace of local life, led by your expert local Mixtourist guide before taking lunch at a local restaurant.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your day will end will a trip to the spectacular&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khone Papheng</strong>&nbsp;waterfalls, where you can take time to appreciate the sensational view as you reflect upon your memorable exploration of majestic Myanmar before moving on to Pakse for your last night.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: PAKSE&nbsp; ( B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">After breakfast your guide will meet you at the hotel for your transfer to either the Thai border or the airport for your departure flight.</span></p>
+',schedule_cn='<div>
+	第1天：Houay XAY - Pakbeng（午，晚餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	在过境老挝你的心脏和灵魂维罗冒险SE开始的Houay XAY。在这里，您将通过谁护送你到你会为你的夜间游船到琅勃拉邦当地Mixtourist CUA导游得到满足。</div>
+<div>
+	制作途中，你会停下来参观地道的山，你可以享受部落定居观测存在的真正方式，看到了湄公河如何当地人利用生命之源。一路上，你可以享受美味的自助午餐板载CUA船，并在下午，你会在Pakbeng来休息。</div>
+<div>
+	位于中途giữaHouay XAY和琅勃拉邦，古朴的乡村山区小镇肯定是放松，是家庭的好一些美味的当地餐馆。你会在Pakbeng到达的时候正好看到夕阳在湄公河。隔夜在Pakbeng</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：Pakbeng - 帕乌 - 琅勃拉邦（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早起的客人可以支付给早市一游，看看当地的山区部落居民和所有收敛购买，出售和交换要求他们的产品。我们将在早上8:30巡航回到船上下来湄公河看到大米酒精或&ldquo;劳劳&rdquo;如何在传统的班的Baw村而成。</div>
+<div>
+	采纳午餐巡航涌帕乌石窟的，当地人称为&ldquo;谭婷&#39;作为随身携带。这两个洞穴雕刻出的石灰石悬崖和充满巨大的千足金漆木佛雕像，有的只在高几厘米，有的一样高的人。这些洞穴是佛教徒的朝圣重要的安全，你会看到很多麦PII添加người参观，老挝新年。</div>
+<div>
+	帕乌石窟参观你将是米你的私人司机和我们转移到你的酒店指南之后。隔夜在琅勃拉邦</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：琅勃拉邦（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	你的前皇家琅勃拉邦之旅现在开始SE作为存在故宫M&agrave;国家博物馆。在这里，您可以了解老挝丰富的历史和文化，有陈列商信特别展览看到的。然后，您将转移到梅寺佛教寺庙，琅勃拉邦和Wat Sensoukarahm最装饰华丽的庙宇之一，马装饰以金色钢印的外观。</div>
+<div>
+	四舍五入参观禁令CUA早上香通寺，其中最有名的寺庙在琅勃拉邦。这座寺庙，的也被称为黄金之城的神殿，在北端在于半岛靠近湄公河。该庙建于1560由国王塞塔提腊的显著精神并保持在老挝的地方。</div>
+<div>
+	如果你愿意，你可以在晚上巴契仪式个人参加。这些仪式深深植根于老挝文化，是用来庆祝一个特殊的场合 - 婚礼NEU，一年一度的节日，或作为欢迎。隔夜在琅勃拉邦</div>
+<div>
+	&nbsp;</div>
+<div>
+	第4天：琅勃拉邦 - 关西瀑布 - LUANG FRABANG</div>
+<div>
+	&nbsp;</div>
+<div>
+	你有这个清晨起床的选项遵守当地收集施舍僧侣。初升的太阳与它带来的橙色长袍的僧侣龙行谁赤脚走路围绕由当地人和一次看到嫩江山一使这个城市收集产品。然后，您可以返回酒店，并利用成为第一个到达的早餐服务！</div>
+<div>
+	早餐后，你拿起一辆私家车SE CUA指南和拂你出到农村，走你一个小时的车程通过美丽的风景，村庄和稻田小。 *您做一个简单的停留在村庄之一是来休息的著名关西瀑布前。</div>
+<div>
+	优雅的三层瀑布，关西的主要下降是高60米，并有khoảng是奥钢联碧蓝的水池洗澡或游泳CHUA。如果你的心情有些温和的运动，所以很缩放跟踪多达瀑布周围地区马cung的壮丽景色顶部的机会。</div>
+<div>
+	一旦你有你周围的瀑布的自然美景填补禁令C&oacute;下次有机会参观了达关西黑熊救护位于瀑布附近的中心。该中心是家庭对各地从抓救出了十几个太阳熊共同偷猎者的洛杉矶。试图修复中心承担的困境名称意识，提高濒危物种的脸。</div>
+<div>
+	在琅勃拉邦CUA最后一天，其余SE在自己的闲暇中度过，但一定要问，如果你想CUA引导任何建议美味的当地食品，或抢谭清凉的鸡尾酒的最佳场所。隔夜在琅勃拉邦</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：琅勃拉邦 - 万荣（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后出发前往万荣你会，采取了五个小时的车程，沿中卡丝的方式停止，农村地区著名的美味的水果没有。你的旅程SE你失望众多风景如画，绕组壮观的高山景色两旁的道路。</div>
+<div>
+	万荣是南宋河由石灰岩岩溶地貌产生出色的环绕镇M&agrave;两侧河岸的古朴，悠闲的小镇。万荣在早期1350s本来解决。然后，它被称为Mouang宋万荣不过十仲川崎法国19世纪殖民时代。</div>
+<div>
+	您将免费为您的休闲在您的处置专家Mixtourist一个司机和导游度过下午。随意问问他们上提供的许多令人兴奋的大气温度的一个建议。或许你会，喜欢探索洞穴精致排兵布阵，附近的村庄和当地的有机农场，你可以停下来享受茶桑美味的杯子。</div>
+<div>
+	如果你喜欢冒险的感觉，你可以采取积极CUA挑户外活动，新和成众多的自行车，皮划艇，攀岩，徒步旅行和油管。这些活动不包括在你的旅游，但也可安排。隔夜在万荣</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：万荣 - 万象（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，你会在你的私人接送Mixtourist司机和导游万象，在南俄湖，在老挝最大的湖泊90分钟后停止。一个人工湖，南俄水电站大坝是最早建于老挝发电。</div>
+<div>
+	欢迎您来这里取午饭CUA（不含税），或租一艘小船在湖中短线游（也不含）。</div>
+<div>
+	然后，您将继续前往万象CUA开车，旅途M&agrave;不应该采取两个半小时khoảng。抵达后享受您的休闲消费的禁令休息一天，以一个晚上沿着长廊也许&ldquo;湄公河河岸，每天在夜市停止。隔夜在万象</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：万象（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	如今走在老挝首都万象的导游。万象坐落于湄公河的一个弯道，是世界上最小的首都城市之一，许多宝物由于可以通过简单地把一个人的步行鞋出土（或凉鞋！）和步行游览的地方。</div>
+<div>
+	开始在镇附近在沙格庙，万象现存最古老的寺院的中心。庭院包含超过300图像kh&aacute;c佛像，雕刻或特有的风格投乙酸老挝。佛寺巨次之，高棉和老挝DJO CA显示艺术作品，现在作为博物馆的宗教。</div>
+<div>
+	接下来禁令访问COPE，一个协会，以帮助地雷受害者Co从越战与美国遗留下来的未爆弹药的工作。</div>
+<div>
+	再次上街游行在下午，我们去Patuxay凯旋门，位于万象，大，林荫大道的尽头。凯旋门这个建筑灵感的图案是还采用了传统的老挝新和成&ldquo;Kinnari&rdquo;，神话鸟的女人说đại奠阴柔之美，优雅和成就。</div>
+<div>
+	登顶并获得美妙景色城市全景。下来后，这是一个短的车程在老挝，老挝的国家纪念碑的圣地：达銮。在国王Setthethirat 16世纪建造，锐利的角度和美丽的装饰没有使它成为逮捕视线的阳光照在金箔和无主高耸的塔尖。</div>
+<div>
+	另一个圣地旁边。西孟寺是万象最崇敬的寺庙，因为它被认为是城市精神的守护者。逛完主没有，吴哥时代的支柱三次许愿。如果你做这种合作愿望将被授予据信。隔夜在万象</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：万象 - BAN KONGLOR（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天上午被推荐为本地Mixtourist CUA会满足你上午8点引导的早期崛起踏上了旅程取缔公路沿线13香港咯南行车三个小时后做出停在禁寺Prabath Phonsane，又称庙的佛足迹。</div>
+<div>
+	后寺院禁令离开高速公路，并进入普山轩Poun区，国家保护区。沿着两个小时的车程出色的风景变得更加连平，你的旅程壮观的石灰岩喀斯特过去，茂密的森林和稻田。一个愉快的野餐（从万象带来）的，只要你喜欢一个合适的SE当场服用。</div>
+<div>
+	在班岗咯的古朴小镇的到来，您就可以签入和外出游览著名的香港咯石窟前梳洗所有。该7.5公里拉伸洞穴是在老挝复杂的最长，最壮观的洞穴。穿上救生衣和头部火炬后，您会登上长尾船，沿着地下部分轩伯恩河游船。</div>
+<div>
+	里面的钟乳石禁令编队开拓广阔和石笋徒步洞穴，由专业的导游带领的口岸。在洞穴中的某些地方呢？可达100米高，90米宽。这个洞穴仍然使用当地村民为通途 - 它肯定服用此快得多攀登路线上穿过山洞山大公削减！</div>
+<div>
+	一旦浮现出对方，你可以在当地的村庄之一停止茶点，享受在老挝的氛围和农村生活的文化。稍后您将乘船使回程车，穿过山洞回到禁令Kong咯下游行驶。夜宿班岗咯</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：KONG LOR洞穴 - THAKLEK -SAVANNAKHET（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	就拿清晰明快清晨的空气的优势，并采取一切早餐陪同CUA村专家当地向导之前在周围风景如画的散步。清晨是迷人的见解当地化成生命的ngườiC&oacute;即将到来的一天做好准备。</div>
+<div>
+	&nbsp;</div>
+<div>
+	然后，您将在CUA成行到沙湾拿吉，在您的休闲在他曲四个小时以后停止，正好赶上吃午饭。他曲是一个古朴，沉睡的小镇有许多吸引人的殖民时期的建筑，使休闲进站是你继续在90分钟的旅程，沙湾拿吉前。</div>
+<div>
+	进入沙湾镇前，应在这ING坑的美丽的16世纪的寺庙停止禁令。令人印象深刻的中央主导的舍利塔马主佛像两侧庭院，类似沙格庙在万象的样式。这ING杭其中最受尊敬的寺庙是在老挝和许多佛教徒SE阮富仲KHI月前往这里一年一度的&ldquo;伯恩Phathat&rdquo;仪式。</div>
+<div>
+	然后，您将继续沙湾拿吉，一个城市著名的是老挝人民民主共和国（老挝）的父亲的出生地，Kaysone Phomvihane.Led你的专家指导你会喜欢Mixtourist的建筑亮点GOM的短线游卓越的圣特雷莎天主教堂。</div>
+<div>
+	这一天是你，然后享受你的愿望。如果你喜欢，可以缴费至迷人的恐龙博物馆参观。博物馆包括恐龙仍然是古生物学家发现MA附近150-250亿岁之间。隔夜在沙湾拿吉</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：沙湾拿吉 - 沙拉湾 - TAD LO - TAD ETU（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	我们会为今天的现成的布拉万高原开车去年初成立。乘坐停在泰德罗湖区看到没有三kh&aacute;c瀑布：恒泰德，泰德和罗泰德Suong酒店。继续双子瀑布塔德Yuang和泰德费恩马下倒入在茂密的丛林峡谷。这两种茶叶和咖啡中产生在这一地区，海拔由谁居住水平的面积250村的耕地家庭米之间1000-1300。我们将有机会参观những种植园之一。隔夜在泰德ETU</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：TAD ETU - 瓦普寺 - NO ISLAND（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	联合国教科文组织世界遗产开车到笏普山的网站。这壮观的吴哥窟前的日期，被高棉帝国的统治者建造的。寺庙建在三个层次：水水库，画廊和圣所本身，它是老挝人民最神圣的寺庙之一。</div>
+<div>
+	&nbsp;</div>
+<div>
+	然后，您将通过巴塞，一个古朴的小镇，那里的法国殖民时期的建筑提供了一个明显的对比瓦普寺，故持续南下，在禁令Nong布尼，精致的木雕以其著名机构的小村庄做短暂停留了。</div>
+<div>
+	在潘基武文杰昂到来，你会在当地餐馆享用午餐是采取一个简单的90分钟车程CUA大象穿越森林山亚撒之前。本旅行社是一个以社区为基础的项目，帮助当地村民柯的一部分。</div>
+<div>
+	在您乘坐大象享受氙片国家公园的你会壮观景色。该公园是郁郁葱葱的绿色森林湿地和惊人的29周四生态系统湄公河外线的广大地区。在这里，你缝现货鸟白鹭新和成，赤颈鹤和犀鸟的众多的种类，更不要说其他居民GOM野生大象和长臂猿。</div>
+<div>
+	骑大象CUA通过园区后，引导CUA Mixtourist SE引你南至四千美岛，4000群岛地区。在这里，湄公河绵延超过14公里宽和周围流动，giữa，过去，在岛屿不可数数，瀑布和激流创造。</div>
+<div>
+	一旦你在湄公河到达时，你会采取短期船渡到您的酒店，有时在下午迟到。你晚上SE可自由在您的休闲消费。隔夜在清孔岛</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：不ISLAND - 西潘敦 - 巴色（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，我们的导游会满足你，然后走出去，你会共同探讨和平村和唐和挪威岛屿Khone唐种植园。</div>
+<div>
+	在开往外地的CUA乘船游览就得甚至可能水平，发现罕见的伊洛瓦底江海豚的独特的机会。目击不能保证，但早晨和下午后期麦KHI水冷却器提供最好的机会。一旦你的土地在岛上，你可以选择一个自行车之旅或乙酸嘟嘟车车程，探索岛屿。</div>
+<div>
+	您将参观壮观的瀑布旁边里皮，骗马唐Khone以西，靠近柬埔寨边境。被称为泰德Somphamit（&#39;精神陷阱&#39;）当地人，岛民相信瀑布作为一个陷阱捉妖魔鬼怪。</div>
+<div>
+	这些起到了至关重要的作用岛屿KHI法国占领老挝和柬埔寨倍仲联和越南的南部。一条铁路和整个瀑布和La建成啦A完美的地方的桥梁，沉浸在壮观的周围的意见。</div>
+<div>
+	你会在一个慵懒的CUA继续探索，当你适应当地生活的步伐稳健宽松的步伐，由当地专家带领CUA正在吃午饭Mixtourist指导当地餐厅前。</div>
+<div>
+	将你的一天结束SE壮观Khone旅行Papheng瀑布，在那里你可以花时间，你反省雄伟缅甸轰动难忘CUA探索欣赏景色，移动到昨晚你之前巴色。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：巴色（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐CUA指南后接你在酒店SE为您转移到泰国边境乙酸机场乘搭或航班。</div>
+',price_list='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: center; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">PACKAGE PRICE: CONTACT US</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">TOUR INCLUDED:</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Accommodation hotels , two persons sharing double/ twin room</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Transfers and all services as mentioned in the itinerary</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Air -conditioned vehicles</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Experience Driver</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Good English speaking tour guides in every location</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Entrances fees for all mentioned sights visited</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Meals as mentioned in the itinerary</li>
+</ul>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">TOUR EXCLUDED:</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Domestic &amp; international flights</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Departure taxes if applicable</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Meals other than those mentioned in the itinerary</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Early check-in and late check-out at hotels.</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Personal expenses (such as laundry, telephone, drinks, etc.)</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Tips for guides and drivers</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Personal travel insurance</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\" text-align:=\"\">
+		Visa fees (contact us for further information)</li>
+</ul>
+',price_list_cn='<div>
+	套餐价格：联系我们</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	&nbsp;</div>
+<div>
+	住宿酒店，两个人共用一间双人/双床房</div>
+<div>
+	转移和所有服务如前所述在行程</div>
+<div>
+	空气-conditioned车辆</div>
+<div>
+	驾驶体验</div>
+<div>
+	良好的英语导游在每一个位置</div>
+<div>
+	对于参观所有景点提到出入口收费</div>
+<div>
+	正如前面提到的在行程膳食</div>
+<div>
+	TOUR排除：</div>
+<div>
+	&nbsp;</div>
+<div>
+	国内，国际机票</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证费（请联系我们获取更多信息）</div>
+',content='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\"><strong style=\"margin: 0px; padding: 0px; font-size: small;\">Day 1: HOUAY XAY - PAKBENG (L, D)&nbsp;</strong></span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your adventure into the heart and soul of Laos will begin at the border crossing of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Houay Xay</strong>. Here you will be met by your local Mixtourist guide who will escort you to your boat for your overnight cruise to<strong style=\"margin: 0px; padding: 0px;\">Luang Prabang.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	En route you&rsquo;ll make a stop to visit an authentic hill tribe settlement where you can enjoy observing the genuine way of existence and see how the locals utilize the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Mekong River&nbsp;</strong>as a source of life. Along the way you&rsquo;ll enjoy a delicious buffet lunch onboard your boat and in the afternoon you&rsquo;ll come to rest at<strong style=\"margin: 0px; padding: 0px;\">Pakbeng.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Situated halfway between Houay Xay and Luang Prabang, the quaint rural hillside town is most certainly relaxed and is home to a good number of tasty local restaurants. You&rsquo;ll arrive in Pakbeng just in time to see the sunset over the Mekong. Overnight in Pakbeng</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 2: PAKBENG - PAK OU - LUANG PRABANG&nbsp; ( B, L)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Early risers can pay a visit to the morning market to see local residents and hill tribes all converge to buy, sell and exchange their wares. We&rsquo;ll get back on the boat at 8.30am and cruise down the Mekong to see how traditional rice alcohol or&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&lsquo;Lao Lao&rsquo;</strong>&nbsp;is made at the village of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Baw.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Take lunch on board as we carry on cruising to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Pak Ou Caves</strong>, known locally as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&lsquo;Tam Ting</strong>&rsquo;. These two caves are carved out of a huge limestone cliff and are filled with thousands of gold lacquered Buddha statues, some only a few centimeters in height and some as tall as a person. These caves are an important<strong style=\"margin: 0px; padding: 0px;\">Buddhist pilgrimage</strong>&nbsp;site and you will see many people visit them in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Pii Mai, Lao New Year</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After visiting the Pak Ou Caves you will be met by your private driver and our guide for a transfer to your hotel. Overnight in<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Luang Prabang</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: LUANG PRABANG (B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your tour of Luang Prabang will begin at the former&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Royal Palace</strong>&nbsp;which now exists as the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">National Museum</strong>. Here you can learn about Laos&rsquo; rich history and culture and there are usually special exhibits on display to see. You&rsquo;ll then move on to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Mai Buddhist temple</strong>, one of the most richly decorated temples of Luang Prabang and&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Sensoukarahm</strong>, which is decorated in a stenciled gold fa&ccedil;ade.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	To round off your morning you will visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Xieng Thong</strong>, the most famous temple in Luang Prabang. This temple, also known as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temple of the Golden City</strong>, rests on the northern tip of the peninsula close to the Mekong River. The temple was built by&nbsp;<strong style=\"margin: 0px; padding: 0px;\">King Setthathirat</strong>&nbsp;in 1560 and remains a significant spiritual place in Laos.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	If you wish, in the evening you can attend a personal Baci ceremony. These ceremonies are deeply rooted in the Laos culture and are used to celebrate a special occasion - whether a wedding, an annual festival, or as a welcome.&nbsp; Overnight in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 4: LUANG PRABANG - KUANG SI WATERFALL - LUANG FRABANG</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">This morning you have the option of getting up early to observe the local monks collecting alms. The rising sun brings with it long lines of orange-robed monks who walk barefoot around the city collecting offerings made by locals and should be seen at least once. You can then return to the hotel and take advantage of being one of the first to reach the breakfast service!</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast your guide will pick you up in a private car and whisk you out into the countryside, taking you on an hour-long drive through beautiful landscapes, small villages and rice paddies. You will make a brief stop at one of the villages before coming to rest at the famous&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kuang Si Waterfalls.</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	An elegant three-tier waterfall, the main fall of Kuang Si is approximately 60 meters high and there are several turquoise blue pools in which to bathe or swim. If you&rsquo;re in the mood for some gentle exercise, there&rsquo;s the chance to scale the track up to the top of the falls which provide spectacular views of the surrounding area.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Once you&rsquo;ve had your fill of the natural beauty around the falls you will next have the opportunity to visit the<strong style=\"margin: 0px; padding: 0px;\">Tat Kuang Si Bear Rescue Center</strong>&nbsp;located near the falls. The center is home to around a dozen sun bears that were rescued from the grasps of poachers. The center attempts to rehabilitate the bears and raise awareness of the plight the endangered species face.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The remainder of your final day in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Luang Prabang</strong>&nbsp;will be spent at your own leisure, but be sure to ask your guide if you would like any recommendations for delicious local food, or even the best place to grab a refreshing cocktail. Overnight in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: LUANG PRABANG - VANG VIENG(B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast you&rsquo;ll depart for&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vang Vieng</strong>, taking a five-hour drive with a stop along the way in Kasi, a rural region famous for its delicious fruit. Your journey will take you down numerous picturesque, winding mountain roads lined with spectacular scenery.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Vang Vieng is a quaint, laid-back town on the banks of the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Nam Song River</strong>&nbsp;flanked by outstanding limestone karst landscapes which surround the town. Vang Vieng was originally settled in the early 1350s. It was then known as Mouang Song but renamed Vang Vieng during French colonial times in the 19th century.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your afternoon will be free to spend at your leisure with a driver and expert Mixtourist guide at your disposal. Feel free to ask their advice on one of the many exciting activities available. Perhaps you might like to explore the exquisite cave formations, nearby villages and a local organic farm where you can stop to enjoy a cup of delicious mulberry tea.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	If you&rsquo;re feeling active and adventurous you can take your pick of numerous outdoor activities such as cycling, kayaking, rock climbing, trekking and tubing. These activities are not included in your tour but can be easily arranged. Overnight in Vang Vieng</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: VANG VIENG - VIENTIANE (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast you will be transfer by your private driver and Mixtourist guide to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vientiane</strong>, stopping after 90 minutes at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Nam Ngum Lake</strong>, the largest lake in Laos. An artificial lake, Nam Ngum was the first hydroelectric dam built in Laos to produce electricity.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You are welcome to take your lunch here (not included) or hire a boat for a short tour of the lake (also not included).</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then continue your drive on to Vientiane, a journey which should take approximately two and a half hours. Upon arrival you will enjoy spending the rest of the day at your leisure, perhaps taking an evening promenade along the banks of the Mekong and stop at the daily night market. Overnight in Vientiane</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: VIENTIANE (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Today go on a guided tour of the Laos capital,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vientiane.</strong>&nbsp;Situated on a bend of the Mekong River, Vientiane is one of the smallest capital cities in the world, and many of its treasures can be unearthed simply by putting on one&rsquo;s walking shoes (or sandals!) and exploring the place on foot.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Start near the center of town at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Sisaket</strong>,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Vientiane&rsquo;s oldest surviving temple</strong>. The courtyard contains over 300 different Buddha images, either sculpted or cast in the characteristic Lao style. Next is<strong style=\"margin: 0px; padding: 0px;\">Wat Phra Keo</strong>, which displays both Khmer and Lao works of art and now serves as a religious museum.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Next you will visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">COPE,</strong>&nbsp;an association that works to help landmine victims from unexploded ordinances left over from the Vietnam War with the USA.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Hit the streets again in the afternoon as we go to Patuxay, situated at the end of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lane Xang</strong>, a large, tree-lined avenue. This Arc De Triomphe inspired building also incorporates traditional Lao motifs such as &lsquo;Kinnari&rsquo;, the mythical bird-woman said to represent feminine beauty, grace and accomplishment.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Climb to the top and get fantastic panoramic views of the city. After coming down, it&rsquo;s a short drive to the holiest site in Laos,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lao&rsquo;s National Monument:</strong>&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tat Luang.</strong>&nbsp;Constructed in the 16<sup style=\"margin: 0px; padding: 0px;\">th</sup>&nbsp;century by King Setthethirat, its sharp angles and beautiful decoration make it an arresting sight as the sun shines on its gold-leaf and towering main spire.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Another holy site is next.&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Simuang</strong>&nbsp;is the most venerated temple in Vientiane, as it is believed to be the guardian of the spirit of the city. Walk around its main<strong style=\"margin: 0px; padding: 0px;\">, Angkorian-era pillar</strong>&nbsp;three times and make a wish. It is believed that if you do this your wish will be granted. Overnight in Vientiane</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: VIENTIANE - BAN KONGLOR (B, L)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	An early rise is recommended this morning as your local Mixtourist guide will meet you at 8am to embark up the journey southbound to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Kong Lor</strong>&nbsp;along highway 13. After driving for three hours you will make a stop at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Prabath Phonsane</strong>, also known as Temple of the Footprint of Buddha.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After the temple you will leave the highway and enter the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phou Hin Poun</strong>&nbsp;region, a National Protected Area. The scenery along the two-hour drive becomes even more outstanding as you journey past spectacular limestone karsts, lush forests and rice paddies. A delightful picnic lunch (brought from Vientiane) will be taken at a suitable spot whenever you prefer.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival in the quaint town of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Kong Lor</strong>&nbsp;you&rsquo;ll be able to check in and freshen up before heading out to explore the famous Kong Lor Caves. The 7.5km stretch of caves is the longest and most spectacular cave complex in Laos. After donning a life jacket and head torch you&rsquo;ll board a long tail boat and take a cruise along the underground Hin Boun River section.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Inside the caves you will be able to explore the vast formations of stalactites and stalagmites on foot, led by your expert guide. Certain places in the caves reach up to 100m high and 90m wide. The cave is still used by local villagers as a thoroughfare &ndash; it&rsquo;s certainly much quicker taking this route rather than climbing over the mountains the cave cuts through!</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Once you emerge out of the other side you can stop for refreshments at one of the local villages to enjoy the ambience and culture of rural life in Laos. You will later make the return journey by boat, travelling downstream through the cave back to Ban Kong Lor. Overnight in Ban Kong Lor</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: KONG LOR CAVES - THAKLEK -SAVANNAKHET (B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Take advantage of the crisp clear morning air and take a walk before breakfast around the surrounding picturesque villages accompanied by your expert local guide. Early mornings are fascinating insights into local life as people prepare for their upcoming day.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then embark upon your journey to Savannakhet, stopping after four hours at Thakhek, just in time for lunch at your leisure. Thakhek is a quaint, sleepy town with many attractive colonial buildings and makes for a relaxing pit stop before you continue on the 90-minute journey to Savannakhet.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Before entering the town of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Savannakhe</strong>t you will make a stop at the beautiful 16th Century temple of<strong style=\"margin: 0px; padding: 0px;\">That Ing Hang</strong>. An impressive central stupa dominates a courtyard which is flanked by statues of Lord Buddha, in a style similar to Wat Sisaket in Vientiane. That Ing Hang is among the most revered temples in Laos and many Buddhists will travel here during December for the annual &lsquo;Boun Phathat&rsquo; ceremony.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then continue to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Savannakhet,</strong>&nbsp;a city famous for being the birthplace of the father of the Lao People&rsquo;s Democratic Republic (Lao PDR), Kaysone Phomvihane.Led by your expert Mixtourist guide you&rsquo;ll enjoy a short tour of the architectural highlights including the remarkable&nbsp;<strong style=\"margin: 0px; padding: 0px;\">St. Teresa Catholic Church</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The day is then yours to enjoy as you wish. If you like, you can pay a visit to the fascinating&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Dinosaur Museum</strong>. The museum contains dinosaur remains found by paleontologists nearby which are between 150 &ndash; 250 million years old. Overnight in Savannakhet</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: SAVANAKHET - SALAVAN - TAD LO - TAD ETU ( B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We&rsquo;ll set-off early for today&rsquo;s drive to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bolaven Plateau</strong>. Take a stop at the Tad Lo area to see its three different waterfalls:&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Hang, Tad Lo and Tad Suong</strong>. Continue to the twin waterfalls of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Yuang and Tad Fane,</strong>&nbsp;which pour down into a gorge in the dense jungle. Both tea and coffee are produced in this region, cultivated between 1000-1300 meters above sea level by the families who inhabit the 250 villages of the area. We&rsquo;ll pay a visit to one of these plantations. Overnight in Tad Etu</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: TAD ETU - WAT PHOU - KHONG ISLAND (B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Drive to the UNESCO World Heritage Site of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Phou</strong>. This spectacular temple pre-dates Angkor Wat and was built by the rulers of the Khmer empire. The temple is constructed on three levels: the water reservoir, the galleries and the sanctuary itself, it is one of the holiest temples of the Laos people.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll then pass through&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Champasak,</strong>&nbsp;a quaint town where French colonial buildings offer a pronounced contrast to Wat Phou, before continuing south, making a brief stop at the small village of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Nong Bune</strong>, renowned for its delicate wood carvings.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Kiet Ngong</strong>&nbsp;you&rsquo;ll enjoy lunch in a simple local restaurant before taking your 90-minute elephant ride through the forest to Mount Asa. This tour is part of a community-based project designed to help the local villagers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	During your elephant ride you&rsquo;ll enjoy spectacular views of Xe Pian National Park. The park is a vast region of wetlands and lush green forest that lines the Mekong River with an astounding 29 recorded ecosystems. Here you may be able to spot numerous species of bird such as egrets, sarus crane and hornbill, not to mention other inhabitants including wild elephants and gibbons.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After your elephant ride through the park, your Mixtourist guide will lead you south to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Si Phan Don</strong>, the 4000 Islands Region. Here the Mekong River stretches to over 14km wide and flows around, between, over and under an uncountable number of islands, creating waterfalls and rapids.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Once you arrive at the Mekong, you&rsquo;ll take a short boat crossing to your hotel, arriving sometime in the late afternoon. Your evening will then be free to spend at your leisure. Overnight in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khong Island</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: KHONG ISLAND - SIPHANDON - PAKSE (B)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Our guide will meet you after breakfast and you&rsquo;ll then venture out together to explore the peaceful villages and plantations of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Don Det and Don Khone</strong>&nbsp;islands.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On your outward bound boat trip you might even have the unique chance to spot the rare&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Irrawaddy Dolphin</strong>. Sightings aren&rsquo;t guaranteed, but mornings and late afternoons when the water is cooler offer the best opportunity. Once you land upon the island you can opt for either a bike tour or tuk-tuk ride to explore the islands.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll visit the impressive&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lippi</strong>&nbsp;falls next, which lie to the west of Don Khone, close to the Cambodian border. Known as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Somphamit</strong>&nbsp;(&lsquo;trap spirit&rsquo;) to locals, islanders believe the falls act as a trap to catch bad spirits.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	These islands played a crucial role during the times of French occupation as they linked Laos and Cambodia and Vietnam&rsquo;s south. A railway and bridge were built across the waterfalls and is a perfect place to soak up the spectacular surrounding views.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&rsquo;ll continue your exploration at a lazy, relaxed stride as you adapt to the steady pace of local life, led by your expert local Mixtourist guide before taking lunch at a local restaurant.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your day will end will a trip to the spectacular&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khone Papheng</strong>&nbsp;waterfalls, where you can take time to appreciate the sensational view as you reflect upon your memorable exploration of majestic Myanmar before moving on to Pakse for your last night.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: PAKSE&nbsp; ( B)</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">After breakfast your guide will meet you at the hotel for your transfer to either the Thai border or the airport for your departure flight.</span></p>
+',content_cn='<div>
+	第1天：Houay XAY - Pakbeng（午，晚餐）</div>
+<div>
+	&nbsp;</div>
+<div>
+	在过境老挝你的心脏和灵魂维罗冒险SE开始的Houay XAY。在这里，您将通过谁护送你到你会为你的夜间游船到琅勃拉邦当地Mixtourist CUA导游得到满足。</div>
+<div>
+	制作途中，你会停下来参观地道的山，你可以享受部落定居观测存在的真正方式，看到了湄公河如何当地人利用生命之源。一路上，你可以享受美味的自助午餐板载CUA船，并在下午，你会在Pakbeng来休息。</div>
+<div>
+	位于中途giữaHouay XAY和琅勃拉邦，古朴的乡村山区小镇肯定是放松，是家庭的好一些美味的当地餐馆。你会在Pakbeng到达的时候正好看到夕阳在湄公河。隔夜在Pakbeng</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：Pakbeng - 帕乌 - 琅勃拉邦（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早起的客人可以支付给早市一游，看看当地的山区部落居民和所有收敛购买，出售和交换要求他们的产品。我们将在早上8:30巡航回到船上下来湄公河看到大米酒精或&ldquo;劳劳&rdquo;如何在传统的班的Baw村而成。</div>
+<div>
+	采纳午餐巡航涌帕乌石窟的，当地人称为&ldquo;谭婷&#39;作为随身携带。这两个洞穴雕刻出的石灰石悬崖和充满巨大的千足金漆木佛雕像，有的只在高几厘米，有的一样高的人。这些洞穴是佛教徒的朝圣重要的安全，你会看到很多麦PII添加người参观，老挝新年。</div>
+<div>
+	帕乌石窟参观你将是米你的私人司机和我们转移到你的酒店指南之后。隔夜在琅勃拉邦</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：琅勃拉邦（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	你的前皇家琅勃拉邦之旅现在开始SE作为存在故宫M&agrave;国家博物馆。在这里，您可以了解老挝丰富的历史和文化，有陈列商信特别展览看到的。然后，您将转移到梅寺佛教寺庙，琅勃拉邦和Wat Sensoukarahm最装饰华丽的庙宇之一，马装饰以金色钢印的外观。</div>
+<div>
+	四舍五入参观禁令CUA早上香通寺，其中最有名的寺庙在琅勃拉邦。这座寺庙，的也被称为黄金之城的神殿，在北端在于半岛靠近湄公河。该庙建于1560由国王塞塔提腊的显著精神并保持在老挝的地方。</div>
+<div>
+	如果你愿意，你可以在晚上巴契仪式个人参加。这些仪式深深植根于老挝文化，是用来庆祝一个特殊的场合 - 婚礼NEU，一年一度的节日，或作为欢迎。隔夜在琅勃拉邦</div>
+<div>
+	&nbsp;</div>
+<div>
+	第4天：琅勃拉邦 - 关西瀑布 - LUANG FRABANG</div>
+<div>
+	&nbsp;</div>
+<div>
+	你有这个清晨起床的选项遵守当地收集施舍僧侣。初升的太阳与它带来的橙色长袍的僧侣龙行谁赤脚走路围绕由当地人和一次看到嫩江山一使这个城市收集产品。然后，您可以返回酒店，并利用成为第一个到达的早餐服务！</div>
+<div>
+	早餐后，你拿起一辆私家车SE CUA指南和拂你出到农村，走你一个小时的车程通过美丽的风景，村庄和稻田小。 *您做一个简单的停留在村庄之一是来休息的著名关西瀑布前。</div>
+<div>
+	优雅的三层瀑布，关西的主要下降是高60米，并有khoảng是奥钢联碧蓝的水池洗澡或游泳CHUA。如果你的心情有些温和的运动，所以很缩放跟踪多达瀑布周围地区马cung的壮丽景色顶部的机会。</div>
+<div>
+	一旦你有你周围的瀑布的自然美景填补禁令C&oacute;下次有机会参观了达关西黑熊救护位于瀑布附近的中心。该中心是家庭对各地从抓救出了十几个太阳熊共同偷猎者的洛杉矶。试图修复中心承担的困境名称意识，提高濒危物种的脸。</div>
+<div>
+	在琅勃拉邦CUA最后一天，其余SE在自己的闲暇中度过，但一定要问，如果你想CUA引导任何建议美味的当地食品，或抢谭清凉的鸡尾酒的最佳场所。隔夜在琅勃拉邦</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：琅勃拉邦 - 万荣（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后出发前往万荣你会，采取了五个小时的车程，沿中卡丝的方式停止，农村地区著名的美味的水果没有。你的旅程SE你失望众多风景如画，绕组壮观的高山景色两旁的道路。</div>
+<div>
+	万荣是南宋河由石灰岩岩溶地貌产生出色的环绕镇M&agrave;两侧河岸的古朴，悠闲的小镇。万荣在早期1350s本来解决。然后，它被称为Mouang宋万荣不过十仲川崎法国19世纪殖民时代。</div>
+<div>
+	您将免费为您的休闲在您的处置专家Mixtourist一个司机和导游度过下午。随意问问他们上提供的许多令人兴奋的大气温度的一个建议。或许你会，喜欢探索洞穴精致排兵布阵，附近的村庄和当地的有机农场，你可以停下来享受茶桑美味的杯子。</div>
+<div>
+	如果你喜欢冒险的感觉，你可以采取积极CUA挑户外活动，新和成众多的自行车，皮划艇，攀岩，徒步旅行和油管。这些活动不包括在你的旅游，但也可安排。隔夜在万荣</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：万荣 - 万象（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，你会在你的私人接送Mixtourist司机和导游万象，在南俄湖，在老挝最大的湖泊90分钟后停止。一个人工湖，南俄水电站大坝是最早建于老挝发电。</div>
+<div>
+	欢迎您来这里取午饭CUA（不含税），或租一艘小船在湖中短线游（也不含）。</div>
+<div>
+	然后，您将继续前往万象CUA开车，旅途M&agrave;不应该采取两个半小时khoảng。抵达后享受您的休闲消费的禁令休息一天，以一个晚上沿着长廊也许&ldquo;湄公河河岸，每天在夜市停止。隔夜在万象</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：万象（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	如今走在老挝首都万象的导游。万象坐落于湄公河的一个弯道，是世界上最小的首都城市之一，许多宝物由于可以通过简单地把一个人的步行鞋出土（或凉鞋！）和步行游览的地方。</div>
+<div>
+	开始在镇附近在沙格庙，万象现存最古老的寺院的中心。庭院包含超过300图像kh&aacute;c佛像，雕刻或特有的风格投乙酸老挝。佛寺巨次之，高棉和老挝DJO CA显示艺术作品，现在作为博物馆的宗教。</div>
+<div>
+	接下来禁令访问COPE，一个协会，以帮助地雷受害者Co从越战与美国遗留下来的未爆弹药的工作。</div>
+<div>
+	再次上街游行在下午，我们去Patuxay凯旋门，位于万象，大，林荫大道的尽头。凯旋门这个建筑灵感的图案是还采用了传统的老挝新和成&ldquo;Kinnari&rdquo;，神话鸟的女人说đại奠阴柔之美，优雅和成就。</div>
+<div>
+	登顶并获得美妙景色城市全景。下来后，这是一个短的车程在老挝，老挝的国家纪念碑的圣地：达銮。在国王Setthethirat 16世纪建造，锐利的角度和美丽的装饰没有使它成为逮捕视线的阳光照在金箔和无主高耸的塔尖。</div>
+<div>
+	另一个圣地旁边。西孟寺是万象最崇敬的寺庙，因为它被认为是城市精神的守护者。逛完主没有，吴哥时代的支柱三次许愿。如果你做这种合作愿望将被授予据信。隔夜在万象</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：万象 - BAN KONGLOR（B，L）</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天上午被推荐为本地Mixtourist CUA会满足你上午8点引导的早期崛起踏上了旅程取缔公路沿线13香港咯南行车三个小时后做出停在禁寺Prabath Phonsane，又称庙的佛足迹。</div>
+<div>
+	后寺院禁令离开高速公路，并进入普山轩Poun区，国家保护区。沿着两个小时的车程出色的风景变得更加连平，你的旅程壮观的石灰岩喀斯特过去，茂密的森林和稻田。一个愉快的野餐（从万象带来）的，只要你喜欢一个合适的SE当场服用。</div>
+<div>
+	在班岗咯的古朴小镇的到来，您就可以签入和外出游览著名的香港咯石窟前梳洗所有。该7.5公里拉伸洞穴是在老挝复杂的最长，最壮观的洞穴。穿上救生衣和头部火炬后，您会登上长尾船，沿着地下部分轩伯恩河游船。</div>
+<div>
+	里面的钟乳石禁令编队开拓广阔和石笋徒步洞穴，由专业的导游带领的口岸。在洞穴中的某些地方呢？可达100米高，90米宽。这个洞穴仍然使用当地村民为通途 - 它肯定服用此快得多攀登路线上穿过山洞山大公削减！</div>
+<div>
+	一旦浮现出对方，你可以在当地的村庄之一停止茶点，享受在老挝的氛围和农村生活的文化。稍后您将乘船使回程车，穿过山洞回到禁令Kong咯下游行驶。夜宿班岗咯</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：KONG LOR洞穴 - THAKLEK -SAVANNAKHET（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	就拿清晰明快清晨的空气的优势，并采取一切早餐陪同CUA村专家当地向导之前在周围风景如画的散步。清晨是迷人的见解当地化成生命的ngườiC&oacute;即将到来的一天做好准备。</div>
+<div>
+	&nbsp;</div>
+<div>
+	然后，您将在CUA成行到沙湾拿吉，在您的休闲在他曲四个小时以后停止，正好赶上吃午饭。他曲是一个古朴，沉睡的小镇有许多吸引人的殖民时期的建筑，使休闲进站是你继续在90分钟的旅程，沙湾拿吉前。</div>
+<div>
+	进入沙湾镇前，应在这ING坑的美丽的16世纪的寺庙停止禁令。令人印象深刻的中央主导的舍利塔马主佛像两侧庭院，类似沙格庙在万象的样式。这ING杭其中最受尊敬的寺庙是在老挝和许多佛教徒SE阮富仲KHI月前往这里一年一度的&ldquo;伯恩Phathat&rdquo;仪式。</div>
+<div>
+	然后，您将继续沙湾拿吉，一个城市著名的是老挝人民民主共和国（老挝）的父亲的出生地，Kaysone Phomvihane.Led你的专家指导你会喜欢Mixtourist的建筑亮点GOM的短线游卓越的圣特雷莎天主教堂。</div>
+<div>
+	这一天是你，然后享受你的愿望。如果你喜欢，可以缴费至迷人的恐龙博物馆参观。博物馆包括恐龙仍然是古生物学家发现MA附近150-250亿岁之间。隔夜在沙湾拿吉</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：沙湾拿吉 - 沙拉湾 - TAD LO - TAD ETU（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	我们会为今天的现成的布拉万高原开车去年初成立。乘坐停在泰德罗湖区看到没有三kh&aacute;c瀑布：恒泰德，泰德和罗泰德Suong酒店。继续双子瀑布塔德Yuang和泰德费恩马下倒入在茂密的丛林峡谷。这两种茶叶和咖啡中产生在这一地区，海拔由谁居住水平的面积250村的耕地家庭米之间1000-1300。我们将有机会参观những种植园之一。隔夜在泰德ETU</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：TAD ETU - 瓦普寺 - NO ISLAND（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	联合国教科文组织世界遗产开车到笏普山的网站。这壮观的吴哥窟前的日期，被高棉帝国的统治者建造的。寺庙建在三个层次：水水库，画廊和圣所本身，它是老挝人民最神圣的寺庙之一。</div>
+<div>
+	&nbsp;</div>
+<div>
+	然后，您将通过巴塞，一个古朴的小镇，那里的法国殖民时期的建筑提供了一个明显的对比瓦普寺，故持续南下，在禁令Nong布尼，精致的木雕以其著名机构的小村庄做短暂停留了。</div>
+<div>
+	在潘基武文杰昂到来，你会在当地餐馆享用午餐是采取一个简单的90分钟车程CUA大象穿越森林山亚撒之前。本旅行社是一个以社区为基础的项目，帮助当地村民柯的一部分。</div>
+<div>
+	在您乘坐大象享受氙片国家公园的你会壮观景色。该公园是郁郁葱葱的绿色森林湿地和惊人的29周四生态系统湄公河外线的广大地区。在这里，你缝现货鸟白鹭新和成，赤颈鹤和犀鸟的众多的种类，更不要说其他居民GOM野生大象和长臂猿。</div>
+<div>
+	骑大象CUA通过园区后，引导CUA Mixtourist SE引你南至四千美岛，4000群岛地区。在这里，湄公河绵延超过14公里宽和周围流动，giữa，过去，在岛屿不可数数，瀑布和激流创造。</div>
+<div>
+	一旦你在湄公河到达时，你会采取短期船渡到您的酒店，有时在下午迟到。你晚上SE可自由在您的休闲消费。隔夜在清孔岛</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：不ISLAND - 西潘敦 - 巴色（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，我们的导游会满足你，然后走出去，你会共同探讨和平村和唐和挪威岛屿Khone唐种植园。</div>
+<div>
+	在开往外地的CUA乘船游览就得甚至可能水平，发现罕见的伊洛瓦底江海豚的独特的机会。目击不能保证，但早晨和下午后期麦KHI水冷却器提供最好的机会。一旦你的土地在岛上，你可以选择一个自行车之旅或乙酸嘟嘟车车程，探索岛屿。</div>
+<div>
+	您将参观壮观的瀑布旁边里皮，骗马唐Khone以西，靠近柬埔寨边境。被称为泰德Somphamit（&#39;精神陷阱&#39;）当地人，岛民相信瀑布作为一个陷阱捉妖魔鬼怪。</div>
+<div>
+	这些起到了至关重要的作用岛屿KHI法国占领老挝和柬埔寨倍仲联和越南的南部。一条铁路和整个瀑布和La建成啦A完美的地方的桥梁，沉浸在壮观的周围的意见。</div>
+<div>
+	你会在一个慵懒的CUA继续探索，当你适应当地生活的步伐稳健宽松的步伐，由当地专家带领CUA正在吃午饭Mixtourist指导当地餐厅前。</div>
+<div>
+	将你的一天结束SE壮观Khone旅行Papheng瀑布，在那里你可以花时间，你反省雄伟缅甸轰动难忘CUA探索欣赏景色，移动到昨晚你之前巴色。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：巴色（B）</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐CUA指南后接你在酒店SE为您转移到泰国边境乙酸机场乘搭或航班。</div>
+',list_img='',title='Explore Laos',title_cn='Explore Laos',keyword='Explore Laos',keyword_cn='Explore Laos',description='Explore Laos',description_cn='Explore Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=8;

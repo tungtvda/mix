@@ -80,7 +80,7 @@
 
                         <div itemprop="description">
                             <div class="booking_detail_div grid grid_2">
-                                <a href="{SITE-NAME}/booking/{name_url}" class="booking_detail">{booking_lang}</a>
+                                <a href="#booking" class="booking_detail">{booking_lang}</a>
                             </div>
                             <div class="social_div grid grid_10">
                                 <!--<div class="addthis_toolbox addthis_default_style "><a
@@ -123,7 +123,7 @@
 
                             <div style="width: 100%" class="wpb_tabs wpb_content_element  nicdark_tab_padding0"
                                  data-interval="0">
-                                <div class=" vc_col-sm-4" style="padding: 0px !important;">
+                                <div id="booking" class=" vc_col-sm-4" style="padding: 0px !important;">
                                     <h3 class=" title left lienquan" style="margin-top: 6px">{booking_form}</h3>
                                     <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                         <div class="wpb_wrapper">
@@ -138,19 +138,26 @@
                                                     $('.calender').pignoseCalender({
                                                         select: function(date, obj) {
                                                             date_check=(date[0] === null? '':date[0].format('YYYY-MM-DD'));
-                                                            $('#date_input').val(date_check);
-                                                            $("#date_table").text(date_check);
+                                                            date_now="{date_now}";
+                                                            if(date_check<date_now){
+                                                                alert('{check_param_date}');
+                                                            }
+                                                            else{
+                                                                $('#date_input').val(date_check);
+                                                                $("#date_table").text(date_check);
+                                                            }
+
                                                         }
                                                     });
                                                     jQuery("#next_booking").click(function(){
                                                         date_now="{date_now}";
                                                         price_children=jQuery('#date_input').val();
                                                         if(price_children==''){
-                                                            alert('Bạn vui lòng chọn ngày khởi hành');
+                                                            alert('{check_date}');
                                                         }
                                                         else{
                                                             if(price_children<date_now){
-                                                                alert('Bạn không được chọn ngày trong quá khứ');
+                                                                alert('{check_param_date}');
                                                             }
                                                             else{
                                                                 jQuery('.back_detail').hide();
@@ -167,6 +174,20 @@
                                                         jQuery('.next_detail').hide();
                                                         jQuery('.back_detail_cal').slideDown();
                                                         jQuery('.back_detail').slideDown();
+                                                    });
+                                                    jQuery("#booking_ajax").click(function(){
+                                                        id=$('#id_input').val();
+                                                        name_url=$('#name_url_input').val();
+                                                        date=$('#date_input').val();
+                                                        price=$('#price').val();
+                                                        price_children=$('#price_children').val();
+                                                        price_children_5=$('#price_children_5').val();
+                                                        number_adults=$('#price_adults').val();
+                                                        number_children=$('#price_children_val').val();
+                                                        number_children_5=$('#price_children_5_val').val();
+                                                        total_input=$('#total_input').val();
+
+                                                        alert(total_input)
                                                     });
 
 
@@ -227,6 +248,8 @@
                                                 <div class="back_detail_cal">
                                                     <div class="calender"></div>
                                                     <input  id="date_input" hidden value="{date_now}">
+                                                    <input  id="id_input" hidden value="{id}">
+                                                    <input  id="name_url_input" hidden value="{name_url}">
                                                 </div>
 
                                                 <div class="booking_left">
@@ -236,17 +259,17 @@
                                                     <input id="price_children" value="{price_children_5_10}" hidden>
                                                     <input id="price_children_5" value="{price_children_under_5}" hidden>
 
-                                                    <p>No. of Adults</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" type="number" id="price_adults"  placeholder="No. of Adults " id="price_adults" value="">
-                                                    <p>No. of Children (5-10 years old)</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" type="number" id="price_children_val"  placeholder="No. of Children (5-10 years old)"  value="">
-                                                    <p> No. of Children (under 5 years old)</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" type="number" id="price_children_5_val"  placeholder="No. of Children (under 5 years old)"  value="">
+                                                    <p>{no_of_adults}</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="1" type="number" id="price_adults"  placeholder="No. of Adults " id="price_adults" value="">
+                                                    <p>{no_of_children}</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()"  min="0" type="number" id="price_children_val"  placeholder="No. of Children (5-10 years old)"  value="">
+                                                    <p> {no_of_children_5}</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="0" type="number" id="price_children_5_val"  placeholder="No. of Children (under 5 years old)"  value="">
                                                     <input hidden class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="total_input"   >
 
 
-                                                    <p style="margin-bottom: 10px; display: none" id="hidden_total">Total: <span class="amount" id="amount_total">123123</span></p>
-                                                    <a style="width: 40%; display: none" href="javascript:void();"  id="next_booking" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-right"></i> Next</a>
+                                                    <p style="margin-bottom: 10px; display: none" id="hidden_total">{total}: <span class="amount" id="amount_total"></span></p>
+                                                    <a style="width: 40%; display: none" href="javascript:void(0);"  id="next_booking" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-right"></i> {next}</a>
                                                     </div>
                                                     <div class="next_detail" style="display: none">
                                                     <table class="nicdark_table extrabig nicdark_bg_yellow">
@@ -254,7 +277,7 @@
                                                         <tbody class="nicdark_bg_grey nicdark_border_grey table_booking" style="background-color: #f9f9f9 !important; border: none">
                                                         <tr>
                                                             <td>
-                                                                Your chosen date
+                                                               {you_chosen_date}:
                                                             </td>
                                                             <td>
                                                                 <span id="date_table">{date_now}</span>
@@ -263,7 +286,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                No of Adults
+                                                                {no_adults}:
                                                             </td>
                                                             <td>
                                                                <span id="no_adults">0</span>
@@ -272,7 +295,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                No of children:(5 - 10 years old)
+                                                                {no_children}
                                                             </td>
                                                             <td>
                                                                 <span id="no_children">N/A</span>
@@ -281,7 +304,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                Children: (under 5 years old)
+                                                                {no_children_5}
                                                             </td>
                                                             <td>
                                                                 <span id="no_children_5">N/A</span>
@@ -290,7 +313,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td>
-                                                                Total fee:
+                                                                {total_fee}:
                                                             </td>
                                                             <td>
                                                                 <span id="total_fee"></span>
@@ -300,12 +323,15 @@
                                                         </tbody>
                                                     </table>
                                                     <h3 class=" title left lienquan"></h3>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Full name" name="name">
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="email"   placeholder="Email" name="email">
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="Phone" name="phone">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{full_name}" name="name">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="email"   placeholder="{email}" name="email">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{phone}" name="phone">
+                                                        <textarea style="height:90px"  placeholder="{request}..." class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle">
 
-                                                    <a style="width: 40%;  background-color: #ed1c27" id="back_booking" href="javascript:void();" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-left"></i> Back</a>
-                                                        <a style="width: 40%; float: right;"  href="#" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-shopping-cart-sign"></i> Booking</a>
+                                                        </textarea>
+
+                                                    <a style="width: 40%;  background-color: #ed1c27" id="back_booking" href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-left"></i> {back}</a>
+                                                        <a style="width: 40%; float: right;" id="booking_ajax"  href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-shopping-cart-sign"></i> {booking_lang}</a>
                                                     </div>
                                                 </div>
                                             </div>

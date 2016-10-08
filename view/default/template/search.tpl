@@ -55,7 +55,7 @@
 
             <!--end nicdark_masonry_container-->
 
-            <div {dis_news} class="vc_col-sm-12 wpb_column vc_column_container ">
+            <div style="{dis_news}"  class="vc_col-sm-12 wpb_column vc_column_container ">
                 <div class="wpb_wrapper">
                     <h3  class=" title left lienquan">{search_resul_news}</h3>
                     <div class="nicdark_space10"></div>
