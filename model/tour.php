@@ -1,7 +1,7 @@
 <?php
 class tour
 {
-    public $id,$DanhMuc1Id,$DanhMuc2Id,$promotion,$packages,$name,$name_cn,$name_url,$img,$price,$price_cn,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_cn,$hotel,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn;
+    public $id,$DanhMuc1Id,$DanhMuc2Id,$promotion,$packages,$name,$name_cn,$name_url,$img,$price,$price_cn,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_cn,$hotel,$summary,$summary_cn,$highlights,$highlights_cn,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn,$inclusion,$inclusion_cn,$exclusion,$exclusion_cn;
     public function tour($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
@@ -23,6 +23,10 @@ class tour
     $this->vehicle=isset($data['vehicle'])?$data['vehicle']:'';
     $this->vehicle_cn=isset($data['vehicle_cn'])?$data['vehicle_cn']:'';
     $this->hotel=isset($data['hotel'])?$data['hotel']:'';
+    $this->summary=isset($data['summary'])?$data['summary']:'';
+    $this->summary_cn=isset($data['summary_cn'])?$data['summary_cn']:'';
+    $this->highlights=isset($data['highlights'])?$data['highlights']:'';
+    $this->highlights_cn=isset($data['highlights_cn'])?$data['highlights_cn']:'';
     $this->schedule=isset($data['schedule'])?$data['schedule']:'';
     $this->schedule_cn=isset($data['schedule_cn'])?$data['schedule_cn']:'';
     $this->price_list=isset($data['price_list'])?$data['price_list']:'';
@@ -36,6 +40,10 @@ class tour
     $this->keyword_cn=isset($data['keyword_cn'])?$data['keyword_cn']:'';
     $this->description=isset($data['description'])?$data['description']:'';
     $this->description_cn=isset($data['description_cn'])?$data['description_cn']:'';
+    $this->inclusion=isset($data['inclusion'])?$data['inclusion']:'';
+    $this->inclusion_cn=isset($data['inclusion_cn'])?$data['inclusion_cn']:'';
+    $this->exclusion=isset($data['exclusion'])?$data['exclusion']:'';
+    $this->exclusion_cn=isset($data['exclusion_cn'])?$data['exclusion_cn']:'';
           $this->encode();
     }
     public function encode()
@@ -59,6 +67,10 @@ class tour
             $this->vehicle=addslashes($this->vehicle);
             $this->vehicle_cn=addslashes($this->vehicle_cn);
             $this->hotel=addslashes($this->hotel);
+            $this->summary=addslashes($this->summary);
+            $this->summary_cn=addslashes($this->summary_cn);
+            $this->highlights=addslashes($this->highlights);
+            $this->highlights_cn=addslashes($this->highlights_cn);
             $this->schedule=addslashes($this->schedule);
             $this->schedule_cn=addslashes($this->schedule_cn);
             $this->price_list=addslashes($this->price_list);
@@ -72,6 +84,10 @@ class tour
             $this->keyword_cn=addslashes($this->keyword_cn);
             $this->description=addslashes($this->description);
             $this->description_cn=addslashes($this->description_cn);
+            $this->inclusion=addslashes($this->inclusion);
+            $this->inclusion_cn=addslashes($this->inclusion_cn);
+            $this->exclusion=addslashes($this->exclusion);
+            $this->exclusion_cn=addslashes($this->exclusion_cn);
         }
     public function decode()
         {
@@ -94,6 +110,10 @@ class tour
             $this->vehicle=stripslashes($this->vehicle);
             $this->vehicle_cn=stripslashes($this->vehicle_cn);
             $this->hotel=stripslashes($this->hotel);
+            $this->summary=stripslashes($this->summary);
+            $this->summary_cn=stripslashes($this->summary_cn);
+            $this->highlights=stripslashes($this->highlights);
+            $this->highlights_cn=stripslashes($this->highlights_cn);
             $this->schedule=stripslashes($this->schedule);
             $this->schedule_cn=stripslashes($this->schedule_cn);
             $this->price_list=stripslashes($this->price_list);
@@ -107,5 +127,9 @@ class tour
             $this->keyword_cn=stripslashes($this->keyword_cn);
             $this->description=stripslashes($this->description);
             $this->description_cn=stripslashes($this->description_cn);
+            $this->inclusion=stripslashes($this->inclusion);
+            $this->inclusion_cn=stripslashes($this->inclusion_cn);
+            $this->exclusion=stripslashes($this->exclusion);
+            $this->exclusion_cn=stripslashes($this->exclusion_cn);
         }
 }

@@ -89,7 +89,7 @@ class language_cn
 
             // detail tour
             'price'=>"Price",
-            'durations'=>"Durations",
+            'durations'=>"Duration",
             'departure_detail'=>"Departure",
             'destination_detail'=>"Destination",
             'schedule_detail'=>"Schedule",
@@ -97,7 +97,12 @@ class language_cn
             'description_detail'=>"Description",
             'gallery_detail'=>"Gallery",
             'comment_detail'=>"Comment",
+            'inclusion_detail'=>"Inclusion",
+            'exclusion'=>"Exclusion",
             'you_may_also_detail'=>"YOU MAY ALSO LIKE",
+            'summary'=>"Summary",
+            'highlights'=>"Highlights",
+            'booking_form'=>"Booking form",
 
             // left
              'new_left'=>"News",

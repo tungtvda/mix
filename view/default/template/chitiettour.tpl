@@ -26,9 +26,9 @@
                         <a itemprop="image" class="woocommerce-main-image zoom" title="{name_dm}"
                            data-rel="prettyPhoto[product-gallery]">
                             <img src="{img}"
-                                    class="attachment-shop_single wp-post-image"
-                                    alt="{name_dm}"
-                                    title="{name_dm}">
+                                 class="attachment-shop_single wp-post-image"
+                                 alt="{name_dm}"
+                                 title="{name_dm}">
                         </a>
                     </div>
 
@@ -48,22 +48,27 @@
                         <div itemprop="offers" class="detail_font">
 
                             <p class="price">
-                                <i class="icon-dollar"></i> {price_lang}: <ins><span class="amount">{currency_lang}{price}</span></ins>
+                                <i class="icon-dollar"></i> {price_lang}:
+                                <ins><span class="amount">{currency_lang}{price}</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-calendar"></i> {durations_lang}: <ins><span class="parameter">{durations}</span></ins>
+                                <i class="icon-calendar"></i> {durations_lang}:
+                                <ins><span class="parameter">{durations}</span></ins>
                             </p>
-                            <p class="price">
+                            <!--<p class="price">
                                 <i class="icon-logout"></i> {departure_lang}: <ins><span class="parameter">{departure}</span></ins>
+                            </p>-->
+                            <p class="price">
+                                <i class="icon-login"></i> {destination_lang}:
+                                <ins><span class="parameter">{destination}</span></ins>
                             </p>
                             <p class="price">
-                                <i class="icon-login"></i> {destination_lang}: <ins><span class="parameter">{destination}</span></ins>
-                            </p>
-                            <p class="price">
-                                <i class="icon-home"></i> {hotel_lang}: <ins>{hotel}</ins>
+                                <i class="icon-home"></i> {hotel_lang}:
+                                <ins>{hotel}</ins>
                             </p>
                             <p class="price" style="margin-bottom: 10px">
-                                <i class="icon-plane"></i> {vehicle_lang}: <ins><span class="parameter">{vehicle}</span></ins>
+                                <i class="icon-plane"></i> {vehicle_lang}:
+                                <ins><span class="parameter">{vehicle}</span></ins>
                             </p>
 
                         </div>
@@ -74,19 +79,19 @@
                         </div>
 
                         <div itemprop="description">
-                            <div class="booking_detail_div grid grid_3">
+                            <div class="booking_detail_div grid grid_2">
                                 <a href="{SITE-NAME}/booking/{name_url}" class="booking_detail">{booking_lang}</a>
                             </div>
-                            <div class="social_div grid grid_9">
-                                <div class="addthis_toolbox addthis_default_style "><a class="addthis_button_facebook_like"
-                                                                                       fb:like:layout="button_count"></a> <a
+                            <div class="social_div grid grid_10">
+                                <div class="addthis_toolbox addthis_default_style "><a
+                                            class="addthis_button_facebook_like"
+                                            fb:like:layout="button_count"></a> <a
                                             class="addthis_button_tweet"></a> <a class="addthis_button_pinterest_pinit"
                                                                                  pi:pinit:layout="horizontal"></a> <a
                                             class="addthis_counter addthis_pill_style"></a></div>
                                 <script type="text/javascript"
                                         src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-5254127c1833f872"></script>
                             </div>
-
 
 
                         </div>
@@ -96,128 +101,230 @@
 
                     <div class="woocommerce-tabs">
                         <div class="wpb_wrapper">
+                            <h3 class=" title left lienquan">{summary_lang}</h3>
+                            <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                <div class="wpb_wrapper">
+                                    <div class="wpb_map_wraper">
+                                        {summary}
+                                    </div>
+                                </div>
+                            </div>
+
+                            <h3 class=" title left lienquan">{highlights_lang}</h3>
+                            <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                <div class="wpb_wrapper">
+                                    <div class="wpb_map_wraper">
+                                        {highlights}
+                                    </div>
+                                </div>
+                            </div>
                             <div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span>
                             </div>
 
+                            <div style="width: 100%" class="wpb_tabs wpb_content_element  nicdark_tab_padding0"
+                                 data-interval="0">
+                                <div class=" vc_col-sm-4" style="padding: 0px !important;">
+                                    <h3 class=" title left lienquan" style="margin-top: 6px">{booking_form}</h3>
+                                    <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                        <div class="wpb_wrapper">
 
-                            <div class="wpb_tabs wpb_content_element  nicdark_tab_padding0" data-interval="0">
-                                <div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix ui-widget ui-widget-content ui-corner-all">
-                                    <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all"
-                                        role="tablist">
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-tabs-active ui-state-active"
-                                            role="tab" tabindex="0" aria-controls="tab-f73e40db-041f-3c4fe-3a9f"
-                                            aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true"><a
+                                            <link rel="stylesheet" type="text/css" href="{SITE-NAME}/view/default/themes/calendar/src/css/pignose.calender.css" />
+                                            <script src="{SITE-NAME}/view/default/themes/calendar/dist/jquery-1.12.4.min.js"></script>
+                                            <script src="{SITE-NAME}/view/default/themes/calendar/dist/moment.min.js"></script>
+                                            <script type="text/javascript" src="{SITE-NAME}/view/default/themes/calendar/src/js/pignose.calender.js"></script>
+                                            <script type="text/javascript">
+                                                //<![CDATA[
+                                                $(function() {
+                                                    $('.calender').pignoseCalender({
+                                                        select: function(date, obj) {
+                                                            obj.calender.parent().next().show().text('You selected ' +
+                                                                    (date[0] === null? 'null':date[0].format('YYYY-MM-DD')) +
+                                                                    '.');
+                                                        }
+                                                    });
+                                                });
+                                                //]]>
+                                            </script>
+                                            <div class="wpb_map_wraper">
+                                                <div class="calender"></div>
+                                                <div class="box"></div>
+                                                <div style="text-align: center">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" type="number" placeholder="No. of Adults " name="departure" value="">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" type="number" placeholder="No. of Children (5-10 years old)" name="departure" value="">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" type="number" placeholder="No. of Children (under 5 years old)" name="departure" value="">
+                                                    <a style="width: 40%" href="#" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="icon-edit"></i>Calculate</a>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class=" vc_col-sm-8">
+                                    <div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix ui-widget ui-widget-content ui-corner-all">
+                                        <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all"
+                                            role="tablist">
+                                            <!--<li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover ui-tabs-active ui-state-active"
+                                            role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1122-0c4fe-3a9f"
+                                            aria-labelledby="ui-id-3" aria-selected="true" aria-expanded="true"><a
                                                     class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
-                                                    href="#tab-f73e40db-041f-3c4fe-3a9f" role="presentation"
-                                                    tabindex="-1" id="ui-id-1"><i class=""></i>{schedule_lang}</a></li>
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                                    href="#tab-ffb99a93-1122-0c4fe-3a9f" role="presentation"
+                                                    tabindex="-1" id="ui-id-3"><i class=""></i>{description_lang}</a></li>-->
+                                            <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top "
+                                                role="tab" tabindex="0" aria-controls="tab-f73e40db-041f-3c4fe-3a9f"
+                                                aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true"><a
+                                                        class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
+                                                        href="#tab-f73e40db-041f-3c4fe-3a9f" role="presentation"
+                                                        tabindex="-1" id="ui-id-1"><i class=""></i>{schedule_lang}</a>
+                                            </li>
+                                            <!--<li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
                                             role="tab" tabindex="-1" aria-controls="tab-ffb99a93-e384-0c4fe-3a9f"
                                             aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a
                                                     class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
                                                     href="#tab-ffb99a93-e384-0c4fe-3a9f" role="presentation"
-                                                    tabindex="-1" id="ui-id-2"><i class=""></i>{price_list_lang}</a></li>
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
-                                            role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1122-0c4fe-3a9f"
-                                            aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a
-                                                    class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
-                                                    href="#tab-ffb99a93-1122-0c4fe-3a9f" role="presentation"
-                                                    tabindex="-1" id="ui-id-3"><i class=""></i>{description_lang}</a></li>
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                                    tabindex="-1" id="ui-id-2"><i class=""></i>{price_list_lang}</a></li>-->
+
+                                            <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                                role="tab" tabindex="-1" aria-controls="tab-ffb99a93-e38x-0c4fe-3a9f"
+                                                aria-labelledby="ui-id-6" aria-selected="false" aria-expanded="false"><a
+                                                        class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
+                                                        href="#tab-ffb99a93-e38x-0c4fe-3a9f" role="presentation"
+                                                        tabindex="-1" id="ui-id-6"><i class=""></i>{inclusion_lang}</a>
+                                            </li>
+                                            <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                                role="tab" tabindex="-1" aria-controls="tab-ffb99a93-e38y-0c4fe-3a9f"
+                                                aria-labelledby="ui-id-7" aria-selected="false" aria-expanded="false"><a
+                                                        class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
+                                                        href="#tab-ffb99a93-e38y-0c4fe-3a9f" role="presentation"
+                                                        tabindex="-1" id="ui-id-7"><i class=""></i>{exclusion_lang}</a>
+                                            </li>
+
+                                            <!--<li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
                                             role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1123-0c4fe-3a9f"
                                             aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a
                                                     class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
                                                     href="#tab-ffb99a93-1123-0c4fe-3a9f" role="presentation"
-                                                    tabindex="-1" id="ui-id-4"><i class=""></i>{gallery_lang}</a></li>
-                                        <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
-                                            role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1124-0c4fe-3a9f"
-                                            aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a
-                                                    class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
-                                                    href="#tab-ffb99a93-1124-0c4fe-3a9f" role="presentation"
-                                                    tabindex="-1" id="ui-id-5"><i class=""></i>{comment_lang}</a></li>
-                                    </ul>
+                                                    tabindex="-1" id="ui-id-4"><i class=""></i>{gallery_lang}</a></li>-->
+                                            <li class="nicdark_width100_iphonepotr  ui-state-default ui-corner-top ui-state-hover"
+                                                role="tab" tabindex="-1" aria-controls="tab-ffb99a93-1124-0c4fe-3a9f"
+                                                aria-labelledby="ui-id-5" aria-selected="false" aria-expanded="false"><a
+                                                        class="title white nicdark_bg_blue  ui-tabs-anchor tab_detail"
+                                                        href="#tab-ffb99a93-1124-0c4fe-3a9f" role="presentation"
+                                                        tabindex="-1" id="ui-id-5"><i class=""></i>{comment_lang}</a>
+                                            </li>
+                                        </ul>
 
-
-                                    <div id="tab-f73e40db-041f-3c4fe-3a9f"
+                                        <!--<div id="tab-ffb99a93-1122-0c4fe-3a9f"
                                          class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false"
-                                         style="display: block;">
-                                        <div class="wpb_revslider_element wpb_content_element content_detail">
-                                          {schedule}
-                                        </div>
-
-                                    </div>
-                                    <div id="tab-ffb99a93-e384-0c4fe-3a9f"
-                                         class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true"
-                                         style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
-                                            <div class="wpb_wrapper">
-                                                <div class="wpb_map_wraper">{price_list}
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="tab-ffb99a93-1122-0c4fe-3a9f"
-                                         class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="true"
+                                         aria-labelledby="ui-id-3" role="tabpanel" aria-hidden="false"
                                          style="display: none;">
                                         <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                             <div class="wpb_wrapper">
                                                 <div class="wpb_map_wraper">
-                                                   {content}
+                                                    {content}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>-->
+                                        <div id="tab-f73e40db-041f-3c4fe-3a9f"
+                                             class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
+                                             aria-labelledby="ui-id-1" role="tabpanel" aria-hidden="false"
+                                             style="display: block;">
+                                            <div class="wpb_revslider_element wpb_content_element content_detail">
+                                                {schedule}
+                                            </div>
+
+                                        </div>
+                                        <div id="tab-ffb99a93-e384-0c4fe-3a9f"
+                                             class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
+                                             aria-labelledby="ui-id-2" role="tabpanel" aria-hidden="true"
+                                             style="display: none;">
+                                            <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_map_wraper">{price_list}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="tab-ffb99a93-e38x-0c4fe-3a9f"
+                                             class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
+                                             aria-labelledby="ui-id-6" role="tabpanel" aria-hidden="true"
+                                             style="display: none;">
+                                            <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_map_wraper">{inclusion}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="tab-ffb99a93-e38y-0c4fe-3a9f"
+                                             class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
+                                             aria-labelledby="ui-id-7" role="tabpanel" aria-hidden="true"
+                                             style="display: none;">
+                                            <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_map_wraper">{exclusion}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="tab-ffb99a93-1123-0c4fe-3a9f"
+                                             class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
+                                             aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true"
+                                             style="display: none;">
+                                            <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_map_wraper">
+                                                        {list_img}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="tab-ffb99a93-1124-0c4fe-3a9f"
+                                             class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
+                                             aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true"
+                                             style="display: none;">
+                                            <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
+                                                <div class="wpb_wrapper">
+                                                    <div class="wpb_map_wraper">
+                                                        <div class="fb-comments" data-href="{link}"
+                                                             data-colorscheme="light" data-numposts="5"
+                                                             data-width="100%"></div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="tab-ffb99a93-1123-0c4fe-3a9f"
-                                         class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-4" role="tabpanel" aria-hidden="true"
-                                         style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
-                                            <div class="wpb_wrapper">
-                                                <div class="wpb_map_wraper">
-                                                   {list_img}
-                                                </div>
-                                            </div>
-                                        </div>
+                                    <h3 class=" title left lienquan" style="margin-top: 20px">{price_list_lang}</h3>
+                                    <div class="wpb_wrapper nicdark_border_grey" style="padding-left: 0px; padding-right: 0px; padding-top: 10px">
+                                        {price_list}
                                     </div>
-                                    <div id="tab-ffb99a93-1124-0c4fe-3a9f"
-                                         class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix ui-widget-content ui-corner-bottom"
-                                         aria-labelledby="ui-id-5" role="tabpanel" aria-hidden="true"
-                                         style="display: none;">
-                                        <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
-                                            <div class="wpb_wrapper">
-                                                <div class="wpb_map_wraper">
-                                                    <div class="fb-comments" data-href="{link}" data-colorscheme="light" data-numposts="5" data-width="100%"></div>
-                                                </div>
-                                            </div>
+                                </div>
+                                <div class="vc_col-sm-12 wpb_column vc_column_container ">
+                                    <div class="wpb_wrapper">
+                                        <h3 class=" title left lienquan">{you_may_also_detail}</h3>
+                                        <div class="vc_empty_space" style="height: 20px"><span
+                                                    class="vc_empty_space_inner"></span></div>
+
+                                        <div class="nicdark_masonry_container"
+                                             style="position: relative; height: 264.328px;">
+
+                                            {tour_noibat}
+
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
+
                         </div>
-                        <div class="vc_col-sm-12 wpb_column vc_column_container ">
-                            <div class="wpb_wrapper">
-                                <h3  class=" title left lienquan">{you_may_also_detail}</h3>
-                                <div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
 
-                                <div class="nicdark_masonry_container" style="position: relative; height: 264.328px;">
-
-                                   {tour_noibat}
-
-
-                                </div>
-
-                            </div>
-                        </div>
                     </div>
+
 
                 </div>
 
-            </div>
-
-
-        </div>
-        <!--end content-->
-
+                <!--end content-->
+</div></div>
 

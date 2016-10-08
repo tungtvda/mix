@@ -6,7 +6,7 @@
         <div class="nicdark_archive1 nicdark_bg_white nicdark_border_grey nicdark_sizing ">
 
             <div class="nicdark_textevidence nicdark_bg_green">
-                <h4 class="white nicdark_margin20">{search}</h4>
+                <h4 style="font-size: 15px" class="white nicdark_margin20">{search}</h4>
             </div>
 
             <div class="nicdark_margin020">
@@ -82,7 +82,7 @@
             <h3 class=" title left lienquan"></h3>
             <div class="nicdark_space20"></div>
             <div class="nicdark_margin020">
-                <div class="fb-page" data-href="https://www.facebook.com/travelmixtourist" data-width="245"
+                <div class="fb-page" data-href="https://www.facebook.com/travelmixtourist" style="width: 100% !important;"
                      data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
                      data-show-facepile="true">
                     <blockquote cite="https://www.facebook.com/travelmixtourist" class="fb-xfbml-parse-ignore"><a
@@ -91,7 +91,7 @@
 
             </div>
 
-            <h3 class=" title left lienquan">{new_left}</h3>
+            <h3 style="padding-left: 10px" class=" title left lienquan">{new_left}</h3>
             <div id="woocommerce_top_rated_products-3" class="widget woocommerce widget_top_rated_products">
                 <ul class="product_list_widget">
                    {news_list}
