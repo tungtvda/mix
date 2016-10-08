@@ -29,7 +29,7 @@ function view_booking_tour($data)
 //
 function showTableHeader()
 {
-    return '<th>name_tour</th><th>name_customer</th><th>phone</th><th>email</th><th>status</th><th>created</th>';
+    return '<th>name_tour</th><th>name_customer</th><th>language</th><th>phone</th><th>email</th><th>status</th><th>created</th>';
 }
 //
 function showTableBody($data)
@@ -40,6 +40,7 @@ function showTableBody($data)
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->name_tour."</td>";
         $TableBody.="<td>".$obj->name_customer."</td>";
+        $TableBody.="<td>".$obj->language."</td>";
         $TableBody.="<td>".$obj->phone."</td>";
         $TableBody.="<td>".$obj->email."</td>";
         $TableBody.="<td>".$obj->status."</td>";
@@ -58,14 +59,17 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>tour_id</label><input class="text-input small-input" type="text"  name="tour_id" value="'.(($form!=false)?$form->tour_id:'').'" /></p>';
     $str_from.='<p><label>name_tour</label><input class="text-input small-input" type="text"  name="name_tour" value="'.(($form!=false)?$form->name_tour:'').'" /></p>';
     $str_from.='<p><label>name_customer</label><input class="text-input small-input" type="text"  name="name_customer" value="'.(($form!=false)?$form->name_customer:'').'" /></p>';
+    $str_from.='<p><label>language</label><input class="text-input small-input" type="text"  name="language" value="'.(($form!=false)?$form->language:'').'" /></p>';
     $str_from.='<p><label>phone</label><input class="text-input small-input" type="text"  name="phone" value="'.(($form!=false)?$form->phone:'').'" /></p>';
     $str_from.='<p><label>email</label><input class="text-input small-input" type="text"  name="email" value="'.(($form!=false)?$form->email:'').'" /></p>';
-    $str_from.='<p><label>city</label><input class="text-input small-input" type="text"  name="city" value="'.(($form!=false)?$form->city:'').'" /></p>';
-    $str_from.='<p><label>country</label><input class="text-input small-input" type="text"  name="country" value="'.(($form!=false)?$form->country:'').'" /></p>';
+    $str_from.='<p><label>address</label><input class="text-input small-input" type="text"  name="address" value="'.(($form!=false)?$form->address:'').'" /></p>';
     $str_from.='<p><label>departure_day</label><input class="text-input small-input" type="text"  name="departure_day" value="'.(($form!=false)?$form->departure_day:'').'" /></p>';
     $str_from.='<p><label>adults</label><input class="text-input small-input" type="text"  name="adults" value="'.(($form!=false)?$form->adults:'').'" /></p>';
-    $str_from.='<p><label>children_6_11</label><input class="text-input small-input" type="text"  name="children_6_11" value="'.(($form!=false)?$form->children_6_11:'').'" /></p>';
+    $str_from.='<p><label>children_5_10</label><input class="text-input small-input" type="text"  name="children_5_10" value="'.(($form!=false)?$form->children_5_10:'').'" /></p>';
     $str_from.='<p><label>children_5</label><input class="text-input small-input" type="text"  name="children_5" value="'.(($form!=false)?$form->children_5:'').'" /></p>';
+    $str_from.='<p><label>price</label><input class="text-input small-input" type="text"  name="price" value="'.(($form!=false)?$form->price:'').'" /></p>';
+    $str_from.='<p><label>price_children</label><input class="text-input small-input" type="text"  name="price_children" value="'.(($form!=false)?$form->price_children:'').'" /></p>';
+    $str_from.='<p><label>price_children_under_5</label><input class="text-input small-input" type="text"  name="price_children_under_5" value="'.(($form!=false)?$form->price_children_under_5:'').'" /></p>';
     $str_from.='<p><label>request</label><textarea name="request">'.(($form!=false)?$form->request:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'request\'); </script></p>';
     $str_from.='<p><label>status</label><input  type="checkbox"  name="status" value="1" '.(($form!=false)?(($form->status=='1')?'checked':''):'').' /></p>';
     $str_from.='<p><label>created</label><input class="text-input small-input" type="text"  name="created" value="'.(($form!=false)?$form->created:'').'" /></p>';

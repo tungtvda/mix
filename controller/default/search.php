@@ -16,11 +16,6 @@ require_once DIR . '/common/redict.php';
 $data['menu']=menu_getByTop('','','');
 $data['config']=config_getByTop(1,'','');
 //
-$data['tour_PROMOTIONS']=tour_getByTop(3,'promotion=1 ','id desc');
-
-$data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
-
-$data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
 
 if(count($_GET)==1){
     if(isset($_GET['departure']))
@@ -37,16 +32,76 @@ if(count($_GET)==1){
     }
 }
 else{
-    $dk='id >0 ';
-    if(isset($data['danhsach'])){
-
-    }
-    print_r($_GET);
-    $data['danhsach_news']=array();
-    $data['danhsach']=array();
+    $demkt=1;
+    $dk='';
     $field_not='';
+    if(isset($_GET['departure'])&&$_GET['departure']!=""){
+        $dk='departure="'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'"';
+        $field_not=returnLanguage('departure_detail','Departure').' = '.$_GET['departure'];
+        $demkt=$demkt+1;
+    }
+    if(isset($_GET['destination'])&&$_GET['destination']!=''){
+        if($demkt==1)
+        {
+            $dk .=' destination="'.mb_strtolower(addslashes(strip_tags($_GET['destination']))).'"';
+            $field_not.=returnLanguage('destination_detail','Destination').' = '.$_GET['destination'];
+            $demkt=$demkt+1;
+        }
+        else
+        {
+
+            $dk .=' and  destination="'.mb_strtolower(addslashes(strip_tags($_GET['destination']))).'"';
+            $field_not.=' and '.returnLanguage('destination_detail','Destination').' = '.$_GET['destination'];
+        }
+    }
+    if(isset($_GET['duration'])&&$_GET['duration']!==''){
+        if($demkt==1)
+        {
+            $dk .=' durations="'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'"';
+            $field_not.=returnLanguage('durations','Duration').' = '.$_GET['duration'];
+            $demkt=$demkt+1;
+        }
+        else
+        {
+
+            $dk .=' and  durations="'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'"';
+            $field_not.=' and '.returnLanguage('durations','Duration').' = '.$_GET['duration'];
+        }
+    }
+    if(isset($_GET['price_from_to'])&&$_GET['price_from_to']!=''){
+        if($_SESSION['language']=="cn"){
+            $field="price_cn";
+        }
+        else{
+            $field="price";
+        }
+        $ar_exlode=explode('-',$_GET['price_from_to']);
+        if(isset($ar_exlode[0])&&isset($ar_exlode[1])){
+            $field0=mb_strtolower(addslashes(strip_tags($ar_exlode[0])));
+            $field1=mb_strtolower(addslashes(strip_tags($ar_exlode[1])));
+            $find=" $field0 <= $field and $field <= $field1";
+        }
+        else{
+            $field0=mb_strtolower(addslashes(strip_tags($ar_exlode[0])));
+            $find="  $field = $field0";
+        }
+        if($demkt==1)
+        {
+            $dk .=$find;
+            $field_not.=returnLanguage('price','Price').' = '.$_GET['price_from_to'];
+            $demkt=$demkt+1;
+        }
+        else
+        {
+
+            $dk .=' and '.$find;
+            $field_not.=' and '.returnLanguage('price','Price').' = '.$_GET['price_from_to'];
+        }
+    }
+
+    $data['danhsach_news']=array();
+    $data['danhsach']=tour_getByTop('',$dk,'id desc');
 }
-//exit;
 $name=returnLanguageField('name', $data['menu'][7]);
 $data['banner']=array(
     'banner_img'=>$data['menu'][7]->img,

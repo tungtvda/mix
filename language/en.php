@@ -114,6 +114,24 @@ class Language_en
             'search_resul_news'=>"Search results for keyword news ",
             'no_search'=>'No search results',
 
+            //booking
+            'no_of_adults'=>'No. of Adults',
+            'no_of_children'=>'No. of Children (5-10 years old)',
+            'no_of_children_5'=>'No. of Children (under 5 years old)',
+            'total'=>'Total',
+            'next'=>'Next',
+            'you_chosen_date'=>'Your chosen date',
+            'no_adults'=>'No of Adults',
+            'no_children'=>'No of children:(5 - 10 years old)',
+            'no_children_5'=>'Children: (under 5 years old)',
+            'total_fee'=>'Total fee',
+            'full_name'=>'Full name',
+            'phone'=>'Phone',
+            'back'=>'Back',
+            'request'=>'Request',
+            'check_date'=>'Please select departure date',
+            'check_param_date'=>'You can not select the date in the past'
+
 
         );
     }
