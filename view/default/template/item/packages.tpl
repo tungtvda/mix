@@ -14,7 +14,7 @@
 
                 <!--price-->
                 <div class="nicdark_fadeout nicdark_absolute nicdark_height100percentage nicdark_width_percentage100">
-                    <a href="{link}" class="nicdark_btn nicdark_bg_red left white medium">{price}{currency}</a>
+                    <a href="{link}" class="nicdark_btn nicdark_bg_red left white medium" style="background-color: #ffffff">{price}{currency}</a>
                 </div>
                 <!--end price-->
 
@@ -40,7 +40,7 @@
             <div class="nicdark_space1"></div>
         </div>
 
-        <a href="{link}"><div title="{name}" style="background-image:url({img}); background-size:cover; background-position:center center;"
+        <a href="{link}"><div title="{name}" style=" background-image:url({img}); background-size:cover; background-position:center center;"
              class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
             <div class="nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark">
               </div>

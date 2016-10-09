@@ -68,7 +68,7 @@ class Language_en
             'why_us'=>"Why us",
             'our_service'=>"Our services",
             'contact_footer'=>"Contact",
-            'contact_footer'=>"faq",
+            'faq'=>"FAQ",
 
             'customer_service'=>"Customer service",
             'vietnam_visa'=>"Vietnam visa",
@@ -130,9 +130,15 @@ class Language_en
             'back'=>'Back',
             'request'=>'Request',
             'check_date'=>'Please select departure date',
-            'check_param_date'=>'You can not select the date in the past'
+            'check_param_date'=>'You can not select the date in the past',
+            'address'=>'Address',
 
-
+            // contact
+            'message'=>'Message',
+            'name'=>'Name',
+            'send'=>'SEND',
+            'mess_contact'=>'Please fill in contact information',
+            'contact_suc'=>'Contact successfully'
         );
     }
 }

@@ -185,27 +185,69 @@
                                                         id=$('#id_input').val();
                                                         name_url=$('#name_url_input').val();
                                                         date=$('#date_input').val();
-                                                        price=$('#price').val();
+                                                        price=$('#price_adults').val();
                                                         price_children=$('#price_children').val();
                                                         price_children_5=$('#price_children_5').val();
-                                                        number_adults=$('#price_adults').val();
-                                                        number_children=$('#price_children_val').val();
-                                                        number_children_5=$('#price_children_5_val').val();
+                                                        number_adults=$('#num_price_adults').val();
+                                                        number_children=$('#num_price_children_val').val();
+                                                        number_children_5=$('#num_price_children_5_val').val();
                                                         total_input=$('#total_input').val();
+                                                        full_name=$('#name_booking').val();
+                                                        email=$('#email_booking').val();
+                                                        phone=$('#phone_booking').val();
+                                                        address=$('#address_booking').val();
+                                                        request=$('#request_booking').val();
+                                                        check=1;
 
-                                                        alert(total_input)
+                                                        console.log(arr);
+                                                        if(full_name==""){
+                                                            $("#full_name_er").show();
+                                                            check=0;
+                                                        }
+                                                        else{
+                                                            $("#full_name_er").hide();
+                                                            check=1;
+                                                        }
+                                                        if(email==""){
+                                                            $("#email_er").show();
+                                                            check=0;
+                                                        }else{
+                                                            $("#email_er").hide();
+                                                            check=1;
+                                                        }
+                                                        if(phone==""){
+                                                            $("#phone_er").show();
+                                                            check=0;
+                                                        }
+                                                        else{
+                                                            $("#phone_er").hide();
+                                                            check=1;
+                                                        }
+                                                        if(address==""){
+                                                            $("#address_er").show();
+                                                            check=0;
+                                                        }else{
+                                                            $("#address_er").hide();
+                                                            check=1;
+                                                        }
+                                                        if(check==0){
+                                                            alert('Bạn vui lòng nhập đầy đủ thông tin bắt buộc');
+                                                        }
+                                                        else{
+
+                                                        }
                                                     });
 
 
                                                 });
                                                 function myFunction() {
-                                                    price=jQuery('#price').val();
+                                                    price=jQuery('#price_adults').val();
                                                     price_children=jQuery('#price_children').val();
                                                     price_children_5=jQuery('#price_children_5').val();
-                                                    price_adults=jQuery('#price_adults').val();
 
-                                                    price_children_val=jQuery('#price_children_val').val();
-                                                    price_children_5_val=jQuery('#price_children_5_val').val();
+                                                    price_adults=jQuery('#num_price_adults').val();
+                                                    price_children_val=jQuery('#num_price_children_val').val();
+                                                    price_children_5_val=jQuery('#num_price_children_5_val').val();
 
                                                     if(price_children==''){
                                                         price_children=0;
@@ -221,7 +263,7 @@
                                                     else{
                                                         if(price_adults<1||price_adults==""){
                                                             price_adults=1;
-                                                            jQuery('#price_adults').val('1');
+                                                            jQuery('#num_price_adults').val('1');
                                                         }
                                                         if(price_children_val<1||price_children_val==""){
                                                             price_children_val=0;
@@ -230,8 +272,8 @@
                                                             price_children_5_val=0;
                                                         }
                                                         total_adults=price_adults*price;
-                                                        total_children=((price_children*100)/price)*price_children_val;
-                                                        total_children_5=((price_children_5*100)/price)*price_children_5_val;
+                                                        total_children=((price_children/100)*price)*price_children_val;
+                                                        total_children_5=((price_children_5/100)*price)*price_children_5_val;
                                                         total=total_adults+(total_children*1)+(total_children_5*1);
                                                         var n = parseFloat(total);
                                                         total = Math.round(n * 1000)/1000;
@@ -261,16 +303,16 @@
                                                 <div class="booking_left">
                                                     <div class="back_detail">
 
-                                                    <input id="price" value="{price}" hidden>
+                                                    <input id="price_adults" value="{price}" hidden>
                                                     <input id="price_children" value="{price_children_5_10}" hidden>
                                                     <input id="price_children_5" value="{price_children_under_5}" hidden>
 
                                                     <p>{no_of_adults}</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="1" type="number" id="price_adults"  placeholder="No. of Adults " id="price_adults" value="">
-                                                    <p>{no_of_children}</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()"  min="0" type="number" id="price_children_val"  placeholder="No. of Children (5-10 years old)"  value="">
-                                                    <p> {no_of_children_5}</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="0" type="number" id="price_children_5_val"  placeholder="No. of Children (under 5 years old)"  value="">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="1" type="number" id="num_price_adults"  placeholder="No. of Adults " id="price_adults" value="">
+                                                    <p>{no_of_children} <span style="colod: red; font-size: 13px">({price_children_5_10}%)</span></p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()"  min="0" type="number" id="num_price_children_val"  placeholder="No. of Children (5-10 years old)"  value="">
+                                                    <p> {no_of_children_5} <span style="colod: red; font-size: 13px">({price_children_under_5}%)</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="0" type="number" id="num_price_children_5_val"  placeholder="No. of Children (under 5 years old)"  value="">
                                                     <input hidden class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="total_input"   >
 
 
@@ -329,15 +371,20 @@
                                                         </tbody>
                                                     </table>
                                                     <h3 class=" title left lienquan"></h3>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{full_name}" name="name">
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="email"   placeholder="{email}" name="email">
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{phone}" name="phone">
-                                                        <textarea style="height:90px"  placeholder="{request}..." class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle">
+                                                    <p style="color: red;margin-top: 10px; display: none; float: left;" id="full_name_er">Bạn vui lòng nhập full name</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{full_name}" id="name_booking">
+                                                        <p style="color: red ; display: none"" id="email_er">Bạn vui lòng nhập email</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="email"   placeholder="{email}" id="email_booking">
+                                                        <p style="color: red; display: none"" id="phone_er">Bạn vui lòng nhập phone</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{phone}" id="phone_booking">
+                                                        <p style="color: red; display: none"" id="address_er">Bạn vui lòng nhập địa chỉ</p>
+                                                        <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{address}" id="address_booking">
+                                                        <textarea style="height:90px"  placeholder="{request}..." class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="request_booking">
 
                                                         </textarea>
 
-                                                    <a style="width: 40%;  background-color: #ed1c27" id="back_booking" href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-left"></i> {back}</a>
-                                                        <a style="width: 40%; float: right;" id="booking_ajax"  href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-shopping-cart-sign"></i> {booking_lang}</a>
+                                                    <a style="width: 45%;  background-color: #ed1c27" id="back_booking" href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-left"></i> {back}</a>
+                                                        <a style="width: 45%; float: right;" id="booking_ajax"  href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-shopping-cart-sign"></i> {booking_lang}</a>
                                                     </div>
                                                 </div>
                                             </div>

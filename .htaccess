@@ -41,10 +41,15 @@ RewriteRule ^vietnam-visa/$ controller/default/info.php
 RewriteRule ^about-us/$ controller/default/info.php
 RewriteRule ^why-us/$ controller/default/info.php
 RewriteRule ^our-service/$ controller/default/info.php
-RewriteRule ^contact/$ controller/default/info.php
+RewriteRule ^contact/$ controller/default/contact.php
 RewriteRule ^terms-conditions/$ controller/default/info.php
 RewriteRule ^terms-conditions/$ controller/default/info.php
 RewriteRule ^payment-method/$ controller/default/info.php
 RewriteRule ^privacy-policy/$ controller/default/info.php
 RewriteRule ^faq/$ controller/default/info.php
 RewriteRule ^search$ controller/default/search.php
+
+RewriteRule ^packages/$ controller/default/packages.php
+RewriteRule ^packages/page-([0-9]+)$ controller/default/packages.php?page=$1
+RewriteRule ^promotions/$ controller/default/packages.php
+RewriteRule ^promotions/page-([0-9]+)$ controller/default/packages.php?page=$1

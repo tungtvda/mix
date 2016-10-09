@@ -59,6 +59,7 @@ function view_menu($data = array())
         $asign['new_menu'] = print_item('menu', $data['new_menu']);
     }
     $asign['danhmuc_subport'] ="";
+    $asign['danhmuc_subport_top'] ="";
     if(count($data['danhmuc_subport'])>0)
     {
         foreach($data['danhmuc_subport'] as $dmtour1) {
@@ -84,12 +85,19 @@ function view_menu($data = array())
                             <i class=\"icon-yahoo\"></i>
                         </a>
                     </li>";
+
+                    $asign['danhmuc_subport_top'] .="<li>
+                                            <i class=\"icon-phone\"></i> <a class=\"white title\" href=\"tel:$subport->phone\">$subport->phone_format</a>
+                                            <span class=\"greydark2 nicdark_marginright10 nicdark_marginleft10 vc_hidden-sm vc_hidden-xs\">|</span>
+                                        </li>";
                 }
 
                 $asign['danhmuc_subport'] .= "</ul>
 
             </div><div class=\"nicdark_space10\"></div>";
             }
+
+
         }
     }
 

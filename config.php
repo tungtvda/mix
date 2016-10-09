@@ -239,3 +239,42 @@ function returnStart($number)
     }
     return $string;
 }
+function contact()
+{
+    if (isset($_POST['name_contact'])) {
+        $ten=addslashes(strip_tags($_POST['name_contact']));
+
+        $email=addslashes(strip_tags($_POST['email_contact']));
+        $dienthoai=addslashes(strip_tags($_POST['phone_contact']));
+        $diachi=addslashes(strip_tags($_POST['address_contact']));
+
+        $noidung=addslashes(strip_tags($_POST['message_contact']));
+
+        if($ten==""||$email==""||$dienthoai=="")
+        {
+            $mes=returnLanguage('mess_contact','Please fill in contact information');
+            echo "<script>alert('$mes')</script>";
+        }
+        else
+        {
+
+            $new = new contact();
+
+            $new->name_kh=$ten;
+            $new->email=$email;
+            $new->address=$diachi;
+            $new->phone=$dienthoai;
+            $new->content=$noidung;
+            $new->created=date(DATETIME_FORMAT);
+            contact_insert($new);
+
+            $link_web=SITE_NAME;
+            $mes=returnLanguage('contact_suc','Contact successfully');
+            echo "<script>alert('$mes')</script>";
+
+            echo "<script>window.location.href='$link_web';</script>";
+
+        }
+
+    }
+}
