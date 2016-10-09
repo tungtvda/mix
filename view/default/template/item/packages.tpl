@@ -42,11 +42,12 @@
 
         <a href="{link}"><div title="{name}" style=" background-image:url({img}); background-size:cover; background-position:center center;"
              class="nicdark_displaynone_responsive nicdark_overflow nicdark_bg_greydark nicdark_width_percentage30 nicdark_absolute_floatnone nicdark_height100percentage nicdark_focus">
+
             <div class="nicdark_oblique45 nicdark_margintop20 nicdark_marginleft100_negative nicdark_focus nicdark_bg_greydark">
               </div>
         </div></a>
 
-        <div class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
+        <div style="background-color: #ffffff"  class="nicdark_width100_responsive nicdark_width_percentage50 nicdark_focus nicdark_bg_white nicdark_border_grey nicdark_sizing">
             <div class="nicdark_textevidence nicdark_bg_grey nicdark_borderbottom_grey">
                 <h4 class=" nicdark_margin20 "><a class="title_index" href="{link}" style="line-height: 25px;">{name}</a></h4>
             </div>
