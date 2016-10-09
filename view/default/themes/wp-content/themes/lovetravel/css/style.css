@@ -307,3 +307,20 @@
     font-weight: bold;
     color: #ec1b23;
 }
+.contact_ul li{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.contact_ul li p{
+    color: #0086cd !important;
+    line-height: 25px;
+}
+p.center{
+    margin-top: 35px;
+}
+.nicdark_logo img {
+    /*width: 133px;*/
+    /*margin-top: 3px;*/
+    width: 196px;
+    margin-top: -17px;
+}

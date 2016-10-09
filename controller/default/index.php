@@ -43,3 +43,4 @@ show_menu($data,'home');
 show_slide($data);
 show_index($data);
 show_footer($data);
+contact();

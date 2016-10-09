@@ -1,8 +1,8 @@
 /*ipad land*/
 @media only screen and (min-width: 960px) and (max-width: 1199px) {
-	.show_menu_nav_top{
-		display: block !important;
-	}
+	/*.show_menu_nav_top{*/
+		/*display: block !important;*/
+	/*}*/
 	.nicdark_container{width:960px;}
 	.grid_1 {width:60px;}.grid_2 {width:140px;}.grid_3 {width:220px;}.grid_4 {width:300px;}.grid_5 {width:380px;}.grid_6 {width:460px;}.grid_7 {width:540px;}.grid_8 {width:620px;}.grid_9 {width:700px;}.grid_10 {width:780px;}.grid_11 {width:860px;}.grid_12 {width:940px;}	
 
@@ -43,9 +43,9 @@
 }
 /*ipad potr*/
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-	.show_menu_nav_top{
-		display: block !important;
-	}
+	/*.show_menu_nav_top{*/
+		/*display: block !important;*/
+	/*}*/
 	.nicdark_logo{
 		float: right;
 	}
@@ -53,6 +53,7 @@
 		position: relative;
 		float: right;
 		margin-top: 12px !important;
+		width: 100px;
 	}
 	.nicdark_container {width:744px;}
 	.grid_1 {width:42px;}.grid_2 {width:104px;}.grid_3 {width:166px;}.grid_4 {width:228px;}.grid_5 {width:290px;}.grid_6 {width:352px;}.grid_7 {width:414px;}.grid_8 {width:476px;}.grid_9 {width:538px;}.grid_10 {width:600px;}.grid_11 {width:662px;}.grid_12 {width:724px;}
@@ -85,9 +86,15 @@
 }
 /*iphone land*/
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-	.show_menu_nav_top{
-		display: block !important;
+	.nicdark_logo img{
+		width: 100px;
 	}
+	.hidden_top_menu{
+		display: none !important;
+	}
+	/*.show_menu_nav_top{*/
+		/*display: block !important;*/
+	/*}*/
 	/*.show_menu_nav_top,.grid_8{*/
 		/*width: 60%;*/
 	/*}*/
@@ -138,8 +145,12 @@
 }
 /*iphone potr*/
 @media only screen and (min-width: 320px) and (max-width: 479px){
-	.show_menu_nav_top{
-		display: block !important;
+	/*.show_menu_nav_top{*/
+		/*display: block !important;*/
+	/*}*/
+
+	.hidden_top_menu{
+		display: none !important;
 	}
 	.menu_top ul{
 		width: 200px;
@@ -153,8 +164,10 @@
 	.nicdark_logo img{
 		position: relative;
 		float: right;
-		margin-top: 12px !important;
+		margin-top: 0px !important;
+		width: 130px !important;
 	}
+
 	.booking_detail_div{
 		width: 100% !important;
 	}
@@ -186,15 +199,20 @@
 
 	/*display*/
 	.nicdark_displaynone_iphonepotr, .nicdark_displaynone_responsive{ display: none; }
-	/*.nicdark_displayblock_iphonepotr { display: block !important; }*/
+	.nicdark_displayblock_iphonepotr { display: block !important; }
 
 
 	/*navigation*/
 	.slowup{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
 	.slowdown{ -webkit-animation: none; animation: none; margin-top: 0px !important; }
-	.tinynav{ display:block; }
+	.tinynav{
+		display:block;
+		margin-top:0px !important;
+	}
 	.menu{ display:none; }
-
+	.vc_custom_1431681573399 {
+		margin-top: -159px !important;
+	}
 	/*parallax*/
 	.nicdark_imgparallax{ background-attachment: initial !important; }
 }

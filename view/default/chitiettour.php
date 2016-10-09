@@ -89,6 +89,7 @@ function show_chitiettour($data = array())
     $asign['check_date']=returnLanguage('check_date','Please select departure date');
     $asign['check_param_date']=returnLanguage('check_param_date','You can not select the date in the past');
     $asign['email']=returnLanguage('email','email');
+    $asign['address']=returnLanguage('address','Address');
 
     $asign['tour_noibat'] = "";
     if(count($data['tour_noibat'])>0)

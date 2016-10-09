@@ -120,6 +120,12 @@ function show_index($data = array())
         }
     }
 
+    $asign['email']=returnLanguage('email','email');
+    $asign['address']=returnLanguage('address','Address');
+    $asign['phone']=returnLanguage('phone','Phone');
+    $asign['message']=returnLanguage('message','Message');
+    $asign['name']=returnLanguage('name','Name');
+    $asign['send']=returnLanguage('send','Please fill in contact information');
     print_template($asign, 'index');
 }
 

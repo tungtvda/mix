@@ -23,17 +23,6 @@
            {danhmuc_subport}
             <div class="nicdark_space20"></div>
 
-            <div class="nicdark_focus">
-                <div class="fb-page" data-href="https://www.facebook.com/mixtourist" data-width="250"
-                     data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
-                     data-show-facepile="true">
-                    <blockquote cite="https://www.facebook.com/mixtourist" class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/mixtourist">Mix Tourist</a></blockquote>
-                </div>
-            </div>
-
-            <div class="nicdark_space20"></div>
-
 
         </div>
 
@@ -61,13 +50,7 @@
                                                         class="icon-mail"></i> {email}</a>
                                             <span class="greydark2 nicdark_marginright10 nicdark_marginleft10  vc_hidden-xs">|</span>
                                         </li>
-                                        <li>
-                                            <i class="icon-phone"></i> <a class="white title" href="tel:(+84)983224 973">(+84)983224 973</a>
-                                            <span class="greydark2 nicdark_marginright10 nicdark_marginleft10 vc_hidden-sm vc_hidden-xs">|</span>
-                                        </li>
-                                        <li class="vc_hidden-sm vc_hidden-xs">
-                                            <i class="icon-calendar"></i> {monday_saturday}
-                                        </li>
+                                       {danhmuc_subport_top}
                                     </ul>
                                     <!--<i class="icon-mail"></i> <a class="white title" href="#">sales@mixtourist.com</a>-->
                                     <!--<span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>-->
@@ -143,7 +126,7 @@
 
                         <div class="grid grid_12 percentage">
 
-                            <div class="nicdark_space20"></div>
+                            <div class="nicdark_space20 hidden_top_menu"></div>
 
                             <!--logo-->
                             <div class="nicdark_logo nicdark_marginleft10">
@@ -192,12 +175,6 @@
                                         </ul>
                                     </li>
 
-
-                                    <li id="menu-item-893"
-                                        class="greydark nicdark_megamenu nicdark_displaynone_ipadland menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-893">
-                                        <a class="{Vietnam_mn}" href="{SITE-NAME}/vietnam-visa/">{Vietnam}</a>
-
-                                    </li>
                                     <li id="menu-item-903"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-903">
                                         <a class="{new_mn}" href="{SITE-NAME}/news/">{new}</a>
@@ -205,11 +182,17 @@
                                             {new_menu}
                                         </ul>
                                     </li>
+                                    <li id="menu-item-893"
+                                        class="greydark nicdark_megamenu nicdark_displaynone_ipadland menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-893">
+                                        <a class="{Vietnam_mn}" href="{SITE-NAME}/vietnam-visa/">{Vietnam}</a>
+
+                                    </li>
+
 
                                 </ul>
                             </div>
 
-                            <div class="nicdark_space20"></div>
+                            <div class="nicdark_space20 hidden_top_menu"></div>
 
                         </div>
 

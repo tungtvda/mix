@@ -200,12 +200,7 @@
             margin-top: -35px;
         }
 
-        .nicdark_logo img {
-            /*width: 133px;*/
-            /*margin-top: 3px;*/
-            width: 196px;
-            margin-top: -17px;
-        }
+
 
         /*end header*/
 
@@ -1306,7 +1301,7 @@
           href="http://www.nicdarkthemes.com/themes/love-travel/wp/demo-travel/wp-content/plugins/js_composer/assets/css/vc-ie8.css"
           media="screen"><![endif]-->
     <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1431681573399 {
-            margin-top: -90px !important;
+            margin-top: -120px
         }
 
         .vc_custom_1431683232904 {

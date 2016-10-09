@@ -272,41 +272,30 @@
                         </div>
                         <div id="tab-1431946341916-1-3"
                              class="wpb_tab  nicdark_bg_grey nicdark_border_grey ui-tabs-panel wpb_ui-tabs-hide vc_clearfix">
-                            <div role="form" class="wpcf7" id="wpcf7-f1094-p32-o4" lang="en-US" dir="ltr">
-                                <div class="screen-reader-response"></div>
-                                <form name=""
-                                      action="{SITE-NAME}/contact/"
-                                      method="post" class="wpcf7-form" novalidate="novalidate">
-                                    <div style="display: none;">
-                                    </div>
-                                    <p><span class="wpcf7-form-control-wrap text-926">
-                                            <input type="text" name="name"
-                                                                                             value=""
-                                                                                             size="40"
-                                                                                             class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_bg_greydark2 nicdark_border_none"
-                                                                                             aria-required="true"
-                                                                                             aria-invalid="false"
-                                                                                             placeholder="{name_surname}"/></span><span
-                                                class="wpcf7-form-control-wrap email-430"><input type="email"
-                                                                                                 name="email"
-                                                                                                 value=""
-                                                                                                 size="40"
-                                                                                                 class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_bg_greydark2 nicdark_border_none"
-                                                                                                 aria-required="true"
-                                                                                                 aria-invalid="false"
-                                                                                                 placeholder="{email}"/></span><span
-                                                class="wpcf7-form-control-wrap textarea-129">
-                                            <textarea
-                                                    name="content" cols="40" rows="7"
-                                                    class="wpcf7-form-control wpcf7-textarea nicdark_bg_greydark2 nicdark_border_none"
-                                                    aria-invalid="false"
-                                                    placeholder="{add_info}"></textarea></span>
-                                        <input type="submit" value="{contact}" name="contact"
-                                                class="wpcf7-form-control wpcf7-submit nicdark_bg_orange"/></p>
+                            <form action="" method="post" >
+                                <p><span class="wpcf7-form-control-wrap text-926">
+                                             <span class="wpcf7-form-control-wrap text-909">
+                                                    <input type="text" name="name_contact" placeholder="{name}" value=""  class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey" required="required">
+                                                </span>
+                                             <span  class="wpcf7-form-control-wrap your-email">
+                                                    <input type="email" name="email_contact" placeholder="{email}" value="" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
+                                                </span>
+                                              <span  class="wpcf7-form-control-wrap your-email">
+                                                    <input type="text" name="phone_contact" placeholder="{phone}" value="" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
+                                                </span>
+                                              <span  class="wpcf7-form-control-wrap your-email">
+                                                    <input type="text" name="address_contact" value="" placeholder="{address}" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
+                                                </span>
+                                            <span class="wpcf7-form-control-wrap textarea-831"><textarea
+                                                        name="message_contact" cols="40" rows="4"
+                                                        class="wpcf7-form-control wpcf7-textarea nicdark_border_grey"
+                                                        aria-invalid="false"
+                                                        placeholder="{message}"></textarea></span>
+                                        <input type="submit" value="{send}" class="wpcf7-form-control wpcf7-submit nicdark_bg_green">
+                                </p>
 
-                                    <div class="wpcf7-response-output wpcf7-display-none"></div>
-                                </form>
-                            </div>
+                                <div class="wpcf7-response-output wpcf7-display-none"></div>
+                            </form>
                         </div>
                     </div>
                 </div>
