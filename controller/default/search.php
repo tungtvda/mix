@@ -36,35 +36,35 @@ else{
     $dk='';
     $field_not='';
     if(isset($_GET['departure'])&&$_GET['departure']!=""){
-        $dk='departure="'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'"';
+        $dk='departure LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
         $field_not=returnLanguage('departure_detail','Departure').' = '.$_GET['departure'];
         $demkt=$demkt+1;
     }
     if(isset($_GET['destination'])&&$_GET['destination']!=''){
         if($demkt==1)
         {
-            $dk .=' destination="'.mb_strtolower(addslashes(strip_tags($_GET['destination']))).'"';
+            $dk .=' destination LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['destination']))).'%"';
             $field_not.=returnLanguage('destination_detail','Destination').' = '.$_GET['destination'];
             $demkt=$demkt+1;
         }
         else
         {
 
-            $dk .=' and  destination="'.mb_strtolower(addslashes(strip_tags($_GET['destination']))).'"';
+            $dk .=' and  destination LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['destination']))).'%"';
             $field_not.=' and '.returnLanguage('destination_detail','Destination').' = '.$_GET['destination'];
         }
     }
     if(isset($_GET['duration'])&&$_GET['duration']!==''){
         if($demkt==1)
         {
-            $dk .=' durations="'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'"';
+            $dk .=' durations LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'%"';
             $field_not.=returnLanguage('durations','Duration').' = '.$_GET['duration'];
             $demkt=$demkt+1;
         }
         else
         {
 
-            $dk .=' and  durations="'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'"';
+            $dk .=' and  durations LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'%"';
             $field_not.=' and '.returnLanguage('durations','Duration').' = '.$_GET['duration'];
         }
     }
