@@ -64,6 +64,10 @@ function tour_getByPagingReplace($CurrentPage, $PageSize,$Order,$where)
 {
    return tour_Get("SELECT tour.id, danhmuc_1.name as DanhMuc1Id, danhmuc_2.name as DanhMuc2Id, tour.promotion, tour.packages, tour.name, tour.name_cn, tour.name_url, tour.img, tour.price, tour.price_cn, tour.price_children_5_10, tour.price_children_under_5, tour.durations, tour.durations_cn, tour.departure, tour.destination, tour.departure_time, tour.vehicle, tour.vehicle_cn, tour.hotel, tour.summary, tour.summary_cn, tour.highlights, tour.highlights_cn, tour.schedule, tour.schedule_cn, tour.price_list, tour.price_list_cn, tour.content, tour.content_cn, tour.list_img, tour.title, tour.title_cn, tour.keyword, tour.keyword_cn, tour.description, tour.description_cn, tour.inclusion, tour.inclusion_cn, tour.exclusion, tour.exclusion_cn FROM  tour, danhmuc_1, danhmuc_2 where danhmuc_1.id=tour.DanhMuc1Id and danhmuc_2.id=tour.DanhMuc2Id  ".(($where!='')?(' and '.$where):'')." Order By ".$Order." Limit ".(($CurrentPage-1)*$PageSize)." , ".$PageSize);
 }
+function tour_getByNoPagingReplace($Order,$where)
+{
+    return tour_Get("SELECT tour.id, danhmuc_1.name as DanhMuc1Id, danhmuc_2.name as DanhMuc2Id, tour.promotion, tour.packages, tour.name, tour.name_cn, tour.name_url, tour.img, tour.price, tour.price_cn, tour.price_children_5_10, tour.price_children_under_5, tour.durations, tour.durations_cn, tour.departure, tour.destination, tour.departure_time, tour.vehicle, tour.vehicle_cn, tour.hotel, tour.summary, tour.summary_cn, tour.highlights, tour.highlights_cn, tour.schedule, tour.schedule_cn, tour.price_list, tour.price_list_cn, tour.content, tour.content_cn, tour.list_img, tour.title, tour.title_cn, tour.keyword, tour.keyword_cn, tour.description, tour.description_cn, tour.inclusion, tour.inclusion_cn, tour.exclusion, tour.exclusion_cn FROM  tour, danhmuc_1, danhmuc_2 where danhmuc_1.id=tour.DanhMuc1Id and danhmuc_2.id=tour.DanhMuc2Id  ".(($where!='')?(' and '.$where):'')." Order By ".$Order);
+}
 //
 function tour_insert($obj)
 {

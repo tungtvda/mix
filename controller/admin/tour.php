@@ -161,11 +161,22 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/tour.php');
         }
     }
-    $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';
-    $data['count_paging']=tour_count('');
-    $data['page']=isset($_GET['page'])?$_GET['page']:'1';
-    $data['table_body']=tour_getByPagingReplace($data['page'],20,'id DESC','');
-    // gọi phương thức trong tầng view để hiển thị
+    if(isset($_POST['giatri']))
+    {
+        $key=addslashes(strip_tags($_POST['giatri']));
+        $dieukien="name like '%".$key."%' or id='".$key."'  or name_cn='".$key."'  or name_url='".$key."'";
+        $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';
+        $data['count_paging']=tour_count($dieukien);
+        $data['page']=isset($_GET['page'])?$_GET['page']:'1';
+        $data['table_body']=tour_getByTop('',$dieukien,'id DESC');
+    }
+    else {
+        $data['username'] = isset($_SESSION["UserName"]) ? $_SESSION["UserName"] : 'quản trị viên';
+        $data['count_paging'] = tour_count('');
+        $data['page'] = isset($_GET['page']) ? $_GET['page'] : '1';
+        $data['table_body'] = tour_getByPagingReplace($data['page'], 20, 'id DESC', '');
+        // gọi phương thức trong tầng view để hiển thị
+    }
     view_tour($data);
 }
 else
