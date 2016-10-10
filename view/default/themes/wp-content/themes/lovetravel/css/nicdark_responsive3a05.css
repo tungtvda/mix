@@ -131,7 +131,7 @@
 
 	/*display*/
 	.nicdark_displaynone_iphoneland, .nicdark_displaynone_responsive{
-		display: none;
+		display: block;
 	}
 	/*.nicdark_displayblock_iphoneland { display: block !important; }*/
 

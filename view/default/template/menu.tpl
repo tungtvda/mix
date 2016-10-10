@@ -16,7 +16,9 @@
         <i style="color:red" class="icon-headphones nicdark_switcher_open nicdark_switcher_btn"></i>
         <i style="color:red" class="icon-cancel nicdark_switcher_close nicdark_switcher_btn"></i>
 
-        <h4 class="white nicdark_bg_greydark nicdark_padding20">{online_support}</h4>
+        <h4 class="white nicdark_bg_greydark nicdark_padding20">{online_support}  <a style="    float: right;" class="nicdark_mpopup_window nicdark_outline white title"
+                                                                                     href="#nicdark_window_pop_up">
+                <img src="{SITE-NAME}/view/default/themes/images/{lang}.png" width="30"></a></h4>
 
         <div class="nicdark_switcher_content nicdark_border_grey nicdark_bg_white nicdark_padding20 nicdark_focus nicdark_sizing">
 
