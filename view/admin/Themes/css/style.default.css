@@ -276,6 +276,12 @@ h4 {
 .leftmenu .nav-tabs.nav-stacked > .dropdown.active > a {
     background: transparent url(../images/arrowdown.png) no-repeat right center !important;
 }
+.leftmenu .nav-tabs.nav-stacked > .dropdown.active > ul{
+    display: block;
+}
+.leftmenu .nav-tabs.nav-stacked > .dropdown.active > ul >li{
+    background-color: #ffffff;
+}
 
 .leftmenu .nav-tabs ul {
     list-style: none;
