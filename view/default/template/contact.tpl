@@ -26,7 +26,7 @@
                 </div>
                 <div class="vc_col-sm-12 wpb_column vc_column_container ">
                     <div class="wpb_wrapper">
-                        <h3 class=" title left lienquan">{hanoi_office}</h3>
+                        <h3 class=" title left lienquan">{contact_us}</h3>
                         <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
                                 <div class="nicdark_margin10" style="    padding-top: 10px;margin: 0px; border: none">

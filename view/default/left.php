@@ -60,7 +60,7 @@ function view_left($data=array())
                             <i class=\"icon-mobile\"></i>".$subport->phone."
                         </a>
                         <span>|</span>
-                        <a href=\"\" class=\"skype_subpport\">
+                        <a href=\"skype:$subport->skype?chat\" class=\"skype_subpport\">
                             <i class=\"icon-skype-1\"></i>
                         </a>
                         <span>|</span>

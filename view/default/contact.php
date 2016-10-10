@@ -40,6 +40,7 @@ function show_contact($data = array())
     $asign['phone']=returnLanguage('phone','Phone');
     $asign['message']=returnLanguage('message','Message');
     $asign['name']=returnLanguage('name','Name');
+    $asign['contact_us']=returnLanguage('contact_us','CONTACT US');
     $asign['send']=returnLanguage('send','Please fill in contact information');
     print_template($asign, 'contact');
 }
