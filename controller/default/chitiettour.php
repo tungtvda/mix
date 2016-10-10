@@ -83,36 +83,40 @@ else{
     $url='<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a>';
     $active='';
     if(count($danhmuc1)>0){
-        switch($danhmuc1[0]->id)
+        switch($data['tour'][0]->DanhMuc1Id)
         {
             case 2:
                 $link_dm1=SITE_NAME.'/excursion-tours/';
                 $active="Excursion";
+                $id_menu=1;
                 break;
             case 3:
                 $link_dm1=SITE_NAME.'/vacation-packages/';
                 $active="Vacation";
+                $id_menu=2;
                 break;
             case 4:
                 $link_dm1=SITE_NAME.'/cruise-tours/';
                 $active="Cruise";
+                $id_menu=3;
                 break;
             case 5:
                 $link_dm1=SITE_NAME.'/multi-country/';
                 $active="Multi";
+                $id_menu=4;
                 break;
             case 6:
                 $link_dm1=SITE_NAME.'/destinations/';
                 break;
         }
         $banner=$data['menu'][$danhmuc1[0]->id]->img;
-        $name_dm1=returnLanguageField('name', $data['menu'][$danhmuc1[0]->id]);
+        $name_dm1=returnLanguageField('name', $data['menu'][$id_menu]);
         $url.='<i class="icon-angle-right"></i><a  href="'.$link_dm1.'">'.$name_dm1.'</a>';
     }
     else{
         redict(SITE_NAME);
     }
-
+;
     if(count($danhmuc2)>0){
         $banner=$danhmuc2[0]->banner;
         $name_dm1=returnLanguageField('name', $danhmuc2[0]);
