@@ -54,3 +54,5 @@ RewriteRule ^packages/page-([0-9]+)$ controller/default/packages.php?page=$1
 RewriteRule ^promotions/$ controller/default/packages.php
 RewriteRule ^promotions/page-([0-9]+)$ controller/default/packages.php?page=$1
 RewriteRule ^booking/$ controller/default/booking.php
+RewriteRule ^videos/$ controller/default/videos.php
+

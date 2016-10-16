@@ -72,7 +72,7 @@
                         <div class="vc_empty_space" style="height: 30px"><span
                                     class="vc_empty_space_inner"></span></div>
 
-                        <a title="" target="" href="{SITE-NAME}/video/"
+                        <a title="" target="" href="{SITE-NAME}/videos/"
                            class=" nicdark_btn nicdark_bg_blue medium    nicdark_square white"> <i
                                     class=" nicdark_marginright10  icon-anchor"></i>{more_videos}</a>
 
