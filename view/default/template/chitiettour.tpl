@@ -53,7 +53,7 @@
                             </p>
                             <p class="price">
                                 <i class="icon-dollar"></i> {code}:
-                                <ins><span class="parameter"> {code_chart}{id}</span></ins>
+                                <ins><span class="parameter"> {code}</span></ins>
                             </p>
                             <p class="price">
                                 <i class="icon-calendar"></i> {durations_lang}:
@@ -256,7 +256,7 @@
                                                         )
                                                         .
                                                             done(function (data) {
-                                                                alert("Data Loaded: " + data);
+
                                                             });
                                                         } else {
                                                             alert('Bạn vui lòng nhập đầy đủ thông tin bắt buộc');
@@ -266,7 +266,7 @@
 
                                                 });
                                                 function myFunction() {
-                                                    price=parseInt(jQuery('#price_adults').val());
+                                                    price=jQuery('#price_adults').val();
                                                     price_children=jQuery('#price_children').val();
                                                     price_children_5=jQuery('#price_children_5').val();
 
@@ -296,18 +296,16 @@
                                                     if(price_children_5==''){
                                                         price_children_5=0;
                                                     }
+
                                                     if(price==''){
                                                         total="Contact";
-                                                        $("#total_fee").text(total);
-                                                        $('#total_input').val(total);
+
                                                     }
                                                     else{
                                                         if(price_adults<price_children_val+price_children_5_val)
                                                         {
                                                             total="Contact";
-                                                            $("#total_fee").text(total);
-                                                            $('#total_input').val(total);
-                                                            $("#amount_total").text(total);
+
                                                         }
                                                         else{
                                                             if(price_adults<1||price_adults==""){
@@ -339,17 +337,17 @@
                                                                 total=total+" {currency_lang}";
                                                             }
 
-                                                            $("#amount_total").text(total);
-                                                            $("#no_adults").text(price_adults);
-                                                            $("#no_children").text(price_children_val);
-                                                            $("#no_children_5").text(price_children_5_val);
-                                                            $("#total_fee").text(total);
-                                                            $('#total_input').val(total);
-                                                            $("#hidden_total").show();
-                                                            $("#next_booking").show();
                                                         }
 
                                                     }
+                                                    $("#amount_total").text(total);
+                                                    $("#no_adults").text(price_adults);
+                                                    $("#no_children").text(price_children_val);
+                                                    $("#no_children_5").text(price_children_5_val);
+                                                    $("#total_fee").text(total);
+                                                    $('#total_input').val(total);
+                                                    $("#hidden_total").show();
+                                                    $("#next_booking").show();
 
                                                 }
                                                 //]]>
@@ -373,9 +371,9 @@
                                                     <p>{no_of_adults}</p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="1" type="number" id="num_price_adults"  placeholder="No. of Adults " id="price_adults" value="">
                                                     <p>{no_of_children} <span style="colod: red; font-size: 13px">({price_children_5_10}%)</span></p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()"  min="0" type="number" id="num_price_children_val"  placeholder="No. of Children (5-10 years old)"  value="">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()"  min="0" type="number" id="num_price_children_val"  placeholder="No. of Children (5-10 years old)"  value="0">
                                                     <p> {no_of_children_5} <span style="colod: red; font-size: 13px">({price_children_under_5}%)</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="0" type="number" id="num_price_children_5_val"  placeholder="No. of Children (under 5 years old)"  value="">
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="0" type="number" id="num_price_children_5_val"  placeholder="No. of Children (under 5 years old)"  value="0">
                                                     <input hidden class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="total_input"   >
 
 

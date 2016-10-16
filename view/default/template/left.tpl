@@ -24,10 +24,10 @@
                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                         <option value="">All styles</option>
                         <option value="Classic">Classic tours</option>
-                        <option value="Vietnam excursions">Vietnam excursions</option>
+                        <option value="excursion">Vietnam excursions</option>
                         <option value="Short vacations">Short vacations</option>
                         <option value="Beach holidays">Beach holidays</option>
-                        <option value="Cruise tours">Cruise tours</option>
+                        <option value="Cruise">Cruise tours</option>
                         <!--{list_departure}-->
                     </select>
                     <select
@@ -38,7 +38,7 @@
                         <option value="Hue">Hue</option>
                         <option value="Hoi An">Hoi An</option>
                         <option value="Sapa">Sapa</option>
-                        <option value="Halong Bay">Halong Bay</option>
+                        <option value="ha long">Ha Long Bay</option>
                         <option value="Ho Chi Minh">Ho Chi Minh City</option>
                         <option value="Mekong Delta">Mekong Delta</option>
                         <option value="Phu Quoc">Phu Quoc</option>

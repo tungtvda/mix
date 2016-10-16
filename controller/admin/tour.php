@@ -59,7 +59,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/tour.php');
         }
     }
-    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_cn"])&&isset($_POST["price_children_5_10"])&&isset($_POST["price_children_under_5"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
+    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["code"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_cn"])&&isset($_POST["price_children_5_10"])&&isset($_POST["price_children_5_10_en"])&&isset($_POST["price_children_under_5"])&&isset($_POST["price_children_under_5_cn"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -79,6 +79,8 @@ if(isset($_SESSION["Admin"]))
        if(!isset($array['name_url']))
        $array['name_url']='0';
         $array['name_url']=LocDau($array['name']);
+       if(!isset($array['code']))
+       $array['code']='0';
        if(!isset($array['img']))
        $array['img']='0';
        if(!isset($array['price']))
@@ -87,8 +89,12 @@ if(isset($_SESSION["Admin"]))
        $array['price_cn']='0';
        if(!isset($array['price_children_5_10']))
        $array['price_children_5_10']='0';
+       if(!isset($array['price_children_5_10_en']))
+       $array['price_children_5_10_en']='0';
        if(!isset($array['price_children_under_5']))
        $array['price_children_under_5']='0';
+       if(!isset($array['price_children_under_5_cn']))
+       $array['price_children_under_5_cn']='0';
        if(!isset($array['durations']))
        $array['durations']='0';
        if(!isset($array['durations_cn']))
@@ -177,6 +183,7 @@ if(isset($_SESSION["Admin"]))
         $data['table_body'] = tour_getByPagingReplace($data['page'], 20, 'id DESC', '');
         // gọi phương thức trong tầng view để hiển thị
     }
+    // gọi phương thức trong tầng view để hiển thị
     view_tour($data);
 }
 else
