@@ -1,7 +1,7 @@
 <?php
 class booking_tour
 {
-    public $id,$tour_id,$name_tour,$name_customer,$language,$phone,$email,$address,$departure_day,$adults,$children_5_10,$children_5,$price,$price_children,$price_children_under_5,$request,$status,$created;
+    public $id,$tour_id,$name_tour,$name_customer,$language,$phone,$email,$address,$departure_day,$adults,$children_5_10,$children_5,$price,$price_children,$price_children_under_5,$total_price,$request,$status,$created;
     public function booking_tour($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
@@ -19,6 +19,7 @@ class booking_tour
     $this->price=isset($data['price'])?$data['price']:'';
     $this->price_children=isset($data['price_children'])?$data['price_children']:'';
     $this->price_children_under_5=isset($data['price_children_under_5'])?$data['price_children_under_5']:'';
+    $this->total_price=isset($data['total_price'])?$data['total_price']:'';
     $this->request=isset($data['request'])?$data['request']:'';
     $this->status=isset($data['status'])?$data['status']:'';
     $this->created=isset($data['created'])?$data['created']:'';
@@ -41,6 +42,7 @@ class booking_tour
             $this->price=addslashes($this->price);
             $this->price_children=addslashes($this->price_children);
             $this->price_children_under_5=addslashes($this->price_children_under_5);
+            $this->total_price=addslashes($this->total_price);
             $this->request=addslashes($this->request);
             $this->status=addslashes($this->status);
             $this->created=addslashes($this->created);
@@ -62,6 +64,7 @@ class booking_tour
             $this->price=stripslashes($this->price);
             $this->price_children=stripslashes($this->price_children);
             $this->price_children_under_5=stripslashes($this->price_children_under_5);
+            $this->total_price=stripslashes($this->total_price);
             $this->request=stripslashes($this->request);
             $this->status=stripslashes($this->status);
             $this->created=stripslashes($this->created);

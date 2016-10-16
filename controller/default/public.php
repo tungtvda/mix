@@ -111,10 +111,10 @@ function show_menu($data1=array(),$active='trangchu')
     $data['active']=$active;
     $data['menu']=$data1['menu'];
 
-    $data['Excursion_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=2','id desc');
-    $data['Vacation_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=3','id desc');
-    $data['Cruise_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=4','id desc');
-    $data['Multi_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=5','id desc');
+    $data['Excursion_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=2','position asc');
+    $data['Vacation_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=3','position asc');
+    $data['Cruise_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=4','position asc');
+    $data['Multi_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=5','position asc');
     $data['new_menu']=danhmuc_tintuc_getByTop('','','id desc');
 //    $data['Vietnam_menu']=danhmuc_2_getByTop('','id!=1 and danhmuc1_id=6','id desc');
     $data['danhmuc_subport']=danhmuc_subport_getByTop('','','id desc');

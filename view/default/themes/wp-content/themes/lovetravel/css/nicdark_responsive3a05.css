@@ -46,6 +46,9 @@
 	/*.show_menu_nav_top{*/
 		/*display: block !important;*/
 	/*}*/
+	.show_mobi_support{
+		display: block !important;
+	}
 	.nicdark_logo{
 		float: right;
 	}
@@ -91,6 +94,9 @@
 	}
 	.hidden_top_menu{
 		display: none !important;
+	}
+	.show_mobi_support{
+		display: block !important;
 	}
 	/*.show_menu_nav_top{*/
 		/*display: block !important;*/
@@ -148,7 +154,9 @@
 	/*.show_menu_nav_top{*/
 		/*display: block !important;*/
 	/*}*/
-
+	.show_mobi_support{
+		display: block !important;
+	}
 	.hidden_top_menu{
 		display: none !important;
 	}

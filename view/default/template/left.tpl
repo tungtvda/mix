@@ -22,20 +22,45 @@
 
                     <select name="departure"
                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                        <option value="">{all_departure}</option>
-                        {list_departure}
+                        <option value="">All styles</option>
+                        <option value="Classic">Classic tours</option>
+                        <option value="Vietnam excursions">Vietnam excursions</option>
+                        <option value="Short vacations">Short vacations</option>
+                        <option value="Beach holidays">Beach holidays</option>
+                        <option value="Cruise tours">Cruise tours</option>
+                        <!--{list_departure}-->
                     </select>
                     <select
                             name="destination"
                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                         <option value="">{all_destination}</option>
-                        {list_destination}
+                        <option value="Hanoi">Hanoi</option>
+                        <option value="Hue">Hue</option>
+                        <option value="Hoi An">Hoi An</option>
+                        <option value="Sapa">Sapa</option>
+                        <option value="Halong Bay">Halong Bay</option>
+                        <option value="Ho Chi Minh">Ho Chi Minh City</option>
+                        <option value="Mekong Delta">Mekong Delta</option>
+                        <option value="Phu Quoc">Phu Quoc</option>
+                        <option value="Nha Trang">Nha Trang</option>
+                        <option value="Mui ne">Mui ne</option>
+                        <option value="Laos">Laos</option>
+                        <option value="Cambodia">Cambodia</option>
+                        <option value="Mianmar">Mianmar</option>
+                        <option value="Thailan">Thailan</option>
+                        <!--{list_destination}-->
                     </select>
                     <select
                             name="duration"
                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                         <option value="">{all_duration}</option>
-                        {list_Durations}
+                        <option value="1">Day trip</option>
+                        <option value="2 days">2 day</option>
+                        <option value="2-4 days">2-4 days</option>
+                        <option value="5-7 days">5-7 days</option>
+                        <option value="8-10 days">8-10 days</option>
+                        <option value="more than 11 days">more than 11 days</option>
+                        <!--{list_Durations}-->
                     </select>
 
 

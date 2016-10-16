@@ -101,8 +101,7 @@
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">
-                                    <a href="{SITE-NAME}/terms-conditions/"><i class=""></i>-&nbsp;&nbsp; {terms_codi}
-                                        conditions</a></p>
+                                    <a href="{SITE-NAME}/terms-conditions/"><i class=""></i>-&nbsp;&nbsp; {terms_codi}</a></p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0">

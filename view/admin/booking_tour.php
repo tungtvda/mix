@@ -20,7 +20,6 @@ function view_booking_tour($data)
     $ft->assign('CONTENT-BOX-RIGHT',isset($data['content_box_right'])?$data['content_box_right']:' ');
     $ft->assign('NOTIFICATION',isset($data['notification'])?$data['notification']:' ');
     $ft->assign('SITE-NAME',isset($data['sitename'])?$data['sitename']:SITE_NAME);
-    $ft->assign('kichhoat_dathang', 'active');
     $ft->assign('FORM',showFrom(isset($data['form'])?$data['form']:'',isset($data['listfkey'])?$data['listfkey']:array()));
     //
     print $ft->parse_and_return('header');
@@ -30,7 +29,7 @@ function view_booking_tour($data)
 //
 function showTableHeader()
 {
-    return '<th>name_tour</th><th>name_customer</th><th>language</th><th>phone</th><th>email</th><th>status</th><th>created</th>';
+    return '<th>tour_id</th><th>name_tour</th><th>name_customer</th><th>phone</th><th>email</th><th>departure_day</th><th>adults</th><th>children_5_10</th><th>children_5</th><th>status</th><th>created</th>';
 }
 //
 function showTableBody($data)
@@ -39,11 +38,15 @@ function showTableBody($data)
     if(count($data)>0) foreach($data as $obj)
     {
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
+        $TableBody.="<td>".$obj->tour_id."</td>";
         $TableBody.="<td>".$obj->name_tour."</td>";
         $TableBody.="<td>".$obj->name_customer."</td>";
-        $TableBody.="<td>".$obj->language."</td>";
         $TableBody.="<td>".$obj->phone."</td>";
         $TableBody.="<td>".$obj->email."</td>";
+        $TableBody.="<td>".$obj->departure_day."</td>";
+        $TableBody.="<td>".$obj->adults."</td>";
+        $TableBody.="<td>".$obj->children_5_10."</td>";
+        $TableBody.="<td>".$obj->children_5."</td>";
         $TableBody.="<td>".$obj->status."</td>";
         $TableBody.="<td>".$obj->created."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
@@ -71,8 +74,9 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>price</label><input class="text-input small-input" type="text"  name="price" value="'.(($form!=false)?$form->price:'').'" /></p>';
     $str_from.='<p><label>price_children</label><input class="text-input small-input" type="text"  name="price_children" value="'.(($form!=false)?$form->price_children:'').'" /></p>';
     $str_from.='<p><label>price_children_under_5</label><input class="text-input small-input" type="text"  name="price_children_under_5" value="'.(($form!=false)?$form->price_children_under_5:'').'" /></p>';
+    $str_from.='<p><label>total_price</label><input class="text-input small-input" type="text"  name="total_price" value="'.(($form!=false)?$form->total_price:'').'" /></p>';
     $str_from.='<p><label>request</label><textarea name="request">'.(($form!=false)?$form->request:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'request\'); </script></p>';
-    $str_from.='<p><label>status</label><input  type="checkbox"  name="status" value="1" '.(($form!=false)?(($form->status=='1')?'checked':''):'').' /></p>';
+    $str_from.='<p><label>status</label><input class="text-input small-input" type="text"  name="status" value="'.(($form!=false)?$form->status:'').'" /></p>';
     $str_from.='<p><label>created</label><input class="text-input small-input" type="text"  name="created" value="'.(($form!=false)?$form->created:'').'" /></p>';
     return $str_from;
 }

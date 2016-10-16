@@ -29,3 +29,11 @@ insert into contact (name_kh,address,phone,email,title,content,created,status) v
 insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tewrt','asdf','sadf','tungtv.soict@gmail.com','','asdf','16-10-09 15:24:48','');
 insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tewrt','asdf','sadf','tungtv.soict@gmail.com','','asdf','16-10-09 15:24:48','');
 insert into contact (name_kh,address,phone,email,title,content,created,status) values ('dftgsdfg','dfsg','dsfg','tungtv.soict@gmail.com','','sdfg','16-10-09 15:26:36','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tran van tung','ha noij','12345678','tungtv.soict@gmail.com','','Dong Anh','16-10-16 02:58:59','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tran van tung','ha noij','12345678','tungtv.soict@gmail.com','','Dong Anh','16-10-16 02:59:44','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tran van tung','ha noij','12345678','tungtv.soict@gmail.com','','Dong Anh','16-10-16 02:59:52','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tu','sdafasdf','3123','tungtv.soict@gmail.com','','','16-10-16 03:12:30','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tran van tung','dsgdf','3123','tungtv.soict@gmail.com','','','16-10-16 03:13:29','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tran van tung','dsgdf','3123','tungtv.soict@gmail.com','','','16-10-16 03:14:48','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('ưetertert','ha noi','123123123','tungtv.soict@gmail.com','','noi dung','16-10-16 03:26:19','');
+insert into contact (name_kh,address,phone,email,title,content,created,status) values ('ưetertert','ha noi','123123123','tungtv.soict@gmail.com','','noi dung','16-10-16 03:29:15','');
