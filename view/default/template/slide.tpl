@@ -315,10 +315,10 @@
                 <div class="wpb_tabs wpb_content_element  nicdark_tab_dark" data-interval="0">
                     <div class="wpb_wrapper wpb_tour_tabs_wrapper ui-tabs vc_clearfix">
                         <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix">
-                            <li class=" nicdark_width100_iphonepotr nicdark_width100_iphoneland "><a
+                            <li class=" nicdark_width100_iphonepotr nicdark_width100_iphoneland "><a style="font-weight: bold !important;"
                                         class="title white nicdark_bg_blue " href="#tab-41648c1f-c14f-8"><i
                                             class=" icon-search-2"></i> {quick_search}</a></li>
-                            <li class=" nicdark_width100_iphonepotr nicdark_width100_iphoneland "><a
+                            <li class=" nicdark_width100_iphonepotr nicdark_width100_iphoneland "><a style="font-weight: bold !important;"
                                         class="title white nicdark_bg_green " href="#tab-1430811957345-1-7"><i
                                             class="icon-params"></i> {advanced}</a></li>
                         </ul>
@@ -359,7 +359,7 @@
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
                                     <input id="nicdark_autocomplete"
                                            class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
-                                           type="text" placeholder="{departure}" name="departure"
+                                           type="text" placeholder="{search}" name="departure"
                                            value="">
                                 </div>
                                 <!--<div id="nicdark_advanced_search_dates"
@@ -427,15 +427,34 @@
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_2 percentage">
                                     <select name="departure" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
-                                        <option value="">{all_departure}</option>
-                                       {list_departure}
+                                        <option value="">All styles</option>
+                                        <option value="Classic">Classic tours</option>
+                                        <option value="Vietnam excursions">Vietnam excursions</option>
+                                        <option value="Short vacations">Short vacations</option>
+                                        <option value="Beach holidays">Beach holidays</option>
+                                        <option value="Cruise tours">Cruise tours</option>
+                                       <!--{list_departure}-->
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-1"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_2 percentage">
                                     <select name="destination" class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_destination}</option>
-                                       {list_destination}
+                                        <option value="Hanoi">Hanoi</option>
+                                        <option value="Hue">Hue</option>
+                                        <option value="Hoi An">Hoi An</option>
+                                        <option value="Sapa">Sapa</option>
+                                        <option value="Halong Bay">Halong Bay</option>
+                                        <option value="Ho Chi Minh">Ho Chi Minh City</option>
+                                        <option value="Mekong Delta">Mekong Delta</option>
+                                        <option value="Phu Quoc">Phu Quoc</option>
+                                        <option value="Nha Trang">Nha Trang</option>
+                                        <option value="Mui ne">Mui ne</option>
+                                        <option value="Laos">Laos</option>
+                                        <option value="Cambodia">Cambodia</option>
+                                        <option value="Mianmar">Mianmar</option>
+                                        <option value="Thailan">Thailan</option>
+                                      <!-- {list_destination}-->
                                     </select></div>
                                 <div id="nicdark_advanced_search_tax-2"
                                      style="box-sizing:border-box; padding: 0px 10px;"
@@ -443,7 +462,13 @@
                                             name="duration"
                                             class="nicdark_bg_greydark2 nicdark_border_none nicdark_radius_none grey medium subtitle">
                                         <option value="">{all_duration}</option>
-                                       {list_Durations}
+                                        <option value="1">Day trip</option>
+                                        <option value="2 days">2 day</option>
+                                        <option value="2-4 days">2-4 days</option>
+                                        <option value="5-7 days">5-7 days</option>
+                                        <option value="8-10 days">8-10 days</option>
+                                        <option value="more than 11 days">more than 11 days</option>
+                                       <!--{list_Durations}-->
                                     </select></div>
 
                                 <!--<div id="nicdark_advanced_search_dates"

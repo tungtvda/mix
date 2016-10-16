@@ -34,24 +34,29 @@
                                         <form name="" action="" method="post" class="wpcf7-form">
 
                                             <div class="vc_col-sm-4 wpb_column vc_column_container ">
+                                                <p>{name}</p>
                                                 <span class="wpcf7-form-control-wrap text-909">
-                                                    <input type="text" name="name_contact" placeholder="{name}" value=""  class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey" required="required">
+                                                    <input type="text"  name="name_contact" placeholder="{name}" value=""  class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey" required="required">
                                                 </span>
                                              </div>
                                             <div class="vc_col-sm-4 wpb_column vc_column_container ">
+                                                <p>{email}</p>
                                                 <span  class="wpcf7-form-control-wrap your-email">
                                                     <input type="email" name="email_contact" placeholder="{email}" value="" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
                                                 </span>
                                             </div>
                                             <div class="vc_col-sm-4 wpb_column vc_column_container ">
+                                                <p>{phone}</p>
                                                  <span  class="wpcf7-form-control-wrap your-email">
                                                     <input type="text" name="phone_contact" placeholder="{phone}" value="" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
                                                 </span>
                                             </div>
                                             <div class="vc_col-sm-12 wpb_column vc_column_container ">
+                                                <p style="margin-top: 20px">{address}</p>
                                                  <span  class="wpcf7-form-control-wrap your-email">
                                                     <input type="text" name="address_contact" value="" placeholder="{address}" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
                                                 </span>
+                                                <p style="margin-top: 20px">{message}</p>
                                                 <span class="wpcf7-form-control-wrap textarea-831"><textarea
                                                             name="message_contact" cols="40" rows="4"
                                                             class="wpcf7-form-control wpcf7-textarea nicdark_border_grey"

@@ -13,6 +13,8 @@ if(!defined('SITE_NAME'))
 require_once DIR.'/controller/default/public.php';
 require_once DIR . '/common/paging.php';
 require_once DIR . '/common/redict.php';
+require_once DIR . '/common/class.phpmailer.php';
+require_once(DIR . "/common/Mail.php");
 $data['menu']=menu_getByTop('','','');
 $data['config']=config_getByTop(1,'','');
 //
@@ -71,6 +73,7 @@ switch($actual_link){
     if(count($data['info'])==0){
         redict(SITE_NAME);
     }
+
 $title=returnLanguageField('title', $data['info'][0]);
 $description=returnLanguageField('keyword', $data['info'][0]);
 $keyword=returnLanguageField('keyword', $data['info'][0]);
@@ -95,5 +98,5 @@ show_banner($data);
 show_contact($data);
 show_left($data);
 show_footer($data);
-
 contact();
+

@@ -138,7 +138,11 @@ class language_cn
             'name'=>'Name',
             'send'=>'SEND',
             'mess_contact'=>'Please fill in contact information',
-            'contact_suc'=>'Contact successfully'
+            'contact_suc'=>'Contact successfully',
+
+             //
+            'code'=>'Code',
+            'code_chart'=>'MDT',
         );
     }
 }

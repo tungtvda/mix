@@ -54,7 +54,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/booking_tour.php');
         }
     }
-    if(isset($_POST["tour_id"])&&isset($_POST["name_tour"])&&isset($_POST["name_customer"])&&isset($_POST["language"])&&isset($_POST["phone"])&&isset($_POST["email"])&&isset($_POST["address"])&&isset($_POST["departure_day"])&&isset($_POST["adults"])&&isset($_POST["children_5_10"])&&isset($_POST["children_5"])&&isset($_POST["price"])&&isset($_POST["price_children"])&&isset($_POST["price_children_under_5"])&&isset($_POST["request"])&&isset($_POST["created"]))
+    if(isset($_POST["tour_id"])&&isset($_POST["name_tour"])&&isset($_POST["name_customer"])&&isset($_POST["language"])&&isset($_POST["phone"])&&isset($_POST["email"])&&isset($_POST["address"])&&isset($_POST["departure_day"])&&isset($_POST["adults"])&&isset($_POST["children_5_10"])&&isset($_POST["children_5"])&&isset($_POST["price"])&&isset($_POST["price_children"])&&isset($_POST["price_children_under_5"])&&isset($_POST["total_price"])&&isset($_POST["request"])&&isset($_POST["status"])&&isset($_POST["created"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -87,6 +87,8 @@ if(isset($_SESSION["Admin"]))
        $array['price_children']='0';
        if(!isset($array['price_children_under_5']))
        $array['price_children_under_5']='0';
+       if(!isset($array['total_price']))
+       $array['total_price']='0';
        if(!isset($array['request']))
        $array['request']='0';
        if(!isset($array['status']))

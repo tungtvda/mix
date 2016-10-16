@@ -1,5 +1,5 @@
 <div class="nicdark_space100"></div>
-<section id="nicdark_archive_parallax" class="nicdark_section nicdark_imgparallax" style="background: url({banner_img}) 50% 30px / cover fixed;">
+<section id="nicdark_archive_parallax" class="nicdark_section nicdark_imgparallax" style="background: url({banner_img}) 50% 30px / cover fixed; margin-top: 16px">
 
     <div class="nicdark_filter greydark">
 

@@ -242,14 +242,13 @@ function returnStart($number)
 function contact()
 {
     if (isset($_POST['name_contact'])) {
+
         $ten=addslashes(strip_tags($_POST['name_contact']));
 
         $email=addslashes(strip_tags($_POST['email_contact']));
         $dienthoai=addslashes(strip_tags($_POST['phone_contact']));
         $diachi=addslashes(strip_tags($_POST['address_contact']));
-
         $noidung=addslashes(strip_tags($_POST['message_contact']));
-
         if($ten==""||$email==""||$dienthoai=="")
         {
             $mes=returnLanguage('mess_contact','Please fill in contact information');
@@ -258,18 +257,45 @@ function contact()
         else
         {
 
-            $new = new contact();
+            $new = new booking_tour();
 
-            $new->name_kh=$ten;
-            $new->email=$email;
-            $new->address=$diachi;
-            $new->phone=$dienthoai;
-            $new->content=$noidung;
+            $new->tour_id=$ten;
+            $new->name_tour=$email;
+            $new->name_customer=$diachi;
+            $new->language=$dienthoai;
+            $new->email=$noidung;
+            $new->phone=$noidung;
+            $new->address=$noidung;
+            $new->departure_day=$noidung;
+            $new->adults=$noidung;
+            $new->children_5_10=$noidung;
+            $new->children_5=$noidung;
+            $new->price=$noidung;
+            $new->price_children=$noidung;
+            $new->price_children_under_5=$noidung;
+            $new->total_price=$noidung;
+            $new->request=$noidung;
+            $new->status=$noidung;
             $new->created=date(DATETIME_FORMAT);
-            contact_insert($new);
+            booking_tour_insert($new);
 
             $link_web=SITE_NAME;
             $mes=returnLanguage('contact_suc','Contact successfully');
+
+            $message="";
+            $subject = "mixtourist.com – Thông báo liên hệ từ khách hàng";
+            $message .='<div style="float: left; width: 100%">
+
+                            <p>Tên khách hàng: <span style="color: #132fff; font-weight: bold">'.$ten.'</span>,</p>
+                            <p>Email: <span style="color: #132fff; font-weight: bold">'.$email.'</span>,</p>
+                            <p>Số điện thoại: <span style="color: #132fff; font-weight: bold">'.$dienthoai.'</span>,</p>
+                            <p>Địa chỉ: <span style="color: #132fff; font-weight: bold">'.$diachi.'</span>,</p>
+                            <p>Ngày gửi: <span style="color: #132fff; font-weight: bold">'.date.'</span>,</p>
+                            <p>'.$noidung.'</p>
+
+
+                        </div>';
+            SendMail('sales@mixtourist.com', $message, $subject);
             echo "<script>alert('$mes')</script>";
 
             echo "<script>window.location.href='$link_web';</script>";

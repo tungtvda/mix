@@ -11,7 +11,7 @@
 <div style="" class="nicdark_site">
 
     <!--remove also code in settings.js for themeforest at start and end of the file-->
-    <div class="nicdark_switcher nicdark_displaynone_responsive">
+    <div class="nicdark_switcher  show_mobi_support">
 
         <i style="color:red" class="icon-headphones nicdark_switcher_open nicdark_switcher_btn"></i>
         <i style="color:red" class="icon-cancel nicdark_switcher_close nicdark_switcher_btn"></i>
@@ -48,7 +48,7 @@
                                     <ul>
                                         <li>
 
-                                            <a class="white title vc_hidden-sm vc_hidden-xs" href="mailto:{email}"> <i
+                                            <a class="white title vc_hidden-sm vc_hidden-xs" href="{SITE-NAME}/contact/"> <i
                                                         class="icon-mail"></i> {email}</a>
                                             <span class="greydark2 nicdark_marginright10 nicdark_marginleft10  vc_hidden-xs">|</span>
                                         </li>

@@ -36,9 +36,19 @@ else{
     $dk='';
     $field_not='';
     if(isset($_GET['departure'])&&$_GET['departure']!=""){
-        $dk='departure LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
-        $field_not=returnLanguage('departure_detail','Departure').' = '.$_GET['departure'];
-        $demkt=$demkt+1;
+        $dk='name LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
+        $data_style=danhmuc_2_getByTop('',$dk,'');
+        $arr_push=array();
+       foreach($data_style as $row_style){
+            array_push($arr_push,$row_style->id);
+        }
+        $tring_se=implode(',',$arr_push);
+        if(count($data_style)>0){
+            $dk=" DanhMuc2Id in ($tring_se)";
+            $field_not=returnLanguage('departure_detail','Departure').' = '.$_GET['departure'];
+            $demkt=$demkt+1;
+        }
+
     }
     if(isset($_GET['destination'])&&$_GET['destination']!=''){
         if($demkt==1)
@@ -55,16 +65,22 @@ else{
         }
     }
     if(isset($_GET['duration'])&&$_GET['duration']!==''){
+        if($_GET['duration']==1)
+        {
+            $dk .=' durations ="1 day" or durations="1/2 day"';
+        }
+        else{
+            $dk .=' durations LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'%"';
+        }
         if($demkt==1)
         {
-            $dk .=' durations LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'%"';
             $field_not.=returnLanguage('durations','Duration').' = '.$_GET['duration'];
             $demkt=$demkt+1;
         }
         else
         {
 
-            $dk .=' and  durations LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['duration']))).'%"';
+            $dk .=' and '.$dk;
             $field_not.=' and '.returnLanguage('durations','Duration').' = '.$_GET['duration'];
         }
     }

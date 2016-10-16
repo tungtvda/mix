@@ -49,26 +49,30 @@
 
                             <p class="price">
                                 <i class="icon-dollar"></i> {price_lang}:
-                                <ins><span class="amount">{currency_lang}{price}</span></ins>
+                                <ins><span class="amount"> {currency_lang}{price}</span></ins>
+                            </p>
+                            <p class="price">
+                                <i class="icon-dollar"></i> {code}:
+                                <ins><span class="parameter"> {code_chart}{id}</span></ins>
                             </p>
                             <p class="price">
                                 <i class="icon-calendar"></i> {durations_lang}:
-                                <ins><span class="parameter">{durations}</span></ins>
+                                <ins><span class="parameter"> {durations}</span></ins>
                             </p>
                             <!--<p class="price">
                                 <i class="icon-logout"></i> {departure_lang}: <ins><span class="parameter">{departure}</span></ins>
                             </p>-->
                             <p class="price">
                                 <i class="icon-login"></i> {destination_lang}:
-                                <ins><span class="parameter">{destination}</span></ins>
+                                <ins><span class="parameter"> {destination}</span></ins>
                             </p>
                             <p class="price">
                                 <i class="icon-home"></i> {hotel_lang}:
-                                <ins>{hotel}</ins>
+                                <ins> {hotel}</ins>
                             </p>
                             <p class="price" style="margin-bottom: 10px">
                                 <i class="icon-plane"></i> {vehicle_lang}:
-                                <ins><span class="parameter">{vehicle}</span></ins>
+                                <ins><span class="parameter"> {vehicle}</span></ins>
                             </p>
 
                         </div>
@@ -198,8 +202,6 @@
                                                         address=$('#address_booking').val();
                                                         request=$('#request_booking').val();
                                                         check=1;
-
-                                                        console.log(arr);
                                                         if(full_name==""){
                                                             $("#full_name_er").show();
                                                             check=0;
@@ -230,24 +232,63 @@
                                                             $("#address_er").hide();
                                                             check=1;
                                                         }
-                                                        if(check==0){
-                                                            alert('Bạn vui lòng nhập đầy đủ thông tin bắt buộc');
-                                                        }
-                                                        else{
+                                                        if (check != 0) {
 
+                                                            $.post("{SITE-NAME}/booking/",
+                                                                    {
+                                                                        id: id,
+                                                                        name_url: name_url,
+                                                                        date: date,
+                                                                        price: price,
+                                                                        price_children: price_children,
+                                                                        price_children_5:price_children_5,
+                                                                        number_adults:number_adults,
+                                                                        number_children:number_children,
+                                                                        number_children_5:number_children_5,
+                                                                        total_input:total_input,
+                                                                        full_name:full_name,
+                                                                        email:email,
+                                                                        phone:phone,
+                                                                        address:address,
+                                                                        request:request
+
+                                                                    }
+                                                        )
+                                                        .
+                                                            done(function (data) {
+                                                                alert("Data Loaded: " + data);
+                                                            });
+                                                        } else {
+                                                            alert('Bạn vui lòng nhập đầy đủ thông tin bắt buộc');
                                                         }
                                                     });
 
 
                                                 });
                                                 function myFunction() {
-                                                    price=jQuery('#price_adults').val();
+                                                    price=parseInt(jQuery('#price_adults').val());
                                                     price_children=jQuery('#price_children').val();
                                                     price_children_5=jQuery('#price_children_5').val();
 
                                                     price_adults=jQuery('#num_price_adults').val();
                                                     price_children_val=jQuery('#num_price_children_val').val();
                                                     price_children_5_val=jQuery('#num_price_children_5_val').val();
+
+                                                    if(price_adults=='')
+                                                    {
+                                                        price_adults=0;
+                                                    }
+                                                    if(price_children_val=='')
+                                                    {
+                                                        price_children_val=0;
+                                                    }
+                                                    if(price_children_5_val=='')
+                                                    {
+                                                        price_children_5_val=0;
+                                                    }
+                                                    price_adults=parseInt(price_adults);
+                                                    price_children_val=parseInt(price_children_val);
+                                                    price_children_5_val=parseInt(price_children_5_val);
 
                                                     if(price_children==''){
                                                         price_children=0;
@@ -256,36 +297,58 @@
                                                         price_children_5=0;
                                                     }
                                                     if(price==''){
-                                                        total="Contact"
+                                                        total="Contact";
                                                         $("#total_fee").text(total);
                                                         $('#total_input').val(total);
                                                     }
                                                     else{
-                                                        if(price_adults<1||price_adults==""){
-                                                            price_adults=1;
-                                                            jQuery('#num_price_adults').val('1');
+                                                        if(price_adults<price_children_val+price_children_5_val)
+                                                        {
+                                                            total="Contact";
+                                                            $("#total_fee").text(total);
+                                                            $('#total_input').val(total);
+                                                            $("#amount_total").text(total);
                                                         }
-                                                        if(price_children_val<1||price_children_val==""){
-                                                            price_children_val=0;
+                                                        else{
+                                                            if(price_adults<1||price_adults==""){
+                                                                price_adults=1;
+                                                                jQuery('#num_price_adults').val('1');
+                                                            }
+                                                            if(price_children_val<1||price_children_val==""){
+                                                                price_children_val=0;
+                                                            }
+                                                            if(price_children_5_val<1||price_children_5_val==""){
+                                                                price_children_5_val=0;
+                                                            }
+                                                            price=parseFloat(price);
+                                                            price_children=parseFloat(price_children);
+                                                            price_children_5=parseFloat(price_children_5);
+                                                            price_adults=parseInt(price_adults);
+                                                            price_children_val=parseInt(price_children_val);
+                                                            price_children_5_val=parseInt(price_children_5_val);
+                                                            total_member=price_adults+price_children_val+price_children_5_val;
+
+                                                            if(total_member>=6){
+                                                                total="Contact";
+                                                            }
+                                                            else{
+                                                                total_price=price+price_children+price_children_5;
+                                                                total=(price_adults+(price_children_val*0.7))*total_price;
+                                                                var n = parseFloat(total);
+                                                                total = Math.round(n * 1000)/1000;
+                                                                total=total+" {currency_lang}";
+                                                            }
+
+                                                            $("#amount_total").text(total);
+                                                            $("#no_adults").text(price_adults);
+                                                            $("#no_children").text(price_children_val);
+                                                            $("#no_children_5").text(price_children_5_val);
+                                                            $("#total_fee").text(total);
+                                                            $('#total_input').val(total);
+                                                            $("#hidden_total").show();
+                                                            $("#next_booking").show();
                                                         }
-                                                        if(price_children_5_val<1||price_children_5_val==""){
-                                                            price_children_5_val=0;
-                                                        }
-                                                        total_adults=price_adults*price;
-                                                        total_children=((price_children/100)*price)*price_children_val;
-                                                        total_children_5=((price_children_5/100)*price)*price_children_5_val;
-                                                        total=total_adults+(total_children*1)+(total_children_5*1);
-                                                        var n = parseFloat(total);
-                                                        total = Math.round(n * 1000)/1000;
-                                                        total=total+" {currency_lang}";
-                                                        $("#amount_total").text(total);
-                                                        $("#no_adults").text(price_adults);
-                                                        $("#no_children").text(price_children_val);
-                                                        $("#no_children_5").text(price_children_5_val);
-                                                        $("#total_fee").text(total);
-                                                        $('#total_input').val(total);
-                                                        $("#hidden_total").show();
-                                                        $("#next_booking").show();
+
                                                     }
 
                                                 }

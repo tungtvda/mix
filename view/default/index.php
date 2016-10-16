@@ -102,14 +102,7 @@ function show_index($data = array())
                         <a href='tel:$subport->phone_format' class=\"mobi_subpport\">
                             <i class=\"icon-mobile\"></i>".$subport->phone."
                         </a>
-                        <span>|</span>
-                        <a href=\"\" class=\"skype_subpport\">
-                            <i class=\"icon-skype-1\"></i>
-                        </a>
-                        <span>|</span>
-                        <a href=\"\" class=\"yahoo_subpport\">
-                            <i class=\"icon-yahoo\"></i>
-                        </a>
+
                     </li>";
                 }
 
