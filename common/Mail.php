@@ -23,7 +23,7 @@ function SendMail($Sendto,$Body,$Subject)
     $mail->Username = 'qsg546.qsoft@gmail.com';
     $mail->Password = 'edbhqegduzpmwuui';
 
-    $mail->AddReplyTo('tourtrangmat@apttravel.com.vn', "");
+    $mail->AddReplyTo('sales@mixtourist.com ', "");
     $mail->AddAddress($Sendto,'test');
     $mail->Subject = "" . $Subject . "";
     $mail->MsgHTML("" . $Body . "");

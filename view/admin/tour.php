@@ -22,7 +22,6 @@ function view_tour($data)
     $ft->assign('SITE-NAME',isset($data['sitename'])?$data['sitename']:SITE_NAME);
     $ft->assign('kichhoat_tour', 'active');
     $ft->assign('FORM',showFrom(isset($data['form'])?$data['form']:'',isset($data['listfkey'])?$data['listfkey']:array()));
-
     //
     print $ft->parse_and_return('header');
     print $ft->parse_and_return('body');
@@ -31,7 +30,7 @@ function view_tour($data)
 //
 function showTableHeader()
 {
-    return '<th>id</th><th>DanhMuc1Id</th><th>DanhMuc2Id</th><th>promotion</th><th>packages</th><th>name</th><th>img</th><th>price_cn</th><th>price_children_5_10</th><th>price_children_under_5</th>';
+    return '<th>id</th><th>DanhMuc1Id</th><th>DanhMuc2Id</th><th>promotion</th><th>packages</th><th>name</th><th>code</th><th>img</th><th>price</th>';
 }
 //
 function showTableBody($data)
@@ -46,10 +45,9 @@ function showTableBody($data)
         $TableBody.="<td>".$obj->promotion."</td>";
         $TableBody.="<td>".$obj->packages."</td>";
         $TableBody.="<td>".$obj->name."</td>";
+        $TableBody.="<td>".$obj->code."</td>";
         $TableBody.="<td><img src=\"".$obj->img."\" width=\"50px\" height=\"50px\"/> </td>";
-        $TableBody.="<td>".$obj->price_cn."</td>";
-        $TableBody.="<td>".$obj->price_children_5_10."</td>";
-        $TableBody.="<td>".$obj->price_children_under_5."</td>";
+        $TableBody.="<td>".$obj->price."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";
         $TableBody.="<a href=\"?action=delete&id=".$obj->id."\" title=\"Delete\" onClick=\"return confirm('Bạn có chắc chắc muốn xóa?')\"><img src=\"".SITE_NAME."/view/admin/Themes/images/cross.png\" alt=\"Delete\"></a> ";
         $TableBody.="</td>";
@@ -107,11 +105,14 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>name</label><input class="text-input small-input" type="text"  name="name" value="'.(($form!=false)?$form->name:'').'" /></p>';
     $str_from.='<p><label>name_cn</label><input class="text-input small-input" type="text"  name="name_cn" value="'.(($form!=false)?$form->name_cn:'').'" /></p>';
     $str_from.='<p><label>name_url</label><input class="text-input small-input" type="text"  name="name_url" value="'.(($form!=false)?$form->name_url:'').'" /></p>';
+    $str_from.='<p><label>code</label><input class="text-input small-input" type="text"  name="code" value="'.(($form!=false)?$form->code:'').'" /></p>';
     $str_from.='<p><label>img</label><input class="text-input small-input" type="text"  name="img" value="'.(($form!=false)?$form->img:'').'"/><a class="button" onclick="openKcEditor(\'img\');">Upload ảnh</a></p>';
     $str_from.='<p><label>price</label><input class="text-input small-input" type="text"  name="price" value="'.(($form!=false)?$form->price:'').'" /></p>';
     $str_from.='<p><label>price_cn</label><input class="text-input small-input" type="text"  name="price_cn" value="'.(($form!=false)?$form->price_cn:'').'" /></p>';
     $str_from.='<p><label>price_children_5_10</label><input class="text-input small-input" type="text"  name="price_children_5_10" value="'.(($form!=false)?$form->price_children_5_10:'').'" /></p>';
+    $str_from.='<p><label>price_children_5_10_en</label><input class="text-input small-input" type="text"  name="price_children_5_10_en" value="'.(($form!=false)?$form->price_children_5_10_en:'').'" /></p>';
     $str_from.='<p><label>price_children_under_5</label><input class="text-input small-input" type="text"  name="price_children_under_5" value="'.(($form!=false)?$form->price_children_under_5:'').'" /></p>';
+    $str_from.='<p><label>price_children_under_5_cn</label><input class="text-input small-input" type="text"  name="price_children_under_5_cn" value="'.(($form!=false)?$form->price_children_under_5_cn:'').'" /></p>';
     $str_from.='<p><label>durations</label><input class="text-input small-input" type="text"  name="durations" value="'.(($form!=false)?$form->durations:'').'" /></p>';
     $str_from.='<p><label>durations_cn</label><input class="text-input small-input" type="text"  name="durations_cn" value="'.(($form!=false)?$form->durations_cn:'').'" /></p>';
     $str_from.='<p><label>departure</label><input class="text-input small-input" type="text"  name="departure" value="'.(($form!=false)?$form->departure:'').'" /></p>';

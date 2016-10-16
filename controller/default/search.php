@@ -36,19 +36,39 @@ else{
     $dk='';
     $field_not='';
     if(isset($_GET['departure'])&&$_GET['departure']!=""){
-        $dk='name LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
-        $data_style=danhmuc_2_getByTop('',$dk,'');
+        $dk_fil='name LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
+        $data_style=danhmuc_2_getByTop('',$dk_fil,'');
         $arr_push=array();
        foreach($data_style as $row_style){
             array_push($arr_push,$row_style->id);
         }
         $tring_se=implode(',',$arr_push);
         if(count($data_style)>0){
-            $dk=" DanhMuc2Id in ($tring_se)";
-            $field_not=returnLanguage('departure_detail','Departure').' = '.$_GET['departure'];
+            $dk.=" DanhMuc2Id in ($tring_se)";
+
             $demkt=$demkt+1;
         }
+        $dk_fil2='name LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
 
+        $data_style_1=danhmuc_1_getByTop('',$dk_fil2,'');
+        $arr_push_1=array();
+        foreach($data_style_1 as $row_style_1){
+            array_push($arr_push_1,$row_style_1->id);
+        }
+        $tring_se_1=implode(',',$arr_push_1);
+        if(count($data_style_1)>0){
+            if($demkt==1)
+            {
+                $dk.=" DanhMuc1Id in ($tring_se_1)";
+                $demkt=$demkt+1;
+            }
+            else{
+                $dk.=" or DanhMuc1Id in ($tring_se_1)";
+                $demkt=$demkt+1;
+            }
+
+        }
+        $field_not=returnLanguage('departure_detail','Style').' = '.$_GET['departure'];
     }
     if(isset($_GET['destination'])&&$_GET['destination']!=''){
         if($demkt==1)

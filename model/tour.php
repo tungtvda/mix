@@ -1,7 +1,7 @@
 <?php
 class tour
 {
-    public $id,$DanhMuc1Id,$DanhMuc2Id,$promotion,$packages,$name,$name_cn,$name_url,$img,$price,$price_cn,$price_children_5_10,$price_children_under_5,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_cn,$hotel,$summary,$summary_cn,$highlights,$highlights_cn,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn,$inclusion,$inclusion_cn,$exclusion,$exclusion_cn;
+    public $id,$DanhMuc1Id,$DanhMuc2Id,$promotion,$packages,$name,$name_cn,$name_url,$code,$img,$price,$price_cn,$price_children_5_10,$price_children_5_10_en,$price_children_under_5,$price_children_under_5_cn,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_cn,$hotel,$summary,$summary_cn,$highlights,$highlights_cn,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn,$inclusion,$inclusion_cn,$exclusion,$exclusion_cn;
     public function tour($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
@@ -12,11 +12,14 @@ class tour
     $this->name=isset($data['name'])?$data['name']:'';
     $this->name_cn=isset($data['name_cn'])?$data['name_cn']:'';
     $this->name_url=isset($data['name_url'])?$data['name_url']:'';
+    $this->code=isset($data['code'])?$data['code']:'';
     $this->img=isset($data['img'])?$data['img']:'';
     $this->price=isset($data['price'])?$data['price']:'';
     $this->price_cn=isset($data['price_cn'])?$data['price_cn']:'';
     $this->price_children_5_10=isset($data['price_children_5_10'])?$data['price_children_5_10']:'';
+    $this->price_children_5_10_en=isset($data['price_children_5_10_en'])?$data['price_children_5_10_en']:'';
     $this->price_children_under_5=isset($data['price_children_under_5'])?$data['price_children_under_5']:'';
+    $this->price_children_under_5_cn=isset($data['price_children_under_5_cn'])?$data['price_children_under_5_cn']:'';
     $this->durations=isset($data['durations'])?$data['durations']:'';
     $this->durations_cn=isset($data['durations_cn'])?$data['durations_cn']:'';
     $this->departure=isset($data['departure'])?$data['departure']:'';
@@ -58,11 +61,14 @@ class tour
             $this->name=addslashes($this->name);
             $this->name_cn=addslashes($this->name_cn);
             $this->name_url=addslashes($this->name_url);
+            $this->code=addslashes($this->code);
             $this->img=addslashes($this->img);
             $this->price=addslashes($this->price);
             $this->price_cn=addslashes($this->price_cn);
             $this->price_children_5_10=addslashes($this->price_children_5_10);
+            $this->price_children_5_10_en=addslashes($this->price_children_5_10_en);
             $this->price_children_under_5=addslashes($this->price_children_under_5);
+            $this->price_children_under_5_cn=addslashes($this->price_children_under_5_cn);
             $this->durations=addslashes($this->durations);
             $this->durations_cn=addslashes($this->durations_cn);
             $this->departure=addslashes($this->departure);
@@ -103,11 +109,14 @@ class tour
             $this->name=stripslashes($this->name);
             $this->name_cn=stripslashes($this->name_cn);
             $this->name_url=stripslashes($this->name_url);
+            $this->code=stripslashes($this->code);
             $this->img=stripslashes($this->img);
             $this->price=stripslashes($this->price);
             $this->price_cn=stripslashes($this->price_cn);
             $this->price_children_5_10=stripslashes($this->price_children_5_10);
+            $this->price_children_5_10_en=stripslashes($this->price_children_5_10_en);
             $this->price_children_under_5=stripslashes($this->price_children_under_5);
+            $this->price_children_under_5_cn=stripslashes($this->price_children_under_5_cn);
             $this->durations=stripslashes($this->durations);
             $this->durations_cn=stripslashes($this->durations_cn);
             $this->departure=stripslashes($this->departure);
