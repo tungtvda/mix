@@ -250,11 +250,11 @@
 
                                 <div class="nicdark_focus">
 
-                                    <div class="fb-page" data-href="https://www.facebook.com/mixtourist" data-width="250"
+                                    <div class="fb-page" data-href="https://www.facebook.com/mixtourist.vietnam" data-width="250"
                                          data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
                                          data-show-facepile="true">
-                                        <blockquote cite="https://www.facebook.com/mixtourist" class="fb-xfbml-parse-ignore"><a
-                                                    href="https://www.facebook.com/mixtourist">Mix Tourist</a></blockquote>
+                                        <blockquote cite="https://www.facebook.com/mixtourist.vietnam" class="fb-xfbml-parse-ignore"><a
+                                                    href="https://www.facebook.com/mixtourist.vietnam">Mix Tourist</a></blockquote>
                                     </div>
                                 </div>
 

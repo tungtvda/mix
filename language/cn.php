@@ -28,23 +28,22 @@ class language_cn
             'name_tour'=>"Type Your Tour",
             'vehicle'=>"Vehicle",
             'hotel'=>"Hotel",
+            'search_tc'=>"Destination, tour style,...",
+            'find_tc'=>"FIND",
 
             //tour
             'money'=>"RMB",
             'currency'=>"人民币",
             'detail'=>"DETAILS",
-            'booking'=>"BOOKING",
+            'booking'=>"BOOKING NOW",
             'packages'=>"ALL PACKAGES",
             'promotions'=>"PROMOTIONS",
             'top_promotions'=>"TOP PROMOTIONS",
             'best_travel_packages_available'=>"BEST TRAVEL PACKAGES AVAILABLE",
 
             // video
-            'video_intro'=>"VIDEO INTRODUCTION - MIXTOURIST",
-            'video_conttent'=>"Lorem ipsum
-                            dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                            exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            'video_intro'=>" VIDEO INTRODUCTION - VIETNAM",
+            'video_conttent'=>"Vietnam is the beautiful and friendly country with about 54 ethnicities living together from North to South. The climate is diverse for every region of the country. Addition, there are many  majestic and poetic sceneries with a lot of interesting stories in this beautiful country.",
             'more_videos'=>"MORE VIDEOS",
             'our_destinations'=>"OUR DESTINATIONS",
             'choose_you'=>"CHOOSE YOUR NEXT DESTINATION",
@@ -55,7 +54,7 @@ class language_cn
             'hour_support'=>"HOUR SUPPORT",
             'packages_index'=>"PACKAGES",
 
-            'contact_us'=>"CONTACT US",
+            'contact_us'=>"Contact us",
             'email'=>"Email",
             'name_surname'=>"Name And Surname",
             'add_info'=>"Additional Information",
@@ -68,7 +67,7 @@ class language_cn
             'why_us'=>"Why us",
             'our_service'=>"Our services",
             'contact_footer'=>"Contact",
-            'faq'=>"FAQ",
+            'faq'=>"FAQ's",
 
             'customer_service'=>"Customer service",
             'vietnam_visa'=>"Vietnam visa",

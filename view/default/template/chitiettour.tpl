@@ -53,7 +53,7 @@
                             </p>
                             <p class="price">
                                 <i class="icon-dollar"></i> {code}:
-                                <ins><span class="parameter"> {code}</span></ins>
+                                <ins><span class="parameter"> {code_val}</span></ins>
                             </p>
                             <p class="price">
                                 <i class="icon-calendar"></i> {durations_lang}:
@@ -326,7 +326,7 @@
                                                             price_children_5_val=parseInt(price_children_5_val);
                                                             total_member=price_adults+price_children_val+price_children_5_val;
 
-                                                            if(total_member>=6){
+                                                            if(total_member>=7){
                                                                 total="Contact";
                                                             }
                                                             else{

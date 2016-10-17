@@ -2,10 +2,10 @@
       class="home page page-id-32 page-template-default wpb-js-composer js-comp-ver-4.5.1 vc_responsive">
 
 <!--start preloader-->
-<div class="nicdark_preloader">
+<!--<div class="nicdark_preloader">
 
     <i class=" green"><img  src={SITE-NAME}/view/default/themes/images/icon.png></i>
-</div>
+</div>-->
 <!--end preloader-->
 
 <div style="" class="nicdark_site">

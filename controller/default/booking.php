@@ -61,7 +61,7 @@ if(count($data_tour)>0)
     }
     else{
         $total_member=$number_adults+$number_children+$number_children_5;
-        if($total_member>=6){
+        if($total_member>=7){
             $total=$contact;
         }
         else{

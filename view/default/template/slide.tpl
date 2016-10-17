@@ -359,7 +359,7 @@
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
                                     <input id="nicdark_autocomplete"
                                            class="nicdark_bg_greydark2 nicdark_border_none   grey medium subtitle"
-                                           type="text" placeholder="{search}" name="departure"
+                                           type="text" placeholder="{search_tc}" name="departure"
                                            value="">
                                 </div>
                                 <!--<div id="nicdark_advanced_search_dates"
@@ -387,7 +387,7 @@
                                 <div id="nicdark_advanced_search_button"
                                      style="box-sizing:border-box; padding: 0px 10px;"
                                      class=" nicdark_width100_responsive grid grid_3 percentage">
-                                    <input type="submit" value="{search}"
+                                    <input type="submit" value="{find_tc}"
                                            class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green ">
                                 </div>
 
