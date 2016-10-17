@@ -29,20 +29,20 @@
                     <a href="{SITE-NAME}"><img src="{SITE-NAME}/view/default/themes/images/logomix.png" alt="{Name}"></a>
 
                     <p>{contact_via}</p>
-                    <a href="{twitter}" class="nicdark_btn_icon nicdark_bg_blue_twitter small white">
+                    <a target="_blank" href="{twitter}" class="nicdark_btn_icon nicdark_bg_blue_twitter small white">
                         <i class="icon-twitter-1 nicdark_rotate"></i>
                     </a>
-                    <a href="{youtube}" class="nicdark_btn_icon nicdark_bg_red small white">
+                    <a target="_blank" href="{youtube}" class="nicdark_btn_icon nicdark_bg_red small white">
                         <i class="icon-youtube-play nicdark_rotate"></i>
                     </a>
-                    <a href="{facebook}" class="nicdark_btn_icon nicdark_facebook small white">
+                    <a target="_blank" href="{facebook}" class="nicdark_btn_icon nicdark_facebook small white">
                         <i class="icon-facebook nicdark_rotate"></i>
                     </a>
-                    <a href="{google}" class="nicdark_btn_icon nicdark_bg_red small white">
+                    <a target="_blank" href="{google}" class="nicdark_btn_icon nicdark_bg_red small white">
                         <i class="icon-google nicdark_rotate"></i>
                     </a>
-                    <a href="{rss}" class="nicdark_btn_icon nicdark_bg_yellow_rss small white">
-                        <i class="icon-rss-1 nicdark_rotate"></i>
+                    <a style="padding: 0px" target="_blank" href="{rss}" class="nicdark_btn_icon nicdark_bg_yellow_rss small white">
+                        <img src="{SITE-NAME}/view/default/themes/images/tripAdvisor.png" style="width: 40px;; position: absolute;margin-top: -24px;">
                     </a>
                 </div>
             </div>
@@ -196,7 +196,7 @@
                             </li>
 
                             <li>
-                                <p class="nicdark_margin100 white"><i class="icon-mobile"></i>&nbsp;&nbsp;&nbsp;Mobile: (Hotline_hcm)</p>
+                                <p class="nicdark_margin100 white"><i class="icon-mobile"></i>&nbsp;&nbsp;&nbsp;Mobile: {Hotline_hcm}</p>
                             </li>
 
                             <li>

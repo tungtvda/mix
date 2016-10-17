@@ -30,7 +30,7 @@ function view_footer($data = array())
     $asign['about_us']=returnLanguage('about_us','About us');
     $asign['why_us']=returnLanguage('why_us','Why us');
     $asign['our_service']=returnLanguage('our_service','Our services');
-    $asign['contact_footer']=returnLanguage('contact_footer','Contact');
+    $asign['contact_footer']=returnLanguage('contact_us','Contact');
 
     $asign['mix_tourist']=returnLanguage('mix_tourist','Mix Tourist');
 

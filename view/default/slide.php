@@ -25,6 +25,9 @@ function view_slide($data=array())
     $asign['vehicle']=returnLanguage('vehicle','Vehicle');
     $asign['hotel']=returnLanguage('hotel','Hotel');
 
+    $asign['search_tc']=returnLanguage('search_tc','Destination, tour style,...');
+    $asign['find_tc']=returnLanguage('find_tc','FIND');
+
     $asign['all_departure']=returnLanguage('all_departure','ALL Departure');
     $asign['all_destination']=returnLanguage('all_destination','ALL Destinations');
     $asign['all_duration']=returnLanguage('all_duration','ALL Durations');

@@ -106,11 +106,11 @@
             <h3 class=" title left lienquan"></h3>
             <div class="nicdark_space20"></div>
             <div class="nicdark_margin020">
-                <div class="fb-page" data-href="https://www.facebook.com/travelmixtourist" style="width: 100% !important;"
+                <div class="fb-page" data-href="https://www.facebook.com/mixtourist.vietnam" style="width: 100% !important;"
                      data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
                      data-show-facepile="true">
-                    <blockquote cite="https://www.facebook.com/travelmixtourist" class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/travelmixtourist">MixTourist Viet Nam</a></blockquote>
+                    <blockquote cite="https://www.facebook.com/mixtourist.vietnam" class="fb-xfbml-parse-ignore"><a
+                                href="https://www.facebook.com/mixtourist.vietnam">MixTourist Viet Nam</a></blockquote>
                 </div>
 
             </div>
