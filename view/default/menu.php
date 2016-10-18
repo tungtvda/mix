@@ -75,16 +75,22 @@ function view_menu($data = array())
                     $asign['danhmuc_subport'] .= "<li>
                         <a href='tel:$subport->phone_format' class=\"mobi_subpport\">
                             <i class=\"icon-mobile\"></i>".$subport->phone."
-                        </a>
-                        <span>|</span>
-                        <a href=\"skype:$subport->skype?chat\" class=\"skype_subpport\">
-                            <i class=\"icon-skype-1\"></i>
-                        </a>
-                        <span>|</span>
-                        <a href=\"\" class=\"yahoo_subpport\">
-                            <i class=\"icon-yahoo\"></i>
-                        </a>
-                    </li>";
+                        </a>";
+                    if($subport->skype!='')
+                    {
+                        $asign['danhmuc_subport'] .= " <a style='margin-left:10px' href=\"intent://send/$subport->skype#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end\" class=\"skype_subpport\">
+                            <img src='".SITE_NAME."/view/default/themes/images/whatsapp.png' style='width:30px'>
+                        </a>";
+                    }
+
+                    if($subport->yahoo!='')
+                    {
+                        $asign['danhmuc_subport'] .= "<a style='margin-left:10px' href=\"viber://add?number=$subport->yahoo\" class=\"yahoo_subpport\">
+                             <img src='".SITE_NAME."/view/default/themes/images/viber.ico' style='width:30px'>
+                        </a>";
+                    }
+
+                     $asign['danhmuc_subport'] .= "</li>";
 
                     $asign['danhmuc_subport_top'] .="<li>
                                             <i class=\"icon-phone\"></i> <a class=\"white title\" href=\"tel:$subport->phone\">$subport->phone_format</a>

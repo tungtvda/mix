@@ -66,9 +66,9 @@
 
 /*switcher style*/
 .nicdark_switcher {
-    width: 250px;
+    width: 265px;
     position: fixed;
-    left: -250px;
+    left: -265px;
     top: 150px;
     z-index: 999;
     -webkit-transition: all 0.8s ease;

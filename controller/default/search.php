@@ -22,9 +22,34 @@ if(count($_GET)==1){
     {
         $field_not=$_GET['departure'];
         $field=mb_strtolower(addslashes(strip_tags($_GET['departure'])));
-        $dk='name LIKE "%' . $field . '%"';
+        $dk='name LIKE "%' . $field . '%" or price LIKE "%' . $field . '%" or name_url LIKE "%' . $field . '%" or durations LIKE "%' . $field . '%" or departure LIKE "%' . $field . '%" or destination LIKE "%' . $field . '%" or inclusion LIKE "%' . $field . '%" or summary LIKE "%' . $field . '%" or highlights LIKE "%' . $field . '%"   ';
+        $demkt=0;
+        $dk_fil='name LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
+        $data_style=danhmuc_2_getByTop('',$dk_fil,'');
+        $arr_push=array();
+        foreach($data_style as $row_style){
+            array_push($arr_push,$row_style->id);
+        }
+        $tring_se=implode(',',$arr_push);
+        if(count($data_style)>0){
+            $dk.=" or DanhMuc2Id in ($tring_se)";
+        }
+        $dk_fil2='name LIKE "%'.mb_strtolower(addslashes(strip_tags($_GET['departure']))).'%"';
+
+        $data_style_1=danhmuc_1_getByTop('',$dk_fil2,'');
+        $arr_push_1=array();
+        foreach($data_style_1 as $row_style_1){
+            array_push($arr_push_1,$row_style_1->id);
+        }
+        $tring_se_1=implode(',',$arr_push_1);
+        if(count($data_style_1)>0){
+            $dk.=" or DanhMuc1Id in ($tring_se_1)";
+        }
+
+
         $data['danhsach']=tour_getByTop('',$dk,'id desc');
-        $data['danhsach_news']=news_getByTop('',$dk,'id desc');
+        $dk_new='name LIKE "%' . $field . '%"';
+        $data['danhsach_news']=news_getByTop('',$dk_new,'id desc');
         $key=$field;
     }
     else{
