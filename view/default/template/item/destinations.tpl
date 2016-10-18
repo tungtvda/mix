@@ -26,7 +26,7 @@
                        <p class="white " >{name}</p>
 
                         <div class="nicdark_space20"></div>
-                        <a href="{link}" title="{name}"
+                        <a href="{link_2}" title="{name}"
                            class="white nicdark_btn nicdark_border_white medium">{view_all}</a>
                     </div>
                 </div>

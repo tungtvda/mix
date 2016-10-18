@@ -107,12 +107,12 @@ switch($actual_link){
         $active="Multi";
         break;
     case 'destinations':
-        $dk="DanhMuc1Id=6";
+        $dk="danhmuc1_destinations=6";
         $data['current']=isset($_GET['page'])?$_GET['page']:'1';
         $data['pagesize']=6;
         $data['count']=tour_count($dk);
         $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
-        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/multi-country/');
+        $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/destinations/');
         $name=returnLanguageField('name', $data['menu'][5]);
         $data['banner']=array(
             'banner_img'=>$data['menu'][5]->img,

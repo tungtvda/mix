@@ -70,6 +70,7 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
                     $ft->assign('name',returnLanguageField('name', $item));
                 $ft->assign('view_all',returnLanguage('view_all','VIEW ALL'));
                 $ft->assign('link',link_tour($item));
+                $ft->assign('link_2',link_tour_2($item));
             }
             if(get_class($item)=='video')
             {
@@ -144,6 +145,10 @@ function print_item($file,$ListItem,$LocDau=false,$LocDauAssign=false,$numberfor
 function link_tour($app)
 {
     return SITE_NAME.'/tour/'.$app->name_url.'/';
+}
+function link_tour_2($app)
+{
+    return SITE_NAME.'/destinations/'.$app->name_url.'/';
 }
 function link_tourdetail($app)
 {

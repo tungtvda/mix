@@ -1,6 +1,7 @@
 <?php
 require_once DIR.'/common/paging.php';
 require_once DIR.'/common/cls_fast_template.php';
+require_once DIR.'/model/danhmuc_2Service.php';
 function view_tour($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
@@ -38,10 +39,19 @@ function showTableBody($data)
     $TableBody='';
     if(count($data)>0) foreach($data as $obj)
     {
+        $data_destinations=danhmuc_2_getById($obj->danhmuc2_destinations);
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->id."</td>";
-        $TableBody.="<td>".$obj->DanhMuc1Id."</td>";
-        $TableBody.="<td>".$obj->DanhMuc2Id."</td>";
+        $TableBody.="<td>.$obj->DanhMuc1Id.";
+        if($obj->danhmuc1_destinations==6){
+            $TableBody.="<br>// Destinations";
+        }
+        $TableBody.="</td>";
+        $TableBody.="<td>".$obj->DanhMuc2Id;
+        if(count($data_destinations)>0){
+            $TableBody.="<br>// ".$data_destinations[0]->name;
+        }
+            $TableBody.="</td>";
         $TableBody.="<td>".$obj->promotion."</td>";
         $TableBody.="<td>".$obj->packages."</td>";
         $TableBody.="<td>".$obj->name."</td>";
@@ -99,6 +109,32 @@ function showFrom($form,$ListKey=array())
     {
         $str_from .= '<option value="1">Chọn danh mục cấp 2</option>';
     }
+    $str_from.='</select></p>';
+    $str_from.='<p><label>danhmuc1_destinations</label>
+<select name="danhmuc1_destinations" id="danhmuc1_destinations">
+<option value="0">Chọn danh mục Destinations</option>
+<option value="6" '.(($form!=false)?(($form->danhmuc1_destinations==6)?'selected':''):'').'>Destinations</option>
+</select>
+</p>';
+    $str_from.='<p><label>danhmuc2_destinations</label>
+<select name="danhmuc2_destinations" id="danhmuc2_destinations">';
+    if($form!=false)
+    {
+        $str_from .= '<option value="1">Chọn danh mục cấp 2 destinations</option>';
+        if(isset($ListKey['destinations']))
+        {
+            foreach($ListKey['destinations'] as $key)
+            {
+                $str_from.='<option value="'.$key->id.'" '.(($form!=false)?(($form->danhmuc2_destinations==$key->id)?'selected':''):'').'>'.$key->name.'</option>';
+            }
+        }
+    }
+    else
+    {
+        $str_from .= '<option value="1">Chọn danh mục cấp 2 destinations</option>';
+    }
+
+
     $str_from.='</select></p>';
     $str_from.='<p><label>promotion</label><input  type="checkbox"  name="promotion" value="1" '.(($form!=false)?(($form->promotion=='1')?'checked':''):'').' /></p>';
     $str_from.='<p><label>packages</label><input  type="checkbox"  name="packages" value="1" '.(($form!=false)?(($form->packages=='1')?'checked':''):'').' /></p>';
