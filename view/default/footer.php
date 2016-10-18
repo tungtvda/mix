@@ -44,6 +44,9 @@ function view_footer($data = array())
     $asign['hanoi_office']=returnLanguage('hanoi_office','HANOI OFFICE');
     $asign['hcm_office']=returnLanguage('hcm_office','HOCHIMINH CITY OFFICE');
     $asign['faq']=returnLanguage('faq','FAQ');
+    $asign['vietnam_off']=returnLanguage('vietnam_off','VIETNAM OFFICE');
+    $asign['head_office']=returnLanguage('head_office','Head office');
+    $asign['hcm_branch_office']=returnLanguage('hcm_branch_office','Branch in HCM');
 
     $asign['link'] = "";
     if(count($data['link'])>0)
