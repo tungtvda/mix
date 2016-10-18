@@ -40,8 +40,14 @@ if(isset($_SESSION["Admin"]))
     {
         $data['tab1_class']='default-tab current';
     }
-    $data['listfkey']['DanhMuc1Id']=danhmuc_1_getByAll();
-    $data['listfkey']['DanhMuc2Id']=danhmuc_2_getByAll();
+    $data['listfkey']['DanhMuc1Id']=danhmuc_1_getByTop('','id!=6','name asc');
+    $dk='';
+    if(isset($_GET['id']))
+    {
+        $dk='danhmuc1_id='.$new_obj[0]->DanhMuc1Id;
+    }
+    $data['listfkey']['DanhMuc2Id']=danhmuc_2_getByTop('',$dk,'name asc');
+    $data['listfkey']['destinations']=danhmuc_2_getByTop('','danhmuc1_id=6','name asc');
     if(isset($_GET["action_all"]))
     {
         if($_GET["action_all"]=="ThemMoi")
@@ -59,7 +65,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/tour.php');
         }
     }
-    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["code"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_cn"])&&isset($_POST["price_children_5_10"])&&isset($_POST["price_children_5_10_en"])&&isset($_POST["price_children_under_5"])&&isset($_POST["price_children_under_5_cn"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
+    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["danhmuc1_destinations"])&&isset($_POST["danhmuc2_destinations"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["code"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_cn"])&&isset($_POST["price_children_5_10"])&&isset($_POST["price_children_5_10_en"])&&isset($_POST["price_children_under_5"])&&isset($_POST["price_children_under_5_cn"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -68,6 +74,10 @@ if(isset($_SESSION["Admin"]))
        $array['DanhMuc1Id']='0';
        if(!isset($array['DanhMuc2Id']))
        $array['DanhMuc2Id']='0';
+       if(!isset($array['danhmuc1_destinations']))
+       $array['danhmuc1_destinations']='0';
+       if(!isset($array['danhmuc2_destinations']))
+       $array['danhmuc2_destinations']='0';
        if(!isset($array['promotion']))
        $array['promotion']='0';
        if(!isset($array['packages']))
@@ -167,22 +177,10 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/tour.php');
         }
     }
-    if(isset($_POST['giatri']))
-    {
-        $key=addslashes(strip_tags($_POST['giatri']));
-        $dieukien="name like '%".$key."%' or id='".$key."'  or name_cn='".$key."'  or name_url='".$key."'";
-        $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';
-        $data['count_paging']=tour_count($dieukien);
-        $data['page']=isset($_GET['page'])?$_GET['page']:'1';
-        $data['table_body']=tour_getByTop('',$dieukien,'id DESC');
-    }
-    else {
-        $data['username'] = isset($_SESSION["UserName"]) ? $_SESSION["UserName"] : 'quản trị viên';
-        $data['count_paging'] = tour_count('');
-        $data['page'] = isset($_GET['page']) ? $_GET['page'] : '1';
-        $data['table_body'] = tour_getByPagingReplace($data['page'], 20, 'id DESC', '');
-        // gọi phương thức trong tầng view để hiển thị
-    }
+    $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';
+    $data['count_paging']=tour_count('');
+    $data['page']=isset($_GET['page'])?$_GET['page']:'1';
+    $data['table_body']=tour_getByPagingReplace($data['page'],20,'id DESC','');
     // gọi phương thức trong tầng view để hiển thị
     view_tour($data);
 }

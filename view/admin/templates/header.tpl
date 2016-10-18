@@ -22,6 +22,15 @@
                             $("#DanhMuc2Id").html(data);
                         });
             });
+            $("#danhmuc1_destinations").change(function() {
+                $.post('{SITE-NAME}/controller/default/ajax.php',
+                        {
+                            Tour:$('#danhmuc1_destinations  option:selected').val()
+                        },
+                        function(data,status){
+                            $("#danhmuc2_destinations").html(data);
+                        });
+            });
 
         });
 

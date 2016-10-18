@@ -1,12 +1,14 @@
 <?php
 class tour
 {
-    public $id,$DanhMuc1Id,$DanhMuc2Id,$promotion,$packages,$name,$name_cn,$name_url,$code,$img,$price,$price_cn,$price_children_5_10,$price_children_5_10_en,$price_children_under_5,$price_children_under_5_cn,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_cn,$hotel,$summary,$summary_cn,$highlights,$highlights_cn,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn,$inclusion,$inclusion_cn,$exclusion,$exclusion_cn;
+    public $id,$DanhMuc1Id,$DanhMuc2Id,$danhmuc1_destinations,$danhmuc2_destinations,$promotion,$packages,$name,$name_cn,$name_url,$code,$img,$price,$price_cn,$price_children_5_10,$price_children_5_10_en,$price_children_under_5,$price_children_under_5_cn,$durations,$durations_cn,$departure,$destination,$departure_time,$vehicle,$vehicle_cn,$hotel,$summary,$summary_cn,$highlights,$highlights_cn,$schedule,$schedule_cn,$price_list,$price_list_cn,$content,$content_cn,$list_img,$title,$title_cn,$keyword,$keyword_cn,$description,$description_cn,$inclusion,$inclusion_cn,$exclusion,$exclusion_cn;
     public function tour($data=array())
     {
     $this->id=isset($data['id'])?$data['id']:'';
     $this->DanhMuc1Id=isset($data['DanhMuc1Id'])?$data['DanhMuc1Id']:'';
     $this->DanhMuc2Id=isset($data['DanhMuc2Id'])?$data['DanhMuc2Id']:'';
+    $this->danhmuc1_destinations=isset($data['danhmuc1_destinations'])?$data['danhmuc1_destinations']:'';
+    $this->danhmuc2_destinations=isset($data['danhmuc2_destinations'])?$data['danhmuc2_destinations']:'';
     $this->promotion=isset($data['promotion'])?$data['promotion']:'';
     $this->packages=isset($data['packages'])?$data['packages']:'';
     $this->name=isset($data['name'])?$data['name']:'';
@@ -56,6 +58,8 @@ class tour
             $this->id=addslashes($this->id);
             $this->DanhMuc1Id=addslashes($this->DanhMuc1Id);
             $this->DanhMuc2Id=addslashes($this->DanhMuc2Id);
+            $this->danhmuc1_destinations=addslashes($this->danhmuc1_destinations);
+            $this->danhmuc2_destinations=addslashes($this->danhmuc2_destinations);
             $this->promotion=addslashes($this->promotion);
             $this->packages=addslashes($this->packages);
             $this->name=addslashes($this->name);
@@ -104,6 +108,8 @@ class tour
             $this->id=stripslashes($this->id);
             $this->DanhMuc1Id=stripslashes($this->DanhMuc1Id);
             $this->DanhMuc2Id=stripslashes($this->DanhMuc2Id);
+            $this->danhmuc1_destinations=stripslashes($this->danhmuc1_destinations);
+            $this->danhmuc2_destinations=stripslashes($this->danhmuc2_destinations);
             $this->promotion=stripslashes($this->promotion);
             $this->packages=stripslashes($this->packages);
             $this->name=stripslashes($this->name);

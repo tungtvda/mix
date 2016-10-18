@@ -21099,3 +21099,1021 @@ update tour set DanhMuc1Id='5',DanhMuc2Id='12',promotion='1',packages='1',name='
 <div>
 	早餐CUA指南后接你在酒店SE为您转移到泰国边境乙酸机场乘搭或航班。</div>
 ',list_img='',title='Explore Laos',title_cn='Explore Laos',keyword='Explore Laos',keyword_cn='Explore Laos',description='Explore Laos',description_cn='Explore Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=8;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='16',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='',summary_cn='',highlights='',highlights_cn='',schedule='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: center; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">PACKAGE PRICE : USD / PAX</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; display: inline-block; text-align: justify; width: 679.125px; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">TOUR INCLUDED:</span></h3>
+<div class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; display: inline-block; text-align: justify; width: 679.125px; font-size: 11pt; line-height: 21px; color: rgb(60, 59, 59); font-family: Arial;\">
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Accommodation 3* hotels with two persons share twin room</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Private tours, transfers and all services as mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Service of English speaking guides in every location</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals as mentioned in the itinerary ( B = Breakfast, L= Lunch, D =&nbsp; Dinner)</li>
+	</ul>
+	<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">TOUR EXCLUDED:</span></h2>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Domestic and International flights</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Departure taxes if applicable</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals other than those mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Early check-in and late check-out at hotels.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal expenses (such as laundry, telephone, drinks, etc.)</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Tips for local guides and drivers</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal travel insurance</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Visa</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Single room SPL</li>
+	</ul>
+	<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">NOTE:</span></h4>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			The itinerary can be changed due to weather, tide levels and operating conditions.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</li>
+	</ul>
+</div>
+<p>
+	&nbsp;</p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='5',DanhMuc2Id='12',danhmuc1_destinations='6',danhmuc2_destinations='16',promotion='1',packages='0',name='Central And South Of Laos',name_cn='中部和南部老挝',name_url='central-and-south-of-laos',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='700',price_cn='700',price_children_5_10='70',price_children_5_10_en='',price_children_under_5='10',price_children_under_5_cn='',durations='10 Days 9 Nights',durations_cn='10天9夜',departure='Vientiane',destination='Kong Lor Cave',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='5',summary='<p>
+	jh</p>
+',summary_cn='<p>
+	ghjfgj</p>
+',highlights='<p>
+	ghj</p>
+',highlights_cn='<p>
+	ghukljk;kl</p>
+',schedule='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 1: VIENTIANE&nbsp; ARRIVAL - CITY TOUR</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival in Vientiane, you will be met and transferred to your hotel. If time permits, your half day city tour enables us to see the major temples of Vientiane including the oldest,&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/Central-And-South-Of-Laos/271\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Wat Sisaket</a>,</strong>&nbsp;a temple of thousands of miniature Buddha statues, and the former royal temple of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Prakeo</strong>&nbsp;which previously housed the famous Emerald Buddha Image. We&#39;ll also visit Lao national icon,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">That Luang Stupa</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Then we stop to take some pictures of the imposing Patuxay Monument which is Vientiane&#39;s own Arc de Triumph. Stay overnight in Vientiane</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 2: VIENTIANE - PRABAHT PONSA -KHOUN KHAM-BAN NAPHOUAK-SALA HIN BOUN</span></h2>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You will be picked up from your Vientiane Hotel this morning, and travel south along route 13. En route we stop at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Prabaht Ponsan- an Manoluck LPQ stupa</strong>&nbsp;dating back to the 15th Century. It is also home to the Manoluck LPQ Budhhas footprint, was discovered in 1933, and now an is an important religious site in Laos.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Following the lunch, we continue onwards into Khammoune province and into the mountainous area where a stop at a view point near Khoun Kham offers a breathtaking view over the surrounding area. We eventually reach to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Naphouak</strong>&nbsp;where we board a local boat on the Hin Boun River. The journey upstream takes us past some stunning limestone karst scenery as well as a number of villages with smiling waving children.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	In the late afternoon, we reach to your accommodation for the night at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Sala Hin Boun</strong>. You have the rest of the day at leisure. Stay overnight at Sala Hin Boun.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">Day 3: SALA HIN BOUN - KONG LOR CAVE&nbsp;</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast at Sala Hin Boun, we continue by boat upriver to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kong Lor village</strong>&nbsp;before boarding a smaller boat into the famous&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kong Lor Cave</strong>. We navigate through the cave which is over 7km long and includes a spectacular cavern over 100m high.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We&#39;ll have lunch in a remote village on the other side of the cave. We return to Sala Hin Boun before sunset. Stay overnight at Sala Hin Boun.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">Day 4: SALA HIN BOUN - NAPHOUAK - THAKEK</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Following breakfast, we set off by road to Naphouak, before heading south by boat through some of the most spectacular gorges found in Southeast Asia.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Along the way, we make a stop for lunch and a picturesque&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lao Loum village,</strong>&nbsp;and then we are picked up by car and transferred to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thakek</strong>&nbsp;in the late afternoon.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Stay overnight in Thakek.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: THAKEK - BUDDHA CAVE&nbsp;</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We depart&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thakek</strong>&nbsp;by Tuk-tuk, and follow the old French railway track that was destined for Vietnam but was never finished. Continuing through impressive scenery, you arrive at&nbsp; the village of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Nakhang Xang</strong>&nbsp;and meet the village guides who will escort you on your trek. Passing through secondary forest, your guide will point out forest products that form an important part of local people&#39;s food resources. Going through a cave, you enter a striking valley with towering cliffs and forest. The trail follows the shoreline of<strong style=\"margin: 0px; padding: 0px;\">Nong Thao Lake</strong>&nbsp;where you can see local fishermen at work.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tham Nong Paseum cave</strong>, more adventurous swimmers can explore the cave. The cave is 400 metres long and contains dramatic stalactites and stalagmites. Back in daylight.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The trip continues onto&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khammouane&#39;s</strong>&nbsp;famous Buddha cave for a traditional Lao lunch of Mekong fish, sticky rice and spicy papaya salad. After lunch, we visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tham Pa Fa</strong>&nbsp;or&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Buddha cave</strong>&nbsp;which was rediscovered in April 2004. The cave contains 229 bronze Buddhas that are said to be over 300 years old. If time permits, you will also be able to travel by local canoe into the water cave below.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your guide will now escort you back to the village following a different route through the forest, and you will return to Thakek in the late afternoon. Stay overnight in Thakek.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: THAKEK - SAVANNAKHET - PAKSE</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	This morning, we are back on the road heading south to Thakek. En route we stop to visit the town of<strong style=\"margin: 0px; padding: 0px;\">Savannkhe</strong>t- is famous for its French Colonial buildings and also the sacred stupa of That Inhang. W in Pakse.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: PAKSE - BOLEVEAN PLATEAU - TAD FAN WATERFALL - TAD LO</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	This morning, you will be met and taken by road west into&nbsp;<strong style=\"margin: 0px; padding: 0px;\">the Bolevean Plateau</strong>. The Bolevean Plateau is known for its cooler temperature being located high above the Mekong Valley.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The area is famous for its many waterfalls, and the most beautiful of these falls is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Fan</strong>. Tad Fan waterfall is spectacular with twin waterfalls plummeting into a deep gorge surrounded by flourishing vegetation.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	A trip to the plateau provides a refreshing break from the heat and allows you to observe the cultivation of rich coffee, tea, cardamom, bananas, and other crops that can be seen en route. In the afternoon, we arrive at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Lo-</strong>&nbsp;home to another scenic waterfall and numerous ethnic minority groups. We visit the villages of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Alak, Nge, and Katu</strong>&nbsp;before staying overnight in Tad Lo.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: TAD LO - PHA SUAM WATERFALL - PAKSE - WAT PHOU - DON DAENG ISLANDS</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After an early breakfast, we head out towards&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khong Island</strong>. On the way, we make a short detour to visit<strong style=\"margin: 0px; padding: 0px;\">Pha Suam waterfall</strong>&nbsp;and to explore the ethnic minority villages of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lao Teung</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We continue to travel by roading via&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Pakse town</strong>, and cross the Mekong by ferrying to visit the fascinating<strong style=\"margin: 0px; padding: 0px;\">Angkorian</strong>&nbsp;ruins of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Phou</strong>- one of Southeast Asia&#39;s most dramatically situated temples. Following lunch, we continue our journey by car,&nbsp; and ferry to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Don Daeng Island</strong>. Stay overnight in Don Daeng.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: DON DAENG - LIPHI AND KHONE PHAPHENG WATERFALLS - 4000 ISLANDS&nbsp;</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Following breakfast, we enjoy a visit to the surrounding countryside, and embark on a long tail boat tour of the Don Khone area which takes you to visit the remains of the French period and&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Liphi Waterfall</strong>&nbsp;or &quot;<strong style=\"margin: 0px; padding: 0px;\">the Corridor of the Devil</strong>&quot;.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We return to the mainland at the fishing village of<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Ban Nakasang</strong>&nbsp;and drive to the south to visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khone Phapheng</strong>. Khone Phapheng is considered as the largest waterfall by volume in South East Asia. Setting within an area which is teeming with wildlife make this area one of the most breathtaking destinations in Laos. Stay overnight in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Don Daeng.</strong></p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: DON DAENG - PAKSE DEPARTURE</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast, you will be transferred to the airport for your departing flight. Thanks for traveling with Mixtourist. See you next trips.</p>
+',schedule_cn='<div>
+	第一天：抵达万象 - 城市之旅</div>
+<div>
+	&nbsp;</div>
+<div>
+	在万象抵达时，您将被转移到你的酒店和满足。如果时间允许，半天城市观光CUA我们看到万象的大蝙蝠GOM最古老的寺庙，Wat Sisaket寺，佛像千缩影的寺庙和Wat Prakeo等trướcDJO的前皇家寺庙设在著名的玉佛图片。我们将访问老挝国家cũng图标，銮佛塔。</div>
+<div>
+	然后停下来拍一些照片涌征收万象的Patuxay凯旋门纪念碑M&agrave;自己的凯旋门的。在万象过夜</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：万象 - PRABAHT蓬萨-KHOUN NAPHOUAK-SALA康朋HIN伯恩</div>
+<div>
+	&nbsp;</div>
+<div>
+	你将今天早上捡到科伊万象酒店，并沿路线13在途中停止南下的Prabaht涌的曼鲁克LPQ佛塔Ponsan-可以追溯到15世纪。这是家庭对曼鲁克LPQcũngBudhhas的足迹，于1933年被发现，现在在老挝宗教场所的重要保障。</div>
+<div>
+	继午餐，继续向前涌Khammoune化为成山区省，在那里附近Khoun康巴视点停止提供周围地区的壮丽景致。我们最终达成登上当地板Naphouak我们在哪里轩伯恩舟河上。旅途上游把我们过去的一些令人惊叹的石灰岩岩溶风光，以及一些与微笑的儿童挥舞着村庄。</div>
+<div>
+	在下午晚些时候，钟触及你的夜晚在萨拉轩伯恩的住宿。你有一天的休息休闲。在萨拉轩伯恩过夜。</div>
+<div>
+	第3天：SALA HIN伯恩 - KONG LOR CAVE</div>
+<div>
+	&nbsp;</div>
+<div>
+	在萨拉轩伯恩早餐后，乘船向上游涌到香港咯村登上小船著名的香港咯洞进入前。我们穿过山洞浏览过7公里长和MA包括超过100米高壮观的洞穴。</div>
+<div>
+	我们将吃午饭在山洞的另一侧的一个偏远村庄。我们回到萨拉轩伯恩是在日落之前。在萨拉轩伯恩过夜。</div>
+<div>
+	第4天：SALA HIN伯恩 - NAPHOUAK - THAKEK</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐之后，掀起公路涌Naphouak，全部通过一些在东南亚发现的最壮观的峡谷乘船南下之前。</div>
+<div>
+	一路上，停下来吃午饭我们做一个老龙族和风景如画的村庄，然后拿起一个我们truyền车，并在下午晚Thakek。</div>
+<div>
+	在Thakek过夜。</div>
+<div>
+	第5天：THAKEK - 佛洞</div>
+<div>
+	&nbsp;</div>
+<div>
+	我们离开乘坐三轮摩托车Thakek，并按照历史的法国铁路轨道注定越南C&oacute;未曾完成，但。通过动人的风景继续，你到达班万象村，迎接村Nakhang导游谁陪同您禁令SE跋涉。通过次生林传递，指导CUA SEC&oacute;指出森林产品构成了当地警方的一部分仲人民的食物资源。通过一个山洞去，你输入一个惊人的山谷高耸的悬崖和森林。这条古道如下侬邵族湖的海岸线，您可以在工作中看到当地渔民。</div>
+<div>
+	论谭农Paseum洞穴的到来，更大胆的游泳者可以探索洞穴。这个洞穴是长400米，并包含巨大的钟乳石和石笋。早在日光。</div>
+<div>
+	此行到甘蒙著名的佛洞内继续湄公河鱼，糯米饭和辛辣木瓜沙拉的传统的老挝午餐。午餐后，游览谭帕颂发或佛洞是在2004年4月重新发现麻洞穴包含229青铜佛像被说成是共同超过300岁。如果时间允许，禁令我也是由当地的独木舟洞穴到下面的水中游。</div>
+<div>
+	您现在指南护送你回SE村秀穿过森林不同的路线，你会在下午晚些时候返回Thakek。在Thakek过夜。</div>
+<div>
+	第6天：THAKEK - 沙湾拿吉 - 巴色</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天上午，我们在路上向南回Thakek。途中停下来参观该镇涌Savannkhet-是著名的法国殖民时期建筑的ITS和我也是Inhang神圣的佛塔。 W的巴色。</div>
+<div>
+	第7天：巴色 - BOLEVEAN高原 - TAD FAN瀑布 - TAD LO</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天上午，你见过和đượcVAO Bolevean高原西路拍摄。高原以其Bolevean较冷温度位于高高在上的湄公河流域。</div>
+<div>
+	该地区是著名的许多瀑布和最美丽的những的是泰德范下降。泰德范瀑布壮观带有双瀑布陷入了深深的峡谷由茂盛的植被包围的暴跌。</div>
+<div>
+	高原之旅提供从热清凉休息一下，你观察浓郁的咖啡，茶，小豆蔻，香蕉，见过的其他农作物种植町ph&eacute;p共同开发的途中。当天下午，抵达泰德家里涌到另一个瀑布景区的某一地址众多的少数民族和团体。我们参观奥洛克，NGE和Katu村庄在泰德罗过夜了。</div>
+<div>
+	第8天：TAD LO - PHA Suam瀑布 - 巴色 - 瓦普寺 - DON登群岛</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，伸头朝涌清孔岛。在路上，做一个简短迂回帕颂瀑Suam和参观游览老挝Teung的少数民族村寨。</div>
+<div>
+	我们将继续通过巴色镇越野旅行，和跨湄公河运送由笏东南亚Phou-最显着的位于寺庙之一的吴哥遗址参观引人入胜。午饭后，继续驾车涌我们的旅程，和渡轮唐登岛。在唐登过夜。</div>
+<div>
+	9日：DON登 - Phapheng LIPHI和Khone瀑布 - 4000群岛</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐之后，享受到涌周边的乡村一游，并踏上唐Khone区域的长尾船行程将带您参观法国时期的遗存M&agrave;和Liphi瀑布或&ldquo;魔鬼的走廊&rdquo;。</div>
+<div>
+	我们回到大陆在禁令Nakasang的渔村，开车到南部参观Khone Phapheng。视为Phapheng Khone是东南亚量最大的瀑布。设置一个区域阮富仲与丰富的野生动物使马这方面老挝的最惊险的目的地之一。在唐登过夜。</div>
+<div>
+	10日：DON登 - 巴色离境</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，你将被转移到机场，乘搭飞机离境。感谢您与Mixtourist旅行。下次见到你的旅</div>
+',price_list='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: center; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\"><strong style=\"margin: 0px; padding: 0px;\">PACKAGE TOUR:</strong><strong style=\"margin: 0px; padding: 0px;\">&nbsp;Contact us</strong></span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">TOUR INCLUDED:</span></h3>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+		09 Nights Accommodation with breakfast.</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+		Pick-ups and transfers by private air-conditioned vehicle as specified in the itinerary above.</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+		Boat cruises as specified in the program.</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+		The services of experienced English-speaking guides as indicated in the itinerary.</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+		Enchange fees for all visits as mentioned in the program.</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+		Meals (as specified in the itinerary) in the best local restaurants, or picnics where no suitable restaurant is available.</li>
+	<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+		&nbsp;</li>
+</ul>
+',price_list_cn='<div>
+	旅行团：联系我们</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	&nbsp;</div>
+<div>
+	09晚住宿含早餐。</div>
+<div>
+	皮卡和转移支付由私人空调车在上面RO行程。</div>
+<div>
+	游船在程序RO。</div>
+<div>
+	经验丰富的英语导游的服务在行程指示。</div>
+<div>
+	Enchange费如前所述程序中的所有访问。</div>
+<div>
+	膳食当地最好的餐馆，或野餐的地方没有合适的餐厅可（如在行程RO）。</div>
+<div>
+	TOUR排除：</div>
+<div>
+	&nbsp;</div>
+<div>
+	国际机票及机场税。签证。</div>
+<div>
+	晚餐，除了上述RO。</div>
+<div>
+	饮料，小费及个人开支。</div>
+<div>
+	为旺季附加费（如有）及其他细节在上面的程序未提及</div>
+<div>
+	签证</div>
+',content='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 1: VIENTIANE&nbsp; ARRIVAL - CITY TOUR</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival in Vientiane, you will be met and transferred to your hotel. If time permits, your half day city tour enables us to see the major temples of Vientiane including the oldest,&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/Central-And-South-Of-Laos/271\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Wat Sisaket</a>,</strong>&nbsp;a temple of thousands of miniature Buddha statues, and the former royal temple of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Prakeo</strong>&nbsp;which previously housed the famous Emerald Buddha Image. We&#39;ll also visit Lao national icon,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">That Luang Stupa</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Then we stop to take some pictures of the imposing Patuxay Monument which is Vientiane&#39;s own Arc de Triumph. Stay overnight in Vientiane</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 2: VIENTIANE - PRABAHT PONSA -KHOUN KHAM-BAN NAPHOUAK-SALA HIN BOUN</span></h2>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You will be picked up from your Vientiane Hotel this morning, and travel south along route 13. En route we stop at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Prabaht Ponsan- an Manoluck LPQ stupa</strong>&nbsp;dating back to the 15th Century. It is also home to the Manoluck LPQ Budhhas footprint, was discovered in 1933, and now an is an important religious site in Laos.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Following the lunch, we continue onwards into Khammoune province and into the mountainous area where a stop at a view point near Khoun Kham offers a breathtaking view over the surrounding area. We eventually reach to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Naphouak</strong>&nbsp;where we board a local boat on the Hin Boun River. The journey upstream takes us past some stunning limestone karst scenery as well as a number of villages with smiling waving children.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	In the late afternoon, we reach to your accommodation for the night at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Sala Hin Boun</strong>. You have the rest of the day at leisure. Stay overnight at Sala Hin Boun.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">Day 3: SALA HIN BOUN - KONG LOR CAVE&nbsp;</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast at Sala Hin Boun, we continue by boat upriver to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kong Lor village</strong>&nbsp;before boarding a smaller boat into the famous&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Kong Lor Cave</strong>. We navigate through the cave which is over 7km long and includes a spectacular cavern over 100m high.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We&#39;ll have lunch in a remote village on the other side of the cave. We return to Sala Hin Boun before sunset. Stay overnight at Sala Hin Boun.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">Day 4: SALA HIN BOUN - NAPHOUAK - THAKEK</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Following breakfast, we set off by road to Naphouak, before heading south by boat through some of the most spectacular gorges found in Southeast Asia.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Along the way, we make a stop for lunch and a picturesque&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lao Loum village,</strong>&nbsp;and then we are picked up by car and transferred to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thakek</strong>&nbsp;in the late afternoon.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Stay overnight in Thakek.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: THAKEK - BUDDHA CAVE&nbsp;</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We depart&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thakek</strong>&nbsp;by Tuk-tuk, and follow the old French railway track that was destined for Vietnam but was never finished. Continuing through impressive scenery, you arrive at&nbsp; the village of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ban Nakhang Xang</strong>&nbsp;and meet the village guides who will escort you on your trek. Passing through secondary forest, your guide will point out forest products that form an important part of local people&#39;s food resources. Going through a cave, you enter a striking valley with towering cliffs and forest. The trail follows the shoreline of<strong style=\"margin: 0px; padding: 0px;\">Nong Thao Lake</strong>&nbsp;where you can see local fishermen at work.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	On arrival at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tham Nong Paseum cave</strong>, more adventurous swimmers can explore the cave. The cave is 400 metres long and contains dramatic stalactites and stalagmites. Back in daylight.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The trip continues onto&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khammouane&#39;s</strong>&nbsp;famous Buddha cave for a traditional Lao lunch of Mekong fish, sticky rice and spicy papaya salad. After lunch, we visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tham Pa Fa</strong>&nbsp;or&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Buddha cave</strong>&nbsp;which was rediscovered in April 2004. The cave contains 229 bronze Buddhas that are said to be over 300 years old. If time permits, you will also be able to travel by local canoe into the water cave below.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Your guide will now escort you back to the village following a different route through the forest, and you will return to Thakek in the late afternoon. Stay overnight in Thakek.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: THAKEK - SAVANNAKHET - PAKSE</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	This morning, we are back on the road heading south to Thakek. En route we stop to visit the town of<strong style=\"margin: 0px; padding: 0px;\">Savannkhe</strong>t- is famous for its French Colonial buildings and also the sacred stupa of That Inhang. W in Pakse.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: PAKSE - BOLEVEAN PLATEAU - TAD FAN WATERFALL - TAD LO</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	This morning, you will be met and taken by road west into&nbsp;<strong style=\"margin: 0px; padding: 0px;\">the Bolevean Plateau</strong>. The Bolevean Plateau is known for its cooler temperature being located high above the Mekong Valley.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	The area is famous for its many waterfalls, and the most beautiful of these falls is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Fan</strong>. Tad Fan waterfall is spectacular with twin waterfalls plummeting into a deep gorge surrounded by flourishing vegetation.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	A trip to the plateau provides a refreshing break from the heat and allows you to observe the cultivation of rich coffee, tea, cardamom, bananas, and other crops that can be seen en route. In the afternoon, we arrive at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Tad Lo-</strong>&nbsp;home to another scenic waterfall and numerous ethnic minority groups. We visit the villages of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Alak, Nge, and Katu</strong>&nbsp;before staying overnight in Tad Lo.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: TAD LO - PHA SUAM WATERFALL - PAKSE - WAT PHOU - DON DAENG ISLANDS</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After an early breakfast, we head out towards&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khong Island</strong>. On the way, we make a short detour to visit<strong style=\"margin: 0px; padding: 0px;\">Pha Suam waterfall</strong>&nbsp;and to explore the ethnic minority villages of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Lao Teung</strong>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We continue to travel by roading via&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Pakse town</strong>, and cross the Mekong by ferrying to visit the fascinating<strong style=\"margin: 0px; padding: 0px;\">Angkorian</strong>&nbsp;ruins of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Wat Phou</strong>- one of Southeast Asia&#39;s most dramatically situated temples. Following lunch, we continue our journey by car,&nbsp; and ferry to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Don Daeng Island</strong>. Stay overnight in Don Daeng.</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: DON DAENG - LIPHI AND KHONE PHAPHENG WATERFALLS - 4000 ISLANDS&nbsp;</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Following breakfast, we enjoy a visit to the surrounding countryside, and embark on a long tail boat tour of the Don Khone area which takes you to visit the remains of the French period and&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Liphi Waterfall</strong>&nbsp;or &quot;<strong style=\"margin: 0px; padding: 0px;\">the Corridor of the Devil</strong>&quot;.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	We return to the mainland at the fishing village of<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Ban Nakasang</strong>&nbsp;and drive to the south to visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Khone Phapheng</strong>. Khone Phapheng is considered as the largest waterfall by volume in South East Asia. Setting within an area which is teeming with wildlife make this area one of the most breathtaking destinations in Laos. Stay overnight in&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Don Daeng.</strong></p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: DON DAENG - PAKSE DEPARTURE</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	After breakfast, you will be transferred to the airport for your departing flight. Thanks for traveling with Mixtourist. See you next trips.</p>
+',content_cn='<div>
+	第一天：抵达万象 - 城市之旅</div>
+<div>
+	&nbsp;</div>
+<div>
+	在万象抵达时，您将被转移到你的酒店和满足。如果时间允许，半天城市观光CUA我们看到万象的大蝙蝠GOM最古老的寺庙，Wat Sisaket寺，佛像千缩影的寺庙和Wat Prakeo等trướcDJO的前皇家寺庙设在著名的玉佛图片。我们将访问老挝国家cũng图标，銮佛塔。</div>
+<div>
+	然后停下来拍一些照片涌征收万象的Patuxay凯旋门纪念碑M&agrave;自己的凯旋门的。在万象过夜</div>
+<div>
+	&nbsp;</div>
+<div>
+	第2天：万象 - PRABAHT蓬萨-KHOUN NAPHOUAK-SALA康朋HIN伯恩</div>
+<div>
+	&nbsp;</div>
+<div>
+	你将今天早上捡到科伊万象酒店，并沿路线13在途中停止南下的Prabaht涌的曼鲁克LPQ佛塔Ponsan-可以追溯到15世纪。这是家庭对曼鲁克LPQcũngBudhhas的足迹，于1933年被发现，现在在老挝宗教场所的重要保障。</div>
+<div>
+	继午餐，继续向前涌Khammoune化为成山区省，在那里附近Khoun康巴视点停止提供周围地区的壮丽景致。我们最终达成登上当地板Naphouak我们在哪里轩伯恩舟河上。旅途上游把我们过去的一些令人惊叹的石灰岩岩溶风光，以及一些与微笑的儿童挥舞着村庄。</div>
+<div>
+	在下午晚些时候，钟触及你的夜晚在萨拉轩伯恩的住宿。你有一天的休息休闲。在萨拉轩伯恩过夜。</div>
+<div>
+	第3天：SALA HIN伯恩 - KONG LOR CAVE</div>
+<div>
+	&nbsp;</div>
+<div>
+	在萨拉轩伯恩早餐后，乘船向上游涌到香港咯村登上小船著名的香港咯洞进入前。我们穿过山洞浏览过7公里长和MA包括超过100米高壮观的洞穴。</div>
+<div>
+	我们将吃午饭在山洞的另一侧的一个偏远村庄。我们回到萨拉轩伯恩是在日落之前。在萨拉轩伯恩过夜。</div>
+<div>
+	第4天：SALA HIN伯恩 - NAPHOUAK - THAKEK</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐之后，掀起公路涌Naphouak，全部通过一些在东南亚发现的最壮观的峡谷乘船南下之前。</div>
+<div>
+	一路上，停下来吃午饭我们做一个老龙族和风景如画的村庄，然后拿起一个我们truyền车，并在下午晚Thakek。</div>
+<div>
+	在Thakek过夜。</div>
+<div>
+	第5天：THAKEK - 佛洞</div>
+<div>
+	&nbsp;</div>
+<div>
+	我们离开乘坐三轮摩托车Thakek，并按照历史的法国铁路轨道注定越南C&oacute;未曾完成，但。通过动人的风景继续，你到达班万象村，迎接村Nakhang导游谁陪同您禁令SE跋涉。通过次生林传递，指导CUA SEC&oacute;指出森林产品构成了当地警方的一部分仲人民的食物资源。通过一个山洞去，你输入一个惊人的山谷高耸的悬崖和森林。这条古道如下侬邵族湖的海岸线，您可以在工作中看到当地渔民。</div>
+<div>
+	论谭农Paseum洞穴的到来，更大胆的游泳者可以探索洞穴。这个洞穴是长400米，并包含巨大的钟乳石和石笋。早在日光。</div>
+<div>
+	此行到甘蒙著名的佛洞内继续湄公河鱼，糯米饭和辛辣木瓜沙拉的传统的老挝午餐。午餐后，游览谭帕颂发或佛洞是在2004年4月重新发现麻洞穴包含229青铜佛像被说成是共同超过300岁。如果时间允许，禁令我也是由当地的独木舟洞穴到下面的水中游。</div>
+<div>
+	您现在指南护送你回SE村秀穿过森林不同的路线，你会在下午晚些时候返回Thakek。在Thakek过夜。</div>
+<div>
+	第6天：THAKEK - 沙湾拿吉 - 巴色</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天上午，我们在路上向南回Thakek。途中停下来参观该镇涌Savannkhet-是著名的法国殖民时期建筑的ITS和我也是Inhang神圣的佛塔。 W的巴色。</div>
+<div>
+	第7天：巴色 - BOLEVEAN高原 - TAD FAN瀑布 - TAD LO</div>
+<div>
+	&nbsp;</div>
+<div>
+	今天上午，你见过和đượcVAO Bolevean高原西路拍摄。高原以其Bolevean较冷温度位于高高在上的湄公河流域。</div>
+<div>
+	该地区是著名的许多瀑布和最美丽的những的是泰德范下降。泰德范瀑布壮观带有双瀑布陷入了深深的峡谷由茂盛的植被包围的暴跌。</div>
+<div>
+	高原之旅提供从热清凉休息一下，你观察浓郁的咖啡，茶，小豆蔻，香蕉，见过的其他农作物种植町ph&eacute;p共同开发的途中。当天下午，抵达泰德家里涌到另一个瀑布景区的某一地址众多的少数民族和团体。我们参观奥洛克，NGE和Katu村庄在泰德罗过夜了。</div>
+<div>
+	第8天：TAD LO - PHA Suam瀑布 - 巴色 - 瓦普寺 - DON登群岛</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，伸头朝涌清孔岛。在路上，做一个简短迂回帕颂瀑Suam和参观游览老挝Teung的少数民族村寨。</div>
+<div>
+	我们将继续通过巴色镇越野旅行，和跨湄公河运送由笏东南亚Phou-最显着的位于寺庙之一的吴哥遗址参观引人入胜。午饭后，继续驾车涌我们的旅程，和渡轮唐登岛。在唐登过夜。</div>
+<div>
+	9日：DON登 - Phapheng LIPHI和Khone瀑布 - 4000群岛</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐之后，享受到涌周边的乡村一游，并踏上唐Khone区域的长尾船行程将带您参观法国时期的遗存M&agrave;和Liphi瀑布或&ldquo;魔鬼的走廊&rdquo;。</div>
+<div>
+	我们回到大陆在禁令Nakasang的渔村，开车到南部参观Khone Phapheng。视为Phapheng Khone是东南亚量最大的瀑布。设置一个区域阮富仲与丰富的野生动物使马这方面老挝的最惊险的目的地之一。在唐登过夜。</div>
+<div>
+	10日：DON登 - 巴色离境</div>
+<div>
+	&nbsp;</div>
+<div>
+	早餐后，你将被转移到机场，乘搭飞机离境。感谢您与Mixtourist旅行。下次见到你的旅</div>
+',list_img='',title='Central And South Of Laos',title_cn='Central And South Of Laos',keyword='Central And South Of Laos',keyword_cn='Central And South Of Laos',description='Central And South Of Laos',description_cn='Central And South Of Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=9;

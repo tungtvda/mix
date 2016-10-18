@@ -16,11 +16,7 @@ require_once DIR . '/common/redict.php';
 $data['menu']=menu_getByTop('','','');
 $data['config']=config_getByTop(1,'','');
 //
-$data['tour_PROMOTIONS']=tour_getByTop(3,'promotion=1 ','id desc');
 
-$data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
-
-$data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
 $link=link_chitiet_danhmuc_tour;
 $actual_link=str_replace($link,'',$_SERVER['REQUEST_URI']);
 $actual_link=str_replace('/','',$actual_link);
@@ -39,35 +35,14 @@ if(count($danhmuc)>0){
    {
        $link_dm='';
        $active='';
-       switch($danhmuc_1[0]->id)
-       {
-           case 2:
-               $link_dm=SITE_NAME.'/excursion-tours/';
-               $active="Excursion";
-               break;
-           case 3:
-               $link_dm=SITE_NAME.'/vacation-packages/';
-               $active="Vacation";
-               break;
-           case 4:
-               $link_dm=SITE_NAME.'/cruise-tours/';
-               $active="Cruise";
-               break;
-           case 5:
-               $link_dm=SITE_NAME.'/multi-country/';
-               $active="Multi";
-               break;
-           case 6:
-               $link_dm=SITE_NAME.'/destinations/';
-               break;
-       }
+       $link_dm=SITE_NAME.'/destinations/';
 
-       $dk="DanhMuc2Id=".$danhmuc[0]->id;
+       $dk="danhmuc2_destinations=".$danhmuc[0]->id;
        $data['current']=isset($_GET['page'])?$_GET['page']:'1';
        $data['pagesize']=6;
        $data['count']=tour_count($dk);
        $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
-       $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/tour/'.$danhmuc[0]->name_url.'/');
+       $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/destinations/'.$danhmuc[0]->name_url.'/');
        $name1=returnLanguageField('name', $danhmuc_1[0]);
        $name2=returnLanguageField('name', $danhmuc[0]);
 
