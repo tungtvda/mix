@@ -24,25 +24,32 @@
         <div class="grid grid_3 nomargin percentage">
 
             <div class="nicdark_space20"></div>
-            <div class="nicdark_margin10 margin_footer">
+            <div class=" margin_footer">
                 <div class="widget widget_text logo_ft" style="text-align: center">
                     <a href="{SITE-NAME}"><img src="{SITE-NAME}/view/default/themes/images/logomix.png" alt="{Name}"></a>
 
                     <p>{contact_via}</p>
-                    <a target="_blank" href="{twitter}" class="nicdark_btn_icon nicdark_bg_blue_twitter small white">
-                        <i class="icon-twitter-1 nicdark_rotate"></i>
+
+                </div>
+                <div style="text-align: center;">
+                    <a target="_blank" href="{twitter}" style="padding: 5px;">
+                        <!--<i class="icon-twitter-1 nicdark_rotate"></i>-->
+                        <img src="{SITE-NAME}/view/default/themes/images/twitter.png" style="width: 40px;">
                     </a>
-                    <a target="_blank" href="{youtube}" class="nicdark_btn_icon nicdark_bg_red small white">
-                        <i class="icon-youtube-play nicdark_rotate"></i>
+                    <a target="_blank" href="{youtube}" style="padding: 5px;">
+                        <!--<i class="icon-youtube-play nicdark_rotate"></i>-->
+                        <img src="{SITE-NAME}/view/default/themes/images/youtube.ico" style="width: 40px;">
                     </a>
-                    <a target="_blank" href="{facebook}" class="nicdark_btn_icon nicdark_facebook small white">
-                        <i class="icon-facebook nicdark_rotate"></i>
+                    <a target="_blank" href="{facebook}" style="padding: 5px;">
+                        <!--<i class="icon-facebook nicdark_rotate"></i>-->
+                        <img src="{SITE-NAME}/view/default/themes/images/face.png" style="width: 40px;">
                     </a>
-                    <a target="_blank" href="{google}" class="nicdark_btn_icon nicdark_bg_red small white">
-                        <i class="icon-google nicdark_rotate"></i>
+                    <a target="_blank" href="{google}" style="padding: 5px;">
+                        <!--<i class="icon-google nicdark_rotate"></i>-->
+                        <img src="{SITE-NAME}/view/default/themes/images/google.png" style="width: 40px;">
                     </a>
-                    <a style="padding: 0px" target="_blank" href="{rss}" class="nicdark_btn_icon nicdark_bg_yellow_rss small white">
-                        <img src="{SITE-NAME}/view/default/themes/images/tripAdvisor.png" style="width: 40px;; position: absolute;margin-top: -24px;">
+                    <a  target="_blank" href="{rss}" style="padding: 5px;">
+                        <img src="{SITE-NAME}/view/default/themes/images/tripAdvisor.png" style="width: 40px;">
                     </a>
                 </div>
             </div>
@@ -146,13 +153,15 @@
 
 
             <div class="nicdark_margin10">
-                <div class="widget widget_text"><h2>{hanoi_office}</h2>
+                <div class="widget widget_text"><h2>{vietnam_off}</h2>
 
                     <div class="textwidget">
                         <ul class="nicdark_list">
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
-                                            class="icon-location"></i>&nbsp;&nbsp; {Address}</p>
+                                            class="icon-location"></i>&nbsp;&nbsp; {head_office}: {Address}</p>
+                                <p class="nicdark_margin100 white nicdark_margintop0"><i
+                                            class="icon-location"></i>&nbsp;&nbsp; {hcm_branch_office}: {Address_hcm}</p>
                             </li>
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
@@ -177,11 +186,11 @@
             </div>
         </div>
         <div class="grid grid_6 nomargin percentage">
-            <div class="nicdark_margin10">
-                <div class="widget widget_text"><h2>{hcm_office}</h2>
+            <div class="">
+                <div class="widget widget_text"><h2>&nbsp;</h2>
 
                     <div class="textwidget">
-                        <ul class="nicdark_list">
+                        <!--<ul class="nicdark_list">
                             <li>
                                 <p class="nicdark_margin100 white nicdark_margintop0"><i
                                             class="icon-location"></i>&nbsp;&nbsp; {Address_hcm}</p>
@@ -203,7 +212,22 @@
                                 <p class="nicdark_margin100 white"><i class="icon-mail"></i>&nbsp;&nbsp;&nbsp; {Email_hcm} </p>
                             </li>
 
-                        </ul>
+                        </ul>-->
+                        <div class="vc_col-sm-6 nomargin img_footer">
+                            <div class="vc_col-sm-6 nomargin" >
+                                <img src="{SITE-NAME}/view/default/themes/images/paypal.jpg" >
+                                <img src="{SITE-NAME}/view/default/themes/images/visa.jpg" >
+                                <img src="{SITE-NAME}/view/default/themes/images/mastercard.jpg" >
+                            </div>
+                            <div class="vc_col-sm-6 nomargin">
+                                <img src="{SITE-NAME}/view/default/themes/images/logo-va-slogan-xuc-tien-du-lich-viet-nam-o-nuoc-ngoai.jpg" >
+                                <img src="{SITE-NAME}/view/default/themes/images/pata-logo.jpg" >
+                                <img src="{SITE-NAME}/view/default/themes/images/lonelyplanet.jpg" >
+                            </div>
+                        </div>
+                        <div class="vc_col-sm-6 nomargin percentage img_bct" >
+                            <img src="{SITE-NAME}/view/default/themes/images/tour-operator-licence.jpg" >
+                        </div>
 
                     </div>
                 </div>

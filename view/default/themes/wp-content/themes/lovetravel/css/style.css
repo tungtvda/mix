@@ -328,3 +328,15 @@ p.center{
 .show_mobi_support{
     display: none;
 }
+.img_footer img{
+    width: 92%;
+    height: 60px;
+    padding: 7px 15px;
+}
+.img_bct{
+    padding: 7px 15px;
+    text-align: center;
+}
+.img_bct img{
+    width: 82%
+}

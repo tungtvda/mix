@@ -35,11 +35,11 @@ class Language_en
             'money'=>"USD",
             'currency'=>"$",
             'detail'=>"DETAILS",
-            'booking'=>"BOOKING NOW",
+            'booking'=>"BOOK NOW",
             'packages'=>"ALL PACKAGES",
             'promotions'=>"PROMOTIONS",
-            'top_promotions'=>"TOP PROMOTIONS",
-            'best_travel_packages_available'=>"BEST TRAVEL PACKAGES AVAILABLE",
+            'top_promotions'=>"BEST SELLING",
+            'best_travel_packages_available'=>"BEST RECOMMENDED TRAVEL PACKAGES",
 
             // video
             'video_intro'=>" VIDEO INTRODUCTION - VIETNAM",
@@ -68,6 +68,9 @@ class Language_en
             'our_service'=>"Our services",
             'contact_footer'=>"Contact",
             'faq'=>"FAQ's",
+            'vietnam_off'=>"VIETNAM OFFICE",
+            'head_office'=>"Head office",
+            'hcm_branch_office'=>"Branch in HCM",
 
             'customer_service'=>"Customer service",
             'vietnam_visa'=>"Vietnam visa",
@@ -95,7 +98,7 @@ class Language_en
             'price_list_detail'=>"Price list",
             'description_detail'=>"Description",
             'gallery_detail'=>"Gallery",
-            'comment_detail'=>"Comment",
+            'comment_detail'=>"Customer reviews",
             'inclusion_detail'=>"Inclusion",
             'exclusion'=>"Exclusion",
             'you_may_also_detail'=>"YOU MAY ALSO LIKE",
