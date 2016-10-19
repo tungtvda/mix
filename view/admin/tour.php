@@ -39,7 +39,12 @@ function showTableBody($data)
     $TableBody='';
     if(count($data)>0) foreach($data as $obj)
     {
-        $data_destinations=danhmuc_2_getById($obj->danhmuc2_destinations);
+        $data_destinations=array();
+        if($obj->danhmuc2_destinations!=1)
+        {
+            $data_destinations=danhmuc_2_getById($obj->danhmuc2_destinations);
+        }
+
         $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
         $TableBody.="<td>".$obj->id."</td>";
         $TableBody.="<td>.$obj->DanhMuc1Id.";
@@ -97,6 +102,7 @@ function showFrom($form,$ListKey=array())
     $str_from.='<select name="DanhMuc2Id" id="DanhMuc2Id">';
     if($form!=false)
     {
+        $str_from .= '<option value="1">Chọn danh mục cấp 2</option>';
         if(isset($ListKey['DanhMuc2Id']))
         {
             foreach($ListKey['DanhMuc2Id'] as $key)
