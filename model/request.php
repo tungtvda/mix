@@ -1,0 +1,66 @@
+<?php
+class request
+{
+    public $id,$name,$country,$email,$phone,$arrival_date,$departure_date,$adults,$children,$children_under,$length_trip,$tour_style,$destinations,$accommodation,$request,$status,$created;
+    public function request($data=array())
+    {
+    $this->id=isset($data['id'])?$data['id']:'';
+    $this->name=isset($data['name'])?$data['name']:'';
+    $this->country=isset($data['country'])?$data['country']:'';
+    $this->email=isset($data['email'])?$data['email']:'';
+    $this->phone=isset($data['phone'])?$data['phone']:'';
+    $this->arrival_date=isset($data['arrival_date'])?$data['arrival_date']:'';
+    $this->departure_date=isset($data['departure_date'])?$data['departure_date']:'';
+    $this->adults=isset($data['adults'])?$data['adults']:'';
+    $this->children=isset($data['children'])?$data['children']:'';
+    $this->children_under=isset($data['children_under'])?$data['children_under']:'';
+    $this->length_trip=isset($data['length_trip'])?$data['length_trip']:'';
+    $this->tour_style=isset($data['tour_style'])?$data['tour_style']:'';
+    $this->destinations=isset($data['destinations'])?$data['destinations']:'';
+    $this->accommodation=isset($data['accommodation'])?$data['accommodation']:'';
+    $this->request=isset($data['request'])?$data['request']:'';
+    $this->status=isset($data['status'])?$data['status']:'';
+    $this->created=isset($data['created'])?$data['created']:'';
+          $this->encode();
+    }
+    public function encode()
+        {
+            $this->id=addslashes($this->id);
+            $this->name=addslashes($this->name);
+            $this->country=addslashes($this->country);
+            $this->email=addslashes($this->email);
+            $this->phone=addslashes($this->phone);
+            $this->arrival_date=addslashes($this->arrival_date);
+            $this->departure_date=addslashes($this->departure_date);
+            $this->adults=addslashes($this->adults);
+            $this->children=addslashes($this->children);
+            $this->children_under=addslashes($this->children_under);
+            $this->length_trip=addslashes($this->length_trip);
+            $this->tour_style=addslashes($this->tour_style);
+            $this->destinations=addslashes($this->destinations);
+            $this->accommodation=addslashes($this->accommodation);
+            $this->request=addslashes($this->request);
+            $this->status=addslashes($this->status);
+            $this->created=addslashes($this->created);
+        }
+    public function decode()
+        {
+            $this->id=stripslashes($this->id);
+            $this->name=stripslashes($this->name);
+            $this->country=stripslashes($this->country);
+            $this->email=stripslashes($this->email);
+            $this->phone=stripslashes($this->phone);
+            $this->arrival_date=stripslashes($this->arrival_date);
+            $this->departure_date=stripslashes($this->departure_date);
+            $this->adults=stripslashes($this->adults);
+            $this->children=stripslashes($this->children);
+            $this->children_under=stripslashes($this->children_under);
+            $this->length_trip=stripslashes($this->length_trip);
+            $this->tour_style=stripslashes($this->tour_style);
+            $this->destinations=stripslashes($this->destinations);
+            $this->accommodation=stripslashes($this->accommodation);
+            $this->request=stripslashes($this->request);
+            $this->status=stripslashes($this->status);
+            $this->created=stripslashes($this->created);
+        }
+}

@@ -42,6 +42,15 @@ function show_request($data = array())
     $asign['name']=returnLanguage('full_name','Full Name');
     $asign['contact_us']=returnLanguage('contact_us','CONTACT US');
     $asign['send']=returnLanguage('send','Please fill in contact information');
+    $asign['country']='';
+    if(count($data['country'])>0)
+    {
+        foreach($data['country'] as $row)
+        {
+            $asign['country'].='<option value="'.$row->country_name.'">'.$row->country_name.'</option>';
+        }
+
+    }
     print_template($asign, 'request');
 }
 
