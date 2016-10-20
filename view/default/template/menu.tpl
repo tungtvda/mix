@@ -48,7 +48,7 @@
                                     <ul>
                                         <li>
 
-                                            <a class="white title vc_hidden-sm vc_hidden-xs" href="{SITE-NAME}/contact/"> <i
+                                            <a class="white title vc_hidden-sm vc_hidden-xs" href="{SITE-NAME}/tour-request-form/"> <i
                                                         class="icon-mail"></i> {email}</a>
                                             <span class="greydark2 nicdark_marginright10 nicdark_marginleft10  vc_hidden-xs">|</span>
                                         </li>
