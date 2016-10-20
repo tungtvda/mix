@@ -50,7 +50,7 @@
                     <!--end title-->
                     <!--start title-->
                 </div>
-                <div class="wpb_wrapper">
+                <div class="wpb_wrapper content_detail">
                     {content}
                 </div>
                 <div class="wpb_wrapper">

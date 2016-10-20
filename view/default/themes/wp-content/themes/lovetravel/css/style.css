@@ -184,6 +184,7 @@
 }
 .content_detail{
     padding: 10px;
+    line-height: 25px;
 }
 .lienquan{
     color:#0086cd; margin-top: 20px;
@@ -339,4 +340,7 @@ p.center{
 }
 .img_bct img{
     width: 82%
+}
+.line-height{
+    line-height: 25px;
 }

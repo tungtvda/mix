@@ -28,7 +28,7 @@ if(isset($_GET['Id'])){
 else{
     redict(SITE_NAME);
 }
-$danhmuc=danhmuc_2_getByTop(1,'name_url="'.$actual_link.'"','');
+$danhmuc=danhmuc_2_getByTop(1,'name_url="'.$actual_link.'" and danhmuc1_id=6','');
 if(count($danhmuc)>0){
     $danhmuc_1=danhmuc_1_getByTop(1,'id='.$danhmuc[0]->danhmuc1_id,'');
    if(count($danhmuc_1)>0)
@@ -70,7 +70,7 @@ $title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel com
 $description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $keywords=($keyword)?$keyword:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 show_header($title,$description,$keywords,$data);
-show_menu($data,$active);
+show_menu($data,'');
 show_banner($data);
 show_danhmuctour($data);
 show_left($data);
