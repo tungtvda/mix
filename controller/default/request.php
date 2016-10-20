@@ -18,7 +18,7 @@ require_once(DIR . "/common/Mail.php");
 $data['menu']=menu_getByTop('','','');
 $data['config']=config_getByTop(1,'','');
 //
-
+$data['country']=countries_getByTop('','','country_name asc');
 $link=SITE_NAME.'/tour-request-form/';
 
 $title=returnLanguageField('title', $data['menu'][12]);
