@@ -192,6 +192,8 @@
     border-bottom: 1px dotted;
     font-size: 15px;
     font-weight: bold;
+    float: left;
+    width: 100%;
 }
 .boder{
     border-top: 1px solid #0086cd;
@@ -343,4 +345,7 @@ p.center{
 }
 .line-height{
     line-height: 25px;
+}
+.padding_p p{
+    margin-top: 10px;
 }

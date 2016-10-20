@@ -26,58 +26,352 @@
                 </div>
                 <div class="vc_col-sm-12 wpb_column vc_column_container ">
                     <div class="wpb_wrapper">
-                        <h3 class=" title left lienquan">PERSONAL INFORMATION</h3>
-                        <div class="wpb_text_column wpb_content_element ">
-                            <div class="wpb_wrapper">
-                                <div class="nicdark_margin10" style="    padding-top: 10px;margin: 0px; border: none">
-                                    <div class="widget widget_text" style="border: 0px">
-                                        <form name="" action="" method="post" class="wpcf7-form">
+                        <form name="" action="" method="post" class="wpcf7-form">
+                            <h3 class=" title left lienquan">PERSONAL INFORMATION</h3>
+                            <div style="float: left;" class="wpb_text_column wpb_content_element ">
+                                <div class="wpb_wrapper">
+                                    <div class="nicdark_margin10"
+                                         style="    padding-top: 10px;margin: 0px; border: none">
+                                        <div class="widget widget_text" style="border: 0px">
 
-                                            <div class="vc_col-sm-4 wpb_column vc_column_container ">
-                                                <p>{name}</p>
-                                                <span class="wpcf7-form-control-wrap text-909">
-                                                    <input type="text"  name="name_contact"  value=""  class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey" required="required">
-                                                </span>
-                                             </div>
-                                            <div class="vc_col-sm-2 wpb_column vc_column_container ">
-                                                <p>&nbsp;</p>
-                                                    <select style="margin:0px" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey">
+                                            <div style="padding: 0px !important;" class="vc_col-sm-12">
+                                                <div class="vc_col-sm-8 wpb_column vc_column_container ">
+                                                    <div style="padding: 0px !important;" class="vc_col-sm-8">
+                                                        <p>{name}</p>
+                                                        <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="text" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+
+                                                        </span>
+                                                    </div>
+                                                    <div style="padding: 0px !important;" class="vc_col-sm-4">
+                                                        <p>&nbsp;</p>
+                                                        <select style="margin:0px"
+                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey">
+                                                            <option value="">Mr.</option>
+                                                            <option value="">Mrs.</option>
+                                                            <option value="">Ms.</option>
+                                                        </select>
+                                                    </div>
+
+                                                </div>
+                                                <div class="vc_col-sm-4  ">
+                                                    <p>Country</p>
+                                                    <select style="margin:0px"
+                                                            class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey">
                                                         <option value="">Mr.</option>
                                                         <option value="">Mrs.</option>
                                                         <option value="">Ms.</option>
                                                     </select>
+                                                </div>
                                             </div>
-                                            <div class="vc_col-sm-4 wpb_column vc_column_container ">
-                                                <p>{email}</p>
-                                                <span  class="wpcf7-form-control-wrap your-email">
-                                                    <input type="email" name="email_contact" placeholder="" value="" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
+                                            <div style="padding: 0px !important;" class="vc_col-sm-12">
+                                                <div class="vc_col-sm-8 ">
+                                                    <p style="margin-top: 10px">{email}</p>
+                                                <span class="wpcf7-form-control-wrap your-email">
+                                                    <input type="email" name="email_contact" placeholder="" value=""
+                                                           required="required"
+                                                           class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey">
                                                 </span>
+
+                                                </div>
+                                                <div class="vc_col-sm-4  ">
+                                                    <p style="margin-top: 10px">{phone}</p>
+                                                 <span class="wpcf7-form-control-wrap your-email">
+                                                    <input type="text" name="phone_contact" placeholder="" value=""
+                                                           required="required"
+                                                           class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey">
+                                                </span>
+                                                </div>
                                             </div>
-                                            <div class="vc_col-sm-4 wpb_column vc_column_container ">
-                                                <p>{phone}</p>
-                                                 <span  class="wpcf7-form-control-wrap your-email">
-                                                    <input type="text" name="phone_contact" placeholder="{phone}" value="" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
+
+
+                                            <div style="padding-top: 0px" class="vc_col-sm-12 ">
+                                                <p style="margin-top: 10px">{address}</p>
+                                                 <span class="wpcf7-form-control-wrap your-email">
+                                                    <input type="text" name="address_contact" value="" placeholder=""
+                                                           required="required"
+                                                           class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey">
                                                 </span>
-                                            </div>
-                                            <div class="vc_col-sm-12 wpb_column vc_column_container ">
-                                                <p style="margin-top: 20px">{address}</p>
-                                                 <span  class="wpcf7-form-control-wrap your-email">
-                                                    <input type="text" name="address_contact" value="" placeholder="{address}" required="required" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey" >
-                                                </span>
-                                                <p style="margin-top: 20px">{message}</p>
+                                                <p style="margin-top: 10px">{message}</p>
                                                 <span class="wpcf7-form-control-wrap textarea-831"><textarea
                                                             name="message_contact" cols="40" rows="4"
                                                             class="wpcf7-form-control wpcf7-textarea nicdark_border_grey"
                                                             aria-invalid="false"
-                                                            placeholder="{message}"></textarea></span>
-                                                <input type="submit" value="{send}" class="wpcf7-form-control wpcf7-submit nicdark_bg_green">
-                                            <div class="wpcf7-response-output wpcf7-display-none"></div>
+                                                            placeholder=""></textarea></span>
+                                                <input type="submit" value="{send}"
+                                                       class="wpcf7-form-control wpcf7-submit nicdark_bg_green">
+                                                <div class="wpcf7-response-output wpcf7-display-none"></div>
                                             </div>
-                                        </form>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                            <h3 class=" title left lienquan">Travelers' detail</h3>
+                            <div style="float: left;" class="wpb_text_column wpb_content_element ">
+                                <div class="wpb_wrapper padding_p">
+                                    <div style="  padding-top: 10px;margin: 0px; border: none">
+                                        <div class="widget widget_text" style="border: 0px">
+                                            <div style="padding: 0px !important;" class="vc_col-sm-12">
+                                                <div class="vc_col-sm-5 wpb_column vc_column_container ">
+                                                    <p>Arrival date</p>
+                                                        <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="text" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+
+                                                </div>
+                                                <div class="vc_col-sm-6 wpb_column vc_column_container ">
+                                                    <p>Departure date</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="text" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                            </div>
+                                            <div style="padding: 0px !important;" class="vc_col-sm-12">
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>No of pax</p>
+                                                </div>
+                                                <div class="vc_col-sm-3 wpb_column vc_column_container ">
+                                                    <p>Adults</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="text" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-3 wpb_column vc_column_container ">
+                                                    <p>Children (5-10 years old)</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="text" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-3 wpb_column vc_column_container ">
+                                                    <p>Children (under 5 years old)</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="text" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                            </div>
+                                            <div style="padding: 0px !important;" class="vc_col-sm-12">
+                                                <div class="vc_col-sm-5 wpb_column vc_column_container ">
+                                                    <p>Length of trip</p>
+                                                <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="text" name="name_ontact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <h3 class=" title left lienquan" style="margin-top: 10px">Tour style</h3>
+                            <div style="float: left;" class="wpb_text_column wpb_content_element " >
+                                <div class="wpb_wrapper">
+                                    <div  style="    padding-top: 10px;margin: 0px; border: none">
+                                        <div class="widget widget_text" style="border: 0px">
+                                            <div style="padding: 0px !important;" class="vc_col-sm-12">
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Classic tours</p>
+                                                        <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Discovery tours</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Beach holidays</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Short vacations</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Cruise tours</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Day trips</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Multi-country</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Trekking tours</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <h3 class=" title left lienquan" style="margin-top: 10px">Destinations</h3>
+                            <div style="float: left;" class="wpb_text_column wpb_content_element ">
+                                <div class="wpb_wrapper">
+                                    <div class="nicdark_margin10" style="    padding-top: 10px;margin: 0px; border: none">
+                                        <div class="widget widget_text" style="border: 0px">
+                                            <div style="padding: 0px !important;" class="vc_col-sm-12">
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Hanoi</p>
+                                                        <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Sapa</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Halong Bay</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Cat Ba (Hai Phong)</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p> Hoa Lu (Ninh Binh)</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Hue</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Hoi an</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Da nang</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Nha Trang</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p> Mui Ne</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Phu Quoc</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Ho Chi Minh City</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+                                                <div class="vc_col-sm-2 wpb_column vc_column_container ">
+                                                    <p>Mekong Delta</p>
+                                                    <span class="wpcf7-form-control-wrap text-909">
+                                                            <input type="checkbox" name="name_contact" value=""
+                                                                   class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
+                                                                   required="required">
+                                                        </span>
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
                     </div>
                 </div>
 
