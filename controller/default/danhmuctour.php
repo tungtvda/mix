@@ -113,17 +113,17 @@ switch($actual_link){
         $data['count']=tour_count($dk);
         $data['danhsach']=tour_getByPaging($data['current'],$data['pagesize'],'id desc',$dk);
         $data['PAGING'] = showPagingAtLink($data['count'], $data['pagesize'], $data['current'], '' . SITE_NAME . '/destinations/');
-        $name=returnLanguageField('name', $data['menu'][5]);
+        $name=returnLanguageField('name', $data['menu'][11]);
         $data['banner']=array(
-            'banner_img'=>$data['menu'][5]->img,
-            'name'=>returnLanguageField('name', $data['menu'][5]),
+            'banner_img'=>$data['menu'][11]->img,
+            'name'=>returnLanguageField('name', $data['menu'][11]),
             'url'=>'<a  href="'.SITE_NAME.'"><i class="icon-home"></i>'.returnLanguageField('name', $data['menu'][0]).'</a> <i class="icon-angle-right"></i> <span>'.$name.'</span>'
         );
         $img_banner=$data['menu'][5]->img;
-        $title=returnLanguageField('title', $data['menu'][5]);
-        $description=returnLanguageField('keyword', $data['menu'][5]);
-        $keyword=returnLanguageField('keyword', $data['menu'][5]);
-        $active="Multi";
+        $title=returnLanguageField('title', $data['menu'][11]);
+        $description=returnLanguageField('keyword', $data['menu'][11]);
+        $keyword=returnLanguageField('keyword', $data['menu'][11]);
+        $active="";
         break;
     default:
         redict(SITE_NAME);

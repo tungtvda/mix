@@ -32,7 +32,7 @@ if(isset($_GET['Id'])){
 else{
     redict(SITE_NAME);
 }
-$danhmuc=danhmuc_2_getByTop(1,'name_url="'.$actual_link.'"','');
+$danhmuc=danhmuc_2_getByTop(1,'name_url="'.$actual_link.'" and danhmuc1_id!=6','');
 if(count($danhmuc)>0){
     $danhmuc_1=danhmuc_1_getByTop(1,'id='.$danhmuc[0]->danhmuc1_id,'');
    if(count($danhmuc_1)>0)
