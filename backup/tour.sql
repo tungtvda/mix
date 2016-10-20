@@ -24699,3 +24699,5221 @@ update tour set DanhMuc1Id='1',DanhMuc2Id='1',danhmuc1_destinations='6',danhmuc2
 <div>
 	赛车和车手将PIC k上一你，驱车返回河内。在你的酒店在河内下车。游览结束。</div>
 ',list_img='',title='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',title_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',keyword='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',keyword_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',description='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',description_cn='Half-Day Cu Chi Tunnels from Ho Chi Minh City by Luxury Speedboat',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=1;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	&nbsp;</p>
+',summary_cn='',highlights='',highlights_cn='',schedule='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: center; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">PACKAGE PRICE : USD / PAX</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; display: inline-block; text-align: justify; width: 679.125px; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">TOUR INCLUDED:</span></h3>
+<div class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; display: inline-block; text-align: justify; width: 679.125px; font-size: 11pt; line-height: 21px; color: rgb(60, 59, 59); font-family: Arial;\">
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Accommodation 3* hotels with two persons share twin room</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Private tours, transfers and all services as mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Service of English speaking guides in every location</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals as mentioned in the itinerary ( B = Breakfast, L= Lunch, D =&nbsp; Dinner)</li>
+	</ul>
+	<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">TOUR EXCLUDED:</span></h2>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Domestic and International flights</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Departure taxes if applicable</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals other than those mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Early check-in and late check-out at hotels.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal expenses (such as laundry, telephone, drinks, etc.)</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Tips for local guides and drivers</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal travel insurance</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Visa</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Single room SPL</li>
+	</ul>
+	<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">NOTE:</span></h4>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			The itinerary can be changed due to weather, tide levels and operating conditions.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</li>
+	</ul>
+</div>
+<p>
+	&nbsp;</p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	&nbsp;</p>
+',summary_cn='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights='',highlights_cn='',schedule='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: center; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">PACKAGE PRICE : USD / PAX</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; display: inline-block; text-align: justify; width: 679.125px; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">TOUR INCLUDED:</span></h3>
+<div class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; display: inline-block; text-align: justify; width: 679.125px; font-size: 11pt; line-height: 21px; color: rgb(60, 59, 59); font-family: Arial;\">
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Accommodation 3* hotels with two persons share twin room</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Private tours, transfers and all services as mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Service of English speaking guides in every location</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals as mentioned in the itinerary ( B = Breakfast, L= Lunch, D =&nbsp; Dinner)</li>
+	</ul>
+	<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">TOUR EXCLUDED:</span></h2>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Domestic and International flights</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Departure taxes if applicable</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals other than those mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Early check-in and late check-out at hotels.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal expenses (such as laundry, telephone, drinks, etc.)</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Tips for local guides and drivers</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal travel insurance</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Visa</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Single room SPL</li>
+	</ul>
+	<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">NOTE:</span></h4>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			The itinerary can be changed due to weather, tide levels and operating conditions.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</li>
+	</ul>
+</div>
+<p>
+	&nbsp;</p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	&nbsp;</p>
+',summary_cn='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights='',highlights_cn='',schedule='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	&nbsp;</h2>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: center; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">PACKAGE PRICE : USD / PAX</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; display: inline-block; text-align: justify; width: 679.125px; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">TOUR INCLUDED:</span></h3>
+<div class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; display: inline-block; text-align: justify; width: 679.125px; font-size: 11pt; line-height: 21px; color: rgb(60, 59, 59); font-family: Arial;\">
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Accommodation 3* hotels with two persons share twin room</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Private tours, transfers and all services as mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Service of English speaking guides in every location</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals as mentioned in the itinerary ( B = Breakfast, L= Lunch, D =&nbsp; Dinner)</li>
+	</ul>
+	<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">TOUR EXCLUDED:</span></h2>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Domestic and International flights</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Departure taxes if applicable</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals other than those mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Early check-in and late check-out at hotels.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal expenses (such as laundry, telephone, drinks, etc.)</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Tips for local guides and drivers</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal travel insurance</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Visa</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Single room SPL</li>
+	</ul>
+	<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">NOTE:</span></h4>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			The itinerary can be changed due to weather, tide levels and operating conditions.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</li>
+	</ul>
+</div>
+<p>
+	&nbsp;</p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	sdafasdfasdfasdf</p>
+',summary_cn='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights='',highlights_cn='',schedule='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	&nbsp;</h2>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: center; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0);\">PACKAGE PRICE : USD / PAX</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<h3 class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; display: inline-block; text-align: justify; width: 679.125px; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">TOUR INCLUDED:</span></h3>
+<div class=\"inner_container \" style=\"margin: 0px 0px 15px; padding: 0px; display: inline-block; text-align: justify; width: 679.125px; font-size: 11pt; line-height: 21px; color: rgb(60, 59, 59); font-family: Arial;\">
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Accommodation 3* hotels with two persons share twin room</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Private tours, transfers and all services as mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Service of English speaking guides in every location</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals as mentioned in the itinerary ( B = Breakfast, L= Lunch, D =&nbsp; Dinner)</li>
+	</ul>
+	<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">TOUR EXCLUDED:</span></h2>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Domestic and International flights</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Departure taxes if applicable</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Meals other than those mentioned in the itinerary</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Early check-in and late check-out at hotels.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal expenses (such as laundry, telephone, drinks, etc.)</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Tips for local guides and drivers</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Personal travel insurance</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Visa</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Single room SPL</li>
+	</ul>
+	<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); color: rgb(0, 0, 0); font-size: 17px !important;\">
+		<span style=\"margin: 0px; padding: 0px; color: rgb(255, 0, 0); font-size: small;\">NOTE:</span></h4>
+	<ul style=\"margin: 0px; padding-right: 0px; padding-left: 0px; list-style: none;\">
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			The itinerary can be changed due to weather, tide levels and operating conditions.</li>
+		<li 6px=\"\" azbooking.vn=\"\" http:=\"\" images=\"\" left=\"\" no-repeat=\"\" scroll=\"\" style=\"margin: 0px; padding: 0px 0px 0px 11px; list-style: none outside none; background: url(\">
+			Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</li>
+	</ul>
+</div>
+<p>
+	&nbsp;</p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 01: HA NOI- Arrival (D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Car and guide Mixtourist warming welcome you at Noi Bai international airport. transfer in center city, check in hotel. Dinner at city restaurant. Overnight at&nbsp;<a href=\"http://mixtourist.com/index.php\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">hotel in Ha Noi</a>.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 02: HA NOI CITY TOUR ( B, L, D)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Mausoleum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Ho Chi Minh Museum,</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Presidential Palace</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;. Also visit the ancient&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Temple of Litterature,&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>: Visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Hoan Kiem Lake, Ngoc Son Temple</strong>, go around &quot;Ha Noi Old Quaters&quot; by cyllo</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant then watching traditional show&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h4 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 3: HA LONG ( B, L, D)</span></h4>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Ha Long Bay</a></strong><a href=\"http://mixtourist.com/halong-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">&nbsp;tour</a>. You&#39;ll have a short break about 20 minute on the half way before arriving Ha Long tourist wharf at</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;You&#39;ll board a private boat and cruise through the most beautiful palce of the bay, the famous islets such as&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	You&#39;ll also visit&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong>&nbsp;and then take 30 minutes<strong style=\"margin: 0px; padding: 0px;\">&nbsp;kayaking</strong>&nbsp;around the island and water tunnels to feel more deeply the charm of the place that considered the heaven on earth</p>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">16:30:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">You&#39;ll return to Ha Long tourist wharf at then car pick you back to Ha Noi.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></h5>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong style=\"margin: 0px; padding: 0px;\">&quot;Old Quaters&quot;</strong>&nbsp;til time transfer to Noi Bai International airport flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Siem Riep</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Visit and exploring the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Temples of Angkor</strong>. Constructed between the 9th and 13th centuries, the temples are unmatched among the world&rsquo;s ancient ruins.</p>
+<p>
+	&nbsp;</p>
+<h6 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 5: SIEM RIEP ( B, L, D)</span></h6>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;Your sightseeing starts at the best preserved of all the temples&mdash;<strong style=\"margin: 0px; padding: 0px;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Angkor Thom</strong>&nbsp;to see&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Afternoon: Enjoy afternoon at your leisure and Watch sunset view from the top of&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Phnom Bakheng</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Siem Riep</p>
+<p>
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 6: SIEM RIEP ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Srey</strong>&nbsp;(30 Km from Siem Reap),&nbsp;<strong style=\"margin: 0px; padding: 0px;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Visit small circuit,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Thommanun, Chau Say Tevoda, Ta Prohm temple</strong>&nbsp;invaded by root of giant trees,&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Night:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;Dinner at restaurant and Overnight at the hotel in Siem Riep</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h2 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></h2>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;<a href=\"http://mixtourist.com/cambodia-tours\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\" target=\"_blank\">Phnom Penh</a>.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong style=\"margin: 0px; padding: 0px;\">&nbsp;Independent Monument, Wat Phnom</strong>. Lunch at restaurant, Check in hotel for relax</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Afternoon:&nbsp;</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace, Silver Pagoda and National Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;and&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">watching sunset view on Mekong River</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh</span><br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 8: PHNOM PENH ( B, L)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;This morning&rsquo;s sightseeing provides an education on the murderous Khmer Rouge regime and is a somber reminder of what a government can do to its people. Start with a visit to the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Tuol Sleng Genocide Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">. This former high school housed over 17,000 prisoners during the Khmer Rouge regime. Of this number, it is believed that less than 15 survived the torture and avoided being sent to the Killing Fields. Afterward, visit one of the KILLING FIELDS, where over 200,000 people were killed by the Khmer Rouge.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon</strong>&nbsp;is at your leisure.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	Night: Overnight at the hotel in Phnom Penh</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 9: PHNOM PENH - LUANG PRABANG ( B)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel, checking out and transfer to Phnom Penh airport for flight to Luang Prabang. Arrival&nbsp;<strong style=\"margin: 0px; padding: 0px;\"><a href=\"http://mixtourist.com/tour/with/VietNam---Cambodia---Laos/272\" style=\"margin: 0px; padding: 0px; color: rgb(51, 51, 51); text-decoration: none;\">Luang Prabang</a>&nbsp;</strong>transfer to center city, check in hotel.</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<br style=\"margin: 0px; padding: 0px;\" />
+	Afternoon and night of the day is at your leisure</p>
+<p>
+	&nbsp;</p>
+<h5 style=\"margin: 0px; padding: 0px; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial; color: rgb(60, 59, 59); text-align: justify;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 10: LUANG PRABANG ( B, L, D)</span></h5>
+<p>
+	<span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Wat Visoun</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">, the&nbsp;</span><strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Royal Palace Museum</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</span></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	<br style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\" />
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Ho Chi Minh City</strong>&nbsp;still know many as Sai Gon. Dinner at city restaurant. Check in hotel for relax</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:&nbsp;</strong>Free time at your leisure</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:&nbsp;</strong>Overnight at the hotel in Ho Chi Minh city</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\"><span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 12: HO CHI MINH CITY ( B, L, D)</span></strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Morning:</strong>&nbsp;After breakfast Car and guide Mixtourist pick you up departure for Cu Chi, then visit to the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Afternoon:</strong>&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">War Remnants Museum&nbsp;</strong>and the&nbsp;<strong style=\"margin: 0px; padding: 0px;\">Reunification Palace</strong></p>
+<p style=\"margin: 0px; padding: 0px; font-size: 11pt; line-height: 21px; text-align: justify; color: rgb(60, 59, 59); font-family: Arial;\">
+	<strong style=\"margin: 0px; padding: 0px;\">Night:</strong>&nbsp;After dinner, Free time to explore this lively city.</p>
+<p>
+	&nbsp;</p>
+<h3 style=\"margin: 0px; padding: 0px; font-stretch: normal; line-height: normal; font-family: Arial; background-image: none; background-position: 0px 0px; background-size: initial; background-repeat: repeat; background-attachment: scroll; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0); text-align: justify; font-size: 17px !important;\">
+	<span style=\"margin: 0px; padding: 0px; font-size: small; color: rgb(255, 0, 0);\">Day 13: HO CHI MINH - DEPARTURE (B)</span></h3>
+<p>
+	<strong style=\"margin: 0px; padding: 0px; color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">Morning:</strong><span style=\"color: rgb(60, 59, 59); font-family: Arial; text-align: justify;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p>
+	&nbsp;</p>
+<p 0px=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" span=\"\" text-rendering:=\"\">
+	Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</p>
+<p .=\"\" 0px=\"\" 100.000=\"\" 3.300=\"\" 7=\"\" a=\"\" align=\"\\&quot;center\\&quot;\" auto=\"\" ba=\"\" bao=\"\" border=\"\\&quot;0\\&quot;\" c=\"\" cellpadding=\"\\&quot;3\\&quot;\" cellspacing=\"\\&quot;0\\&quot;\" ch=\"\" class=\"\\&quot;tplCaption\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" i=\"\" line-height:=\"\" m=\"\" max-width:=\"\" n=\"\" n.=\"\" ng=\"\" nh=\"\" padding:=\"\" quay=\"\" t=\"\" table=\"\" text-rendering:=\"\" thanh=\"\" trong=\"\" tuy=\"\" u=\"\" width:=\"\">
+	&nbsp;</p>
+<p 0px=\"\" 100.000=\"\" 16h=\"\" a=\"\" ba=\"\" background:=\"\" c=\"\" c.=\"\" ch=\"\" ch.=\"\" cho=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" em=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" href=\"\\\" i=\"\" khi=\"\" line-height:=\"\" liu=\"\" m=\"\" n=\"\" ng=\"\" ngon=\"\" nh=\"\" o=\"\" outline:=\"\" p=\"\" padding:=\"\" ra=\"\" song=\"\" t=\"\" text-decoration:=\"\" text-rendering:=\"\" thanh=\"\" the=\"\" trong=\"\" trung=\"\" tung=\"\" u=\"\" xem=\"\" xiaojun=\"\" y=\"\" y.=\"\">
+	Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</p>
+',summary_cn='<p 0px=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-rendering:=\"\">
+	Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</p>
+<p .=\"\" 0px=\"\" 100.000=\"\" 3.300=\"\" 7=\"\" a=\"\" align=\"\\&quot;center\\&quot;\" auto=\"\" ba=\"\" bao=\"\" border=\"\\&quot;0\\&quot;\" c=\"\" cellpadding=\"\\&quot;3\\&quot;\" cellspacing=\"\\&quot;0\\&quot;\" ch=\"\" class=\"\\&quot;tplCaption\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" i=\"\" line-height:=\"\" m=\"\" max-width:=\"\" n=\"\" n.=\"\" ng=\"\" nh=\"\" padding:=\"\" quay=\"\" style=\"\\&quot;margin:\" t=\"\" table=\"\" text-rendering:=\"\" thanh=\"\" trong=\"\" tuy=\"\" u=\"\" width:=\"\">
+	&nbsp;</p>
+<br />
+<p a=\"\" ba=\"\" background:=\"\" c.=\"\" class=\"\\&quot;Image\\&quot;\" em=\"\" font-size:=\"\" font-stretch:=\"\" i=\"\" line-height:=\"\" liu=\"\" n=\"\" ng=\"\" padding:=\"\" ra=\"\" style=\"\\&quot;margin:\" t=\"\" text-rendering:=\"\" trong=\"\" trung=\"\" tung=\"\" xiaojun=\"\">
+	Odditycentral.</p>
+<p 0px=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" em=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-rendering:=\"\">
+	The Paper, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p 0px=\"\" 100.000=\"\" a=\"\" c=\"\" ch=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" i=\"\" line-height:=\"\" m=\"\" n=\"\" ng=\"\" nh=\"\" p=\"\" padding:=\"\" ra=\"\" style=\"\\&quot;margin:\" t=\"\" text-rendering:=\"\" trong=\"\" trung=\"\" u=\"\" y=\"\" y.=\"\">
+	Xem th&ecirc;m:&nbsp;&lt;a data-cke-saved-href=&quot;\\&quot; href=&quot;\\&amp;quot;http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\\&amp;quot;&quot; style=&quot;\\&amp;quot;margin:&quot; 0px;=&quot;&quot; padding:=&quot;&quot; color:=&quot;&quot; rgb(0,=&quot;&quot; 79,=&quot;&quot; 139);=&quot;&quot; text-decoration:=&quot;&quot; none;=&quot;&quot; outline:=&quot;&quot; 1px;\\&quot;=&quot;&quot;&gt;Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</p>
+',highlights='',highlights_cn='',schedule='<h2 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" text-rendering:=\"\">
+	<span -=\"\" .=\"\" 0px=\"\" 2=\"\" ba=\"\" ch=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" do=\"\" font-family:=\"\" font-size:=\"\" i=\"\" line-height:=\"\" liu=\"\" mong=\"\" n=\"\" ng=\"\" nh=\"\" o=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" t=\"\" text-rendering:=\"\" thanh=\"\" u=\"\" y=\"\">Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại. </span></h2>
+<table 0px=\"\" align=\"\\&quot;center\\&quot;\" auto=\"\" border=\"\\&quot;0\\&quot;\" cellpadding=\"\\&quot;3\\&quot;\" cellspacing=\"\\&quot;0\\&quot;\" class=\"\\&quot;tplCaption\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" max-width:=\"\" padding:=\"\" style=\"\\&quot;margin:\" tbody=\"\" width:=\"\">
+	<tbody>
+		<tr line-height:=\"\" padding:=\"\" style=\"\\&quot;margin:\" td=\"\">
+			<td background:=\"\" class=\"\\&quot;Image\\&quot;\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-rendering:=\"\">
+				Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em 0px=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-rendering:=\"\"> Trả lời&nbsp;<em 0px=\"\" 16h=\"\" a=\"\" c=\"\" c.=\"\" ch=\"\" ch.=\"\" cho=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" i=\"\" khi=\"\" line-height:=\"\" liu=\"\" n=\"\" ng=\"\" ngon=\"\" nh=\"\" o=\"\" p=\"\" padding:=\"\" song=\"\" style=\"\\&quot;margin:\" t=\"\" text-rendering:=\"\" thanh=\"\" the=\"\" y=\"\"> Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng. </em></em>
+				<p 0px=\"\" a=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" outline:=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-decoration:=\"\" text-rendering:=\"\" xem=\"\">
+					<em 0px=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-rendering:=\"\"><em 0px=\"\" 16h=\"\" a=\"\" c=\"\" c.=\"\" ch=\"\" ch.=\"\" cho=\"\" class=\"\\&quot;Normal\\&quot;\" color:=\"\" font-family:=\"\" font-size:=\"\" i=\"\" khi=\"\" line-height:=\"\" liu=\"\" n=\"\" ng=\"\" ngon=\"\" nh=\"\" o=\"\" p=\"\" padding:=\"\" song=\"\" style=\"\\&quot;margin:\" t=\"\" text-rendering:=\"\" thanh=\"\" the=\"\" y=\"\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	PACKAGE PRICE : USD / PAX</h2>
+<p 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"\\&quot;inner_container\" color:=\"\" display:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" h3=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\" width:=\"\">
+	TOUR INCLUDED:</p>
+<div 0px=\"\" class=\"\\&quot;inner_container\" color:=\"\" display:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" width:=\"\">
+	<ul 0px=\"\" 6px=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" left=\"\\&quot;\\&quot;\" li=\"\" list-style:=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" outside=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" scroll=\"\\&quot;\\&quot;\" style=\"\\&quot;margin:\">
+		Accommodation 3* hotels with two persons share twin room
+		<li 0px=\"\" 6px=\"\\&quot;\\&quot;\" all=\"\" and=\"\" as=\"\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" in=\"\" left=\"\\&quot;\\&quot;\" li=\"\" list-style:=\"\" mentioned=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" outside=\"\" padding:=\"\" private=\"\" scroll=\"\\&quot;\\&quot;\" services=\"\" style=\"\\&quot;margin:\" the=\"\" transfers=\"\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 0px=\"\" 6px=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" english=\"\" every=\"\" guides=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" in=\"\" left=\"\\&quot;\\&quot;\" li=\"\" list-style:=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" of=\"\" outside=\"\" padding:=\"\" scroll=\"\\&quot;\\&quot;\" service=\"\" speaking=\"\" style=\"\\&quot;margin:\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 0px=\"\" 17px=\"\" 6px=\"\\&quot;\\&quot;\" as=\"\" azbooking.vn=\"\\&quot;\\&quot;\" b=\"Breakfast,\" background:=\"\" color:=\"\" d=\"&nbsp;\" font-size:=\"\" font-stretch:=\"\" h2=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" in=\"\" itinerary=\"\" l=\"Lunch,\" left=\"\\&quot;\\&quot;\" line-height:=\"\" list-style:=\"\" meals=\"\" mentioned=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" outside=\"\" padding:=\"\" repeat=\"\" scroll=\"\" style=\"\\&quot;margin:\" the=\"\">
+			&nbsp;</li>
+		<li 0px=\"\" 6px=\"\\&quot;\\&quot;\" and=\"\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" domestic=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" international=\"\" left=\"\\&quot;\\&quot;\" li=\"\" list-style:=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" outside=\"\" padding:=\"\" scroll=\"\\&quot;\\&quot;\" style=\"\\&quot;margin:\">
+			<span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" tour=\"\" ul=\"\">Departure taxes if applicable</span></li>
+		<li 0px=\"\" 6px=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" in=\"\" left=\"\\&quot;\\&quot;\" li=\"\" list-style:=\"\" meals=\"\" mentioned=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" other=\"\" outside=\"\" padding:=\"\" scroll=\"\\&quot;\\&quot;\" style=\"\\&quot;margin:\" than=\"\" the=\"\" those=\"\">
+			<span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" tour=\"\" ul=\"\">Early check-in and late check-out at hotels.</span></li>
+		<li 0px=\"\" 6px=\"\\&quot;\\&quot;\" as=\"\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" expenses=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" left=\"\\&quot;\\&quot;\" li=\"\" list-style:=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" outside=\"\" padding:=\"\" personal=\"\" scroll=\"\\&quot;\\&quot;\" style=\"\\&quot;margin:\" such=\"\">
+			<span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" tour=\"\" ul=\"\">Tips for local guides and drivers</span></li>
+		<li 0px=\"\" 6px=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" left=\"\\&quot;\\&quot;\" li=\"\" list-style:=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" outside=\"\" padding:=\"\" personal=\"\" scroll=\"\\&quot;\\&quot;\" style=\"\\&quot;margin:\" travel=\"\">
+			<span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" tour=\"\" ul=\"\">Visa</span></li>
+		<li 0px=\"\" 17px=\"\" 6px=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" color:=\"\" font-size:=\"\" font-stretch:=\"\" h4=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" left=\"\\&quot;\\&quot;\" line-height:=\"\" list-style:=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" outside=\"\" padding:=\"\" repeat=\"\" room=\"\" scroll=\"\" single=\"\" style=\"\\&quot;margin:\">
+			&nbsp;</li>
+		<li 0px=\"\" 6px=\"\\&quot;\\&quot;\" and=\"\" azbooking.vn=\"\\&quot;\\&quot;\" background:=\"\" be=\"\" can=\"\" changed=\"\" due=\"\" http:=\"\\&quot;\\&quot;\" images=\"\\&quot;\\&quot;\" itinerary=\"\" left=\"\\&quot;\\&quot;\" levels=\"\" li=\"\" list-style:=\"\" no-repeat=\"\\&quot;\\&quot;\" none=\"\" operating=\"\" outside=\"\" padding:=\"\" scroll=\"\\&quot;\\&quot;\" style=\"\\&quot;margin:\" the=\"\" tide=\"\" to=\"\">
+			<span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" tour=\"\" ul=\"\"><span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" ul=\"\">Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</span></span></li>
+	</ul>
+</div>
+<p>
+	<span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" tour=\"\" ul=\"\"><span color:=\"\" font-size:=\"\" list-style:=\"\" padding-left:=\"\" padding-right:=\"\" padding:=\"\" style=\"\\&quot;margin:\" ul=\"\">&nbsp;</span></span></p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	Day 01: HA NOI- Arrival (D)</h2>
+<p a=\"\" airport.=\"\" and=\"\" at=\"\" bai=\"\" car=\"\" center=\"\" check=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" guide=\"\" hotel.=\"\" href=\"\\\" in=\"\" international=\"\" line-height:=\"\" mixtourist=\"\" noi=\"\" overnight=\"\" padding:=\"\" restaurant.=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" transfer=\"\" warming=\"\" welcome=\"\" you=\"\">
+	hotel in Ha Noi.</p>
+<p>
+	&nbsp;</p>
+<h3 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	Day 02: HA NOI CITY TOUR ( B, L, D)</h3>
+<p>
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;and the&nbsp;<strong color:=\"\" font-family:=\"\" padding:=\"\" presidential=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;. Also visit the ancient&nbsp;<strong color:=\"\" font-family:=\"\" of=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" temple=\"\" text-align:=\"\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</strong></strong></strong></strong></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" presidential=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" of=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" temple=\"\" text-align:=\"\">Afternoon</strong>: Visit&nbsp;<strong around=\"\" by=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" go=\"\" ha=\"\" hoan=\"\" kiem=\"\" line-height:=\"\" ngoc=\"\" noi=\"\" old=\"\" p=\"\" padding:=\"\" son=\"\" style=\"\\&quot;margin:\" text-align:=\"\"> <strong at=\"\" city=\"\" dinner=\"\" padding:=\"\" restaurant=\"\" strong=\"\" style=\"\\&quot;margin:\" then=\"\" traditional=\"\" watching=\"\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" presidential=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong around=\"\" by=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" go=\"\" ha=\"\" hoan=\"\" kiem=\"\" line-height:=\"\" ngoc=\"\" noi=\"\" old=\"\" p=\"\" padding:=\"\" son=\"\" style=\"\\&quot;margin:\" text-align:=\"\">&nbsp;</strong></strong></strong></strong></strong></strong></p>
+<h4 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" presidential=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong around=\"\" by=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" go=\"\" ha=\"\" hoan=\"\" kiem=\"\" line-height:=\"\" ngoc=\"\" noi=\"\" old=\"\" p=\"\" padding:=\"\" son=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Day 3: HA LONG ( B, L, D)</strong></strong></strong></strong></strong></strong></h4>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" presidential=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong around=\"\" by=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" go=\"\" ha=\"\" hoan=\"\" kiem=\"\" line-height:=\"\" ngoc=\"\" noi=\"\" old=\"\" p=\"\" padding:=\"\" son=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong a=\"\" color:=\"\" href=\"\\\" padding:=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-decoration:=\"\">Ha Long Bay</strong><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\"> <strong a=\"\" and=\"\" beautiful=\"\" board=\"\" boat=\"\" cruise=\"\" famous=\"\" islets=\"\" ll=\"\" most=\"\" of=\"\" padding:=\"\" palce=\"\" private=\"\" strong=\"\" style=\"\\&quot;margin:\" such=\"\" the=\"\" through=\"\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</a></strong></strong></strong></strong></strong></p>
+<p also=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" ll=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" presidential=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</a></strong><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">&nbsp;and then take 30 minutes<strong and=\"\" around=\"\" charm=\"\" color:=\"\" considered=\"\" deeply=\"\" feel=\"\" font-family:=\"\" heaven=\"\" island=\"\" more=\"\" of=\"\" on=\"\" padding:=\"\" place=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" that=\"\" the=\"\" to=\"\" tunnels=\"\" water=\"\">16:30:&nbsp;</strong><span at=\"\" back=\"\" car=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" line-height:=\"\" ll=\"\" long=\"\" p=\"\" padding:=\"\" pick=\"\" return=\"\" style=\"\\&quot;margin:\" text-align:=\"\" then=\"\" to=\"\" tourist=\"\" wharf=\"\" you=\"\"> Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</span></a></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\"><span at=\"\" back=\"\" car=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" line-height:=\"\" ll=\"\" long=\"\" p=\"\" padding:=\"\" pick=\"\" return=\"\" style=\"\\&quot;margin:\" text-align:=\"\" then=\"\" to=\"\" tourist=\"\" wharf=\"\" you=\"\">&nbsp;</span></a></strong></strong></strong></strong></p>
+<h5 color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\"><span at=\"\" back=\"\" car=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" line-height:=\"\" ll=\"\" long=\"\" p=\"\" padding:=\"\" pick=\"\" return=\"\" style=\"\\&quot;margin:\" text-align:=\"\" then=\"\" to=\"\" tourist=\"\" wharf=\"\" you=\"\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></a></strong></strong></strong></strong></h5>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" minh=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Morning:</a></strong><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong airport=\"\" bai=\"\" flight=\"\" international=\"\" noi=\"\" old=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" til=\"\" time=\"\" to=\"\" transfer=\"\">Siem Riep</strong></a></strong></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Afternoon:</a></strong><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">&nbsp;Visit and exploring the&nbsp;<strong .=\"\" 13th=\"\" 9th=\"\" among=\"\" ancient=\"\" and=\"\" are=\"\" between=\"\" color:=\"\" constructed=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" h6=\"\" line-height:=\"\" of=\"\" padding:=\"\" s=\"\" style=\"\\&quot;margin:\" temples=\"\" text-align:=\"\" the=\"\" unmatched=\"\"> <span 5:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" p=\"\" padding:=\"\" riep=\"\" siem=\"\" style=\"\\&quot;margin:\" text-align:=\"\"> <strong all=\"\" at=\"\" best=\"\" of=\"\" padding:=\"\" preserved=\"\" sightseeing=\"\" starts=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" your=\"\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong angkor=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" to=\"\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</span></strong></a></strong></strong></p>
+<p afternoon=\"\" afternoon:=\"\" and=\"\" at=\"\" color:=\"\" enjoy=\"\" font-family:=\"\" font-size:=\"\" from=\"\" leisure=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" sunset=\"\" text-align:=\"\" the=\"\" top=\"\" view=\"\" watch=\"\" your=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\"><strong .=\"\" 13th=\"\" 9th=\"\" among=\"\" ancient=\"\" and=\"\" are=\"\" between=\"\" color:=\"\" constructed=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" h6=\"\" line-height:=\"\" of=\"\" padding:=\"\" s=\"\" style=\"\\&quot;margin:\" temples=\"\" text-align:=\"\" the=\"\" unmatched=\"\"><span 5:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" p=\"\" padding:=\"\" riep=\"\" siem=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Phnom Bakheng</span></strong></a></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<span 5:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" p=\"\" padding:=\"\" riep=\"\" siem=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong chi=\"\" color:=\"\" font-family:=\"\" ho=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Night:&nbsp;</a></strong><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Overnight at the hotel in Siem Riep</a></strong></span></p>
+<p>
+	<span 5:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" p=\"\" padding:=\"\" riep=\"\" siem=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">&nbsp;</a></strong></span></p>
+<h2 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<span 5:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" p=\"\" padding:=\"\" riep=\"\" siem=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Day 6: SIEM RIEP ( B, L, D)</a></strong></span></h2>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Morning:</a></strong><a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong 30=\"\" banteay=\"\" from=\"\" km=\"\" padding:=\"\" siem=\"\" strong=\"\" style=\"\\&quot;margin:\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</a></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Afternoon:&nbsp;Visit small circuit,&nbsp;<strong by=\"\" chau=\"\" giant=\"\" invaded=\"\" of=\"\" padding:=\"\" prohm=\"\" root=\"\" say=\"\" strong=\"\" style=\"\\&quot;margin:\" ta=\"\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</a></p>
+<p>
+	<br color:=\"\" font-family:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" />
+	<a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Night:<span and=\"\" at=\"\" br=\"\" color:=\"\" dinner=\"\" font-family:=\"\" hotel=\"\" in=\"\" overnight=\"\" padding:=\"\" restaurant=\"\" siem=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\"> &nbsp;</span></a></p>
+<h2 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\"><span and=\"\" at=\"\" br=\"\" color:=\"\" dinner=\"\" font-family:=\"\" hotel=\"\" in=\"\" overnight=\"\" padding:=\"\" restaurant=\"\" siem=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></a></h2>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<a .=\"\" 20=\"\" a=\"\" about=\"\" arriving=\"\" before=\"\" break=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ha=\"\" half=\"\" have=\"\" href=\"\\\" line-height:=\"\" ll=\"\" long=\"\" minute=\"\" on=\"\" p=\"\" padding:=\"\" short=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\" the=\"\" tourist=\"\" way=\"\" wharf=\"\">Morning:&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;</a><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"> Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong .=\"\" at=\"\" br=\"\" check=\"\" color:=\"\" font-family:=\"\" for=\"\" hotel=\"\" in=\"\" independent=\"\" lunch=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" wat=\"\"> <strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">Visit&nbsp;<strong and=\"\" color:=\"\" font-family:=\"\" national=\"\" padding:=\"\" pagoda=\"\" royal=\"\" silver=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;and&nbsp;<strong color:=\"\" font-family:=\"\" mekong=\"\" on=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" sunset=\"\" text-align:=\"\" view=\"\" watching=\"\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh<br 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" h3=\"\" line-height:=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" />
+	<span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Morning:</span></strong><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span a=\"\" an=\"\" and=\"\" can=\"\" color:=\"\" do=\"\" education=\"\" font-family:=\"\" government=\"\" is=\"\" its=\"\" khmer=\"\" murderous=\"\" of=\"\" on=\"\" padding:=\"\" people.=\"\" provides=\"\" regime=\"\" reminder=\"\" rouge=\"\" s=\"\" sightseeing=\"\" somber=\"\" start=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\" this=\"\" to=\"\" visit=\"\" what=\"\" with=\"\">Tuol Sleng Genocide Museum</span></span></strong><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span a=\"\" an=\"\" and=\"\" can=\"\" color:=\"\" do=\"\" education=\"\" font-family:=\"\" government=\"\" is=\"\" its=\"\" khmer=\"\" murderous=\"\" of=\"\" on=\"\" padding:=\"\" people.=\"\" provides=\"\" regime=\"\" reminder=\"\" rouge=\"\" s=\"\" sightseeing=\"\" somber=\"\" start=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\" this=\"\" to=\"\" visit=\"\" what=\"\" with=\"\"><span .=\"\" 000=\"\" 15=\"\" and=\"\" avoided=\"\" being=\"\" believed=\"\" by=\"\" color:=\"\" during=\"\" fields.=\"\" font-family:=\"\" font-size:=\"\" former=\"\" high=\"\" housed=\"\" is=\"\" it=\"\" khmer=\"\" killed=\"\" killing=\"\" less=\"\" line-height:=\"\" of=\"\" one=\"\" over=\"\" p=\"\" padding:=\"\" people=\"\" prisoners=\"\" regime.=\"\" rouge=\"\" school=\"\" sent=\"\" style=\"\\&quot;margin:\" survived=\"\" text-align:=\"\" than=\"\" that=\"\" the=\"\" this=\"\" to=\"\" torture=\"\" visit=\"\" were=\"\" where=\"\"> <strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"> Night: Overnight at the hotel in Phnom Penh</strong></span></span></span></strong></strong></a></p>
+<p>
+	<a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><strong .=\"\" at=\"\" br=\"\" check=\"\" color:=\"\" font-family:=\"\" for=\"\" hotel=\"\" in=\"\" independent=\"\" lunch=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span a=\"\" an=\"\" and=\"\" can=\"\" color:=\"\" do=\"\" education=\"\" font-family:=\"\" government=\"\" is=\"\" its=\"\" khmer=\"\" murderous=\"\" of=\"\" on=\"\" padding:=\"\" people.=\"\" provides=\"\" regime=\"\" reminder=\"\" rouge=\"\" s=\"\" sightseeing=\"\" somber=\"\" start=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\" this=\"\" to=\"\" visit=\"\" what=\"\" with=\"\"><span .=\"\" 000=\"\" 15=\"\" and=\"\" avoided=\"\" being=\"\" believed=\"\" by=\"\" color:=\"\" during=\"\" fields.=\"\" font-family:=\"\" font-size:=\"\" former=\"\" high=\"\" housed=\"\" is=\"\" it=\"\" khmer=\"\" killed=\"\" killing=\"\" less=\"\" line-height:=\"\" of=\"\" one=\"\" over=\"\" p=\"\" padding:=\"\" people=\"\" prisoners=\"\" regime.=\"\" rouge=\"\" school=\"\" sent=\"\" style=\"\\&quot;margin:\" survived=\"\" text-align:=\"\" than=\"\" that=\"\" the=\"\" this=\"\" to=\"\" torture=\"\" visit=\"\" were=\"\" where=\"\"><strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\">&nbsp;</strong></span></span></span></strong></strong></a></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<br afternoon=\"\" and=\"\" at=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" h5=\"\" is=\"\" line-height:=\"\" night=\"\" of=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\" your=\"\" />
+	<strong .=\"\" at=\"\" br=\"\" check=\"\" color:=\"\" font-family:=\"\" for=\"\" hotel=\"\" in=\"\" independent=\"\" lunch=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><a center=\"\" check=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" in=\"\" line-height:=\"\" luang=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" text-decoration:=\"\" to=\"\" transfer=\"\"><span 10:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" luang=\"\" padding:=\"\" prabang=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\">, the&nbsp;</strong></a></strong><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><a center=\"\" check=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" in=\"\" line-height:=\"\" luang=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" text-decoration:=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</strong></strong></a></strong></strong></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><strong .=\"\" at=\"\" br=\"\" check=\"\" color:=\"\" font-family:=\"\" for=\"\" hotel=\"\" in=\"\" independent=\"\" lunch=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span a=\"\" an=\"\" and=\"\" can=\"\" color:=\"\" do=\"\" education=\"\" font-family:=\"\" government=\"\" is=\"\" its=\"\" khmer=\"\" murderous=\"\" of=\"\" on=\"\" padding:=\"\" people.=\"\" provides=\"\" regime=\"\" reminder=\"\" rouge=\"\" s=\"\" sightseeing=\"\" somber=\"\" start=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\" this=\"\" to=\"\" visit=\"\" what=\"\" with=\"\">Night:</span></span></strong><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span a=\"\" an=\"\" and=\"\" can=\"\" color:=\"\" do=\"\" education=\"\" font-family:=\"\" government=\"\" is=\"\" its=\"\" khmer=\"\" murderous=\"\" of=\"\" on=\"\" padding:=\"\" people.=\"\" provides=\"\" regime=\"\" reminder=\"\" rouge=\"\" s=\"\" sightseeing=\"\" somber=\"\" start=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\" this=\"\" to=\"\" visit=\"\" what=\"\" with=\"\">&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</span></span></strong></a></strong></strong></strong></strong></p>
+<p br=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><strong .=\"\" at=\"\" br=\"\" check=\"\" color:=\"\" font-family:=\"\" for=\"\" hotel=\"\" in=\"\" independent=\"\" lunch=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" wat=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span a=\"\" an=\"\" and=\"\" can=\"\" color:=\"\" do=\"\" education=\"\" font-family:=\"\" government=\"\" is=\"\" its=\"\" khmer=\"\" murderous=\"\" of=\"\" on=\"\" padding:=\"\" people.=\"\" provides=\"\" regime=\"\" reminder=\"\" rouge=\"\" s=\"\" sightseeing=\"\" somber=\"\" start=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\" this=\"\" to=\"\" visit=\"\" what=\"\" with=\"\"><strong color:=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</strong></span></span></strong></a></strong></strong></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><strong .=\"\" at=\"\" br=\"\" check=\"\" color:=\"\" font-family:=\"\" for=\"\" hotel=\"\" in=\"\" independent=\"\" lunch=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" wat=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Morning:</span></strong><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"> <strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" free=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" time=\"\" your=\"\"> <strong at=\"\" chi=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" hotel=\"\" in=\"\" line-height:=\"\" minh=\"\" overnight=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\"> &nbsp;</strong></strong></strong></span></a></strong></strong></strong></strong></p>
+<p>
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" free=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" time=\"\" your=\"\"><strong at=\"\" chi=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" hotel=\"\" in=\"\" line-height:=\"\" minh=\"\" overnight=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\">&nbsp;</strong></strong></strong></span></a></strong></strong></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" free=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" time=\"\" your=\"\"><strong at=\"\" chi=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" hotel=\"\" in=\"\" line-height:=\"\" minh=\"\" overnight=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\"><span 12:=\"\" chi=\"\" city=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" line-height:=\"\" minh=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong after=\"\" and=\"\" breakfast=\"\" car=\"\" cu=\"\" departure=\"\" for=\"\" guide=\"\" mixtourist=\"\" padding:=\"\" pick=\"\" strong=\"\" style=\"\\&quot;margin:\" then=\"\" to=\"\" up=\"\" visit=\"\" you=\"\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</span></strong></strong></strong></span></a></strong></strong></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" free=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" time=\"\" your=\"\"><strong at=\"\" chi=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" hotel=\"\" in=\"\" line-height:=\"\" minh=\"\" overnight=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" the=\"\"><span 12:=\"\" chi=\"\" city=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" line-height:=\"\" minh=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Afternoon:</span></strong><span 12:=\"\" chi=\"\" city=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" line-height:=\"\" minh=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\">&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong and=\"\" padding:=\"\" remnants=\"\" strong=\"\" style=\"\\&quot;margin:\" war=\"\">Reunification Palace</strong></span></strong></strong></span></a></strong></strong></strong></strong></p>
+<p color:=\"\" font-family:=\"\" font-size:=\"\" line-height:=\"\" padding:=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" free=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" time=\"\" your=\"\"><span 12:=\"\" chi=\"\" city=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" line-height:=\"\" minh=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Night:</span></strong><span 12:=\"\" chi=\"\" city=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" line-height:=\"\" minh=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\">&nbsp;After dinner, Free time to explore this lively city.</span></strong></span></a></strong></strong></strong></strong></p>
+<p>
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span 12:=\"\" chi=\"\" city=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" line-height:=\"\" minh=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\">&nbsp;</span></strong></span></a></strong></strong></strong></strong></p>
+<h3 0px=\"\" 17px=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" font-stretch:=\"\" line-height:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;margin:\" text-align:=\"\">
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><span 12:=\"\" chi=\"\" city=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" ho=\"\" line-height:=\"\" minh=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\">Day 13: HO CHI MINH - DEPARTURE (B)</span></strong></span></a></strong></strong></strong></strong></h3>
+<p>
+	<strong at=\"\" color:=\"\" font-family:=\"\" font-size:=\"\" is=\"\" line-height:=\"\" p=\"\" padding:=\"\" style=\"\\&quot;margin:\" text-align:=\"\" your=\"\"><strong after=\"\" airport=\"\" and=\"\" at=\"\" breakfast=\"\" checking=\"\" flight=\"\" for=\"\" luang=\"\" out=\"\" padding:=\"\" penh=\"\" phnom=\"\" prabang.=\"\" strong=\"\" style=\"\\&quot;margin:\" the=\"\" to=\"\" transfer=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\" wat=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" palace=\"\" royal=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\"><a color:=\"\" font-family:=\"\" font-size:=\"\" href=\"\\\" line-height:=\"\" p=\"\" padding:=\"\" phnom=\"\" style=\"\\&quot;margin:\" target=\"\\&quot;_blank\\&quot;\" text-align:=\"\" text-decoration:=\"\"><span 8:=\"\" color:=\"\" day=\"\" font-family:=\"\" font-size:=\"\" padding:=\"\" penh=\"\" phnom=\"\" strong=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong as=\"\" at=\"\" check=\"\" chi=\"\" city=\"\" color:=\"\" dinner=\"\" font-family:=\"\" font-size:=\"\" for=\"\" gon.=\"\" ho=\"\" hotel=\"\" in=\"\" know=\"\" line-height:=\"\" many=\"\" minh=\"\" p=\"\" padding:=\"\" restaurant.=\"\" sai=\"\" still=\"\" style=\"\\&quot;margin:\" text-align:=\"\"><strong color:=\"\" font-family:=\"\" padding:=\"\" span=\"\" style=\"\\&quot;color:\" text-align:=\"\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</strong></strong></span></a></strong></strong></strong></strong></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',summary_cn='<p 0px=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\">
+	Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</p>
+<p .=\"\\&quot;\\&quot;\" 0px=\"\\&quot;\\&quot;\" 100.000=\"\\&quot;\\&quot;\" 3.300=\"\\&quot;\\&quot;\" 7=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" align=\"\\&quot;\\\\&quot;center\\\\&quot;\\&quot;\" auto=\"\\&quot;\\&quot;\" ba=\"\\&quot;\\&quot;\" bao=\"\\&quot;\\&quot;\" border=\"\\&quot;\\\\&quot;0\\\\&quot;\\&quot;\" c=\"\\&quot;\\&quot;\" cellpadding=\"\\&quot;\\\\&quot;3\\\\&quot;\\&quot;\" cellspacing=\"\\&quot;\\\\&quot;0\\\\&quot;\\&quot;\" ch=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;tplCaption\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" i=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" m=\"\\&quot;\\&quot;\" max-width:=\"\\&quot;\\&quot;\" n=\"\\&quot;\\&quot;\" n.=\"\\&quot;\\&quot;\" ng=\"\\&quot;\\&quot;\" nh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" quay=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" t=\"\\&quot;\\&quot;\" table=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\" thanh=\"\\&quot;\\&quot;\" trong=\"\\&quot;\\&quot;\" tuy=\"\\&quot;\\&quot;\" u=\"\\&quot;\\&quot;\" width:=\"\\&quot;\\&quot;\">
+	&nbsp;</p>
+<br />
+<p a=\"\\&quot;\\&quot;\" ba=\"\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" c.=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Image\\\\&quot;\\&quot;\" em=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" i=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" liu=\"\\&quot;\\&quot;\" n=\"\\&quot;\\&quot;\" ng=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" ra=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" t=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\" trong=\"\\&quot;\\&quot;\" trung=\"\\&quot;\\&quot;\" tung=\"\\&quot;\\&quot;\" xiaojun=\"\\&quot;\\&quot;\">
+	Odditycentral.</p>
+<p 0px=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" em=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\">
+	The Paper, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p 0px=\"\\&quot;\\&quot;\" 100.000=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" c=\"\\&quot;\\&quot;\" ch=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" i=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" m=\"\\&quot;\\&quot;\" n=\"\\&quot;\\&quot;\" ng=\"\\&quot;\\&quot;\" nh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" ra=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" t=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\" trong=\"\\&quot;\\&quot;\" trung=\"\\&quot;\\&quot;\" u=\"\\&quot;\\&quot;\" y=\"\\&quot;\\&quot;\" y.=\"\\&quot;\\&quot;\">
+	Xem th&ecirc;m:&nbsp;<a a=\"\" c=\"\" ch=\"\" color:=\"\" href=\"\\\\\" israel=\"\" ng=\"\" outline:=\"\" padding:=\"\" style=\"\\\\&quot;margin:\" t=\"\" text-decoration:=\"\" trung=\"\"> </a></p>
+',highlights='',highlights_cn='',schedule='<h2 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\">
+	<span -=\"\\&quot;\\&quot;\" .=\"\\&quot;\\&quot;\" 0px=\"\\&quot;\\&quot;\" 2=\"\\&quot;\\&quot;\" ba=\"\\&quot;\\&quot;\" ch=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" do=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" i=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" liu=\"\\&quot;\\&quot;\" mong=\"\\&quot;\\&quot;\" n=\"\\&quot;\\&quot;\" ng=\"\\&quot;\\&quot;\" nh=\"\\&quot;\\&quot;\" o=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" t=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\" thanh=\"\\&quot;\\&quot;\" u=\"\\&quot;\\&quot;\" y=\"\\&quot;\\&quot;\">Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại. </span></h2>
+<table 0px=\"\\&quot;\\&quot;\" align=\"\\&quot;\\\\&quot;center\\\\&quot;\\&quot;\" auto=\"\\&quot;\\&quot;\" border=\"\\&quot;\\\\&quot;0\\\\&quot;\\&quot;\" cellpadding=\"\\&quot;\\\\&quot;3\\\\&quot;\\&quot;\" cellspacing=\"\\&quot;\\\\&quot;0\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;tplCaption\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" max-width:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" tbody=\"\\&quot;\\&quot;\" width:=\"\\&quot;\\&quot;\">
+	<tbody>
+		<tr line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" td=\"\\&quot;\\&quot;\">
+			<td background:=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Image\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\">
+				Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em 0px=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\"> Trả lời&nbsp;<em 0px=\"\\&quot;\\&quot;\" 16h=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" c=\"\\&quot;\\&quot;\" c.=\"\\&quot;\\&quot;\" ch=\"\\&quot;\\&quot;\" ch.=\"\\&quot;\\&quot;\" cho=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" i=\"\\&quot;\\&quot;\" khi=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" liu=\"\\&quot;\\&quot;\" n=\"\\&quot;\\&quot;\" ng=\"\\&quot;\\&quot;\" ngon=\"\\&quot;\\&quot;\" nh=\"\\&quot;\\&quot;\" o=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" song=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" t=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\" thanh=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" y=\"\\&quot;\\&quot;\"> Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng. </em></em>
+				<p 0px=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\&quot;\\\\\\&quot;\" line-height:=\"\\&quot;\\&quot;\" outline:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\" xem=\"\\&quot;\\&quot;\">
+					<em 0px=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\"><em 0px=\"\\&quot;\\&quot;\" 16h=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" c=\"\\&quot;\\&quot;\" c.=\"\\&quot;\\&quot;\" ch=\"\\&quot;\\&quot;\" ch.=\"\\&quot;\\&quot;\" cho=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;Normal\\\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" i=\"\\&quot;\\&quot;\" khi=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" liu=\"\\&quot;\\&quot;\" n=\"\\&quot;\\&quot;\" ng=\"\\&quot;\\&quot;\" ngon=\"\\&quot;\\&quot;\" nh=\"\\&quot;\\&quot;\" o=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" song=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" t=\"\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\&quot;\" thanh=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" y=\"\\&quot;\\&quot;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	PACKAGE PRICE : USD / PAX</h2>
+<p 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;inner_container\\&quot;\" color:=\"\\&quot;\\&quot;\" display:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" h3=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" width:=\"\\&quot;\\&quot;\">
+	TOUR INCLUDED:</p>
+<div 0px=\"\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;inner_container\\&quot;\" color:=\"\\&quot;\\&quot;\" display:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" width:=\"\\&quot;\\&quot;\">
+	<ul 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\">
+		Accommodation 3* hotels with two persons share twin room
+		<li 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" all=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" as=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" mentioned=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" private=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" services=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" transfers=\"\\&quot;\\&quot;\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" english=\"\\&quot;\\&quot;\" every=\"\\&quot;\\&quot;\" guides=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" service=\"\\&quot;\\&quot;\" speaking=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" b=\"\\&quot;Breakfast,\\&quot;\" background:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" d=\"\\&quot;&nbsp;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" h2=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" itinerary=\"\\&quot;\\&quot;\" l=\"\\&quot;Lunch,\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" meals=\"\\&quot;\\&quot;\" mentioned=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" repeat=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\">
+			&nbsp;</li>
+		<li 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" domestic=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" international=\"\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\">
+			<span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" tour=\"\\&quot;\\&quot;\" ul=\"\\&quot;\\&quot;\">Departure taxes if applicable</span></li>
+		<li 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" meals=\"\\&quot;\\&quot;\" mentioned=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" other=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" than=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" those=\"\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" tour=\"\\&quot;\\&quot;\" ul=\"\\&quot;\\&quot;\">Early check-in and late check-out at hotels.</span></li>
+		<li 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" expenses=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" personal=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" such=\"\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" tour=\"\\&quot;\\&quot;\" ul=\"\\&quot;\\&quot;\">Tips for local guides and drivers</span></li>
+		<li 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" personal=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" travel=\"\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" tour=\"\\&quot;\\&quot;\" ul=\"\\&quot;\\&quot;\">Visa</span></li>
+		<li 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" h4=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" repeat=\"\\&quot;\\&quot;\" room=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\&quot;\" single=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\">
+			&nbsp;</li>
+		<li 0px=\"\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\&quot;\" be=\"\\&quot;\\&quot;\" can=\"\\&quot;\\&quot;\" changed=\"\\&quot;\\&quot;\" due=\"\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" itinerary=\"\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" levels=\"\\&quot;\\&quot;\" li=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\&quot;\" operating=\"\\&quot;\\&quot;\" outside=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" tide=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" tour=\"\\&quot;\\&quot;\" ul=\"\\&quot;\\&quot;\"><span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" ul=\"\\&quot;\\&quot;\">Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</span></span></li>
+	</ul>
+</div>
+<p>
+	<span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" tour=\"\\&quot;\\&quot;\" ul=\"\\&quot;\\&quot;\"><span color:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" list-style:=\"\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" ul=\"\\&quot;\\&quot;\">&nbsp;</span></span></p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	Day 01: HA NOI- Arrival (D)</h2>
+<p a=\"\\&quot;\\&quot;\" airport.=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" bai=\"\\&quot;\\&quot;\" car=\"\\&quot;\\&quot;\" center=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" guide=\"\\&quot;\\&quot;\" hotel.=\"\\&quot;\\&quot;\" href=\"\\&quot;\\\\\\&quot;\" in=\"\\&quot;\\&quot;\" international=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" mixtourist=\"\\&quot;\\&quot;\" noi=\"\\&quot;\\&quot;\" overnight=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\" warming=\"\\&quot;\\&quot;\" welcome=\"\\&quot;\\&quot;\" you=\"\\&quot;\\&quot;\">
+	hotel in Ha Noi.</p>
+<p>
+	&nbsp;</p>
+<h3 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	Day 02: HA NOI CITY TOUR ( B, L, D)</h3>
+<p>
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;and the&nbsp;<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" presidential=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;. Also visit the ancient&nbsp;<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" temple=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</strong></strong></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" presidential=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" temple=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Afternoon</strong>: Visit&nbsp;<strong around=\"\\&quot;\\&quot;\" by=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" go=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" hoan=\"\\&quot;\\&quot;\" kiem=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ngoc=\"\\&quot;\\&quot;\" noi=\"\\&quot;\\&quot;\" old=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" son=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"> <strong at=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" then=\"\\&quot;\\&quot;\" traditional=\"\\&quot;\\&quot;\" watching=\"\\&quot;\\&quot;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" presidential=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong around=\"\\&quot;\\&quot;\" by=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" go=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" hoan=\"\\&quot;\\&quot;\" kiem=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ngoc=\"\\&quot;\\&quot;\" noi=\"\\&quot;\\&quot;\" old=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" son=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;</strong></strong></strong></strong></strong></strong></p>
+<h4 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" presidential=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong around=\"\\&quot;\\&quot;\" by=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" go=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" hoan=\"\\&quot;\\&quot;\" kiem=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ngoc=\"\\&quot;\\&quot;\" noi=\"\\&quot;\\&quot;\" old=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" son=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Day 3: HA LONG ( B, L, D)</strong></strong></strong></strong></strong></strong></h4>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" presidential=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong around=\"\\&quot;\\&quot;\" by=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" go=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" hoan=\"\\&quot;\\&quot;\" kiem=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ngoc=\"\\&quot;\\&quot;\" noi=\"\\&quot;\\&quot;\" old=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" son=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong a=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" href=\"\\&quot;\\\\\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\">Ha Long Bay</strong><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\"> <strong a=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" beautiful=\"\\&quot;\\&quot;\" board=\"\\&quot;\\&quot;\" boat=\"\\&quot;\\&quot;\" cruise=\"\\&quot;\\&quot;\" famous=\"\\&quot;\\&quot;\" islets=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" most=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palce=\"\\&quot;\\&quot;\" private=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" such=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" through=\"\\&quot;\\&quot;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</a></strong></strong></strong></strong></strong></p>
+<p also=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" presidential=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</a></strong><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">&nbsp;and then take 30 minutes<strong and=\"\\&quot;\\&quot;\" around=\"\\&quot;\\&quot;\" charm=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" considered=\"\\&quot;\\&quot;\" deeply=\"\\&quot;\\&quot;\" feel=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" heaven=\"\\&quot;\\&quot;\" island=\"\\&quot;\\&quot;\" more=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" place=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" that=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" tunnels=\"\\&quot;\\&quot;\" water=\"\\&quot;\\&quot;\">16:30:&nbsp;</strong><span at=\"\\&quot;\\&quot;\" back=\"\\&quot;\\&quot;\" car=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" pick=\"\\&quot;\\&quot;\" return=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" then=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\" you=\"\\&quot;\\&quot;\"> Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</span></a></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\"><span at=\"\\&quot;\\&quot;\" back=\"\\&quot;\\&quot;\" car=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" pick=\"\\&quot;\\&quot;\" return=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" then=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\" you=\"\\&quot;\\&quot;\">&nbsp;</span></a></strong></strong></strong></strong></p>
+<h5 color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\"><span at=\"\\&quot;\\&quot;\" back=\"\\&quot;\\&quot;\" car=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" pick=\"\\&quot;\\&quot;\" return=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" then=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\" you=\"\\&quot;\\&quot;\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></a></strong></strong></strong></strong></h5>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Morning:</a></strong><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong airport=\"\\&quot;\\&quot;\" bai=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" international=\"\\&quot;\\&quot;\" noi=\"\\&quot;\\&quot;\" old=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" til=\"\\&quot;\\&quot;\" time=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\">Siem Riep</strong></a></strong></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Afternoon:</a></strong><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">&nbsp;Visit and exploring the&nbsp;<strong .=\"\\&quot;\\&quot;\" 13th=\"\\&quot;\\&quot;\" 9th=\"\\&quot;\\&quot;\" among=\"\\&quot;\\&quot;\" ancient=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" are=\"\\&quot;\\&quot;\" between=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" constructed=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" h6=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" temples=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" unmatched=\"\\&quot;\\&quot;\"> <span 5:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" riep=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"> <strong all=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" best=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" preserved=\"\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\&quot;\" starts=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong angkor=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" to=\"\\&quot;\\&quot;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</span></strong></a></strong></strong></p>
+<p afternoon=\"\\&quot;\\&quot;\" afternoon:=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" enjoy=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" from=\"\\&quot;\\&quot;\" leisure=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" sunset=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" top=\"\\&quot;\\&quot;\" view=\"\\&quot;\\&quot;\" watch=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\"><strong .=\"\\&quot;\\&quot;\" 13th=\"\\&quot;\\&quot;\" 9th=\"\\&quot;\\&quot;\" among=\"\\&quot;\\&quot;\" ancient=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" are=\"\\&quot;\\&quot;\" between=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" constructed=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" h6=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" temples=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" unmatched=\"\\&quot;\\&quot;\"><span 5:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" riep=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Phnom Bakheng</span></strong></a></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<span 5:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" riep=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Night:&nbsp;</a></strong><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Overnight at the hotel in Siem Riep</a></strong></span></p>
+<p>
+	<span 5:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" riep=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">&nbsp;</a></strong></span></p>
+<h2 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<span 5:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" riep=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Day 6: SIEM RIEP ( B, L, D)</a></strong></span></h2>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Morning:</a></strong><a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong 30=\"\\&quot;\\&quot;\" banteay=\"\\&quot;\\&quot;\" from=\"\\&quot;\\&quot;\" km=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</a></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Afternoon:&nbsp;Visit small circuit,&nbsp;<strong by=\"\\&quot;\\&quot;\" chau=\"\\&quot;\\&quot;\" giant=\"\\&quot;\\&quot;\" invaded=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" prohm=\"\\&quot;\\&quot;\" root=\"\\&quot;\\&quot;\" say=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" ta=\"\\&quot;\\&quot;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</a></p>
+<p>
+	<br color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" />
+	<a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Night:<span and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" overnight=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\"> &nbsp;</span></a></p>
+<h2 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\"><span and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" overnight=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant=\"\\&quot;\\&quot;\" siem=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></a></h2>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<a .=\"\\&quot;\\&quot;\" 20=\"\\&quot;\\&quot;\" a=\"\\&quot;\\&quot;\" about=\"\\&quot;\\&quot;\" arriving=\"\\&quot;\\&quot;\" before=\"\\&quot;\\&quot;\" break=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ha=\"\\&quot;\\&quot;\" half=\"\\&quot;\\&quot;\" have=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" ll=\"\\&quot;\\&quot;\" long=\"\\&quot;\\&quot;\" minute=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" short=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" tourist=\"\\&quot;\\&quot;\" way=\"\\&quot;\\&quot;\" wharf=\"\\&quot;\\&quot;\">Morning:&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;</a><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"> Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong .=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" independent=\"\\&quot;\\&quot;\" lunch=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"> <strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Visit&nbsp;<strong and=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" national=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" pagoda=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" silver=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;and&nbsp;<strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" mekong=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" sunset=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" view=\"\\&quot;\\&quot;\" watching=\"\\&quot;\\&quot;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh<br 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" h3=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" />
+	<span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Morning:</span></strong><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span a=\"\\&quot;\\&quot;\" an=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" can=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" do=\"\\&quot;\\&quot;\" education=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" government=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" its=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" murderous=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people.=\"\\&quot;\\&quot;\" provides=\"\\&quot;\\&quot;\" regime=\"\\&quot;\\&quot;\" reminder=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\&quot;\" somber=\"\\&quot;\\&quot;\" start=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" what=\"\\&quot;\\&quot;\" with=\"\\&quot;\\&quot;\">Tuol Sleng Genocide Museum</span></span></strong><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span a=\"\\&quot;\\&quot;\" an=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" can=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" do=\"\\&quot;\\&quot;\" education=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" government=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" its=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" murderous=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people.=\"\\&quot;\\&quot;\" provides=\"\\&quot;\\&quot;\" regime=\"\\&quot;\\&quot;\" reminder=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\&quot;\" somber=\"\\&quot;\\&quot;\" start=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" what=\"\\&quot;\\&quot;\" with=\"\\&quot;\\&quot;\"><span .=\"\\&quot;\\&quot;\" 000=\"\\&quot;\\&quot;\" 15=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" avoided=\"\\&quot;\\&quot;\" being=\"\\&quot;\\&quot;\" believed=\"\\&quot;\\&quot;\" by=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" during=\"\\&quot;\\&quot;\" fields.=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" former=\"\\&quot;\\&quot;\" high=\"\\&quot;\\&quot;\" housed=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" it=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" killed=\"\\&quot;\\&quot;\" killing=\"\\&quot;\\&quot;\" less=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" one=\"\\&quot;\\&quot;\" over=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people=\"\\&quot;\\&quot;\" prisoners=\"\\&quot;\\&quot;\" regime.=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" school=\"\\&quot;\\&quot;\" sent=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" survived=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" than=\"\\&quot;\\&quot;\" that=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" torture=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" were=\"\\&quot;\\&quot;\" where=\"\\&quot;\\&quot;\"> <strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"> Night: Overnight at the hotel in Phnom Penh</strong></span></span></span></strong></strong></a></p>
+<p>
+	<a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><strong .=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" independent=\"\\&quot;\\&quot;\" lunch=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span a=\"\\&quot;\\&quot;\" an=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" can=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" do=\"\\&quot;\\&quot;\" education=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" government=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" its=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" murderous=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people.=\"\\&quot;\\&quot;\" provides=\"\\&quot;\\&quot;\" regime=\"\\&quot;\\&quot;\" reminder=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\&quot;\" somber=\"\\&quot;\\&quot;\" start=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" what=\"\\&quot;\\&quot;\" with=\"\\&quot;\\&quot;\"><span .=\"\\&quot;\\&quot;\" 000=\"\\&quot;\\&quot;\" 15=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" avoided=\"\\&quot;\\&quot;\" being=\"\\&quot;\\&quot;\" believed=\"\\&quot;\\&quot;\" by=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" during=\"\\&quot;\\&quot;\" fields.=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" former=\"\\&quot;\\&quot;\" high=\"\\&quot;\\&quot;\" housed=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" it=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" killed=\"\\&quot;\\&quot;\" killing=\"\\&quot;\\&quot;\" less=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" one=\"\\&quot;\\&quot;\" over=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people=\"\\&quot;\\&quot;\" prisoners=\"\\&quot;\\&quot;\" regime.=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" school=\"\\&quot;\\&quot;\" sent=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" survived=\"\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" than=\"\\&quot;\\&quot;\" that=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" torture=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" were=\"\\&quot;\\&quot;\" where=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\">&nbsp;</strong></span></span></span></strong></strong></a></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<br afternoon=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" h5=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" night=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\" />
+	<strong .=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" independent=\"\\&quot;\\&quot;\" lunch=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><a center=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" in=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><span 10:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" prabang=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\">, the&nbsp;</strong></a></strong><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><a center=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" in=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</strong></strong></a></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><strong .=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" independent=\"\\&quot;\\&quot;\" lunch=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span a=\"\\&quot;\\&quot;\" an=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" can=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" do=\"\\&quot;\\&quot;\" education=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" government=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" its=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" murderous=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people.=\"\\&quot;\\&quot;\" provides=\"\\&quot;\\&quot;\" regime=\"\\&quot;\\&quot;\" reminder=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\&quot;\" somber=\"\\&quot;\\&quot;\" start=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" what=\"\\&quot;\\&quot;\" with=\"\\&quot;\\&quot;\">Night:</span></span></strong><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span a=\"\\&quot;\\&quot;\" an=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" can=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" do=\"\\&quot;\\&quot;\" education=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" government=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" its=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" murderous=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people.=\"\\&quot;\\&quot;\" provides=\"\\&quot;\\&quot;\" regime=\"\\&quot;\\&quot;\" reminder=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\&quot;\" somber=\"\\&quot;\\&quot;\" start=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" what=\"\\&quot;\\&quot;\" with=\"\\&quot;\\&quot;\">&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</span></span></strong></a></strong></strong></strong></strong></p>
+<p br=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><strong .=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" independent=\"\\&quot;\\&quot;\" lunch=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span a=\"\\&quot;\\&quot;\" an=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" can=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" do=\"\\&quot;\\&quot;\" education=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" government=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" its=\"\\&quot;\\&quot;\" khmer=\"\\&quot;\\&quot;\" murderous=\"\\&quot;\\&quot;\" of=\"\\&quot;\\&quot;\" on=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" people.=\"\\&quot;\\&quot;\" provides=\"\\&quot;\\&quot;\" regime=\"\\&quot;\\&quot;\" reminder=\"\\&quot;\\&quot;\" rouge=\"\\&quot;\\&quot;\" s=\"\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\&quot;\" somber=\"\\&quot;\\&quot;\" start=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\" this=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" what=\"\\&quot;\\&quot;\" with=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Day 11: LUANG PRABANG - HO CHI MINH CITY ( B,L)</strong></span></span></strong></a></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><strong .=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" br=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" independent=\"\\&quot;\\&quot;\" lunch=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Morning:</span></strong><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;After breakfast at the hotel. Car and guide pick you transfer to the airport and flight to&nbsp;<strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"> <strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" free=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" time=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"> <strong at=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" overnight=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\"> &nbsp;</strong></strong></strong></span></a></strong></strong></strong></strong></p>
+<p>
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" free=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" time=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" overnight=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\">&nbsp;</strong></strong></strong></span></a></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" free=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" time=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" overnight=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\"><span 12:=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" car=\"\\&quot;\\&quot;\" cu=\"\\&quot;\\&quot;\" departure=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" guide=\"\\&quot;\\&quot;\" mixtourist=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" pick=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" then=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" up=\"\\&quot;\\&quot;\" visit=\"\\&quot;\\&quot;\" you=\"\\&quot;\\&quot;\">Cu Chi Tunnels</strong>, a network of tunnels used by the Viet Cong as a hideout during the war. Lunch at local restaurant</span></strong></strong></strong></span></a></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" free=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" time=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" overnight=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" the=\"\\&quot;\\&quot;\"><span 12:=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Afternoon:</span></strong><span 12:=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;Return to Ho Chi Minh City and visit the&nbsp;<strong and=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" remnants=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" war=\"\\&quot;\\&quot;\">Reunification Palace</strong></span></strong></strong></span></a></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" free=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" time=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><span 12:=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Night:</span></strong><span 12:=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;After dinner, Free time to explore this lively city.</span></strong></span></a></strong></strong></strong></strong></p>
+<p>
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span 12:=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;</span></strong></span></a></strong></strong></strong></strong></p>
+<h3 0px=\"\\&quot;\\&quot;\" 17px=\"\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\&quot;\" background-image:=\"\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\&quot;\" background-position:=\"\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\&quot;\" background-size:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><span 12:=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">Day 13: HO CHI MINH - DEPARTURE (B)</span></strong></span></a></strong></strong></strong></strong></h3>
+<p>
+	<strong at=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" is=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" your=\"\\&quot;\\&quot;\"><strong after=\"\\&quot;\\&quot;\" airport=\"\\&quot;\\&quot;\" and=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" breakfast=\"\\&quot;\\&quot;\" checking=\"\\&quot;\\&quot;\" flight=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" luang=\"\\&quot;\\&quot;\" out=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" prabang.=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" the=\"\\&quot;\\&quot;\" to=\"\\&quot;\\&quot;\" transfer=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\" wat=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" palace=\"\\&quot;\\&quot;\" royal=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><a color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" target=\"\\&quot;\\\\&quot;_blank\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" day=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" penh=\"\\&quot;\\&quot;\" phnom=\"\\&quot;\\&quot;\" strong=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong as=\"\\&quot;\\&quot;\" at=\"\\&quot;\\&quot;\" check=\"\\&quot;\\&quot;\" chi=\"\\&quot;\\&quot;\" city=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" dinner=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" font-size:=\"\\&quot;\\&quot;\" for=\"\\&quot;\\&quot;\" gon.=\"\\&quot;\\&quot;\" ho=\"\\&quot;\\&quot;\" hotel=\"\\&quot;\\&quot;\" in=\"\\&quot;\\&quot;\" know=\"\\&quot;\\&quot;\" line-height:=\"\\&quot;\\&quot;\" many=\"\\&quot;\\&quot;\" minh=\"\\&quot;\\&quot;\" p=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\&quot;\" sai=\"\\&quot;\\&quot;\" still=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;margin:\\&quot;\" text-align:=\"\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\&quot;\" font-family:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" span=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;color:\\&quot;\" text-align:=\"\\&quot;\\&quot;\">&nbsp;After breakfast, fee time for shopping, visitting at Ho Chi Minh city. till time transfer to flight departure. Tour end. See you a next trips.</strong></strong></span></a></strong></strong></strong></strong></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='',summary_cn='<p 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</p>
+<p .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 100.000=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 3.300=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 7=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" align=\"\\&quot;\\\\&quot;\\\\\\\\&quot;center\\\\\\\\&quot;\\\\&quot;\\&quot;\" auto=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ba=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" bao=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" border=\"\\&quot;\\\\&quot;\\\\\\\\&quot;0\\\\\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" cellpadding=\"\\&quot;\\\\&quot;\\\\\\\\&quot;3\\\\\\\\&quot;\\\\&quot;\\&quot;\" cellspacing=\"\\&quot;\\\\&quot;\\\\\\\\&quot;0\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;tplCaption\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" m=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" max-width:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" n.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" quay=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" table=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" trong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tuy=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" u=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	&nbsp;</p>
+<br />
+<p a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ba=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" c.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Image\\\\\\\\&quot;\\\\&quot;\\&quot;\" em=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ra=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" trong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" trung=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tung=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" xiaojun=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	Odditycentral.</p>
+<p 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" em=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	The Paper, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 100.000=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" m=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ra=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" trong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" trung=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" u=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" y.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	Xem th&ecirc;m:&nbsp;<a a=\"\\&quot;\\&quot;\" c=\"\\&quot;\\&quot;\" ch=\"\\&quot;\\&quot;\" color:=\"\\&quot;\\&quot;\" href=\"\\\" israel=\"\\&quot;\\&quot;\" ng=\"\\&quot;\\&quot;\" outline:=\"\\&quot;\\&quot;\" padding:=\"\\&quot;\\&quot;\" style=\"\\&quot;\\\\\\\\&quot;margin:\\&quot;\" t=\"\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\&quot;\" trung=\"\\&quot;\\&quot;\"> </a></p>
+',highlights='',highlights_cn='',schedule='<h2 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<span -=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 2=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ba=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" do=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" mong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" o=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" u=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại. </span></h2>
+<table 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" align=\"\\&quot;\\\\&quot;\\\\\\\\&quot;center\\\\\\\\&quot;\\\\&quot;\\&quot;\" auto=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" border=\"\\&quot;\\\\&quot;\\\\\\\\&quot;0\\\\\\\\&quot;\\\\&quot;\\&quot;\" cellpadding=\"\\&quot;\\\\&quot;\\\\\\\\&quot;3\\\\\\\\&quot;\\\\&quot;\\&quot;\" cellspacing=\"\\&quot;\\\\&quot;\\\\\\\\&quot;0\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;tplCaption\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" max-width:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" tbody=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<tbody>
+		<tr line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" td=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+			<td background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Image\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+				Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> Trả lời&nbsp;<em 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 16h=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" c.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ch.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" cho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ngon=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" o=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" song=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng. </em></em>
+				<p 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\&quot;\\\\&quot;\\\\\\\\\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outline:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" xem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+					<em 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><em 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 16h=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" c.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ch.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" cho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Normal\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ngon=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" o=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" song=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	PACKAGE PRICE : USD / PAX</h2>
+<p 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;inner_container\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" display:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" h3=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	TOUR INCLUDED:</p>
+<div 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;inner_container\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" display:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<ul 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\">
+		Accommodation 3* hotels with two persons share twin room
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" all=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" mentioned=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" private=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" services=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfers=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" english=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" every=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" guides=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" service=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" speaking=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" b=\"\\&quot;\\\\&quot;Breakfast,\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" d=\"\\&quot;\\\\&quot;&nbsp;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" h2=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" itinerary=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" l=\"\\&quot;\\\\&quot;Lunch,\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" meals=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" mentioned=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+			&nbsp;</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" domestic=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" international=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Departure taxes if applicable</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" meals=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" mentioned=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" other=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" than=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" those=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Early check-in and late check-out at hotels.</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" expenses=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" personal=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" such=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Tips for local guides and drivers</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" personal=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" travel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Visa</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" h4=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" repeat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" room=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" single=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\">
+			&nbsp;</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" be=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" can=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" changed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" due=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" itinerary=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" levels=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" operating=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tide=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</span></span></li>
+	</ul>
+</div>
+<p>
+	<span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</span></span></p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	Day 01: HA NOI- Arrival (D)</h2>
+<p a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" airport.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" bai=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" center=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" city=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" dinner=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" guide=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hotel.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\&quot;\\\\&quot;\\\\\\\\\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" international=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" mixtourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" overnight=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" warming=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" welcome=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	hotel in Ha Noi.</p>
+<p>
+	&nbsp;</p>
+<h3 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	Day 02: HA NOI CITY TOUR ( B, L, D)</h3>
+<p>
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;and the&nbsp;<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;. Also visit the ancient&nbsp;<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" temple=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</strong></strong></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" temple=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Afternoon</strong>: Visit&nbsp;<strong around=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> <strong at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" city=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" dinner=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" restaurant=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" traditional=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" watching=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong around=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</strong></strong></strong></strong></strong></strong></p>
+<h4 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong around=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Day 3: HA LONG ( B, L, D)</strong></strong></strong></strong></strong></strong></h4>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong around=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\&quot;\\\\&quot;\\\\\\\\\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Ha Long Bay</strong><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> <strong a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" beautiful=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" board=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" boat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" cruise=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" famous=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" islets=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" most=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" palce=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" private=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" such=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" through=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</a></strong></strong></strong></strong></strong></p>
+<p also=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</a></strong><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;and then take 30 minutes<strong and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" around=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" charm=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" considered=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" deeply=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" feel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" heaven=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" island=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" more=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" place=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" that=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tunnels=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" water=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">16:30:&nbsp;</strong><span at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" back=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" pick=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" return=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</span></a></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" back=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" pick=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" return=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</span></a></strong></strong></strong></strong></p>
+<h5 color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" back=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" pick=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" return=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></a></strong></strong></strong></strong></h5>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Morning:</a></strong><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong airport=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" bai=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" flight=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" international=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" til=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" time=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Siem Riep</strong></a></strong></strong></strong></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Afternoon:</a></strong><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;Visit and exploring the&nbsp;<strong .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 13th=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 9th=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" among=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ancient=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" are=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" between=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" constructed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" h6=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" temples=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" unmatched=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> <span 5:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> <strong all=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" best=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" preserved=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" starts=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong angkor=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</span></strong></a></strong></strong></p>
+<p afternoon=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" afternoon:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" enjoy=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" from=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" leisure=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" sunset=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" top=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" view=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" watch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 13th=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 9th=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" among=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ancient=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" are=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" between=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" constructed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" h6=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" temples=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" unmatched=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span 5:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Phnom Bakheng</span></strong></a></strong></strong></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<span 5:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Night:&nbsp;</a></strong><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Overnight at the hotel in Siem Riep</a></strong></span></p>
+<p>
+	<span 5:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</a></strong></span></p>
+<h2 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<span 5:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Day 6: SIEM RIEP ( B, L, D)</a></strong></span></h2>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Morning:</a></strong><a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong 30=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" banteay=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" from=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" km=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</a></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Afternoon:&nbsp;Visit small circuit,&nbsp;<strong by=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" chau=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" giant=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" invaded=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" prohm=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" root=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" say=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" ta=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</a></p>
+<p>
+	<br color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" />
+	<a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Night:<span and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" br=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" dinner=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hotel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" overnight=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" restaurant=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> &nbsp;</span></a></p>
+<h2 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" br=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" dinner=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hotel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" overnight=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" restaurant=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Day 7: SIEM RIEP - PHNOM PENH ( B, L, D)</span></a></h2>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<a .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Morning:&nbsp;After breakfast at the hotel. Checking out, Car and guide Mixtourist pick you up from hotel transfer to the airport for flight to&nbsp;</a><a color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> Arrival at Phnom Penh, welcome by our guide and transfer to hotel. City tour and then visit<strong .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" br=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" for=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hotel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" independent=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" lunch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> <strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Visit&nbsp;<strong and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" national=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" pagoda=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" royal=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" silver=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;and&nbsp;<strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" mekong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" sunset=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" view=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" watching=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;by boat. Dinner at the city restaurant and overnight at the hotel in Phnom Penh<br 0px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" h3=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" />
+	<span 8:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Morning:</span></strong><span 8:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" an=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" can=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" do=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" education=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" government=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" its=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khmer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" murderous=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" people.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" provides=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" regime=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" reminder=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" rouge=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" somber=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" start=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" this=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" visit=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" what=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" with=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Tuol Sleng Genocide Museum</span></span></strong><span 8:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" an=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" can=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" do=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" education=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" government=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" its=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khmer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" murderous=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" people.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" provides=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" regime=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" reminder=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" rouge=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" somber=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" start=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" this=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" visit=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" what=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" with=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 000=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 15=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" avoided=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" being=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" believed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" during=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" fields.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" former=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" high=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" housed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" it=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khmer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" killed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" killing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" less=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" one=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" over=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" people=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" prisoners=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" regime.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" rouge=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" school=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sent=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" survived=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" than=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" that=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" this=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" torture=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" visit=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" were=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" where=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> <strong at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> Night: Overnight at the hotel in Phnom Penh</strong></span></span></span></strong></strong></a></p>
+<p>
+	<a color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" br=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" for=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hotel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" independent=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" lunch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" an=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" can=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" do=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" education=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" government=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" its=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khmer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" murderous=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" people.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" provides=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" regime=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" reminder=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" rouge=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" somber=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" start=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" this=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" visit=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" what=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" with=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 000=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" 15=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" avoided=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" being=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" believed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" during=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" fields.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" former=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" high=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" housed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" it=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khmer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" killed=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" killing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" less=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" one=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" over=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" people=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" prisoners=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" regime.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" rouge=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" school=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sent=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" survived=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" than=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" that=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" this=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" torture=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" visit=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" were=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" where=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</strong></span></span></span></strong></strong></a></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<br afternoon=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" h5=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" night=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" />
+	<strong .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" br=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" for=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hotel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" independent=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" lunch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong after=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" airport=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" breakfast=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" checking=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" flight=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" for=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" luang=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" out=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" prabang.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a center=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" luang=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span 10:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" luang=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" prabang=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Today, enjoy a full day of sightseeing in this Unesco World Heritage Site. Visit&nbsp;</span><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">, the&nbsp;</strong></a></strong><strong after=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" airport=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" breakfast=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" checking=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" flight=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" for=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" luang=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" out=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" prabang.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a center=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" luang=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" palace=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" royal=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;(closed Tuesdays), and a local village to see silk weaving and rice papermaking demonstrations.</strong></strong></a></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong after=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" airport=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" breakfast=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" checking=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" flight=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" for=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" luang=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" out=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" prabang.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" palace=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" royal=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><a color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;_blank\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong .=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" br=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" for=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" hotel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" independent=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" lunch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" wat=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;color:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span 8:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" an=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" can=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" do=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" education=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" government=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" its=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khmer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" murderous=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" people.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" provides=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" regime=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" reminder=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" rouge=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" somber=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" start=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" this=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" visit=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" what=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" with=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">Night:</span></span></strong><span 8:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" penh=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" phnom=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"><span a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" an=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" can=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" do=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" education=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" government=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" is=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" its=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" khmer=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" murderous=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" people.=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" provides=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" regime=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" reminder=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" rouge=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" somber=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" start=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" this=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" visit=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" what=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" with=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;Dinner at city restaurant, Overnight at the hotel in Luang Prabang</span></span></strong></a></strong></strong></strong></strong></p>
+<p br=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\">
+	&nbsp;</p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Car',vehicle_cn='汽车',hotel='4',summary='<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	<span style=\"margin: 0px; padding: 0px;\">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;\">
+	<tbody style=\"margin: 0px; padding: 0px;\">
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<img alt=\"khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang\" data-natural-width=\"500\" data-pwidth=\"470.40625\" data-width=\"500\" src=\"http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg\" style=\"margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;\" /></td>
+		</tr>
+		<tr style=\"margin: 0px; padding: 0px;\">
+			<td style=\"margin: 0px; padding: 0px; line-height: 0;\">
+				<p class=\"Image\" style=\"margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);\">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style=\"margin: 0px; padding: 0px;\">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Trả lời&nbsp;<em style=\"margin: 0px; padding: 0px;\">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class=\"Normal\" style=\"margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;\">
+	Xem th&ecirc;m:&nbsp;<a href=\"http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html\" style=\"margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',summary_cn='<p 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</p>
+<p .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 100.000=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 3.300=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 7=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" align=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;center\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" auto=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ba=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" bao=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" border=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;0\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" cellpadding=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;3\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" cellspacing=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;0\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;tplCaption\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" m=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" max-width:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" n.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" quay=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" table=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" trong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tuy=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" u=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	&nbsp;</p>
+<br />
+<p a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ba=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" c.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Image\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" em=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ra=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" trong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" trung=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tung=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" xiaojun=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	Odditycentral.</p>
+<p 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" em=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	The Paper, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 100.000=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" m=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ra=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" trong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" trung=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" u=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" y.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	Xem th&ecirc;m:&nbsp;<a a=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" israel=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" outline:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\" trung=\"\\&quot;\\\\&quot;\\\\&quot;\\&quot;\"> </a></p>
+',highlights='',highlights_cn='',schedule='<h2 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<span -=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 2=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ba=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" do=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" mong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" o=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" u=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại. </span></h2>
+<table 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" align=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;center\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" auto=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" border=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;0\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" cellpadding=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;3\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" cellspacing=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;0\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;tplCaption\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" max-width:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" tbody=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<tbody>
+		<tr line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" td=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			<td background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Image\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+				Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"> Trả lời&nbsp;<em 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 16h=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" c.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" cho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" khi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ngon=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" o=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" song=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"> Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng. </em></em>
+				<p 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outline:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" xem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+					<em 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><em 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 16h=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" c=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" c.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ch.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" cho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;Normal\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" i=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" khi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" liu=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" n=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ng=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ngon=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" nh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" o=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" song=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" t=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-rendering:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" thanh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" y=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	PACKAGE PRICE : USD / PAX</h2>
+<p 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;inner_container\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" display:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" h3=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	TOUR INCLUDED:</p>
+<div 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;inner_container\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" display:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" width:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<ul 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+		Accommodation 3* hotels with two persons share twin room
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" all=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" mentioned=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" private=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" services=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" transfers=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			Services of a private driver and air-conditioned vehicles</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" english=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" every=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" guides=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" service=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" speaking=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			Entrance fees for all mentioned sights visited</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" b=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Breakfast,\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" d=\"\\&quot;\\\\&quot;\\\\\\\\&quot;&nbsp;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" h2=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" itinerary=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" l=\"\\&quot;\\\\&quot;\\\\\\\\&quot;Lunch,\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" meals=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" mentioned=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			&nbsp;</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" domestic=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" international=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Departure taxes if applicable</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" meals=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" mentioned=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" other=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" than=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" those=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Early check-in and late check-out at hotels.</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" as=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" expenses=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" personal=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" such=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Tips for local guides and drivers</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" personal=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" travel=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Visa</span></li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" h4=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" room=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" single=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			&nbsp;</li>
+		<li 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 6px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" azbooking.vn=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" be=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" can=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" changed=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" due=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" http:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" images=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" itinerary=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" left=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" levels=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" li=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" no-repeat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" none=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" operating=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" outside=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" scroll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tide=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+			<span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Special request (diet or vegetarian, &hellip;) should be sent before your departure date.</span></span></li>
+	</ul>
+</div>
+<p>
+	<span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" tour=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><span color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" list-style:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-left:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding-right:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" ul=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</span></span></p>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	Day 01: HA NOI- Arrival (D)</h2>
+<p a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" airport.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" bai=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" center=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" check=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" city=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" dinner=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" guide=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" hotel.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\\\\\\\\\&quot;\\\\&quot;\\&quot;\" in=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" international=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" mixtourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" overnight=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" restaurant.=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" warming=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" welcome=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	hotel in Ha Noi.</p>
+<p>
+	&nbsp;</p>
+<h3 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	Day 02: HA NOI CITY TOUR ( B, L, D)</h3>
+<p>
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;the father of modern Vietnam. First, visit the&nbsp;<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;and the&nbsp;<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;. Also visit the ancient&nbsp;<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" temple=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">over 900 years old and Hanoi&rsquo;s first university. Lunch at city restaurant with Vietnam cuisine</strong></strong></strong></strong></strong></strong></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" temple=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Afternoon</strong>: Visit&nbsp;<strong around=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"> <strong at=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" city=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" dinner=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" restaurant=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" traditional=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" watching=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong around=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</strong></strong></strong></strong></strong></strong></p>
+<h4 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong around=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Day 3: HA LONG ( B, L, D)</strong></strong></strong></strong></strong></strong></h4>
+<p color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong around=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" by=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" go=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" hoan=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" kiem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ngoc=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" son=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Ha Long Bay</strong><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"> <strong a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" beautiful=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" board=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" boat=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" cruise=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" famous=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" islets=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" most=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" palce=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" private=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" such=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" through=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Cock Fighting, Dinh Huong Islet</strong>&nbsp;while enjoying fresh seafood lunch ( on boat)</a></strong></strong></strong></strong></strong></p>
+<p also=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" presidential=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</a></strong><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;and then take 30 minutes<strong and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" around=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" charm=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" considered=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" deeply=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" feel=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" heaven=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" island=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" more=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" place=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" that=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tunnels=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" water=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">16:30:&nbsp;</strong><span at=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" back=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" pick=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" return=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"> Night: 19.00 ( Local time) to Ha Noi. Dinner at city restaurant then recheck hotel for relax. Night in Ha Noi</span></a></strong></strong></strong></strong></p>
+<p>
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><span at=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" back=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" pick=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" return=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</span></a></strong></strong></strong></strong></p>
+<h5 color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><span at=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" back=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" car=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" pick=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" return=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" then=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" you=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</span></a></strong></strong></strong></strong></h5>
+<p color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minh=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Morning:</a></strong><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;After breakfast. free leisure at hotel or fee time shopping at&nbsp;<strong airport=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" bai=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" flight=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" international=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" noi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" old=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" til=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" time=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" transfer=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Siem Riep</strong></a></strong></strong></strong></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Afternoon:</a></strong><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;Visit and exploring the&nbsp;<strong .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 13th=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 9th=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" among=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ancient=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" are=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" between=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" constructed=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" h6=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" temples=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" unmatched=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"> <span 5:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"> <strong all=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" best=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" preserved=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" sightseeing=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" starts=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Angkor Wat</strong>, which honors the Hindu god Vishna. Next stop is&nbsp;<strong angkor=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" to=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</span></strong></a></strong></strong></p>
+<p afternoon=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" afternoon:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" at=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" enjoy=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" from=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" leisure=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" sunset=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" top=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" view=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" watch=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" your=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 13th=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 9th=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" among=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ancient=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" and=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" are=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" between=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" constructed=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" h6=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" s=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" temples=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" unmatched=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><span 5:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Phnom Bakheng</span></strong></a></strong></strong></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<span 5:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong chi=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ho=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Night:&nbsp;</a></strong><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Overnight at the hotel in Siem Riep</a></strong></span></p>
+<p>
+	<span 5:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;</a></strong></span></p>
+<h2 0px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 17px=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-attachment:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-clip:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-image:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-origin:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-position:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-repeat:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" background-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-stretch:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<span 5:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" day=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" riep=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Day 6: SIEM RIEP ( B, L, D)</a></strong></span></h2>
+<p color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<strong color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" span=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;color:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\"><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Morning:</a></strong><a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">&nbsp;After breakfast at the hotel travel by vehicle to&nbsp;<strong 30=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" banteay=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" from=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" km=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" siem=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\">citadel of women and Banteay Samre temple.</strong>&nbsp;Lunch at local restaurant</a></p>
+<p color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">
+	<a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Afternoon:&nbsp;Visit small circuit,&nbsp;<strong by=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" chau=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" giant=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" invaded=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" of=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" prohm=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" root=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" say=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" ta=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Banteay Kdei ,Kravan temple and Sras Srang</strong>.</a></p>
+<p>
+	<br color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" strong=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" />
+	<a .=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" 20=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" a=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" about=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" arriving=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" before=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" break=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" color:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-family:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" font-size:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ha=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" half=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" have=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" href=\"\\\" line-height:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" ll=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" long=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" minute=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" on=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" p=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" padding:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" short=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" style=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;margin:\\\\\\\\&quot;\\\\&quot;\\&quot;\" target=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\\\\\\\\\&quot;_blank\\\\\\\\\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-align:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" text-decoration:=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" the=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" tourist=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" way=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\" wharf=\"\\&quot;\\\\&quot;\\\\\\\\&quot;\\\\\\\\&quot;\\\\&quot;\\&quot;\">Night:</a></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Cardfgsd',vehicle_cn='汽车',hotel='4',summary='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',summary_cn='<p -="" .="\" 0px="\" 100.000="\" 2="" 3.300="\" 7="\" a="\" align="\" auto="\" ba="\" bao="\" border="\" c="\" cellpadding="\" cellspacing="\" ch="\" class="\" color:="\" do="" font-family:="\" font-size:="\" i="\" line-height:="\" liu="" m="\" max-width:="\" mong="" n="\" n.="\" ng="\" nh="\" o="" p="" padding:="\" quay="\" span="\" style="\" t="\" table="\" text-rendering:="\" thanh="\" trong="\" tuy="\" u="\" width:="\" y="">
+	&nbsp;</p>
+<br />
+<p 0px="\" a="\" ba="\" background:="\" c.="\" class="\" color:="\" em="\" font-family:="\" font-size:="\" font-stretch:="\" i="\" line-height:="\" liu="\" n="\" ng="\" p="" padding:="\" ra="\" style="\" t="\" text-rendering:="\" trong="\" trung="\" tung="\" xiaojun="\">
+	The Paper, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p 0px="\" 100.000="\" a="\" c="\" ch="\" class="\" color:="\" font-family:="\" font-size:="\" href="\" i="\" israel="\" line-height:="\" m="\" n="\" ng="\" nh="\" outline:="\" p="\" padding:="\" ra="\" style="\" t="\" text-decoration:="\" text-rendering:="\" trong="\" trung="\" u="\" xem="" y="\" y.="\">
+	&nbsp;</p>
+',highlights='',highlights_cn='',schedule='<h2 -="\" .="\" 0px="\" 17px="\" 2="\" ba="\" background-attachment:="\" background-clip:="\" background-image:="\" background-origin:="\" background-position:="\" background-repeat:="\" background-size:="\" ch="\" class="\" color:="\" do="\" font-family:="\" font-size:="\" font-stretch:="\" i="\" line-height:="\" liu="\" mong="\" n="\" ng="\" nh="\" o="\" p="\" padding:="\" span="" style="\" t="\" text-align:="\" text-rendering:="\" thanh="\" u="\" y="\">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</h2>
+<p>
+	Trả lời&nbsp;<em 0px="\" 100.000="" 16h="\" a="\" c="" c.="\" ch="" ch.="\" cho="\" class="\" color:="\" font-family:="\" font-size:="\" href="\" i="" khi="\" line-height:="\" liu="\" m="" n="" ng="" ng.="" ngon="\" nh="" o="\" outline:="\" p="" padding:="\" ra="" song="\" style="\" t="" text-decoration:="\" text-rendering:="\" thanh="\" the="\" trong="" trung="" u="" xem="\" y="" y.=""> <em 0px="\" 16h="\" a="\" c="\" c.="\" ch="\" ch.="\" cho="\" class="\" color:="\" em="" font-family:="\" font-size:="\" i="\" khi="\" line-height:="\" liu="\" n="\" ng="\" ngon="\" nh="\" o="\" p="\" padding:="\" song="\" style="\" t="\" text-rendering:="\" thanh="\" the="\" y="\">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+<table 0px="\" align="\" auto="\" border="\" cellpadding="\" cellspacing="\" class="\" color:="\" font-family:="\" font-size:="\" line-height:="\" max-width:="\" padding:="\" style="\" tbody="\" td="\" tr="" width:="\">
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px="\" 17px="\" 6px="\" :="" azbooking.vn="\" background-attachment:="\" background-clip:="\" background-image:="\" background-origin:="\" background-position:="\" background-repeat:="\" background-size:="\" background:="\" class="\" color:="\" display:="\" div="" font-family:="\" font-size:="\" font-stretch:="\" h3="\" http:="\" images="\" left="\" li="\" line-height:="\" list-style:="\" no-repeat="\" none="\" outside="\" p="" package="" padding-left:="\" padding-right:="\" padding:="\" price="" scroll="\" span="\" style="\" text-align:="\" tour="" ul="" usd="" width:="\">
+	Accommodation 3* hotels with two persons share twin room</h2>
+<ul>
+	<li 0px="\" 6px="\" a="" air-conditioned="" all="\" and="" as="\" azbooking.vn="\" background:="\" driver="" english="\" every="\" guides="\" http:="\" images="\" in="\" left="\" li="\" list-style:="\" mentioned="\" no-repeat="\" none="\" of="\" outside="\" padding:="\" private="" scroll="\" service="\" services="" speaking="\" style="\" the="\" transfers="\">
+		Entrance fees for all mentioned sights visited</li>
+	<li 0px="\" 17px="\" 6px="\" and="\" as="\" azbooking.vn="\" b="\" background:="\" color:="\" d="\" domestic="\" font-size:="\" font-stretch:="\" h2="\" http:="\" images="\" in="\" international="\" itinerary="\" l="\" left="\" li="\" line-height:="\" list-style:="\" meals="\" mentioned="\" no-repeat="\" none="\" outside="\" padding:="\" repeat="\" scroll="\" style="\" the="\">
+		<span 0px="\" 6px="\" azbooking.vn="\" background:="\" color:="\" departure="" font-size:="\" http:="\" if="" images="\" in="\" left="\" li="\" list-style:="\" meals="\" mentioned="\" no-repeat="\" none="\" other="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" scroll="\" style="\" taxes="" than="\" the="\" those="\" tour="\" ul="\"><span 0px="\" 6px="\" and="" as="\" at="" azbooking.vn="\" background:="\" check-in="" check-out="" color:="\" early="" expenses="\" font-size:="\" http:="\" images="\" late="" left="\" li="\" list-style:="\" no-repeat="\" none="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" personal="\" scroll="\" style="\" such="\" tour="\" ul="\"><span 0px="\" 6px="\" and="" azbooking.vn="\" background:="\" color:="\" font-size:="\" for="" guides="" http:="\" images="\" left="\" li="\" list-style:="\" local="" no-repeat="\" none="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" personal="\" scroll="\" style="\" tips="" tour="\" travel="\" ul="\"><span 0px="\" 17px="\" 6px="\" azbooking.vn="\" background:="\" color:="\" font-size:="\" font-stretch:="\" h4="\" http:="\" images="\" left="\" li="" line-height:="\" list-style:="\" no-repeat="\" none="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" repeat="\" room="\" scroll="\" single="\" style="\" tour="\" ul="\">&nbsp;</span></span></span></span></li>
+	<li 0px="\" 6px="\" and="\" azbooking.vn="\" background:="\" be="\" can="\" changed="\" color:="\" due="\" font-size:="\" http:="\" images="\" itinerary="\" left="\" levels="\" li="\" list-style:="\" no-repeat="\" none="\" operating="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" scroll="\" span="" style="\" the="\" tide="\" to="\" tour="\" ul="\">
+		<span 0px="\" 6px="\" azbooking.vn="\" background:="\" color:="\" departure="" font-size:="\" http:="\" if="" images="\" in="\" left="\" li="\" list-style:="\" meals="\" mentioned="\" no-repeat="\" none="\" other="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" scroll="\" style="\" taxes="" than="\" the="\" those="\" tour="\" ul="\"><span 0px="\" 6px="\" and="" as="\" at="" azbooking.vn="\" background:="\" check-in="" check-out="" color:="\" early="" expenses="\" font-size:="\" http:="\" images="\" late="" left="\" li="\" list-style:="\" no-repeat="\" none="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" personal="\" scroll="\" style="\" such="\" tour="\" ul="\"><span 0px="\" 6px="\" and="" azbooking.vn="\" background:="\" color:="\" font-size:="\" for="" guides="" http:="\" images="\" left="\" li="\" list-style:="\" local="" no-repeat="\" none="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" personal="\" scroll="\" style="\" tips="" tour="\" travel="\" ul="\"><span 0px="\" 17px="\" 6px="\" azbooking.vn="\" background:="\" color:="\" font-size:="\" font-stretch:="\" h4="\" http:="\" images="\" left="\" li="" line-height:="\" list-style:="\" no-repeat="\" none="\" outside="\" padding-left:="\" padding-right:="\" padding:="\" repeat="\" room="\" scroll="\" single="\" style="\" tour="\" ul="\"><span be="" before="" color:="\" departure="" diet="" font-size:="\" list-style:="\" or="" padding-left:="\" padding-right:="\" padding:="\" request="" sent="" should="" span="" special="" style="\" tour="\" ul="\" your="">&lt;span color:=&quot;\&quot; \\&quot;\\\\&quot;\\\\&quot;\\&quot;\&quot;&quot;=&quot;&quot; font-size:=&quot;\&quot; list-style:=&quot;\&quot; padding-left:=&quot;\&quot; padding-right:=&quot;\&quot; padding:=&quot;\&quot; style=&quot;\&quot; \\&quot;\\\\&quot;\\\\\\\\&quot;margin:\\\\&quot;\\&quot;\&quot;&quot;=&quot;&quot; ul=&quot;\&quot;&gt;&nbsp;</span></span> </span></span></span></li>
+</ul>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 01:="" 0px="\" 17px="\" a="\" airport.="\" and="\" arrival="" at="\" background-attachment:="\" background-clip:="\" background-image:="\" background-origin:="\" background-position:="\" background-repeat:="\" background-size:="\" bai="\" car="\" center="\" check="\" city="\" color:="\" day="" dinner="\" font-family:="\" font-size:="\" font-stretch:="\" guide="\" ha="" hotel.="\" href="\" in="\" international="\" line-height:="\" mixtourist="\" noi="\" noi-="" overnight="\" p="" padding:="\" restaurant.="\" span="\" style="\" target="\" text-align:="\" text-decoration:="\" transfer="\" warming="\" welcome="\" you="\">
+	hotel in Ha Noi.</h2>
+<p>
+	&nbsp;</p>
+<h3 02:="" 0px="\" 17px="\" background-attachment:="\" background-clip:="\" background-image:="\" background-origin:="\" background-position:="\" background-repeat:="\" background-size:="\" city="" color:="\" day="" font-family:="\" font-size:="\" font-stretch:="\" ha="" line-height:="\" noi="" padding:="\" span="\" strong="" style="\" text-align:="\" tour="">
+	&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi="\" color:="\" father="" font-family:="\" ho="\" modern="" of="" padding:="\" span="\" strong="" style="\" text-align:="\" the="" vietnam.="" visit="">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong and="" chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" presidential="\" span="\" strong="" style="\" text-align:="\">&nbsp;. Also visit the ancient&nbsp;<strong 900="" and="" at="" city="" color:="\" first="" font-family:="\" font-size:="\" line-height:="\" lunch="" of="\" old="" over="" p="" padding:="\" restaurant="" s="" span="\" strong="\" style="\" temple="\" text-align:="\" university.="" vietnam="" with="" years=""> <strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong color:="\" font-family:="\" of="\" padding:="\" presidential="\" span="\" strong="" style="\" temple="\" text-align:="\">Afternoon</strong>: Visit&nbsp;<strong around="\" at="\" by="\" city="\" color:="\" dinner="\" font-family:="\" font-size:="\" go="\" ha="\" hoan="\" kiem="\" line-height:="\" ngoc="\" noi="\" old="\" p="\" padding:="\" restaurant="\" son="\" strong="\" style="\" text-align:="\" then="\" traditional="\" watching="\">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></h3>
+<p>
+	<strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong around="\" by="\" color:="\" font-family:="\" font-size:="\" go="\" ha="\" hoan="\" kiem="\" line-height:="\" ngoc="\" noi="\" old="\" p="\" padding:="\" presidential="\" son="\" span="\" strong="" style="\" text-align:="\">&nbsp;</strong></strong></strong></p>
+<h4 0px="\" 17px="\" background-attachment:="\" background-clip:="\" background-image:="\" background-origin:="\" background-position:="\" background-repeat:="\" background-size:="\" color:="\" font-family:="\" font-size:="\" font-stretch:="\" line-height:="\" padding:="\" span="\" strong="" style="\" text-align:="\">
+	<strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" presidential="\" span="\" strong="" style="\" text-align:="\"><strong 3:="" around="\" by="\" color:="\" day="" font-family:="\" font-size:="\" go="\" ha="" hoan="\" kiem="\" line-height:="\" long="" ngoc="\" noi="\" old="\" p="" padding:="\" son="\" strong="\" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong around="\" by="\" color:="\" font-family:="\" font-size:="\" go="\" ha="\" hoan="\" kiem="\" line-height:="\" ngoc="\" noi="\" old="\" p="\" padding:="\" presidential="\" son="\" span="\" strong="" style="\" text-align:="\">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong .="\" 20="\" a="\" about="\" arriving="\" before="\" break="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" href="\" line-height:="\" ll="\" long="\" minute="\" on="\" p="\" padding:="\" short="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" tourist="\" way="\" wharf="\"> <strong a="\" also="\" and="\" beautiful="\" board="\" boat="\" cock="" color:="\" cruise="\" dinh="" enjoying="" famous="\" font-family:="\" font-size:="\" fresh="" huong="" islets="\" line-height:="\" ll="\" lunch="" most="\" of="\" on="" p="" padding:="\" palce="\" private="\" seafood="" strong="\" style="\" such="\" text-align:="\" the="\" through="\" while=""> <strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong .="\" 20="\" a="\" about="\" arriving="\" before="\" break="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" href="\" line-height:="\" ll="\" long="\" minute="\" on="\" p="\" padding:="\" presidential="\" short="\" span="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" tourist="\" way="\" wharf="\">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong><a .="\" 20="\" 30="" a="\" about="\" and="\" around="\" arriving="\" before="\" break="\" charm="\" color:="\" considered="\" deeply="\" feel="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" heaven="\" href="\" island="\" line-height:="\" ll="\" long="\" minute="\" more="\" of="\" on="\" p="\" padding:="\" place="\" short="\" strong="\" style="\" take="" target="\" text-align:="\" text-decoration:="\" that="\" the="\" then="" to="\" tourist="\" tunnels="\" water="\" way="\" wharf="\">16:30:&nbsp;</a></strong><a .="\" 20="\" 30="" a="\" about="\" and="\" around="\" arriving="\" before="\" break="\" charm="\" color:="\" considered="\" deeply="\" feel="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" heaven="\" href="\" island="\" line-height:="\" ll="\" long="\" minute="\" more="\" of="\" on="\" p="\" padding:="\" place="\" short="\" strong="\" style="\" take="" target="\" text-align:="\" text-decoration:="\" that="\" the="\" then="" to="\" tourist="\" tunnels="\" water="\" way="\" wharf="\"><span 19.00="" at="" back="\" car="\" city="" color:="\" dinner="" font-family:="\" font-size:="\" for="" ha="" hotel="" in="" line-height:="\" ll="\" local="" long="\" night="" night:="" noi.="" p="\" padding:="\" pick="\" recheck="" relax.="" restaurant="" return="\" span="\" strong="" style="\" text-align:="\" then="" to="" tourist="\" wharf="\" you="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong .="\" 20="\" a="\" about="\" arriving="\" before="\" break="\" chi="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" ho="\" href="\" line-height:="\" ll="\" long="\" minh="\" minute="\" on="\" p="\" padding:="\" short="\" span="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" tourist="\" way="\" wharf="\"><span at="\" back="\" car="\" color:="\" font-family:="\" font-size:="\" font-stretch:="\" h5="" ha="\" line-height:="\" ll="\" long="\" p="\" padding:="\" pick="\" return="\" span="\" style="\" text-align:="\" then="\" to="\" tourist="\" wharf="\" you="\"> </span></strong></strong></span></a><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong .="\" 20="\" a="\" about="\" arriving="\" before="\" break="\" chi="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" ho="\" href="\" line-height:="\" ll="\" long="\" minh="\" minute="\" on="\" p="\" padding:="\" short="\" span="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" tourist="\" way="\" wharf="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" span="\" strong="" style="\" text-align:="\"><a .="\" 20="\" a="\" about="\" arriving="\" at="\" back="\" before="\" break="\" car="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" href="\" line-height:="\" ll="\" long="\" minute="\" on="\" p="\" padding:="\" pick="\" return="\" short="\" span="" style="\" target="\" text-align:="\" text-decoration:="\" the="\" then="\" to="\" tourist="\" way="\" wharf="\" you="\">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</a></strong></strong></strong></strong> </strong></strong></strong></strong></strong></strong></strong></strong></h4>
+<p color:="\" font-family:="\" font-size:="\" line-height:="\" padding:="\" span="\" strong="" style="\" text-align:="\">
+	<strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" presidential="\" span="\" strong="" style="\" text-align:="\"><strong 3:="" around="\" by="\" color:="\" day="" font-family:="\" font-size:="\" go="\" ha="" hoan="\" kiem="\" line-height:="\" long="" ngoc="\" noi="\" old="\" p="" padding:="\" son="\" strong="\" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong .="\" 20="\" a="\" about="\" arriving="\" before="\" break="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" href="\" line-height:="\" ll="\" long="\" minute="\" on="\" p="\" padding:="\" short="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" tourist="\" way="\" wharf="\"><strong a="\" also="\" and="\" beautiful="\" board="\" boat="\" cock="" color:="\" cruise="\" dinh="" enjoying="" famous="\" font-family:="\" font-size:="\" fresh="" huong="" islets="\" line-height:="\" ll="\" lunch="" most="\" of="\" on="" p="" padding:="\" palce="\" private="\" seafood="" strong="\" style="\" such="\" text-align:="\" the="\" through="\" while=""><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><a .="\" 20="\" 30="" a="\" about="\" and="\" around="\" arriving="\" before="\" break="\" charm="\" color:="\" considered="\" deeply="\" feel="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" heaven="\" href="\" island="\" line-height:="\" ll="\" long="\" minute="\" more="\" of="\" on="\" p="\" padding:="\" place="\" short="\" strong="\" style="\" take="" target="\" text-align:="\" text-decoration:="\" that="\" the="\" then="" to="\" tourist="\" tunnels="\" water="\" way="\" wharf="\"><span 19.00="" at="" back="\" car="\" city="" color:="\" dinner="" font-family:="\" font-size:="\" for="" ha="" hotel="" in="" line-height:="\" ll="\" local="" long="\" night="" night:="" noi.="" p="\" padding:="\" pick="\" recheck="" relax.="" restaurant="" return="\" span="\" strong="" style="\" text-align:="\" then="" to="" tourist="\" wharf="\" you="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong .="\" 20="\" a="\" about="\" arriving="\" before="\" break="\" chi="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" ho="\" href="\" line-height:="\" ll="\" long="\" minh="\" minute="\" on="\" p="\" padding:="\" short="\" span="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" tourist="\" way="\" wharf="\">Morning:</strong></strong></span></a><span 19.00="" at="" back="\" car="\" city="" color:="\" dinner="" font-family:="\" font-size:="\" for="" ha="" hotel="" in="" line-height:="\" ll="\" local="" long="\" night="" night:="" noi.="" p="\" padding:="\" pick="\" recheck="" relax.="" restaurant="" return="\" span="\" strong="" style="\" text-align:="\" then="" to="" tourist="\" wharf="\" you="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><a .="\" 20="\" a="\" about="\" after="" airport="\" arriving="\" at="" bai="\" before="\" break="\" breakfast.="" color:="\" fee="" flight="\" font-family:="\" font-size:="\" free="" ha="\" half="\" have="\" hotel="" href="\" international="\" leisure="" line-height:="\" ll="\" long="\" minute="\" noi="\" old="\" on="\" or="" p="\" padding:="\" shopping="" short="\" strong="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" til="\" time="\" to="\" tourist="\" transfer="\" way="\" wharf="\">Siem Riep</a></strong></span></strong></strong></strong></strong></strong></strong></strong></strong></p>
+<p color:="\" font-family:="\" font-size:="\" line-height:="\" padding:="\" span="\" strong="" style="\" text-align:="\">
+	<span 19.00="" at="" back="\" car="\" city="" color:="\" dinner="" font-family:="\" font-size:="\" for="" ha="" hotel="" in="" line-height:="\" ll="\" local="" long="\" night="" night:="" noi.="" p="\" padding:="\" pick="\" recheck="" relax.="" restaurant="" return="\" span="\" strong="" style="\" text-align:="\" then="" to="" tourist="\" wharf="\" you="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" presidential="\" span="\" strong="" style="\" text-align:="\"><strong 3:="" around="\" by="\" color:="\" day="" font-family:="\" font-size:="\" go="\" ha="" hoan="\" kiem="\" line-height:="\" long="" ngoc="\" noi="\" old="\" p="" padding:="\" son="\" strong="\" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" minh="\" padding:="\" span="\" strong="" style="\" text-align:="\"><strong chi="\" color:="\" font-family:="\" ho="\" padding:="\" span="\" strong="" style="\" text-align:="\"><a .="\" 20="\" a="\" about="\" arriving="\" before="\" break="\" color:="\" font-family:="\" font-size:="\" ha="\" half="\" have="\" href="\" line-height:="\" ll="\" long="\" minute="\" on="\" p="\" padding:="\" short="\" style="\" target="\" text-align:="\" text-decoration:="\" the="\" tourist="\" way="\" wharf="\">&nbsp;Visit and exploring the&nbsp;<strong .="\" 13th="\" 5:="\" 9th="\" among="\" ancient="\" and="\" are="\" between="\" color:="\" constructed="\" day="\" font-family:="\" font-size:="\" font-stretch:="\" h6="\" line-height:="\" of="\" p="\" padding:="\" riep="\" s="\" siem="\" span="" style="\" temples="\" text-align:="\" the="\" unmatched="\"> <strong all="\" angkor="\" at="\" best="\" god="" hindu="" honors="" next="" of="\" padding:="\" preserved="\" sightseeing="\" starts="\" stop="" strong="\" style="\" the="" to="\" vishna.="" which="" your="\">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</strong></a></strong></strong></strong></strong></strong></strong></span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Cardfgsd',vehicle_cn='汽车',hotel='4',summary='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',summary_cn='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights='',highlights_cn='',schedule='<h2 -="" .="" 0px="" 17px="" 2="" ba="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" ch="" color:="" do="" font-family:="" font-size:="" font-stretch:="" i="" line-height:="" liu="" mong="" n="" ng="" nh="" o="" p="" padding:="" span="" style="" t="" text-align:="" text-rendering:="" thanh="" u="" y="">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</h2>
+<p>
+	Trả lời&nbsp;<em 0px="" 100.000="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" font-family:="" font-size:="" href="" i="" khi="" line-height:="" liu="" m="" n="" ng="" ng.="" ngon="" nh="" o="" outline:="" p="" padding:="" ra="" song="" style="" t="" text-decoration:="" text-rendering:="" thanh="" the="" trong="" trung="" u="" xem="" y="" y.=""> <em 0px="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" em="" font-family:="" font-size:="" i="" khi="" line-height:="" liu="" n="" ng="" ngon="" nh="" o="" p="" padding:="" song="" style="" t="" text-rendering:="" thanh="" the="" y="">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+<table 0px="" align="" auto="" border="" cellpadding="" cellspacing="" color:="" font-family:="" font-size:="" line-height:="" max-width:="" padding:="" style="" tbody="" td="" tr="" width:="">
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px="" 17px="" 6px="" :="" azbooking.vn="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" background:="" color:="" display:="" div="" font-family:="" font-size:="" font-stretch:="" h3="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" p="" package="" padding-left:="" padding-right:="" padding:="" price="" scroll="" span="" style="" text-align:="" tour="" ul="" usd="" width:="">
+	Accommodation 3* hotels with two persons share twin room</h2>
+<ul>
+	<li 0px="" 6px="" a="" air-conditioned="" all="" and="" as="" azbooking.vn="" background:="" driver="" english="" every="" guides="" http:="" images="" in="" left="" li="" list-style:="" mentioned="" no-repeat="" none="" of="" outside="" padding:="" private="" scroll="" service="" services="" speaking="" style="" the="" transfers="">
+		Entrance fees for all mentioned sights visited</li>
+	<li 0px="" 17px="" 6px="" and="" as="" azbooking.vn="" b="" background:="" color:="" d="" domestic="" font-size:="" font-stretch:="" h2="" http:="" images="" in="" international="" itinerary="" l="" left="" li="" line-height:="" list-style:="" meals="" mentioned="" no-repeat="" none="" outside="" padding:="" repeat="" scroll="" style="" the="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul="">&nbsp;</span></span></span></span></li>
+	<li 0px="" 6px="" and="" azbooking.vn="" background:="" be="" can="" changed="" color:="" due="" font-size:="" http:="" images="" itinerary="" left="" levels="" li="" list-style:="" no-repeat="" none="" operating="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" span="" style="" the="" tide="" to="" tour="" ul="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul=""><span be="" before="" color:="" departure="" diet="" font-size:="" list-style:="" or="" padding-left:="" padding-right:="" padding:="" request="" sent="" should="" span="" special="" style="" tour="" ul="" your="">&lt;span color:=&quot;&quot; \&quot;\\&quot;\\&quot;\&quot;&quot;&quot;=&quot;&quot; font-size:=&quot;&quot; list-style:=&quot;&quot; padding-left:=&quot;&quot; padding-right:=&quot;&quot; padding:=&quot;&quot; style=&quot;&quot; \&quot;\\&quot;\\\\&quot;margin:\\&quot;\&quot;&quot;&quot;=&quot;&quot; ul=&quot;&quot;&gt;&nbsp;</span></span> </span></span></span></li>
+</ul>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 01:="" 0px="" 17px="" a="" airport.="" and="" arrival="" at="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" bai="" car="" center="" check="" city="" color:="" day="" dinner="" font-family:="" font-size:="" font-stretch:="" guide="" ha="" hotel.="" href="" in="" international="" line-height:="" mixtourist="" noi="" noi-="" overnight="" p="" padding:="" restaurant.="" span="" style="" target="" text-align:="" text-decoration:="" transfer="" warming="" welcome="" you="">
+	hotel in Ha Noi.</h2>
+<p>
+	&nbsp;</p>
+<h3 02:="" 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" city="" color:="" day="" font-family:="" font-size:="" font-stretch:="" ha="" line-height:="" noi="" padding:="" span="" strong="" style="" text-align:="" tour="">
+	&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi="" color:="" father="" font-family:="" ho="" modern="" of="" padding:="" span="" strong="" style="" text-align:="" the="" vietnam.="" visit="">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong and="" chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:="">&nbsp;. Also visit the ancient&nbsp;<strong 900="" and="" at="" city="" color:="" first="" font-family:="" font-size:="" line-height:="" lunch="" of="" old="" over="" p="" padding:="" restaurant="" s="" span="" strong="" style="" temple="" text-align:="" university.="" vietnam="" with="" years=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong color:="" font-family:="" of="" padding:="" presidential="" span="" strong="" style="" temple="" text-align:="">Afternoon</strong>: Visit&nbsp;<strong around="" at="" by="" city="" color:="" dinner="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" restaurant="" son="" strong="" style="" text-align:="" then="" traditional="" watching="">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></h3>
+<p>
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">&nbsp;</strong></strong></strong></p>
+<h4 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" color:="" font-family:="" font-size:="" font-stretch:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""> <strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" presidential="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf="">16:30:&nbsp;</a></strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><span at="" back="" car="" color:="" font-family:="" font-size:="" font-stretch:="" h5="" ha="" line-height:="" ll="" long="" p="" padding:="" pick="" return="" span="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""> </span></strong></strong></span></a><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" at="" back="" before="" break="" car="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" pick="" return="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" then="" to="" tourist="" way="" wharf="" you="">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</a></strong></strong></strong></strong> </strong></strong></strong></strong></strong></strong></strong></strong></h4>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Morning:</strong></strong></span></a><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" after="" airport="" arriving="" at="" bai="" before="" break="" breakfast.="" color:="" fee="" flight="" font-family:="" font-size:="" free="" ha="" half="" have="" hotel="" href="" international="" leisure="" line-height:="" ll="" long="" minute="" noi="" old="" on="" or="" p="" padding:="" shopping="" short="" strong="" style="" target="" text-align:="" text-decoration:="" the="" til="" time="" to="" tourist="" transfer="" way="" wharf="">Siem Riep</a></strong></span></strong></strong></strong></strong></strong></strong></strong></strong></p>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">&nbsp;Visit and exploring the&nbsp;<strong .="" 13th="" 5:="" 9th="" among="" ancient="" and="" are="" between="" color:="" constructed="" day="" font-family:="" font-size:="" font-stretch:="" h6="" line-height:="" of="" p="" padding:="" riep="" s="" siem="" span="" style="" temples="" text-align:="" the="" unmatched=""> <strong all="" angkor="" at="" best="" god="" hindu="" honors="" next="" of="" padding:="" preserved="" sightseeing="" starts="" stop="" strong="" style="" the="" to="" vishna.="" which="" your="">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</strong></a></strong></strong></strong></strong></strong></strong></span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_cn='800',price_children_5_10='0',price_children_5_10_en='',price_children_under_5='0',price_children_under_5_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Cardfgsd',vehicle_cn='汽车',hotel='4',summary='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',summary_cn='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights_cn='',schedule='<h2 -="" .="" 0px="" 17px="" 2="" ba="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" ch="" color:="" do="" font-family:="" font-size:="" font-stretch:="" i="" line-height:="" liu="" mong="" n="" ng="" nh="" o="" p="" padding:="" span="" style="" t="" text-align:="" text-rendering:="" thanh="" u="" y="">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</h2>
+<p>
+	Trả lời&nbsp;<em 0px="" 100.000="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" font-family:="" font-size:="" href="" i="" khi="" line-height:="" liu="" m="" n="" ng="" ng.="" ngon="" nh="" o="" outline:="" p="" padding:="" ra="" song="" style="" t="" text-decoration:="" text-rendering:="" thanh="" the="" trong="" trung="" u="" xem="" y="" y.=""> <em 0px="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" em="" font-family:="" font-size:="" i="" khi="" line-height:="" liu="" n="" ng="" ngon="" nh="" o="" p="" padding:="" song="" style="" t="" text-rendering:="" thanh="" the="" y="">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+<table 0px="" align="" auto="" border="" cellpadding="" cellspacing="" color:="" font-family:="" font-size:="" line-height:="" max-width:="" padding:="" style="" tbody="" td="" tr="" width:="">
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px="" 17px="" 6px="" :="" azbooking.vn="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" background:="" color:="" display:="" div="" font-family:="" font-size:="" font-stretch:="" h3="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" p="" package="" padding-left:="" padding-right:="" padding:="" price="" scroll="" span="" style="" text-align:="" tour="" ul="" usd="" width:="">
+	Accommodation 3* hotels with two persons share twin room</h2>
+<ul>
+	<li 0px="" 6px="" a="" air-conditioned="" all="" and="" as="" azbooking.vn="" background:="" driver="" english="" every="" guides="" http:="" images="" in="" left="" li="" list-style:="" mentioned="" no-repeat="" none="" of="" outside="" padding:="" private="" scroll="" service="" services="" speaking="" style="" the="" transfers="">
+		Entrance fees for all mentioned sights visited</li>
+	<li 0px="" 17px="" 6px="" and="" as="" azbooking.vn="" b="" background:="" color:="" d="" domestic="" font-size:="" font-stretch:="" h2="" http:="" images="" in="" international="" itinerary="" l="" left="" li="" line-height:="" list-style:="" meals="" mentioned="" no-repeat="" none="" outside="" padding:="" repeat="" scroll="" style="" the="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul="">&nbsp;</span></span></span></span></li>
+	<li 0px="" 6px="" and="" azbooking.vn="" background:="" be="" can="" changed="" color:="" due="" font-size:="" http:="" images="" itinerary="" left="" levels="" li="" list-style:="" no-repeat="" none="" operating="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" span="" style="" the="" tide="" to="" tour="" ul="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul=""><span be="" before="" color:="" departure="" diet="" font-size:="" list-style:="" or="" padding-left:="" padding-right:="" padding:="" request="" sent="" should="" span="" special="" style="" tour="" ul="" your="">&lt;span color:=&quot;&quot; &quot;\&quot;\&quot;&quot;&quot;&quot;=&quot;&quot; font-size:=&quot;&quot; list-style:=&quot;&quot; padding-left:=&quot;&quot; padding-right:=&quot;&quot; padding:=&quot;&quot; style=&quot;&quot; &quot;\&quot;\\&quot;margin:\&quot;&quot;&quot;&quot;=&quot;&quot; ul=&quot;&quot;&gt;&nbsp;</span></span> </span></span></span></li>
+</ul>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 01:="" 0px="" 17px="" a="" airport.="" and="" arrival="" at="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" bai="" car="" center="" check="" city="" color:="" day="" dinner="" font-family:="" font-size:="" font-stretch:="" guide="" ha="" hotel.="" href="" in="" international="" line-height:="" mixtourist="" noi="" noi-="" overnight="" p="" padding:="" restaurant.="" span="" style="" target="" text-align:="" text-decoration:="" transfer="" warming="" welcome="" you="">
+	hotel in Ha Noi.</h2>
+<p>
+	&nbsp;</p>
+<h3 02:="" 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" city="" color:="" day="" font-family:="" font-size:="" font-stretch:="" ha="" line-height:="" noi="" padding:="" span="" strong="" style="" text-align:="" tour="">
+	&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi="" color:="" father="" font-family:="" ho="" modern="" of="" padding:="" span="" strong="" style="" text-align:="" the="" vietnam.="" visit="">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong and="" chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:="">&nbsp;. Also visit the ancient&nbsp;<strong 900="" and="" at="" city="" color:="" first="" font-family:="" font-size:="" line-height:="" lunch="" of="" old="" over="" p="" padding:="" restaurant="" s="" span="" strong="" style="" temple="" text-align:="" university.="" vietnam="" with="" years=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong color:="" font-family:="" of="" padding:="" presidential="" span="" strong="" style="" temple="" text-align:="">Afternoon</strong>: Visit&nbsp;<strong around="" at="" by="" city="" color:="" dinner="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" restaurant="" son="" strong="" style="" text-align:="" then="" traditional="" watching="">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></h3>
+<p>
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">&nbsp;</strong></strong></strong></p>
+<h4 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" color:="" font-family:="" font-size:="" font-stretch:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""> <strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" presidential="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf="">16:30:&nbsp;</a></strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><span at="" back="" car="" color:="" font-family:="" font-size:="" font-stretch:="" h5="" ha="" line-height:="" ll="" long="" p="" padding:="" pick="" return="" span="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""> </span></strong></strong></span></a><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" at="" back="" before="" break="" car="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" pick="" return="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" then="" to="" tourist="" way="" wharf="" you="">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</a></strong></strong></strong></strong> </strong></strong></strong></strong></strong></strong></strong></strong></h4>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Morning:</strong></strong></span></a><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" after="" airport="" arriving="" at="" bai="" before="" break="" breakfast.="" color:="" fee="" flight="" font-family:="" font-size:="" free="" ha="" half="" have="" hotel="" href="" international="" leisure="" line-height:="" ll="" long="" minute="" noi="" old="" on="" or="" p="" padding:="" shopping="" short="" strong="" style="" target="" text-align:="" text-decoration:="" the="" til="" time="" to="" tourist="" transfer="" way="" wharf="">Siem Riep</a></strong></span></strong></strong></strong></strong></strong></strong></strong></strong></p>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">&nbsp;Visit and exploring the&nbsp;<strong .="" 13th="" 5:="" 9th="" among="" ancient="" and="" are="" between="" color:="" constructed="" day="" font-family:="" font-size:="" font-stretch:="" h6="" line-height:="" of="" p="" padding:="" riep="" s="" siem="" span="" style="" temples="" text-align:="" the="" unmatched=""> <strong all="" angkor="" at="" best="" god="" hindu="" honors="" next="" of="" padding:="" preserved="" sightseeing="" starts="" stop="" strong="" style="" the="" to="" vishna.="" which="" your="">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</strong></a></strong></strong></strong></strong></strong></strong></span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
