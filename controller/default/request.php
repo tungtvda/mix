@@ -36,6 +36,7 @@ $data['banner']=array(
 );
 $data['link_anh']=$data['menu'][12]->img;
 
+
 $title=($title)?$title:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $description=($description)?$description:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
 $keywords=($keyword)?$keyword:'Mixtourist.com | Vietnam travel agent|Vietnam travel company|Indochina';
@@ -45,5 +46,61 @@ show_banner($data);
 show_request($data);
 show_left($data);
 show_footer($data);
-contact();
+//contact();
+if(isset($_POST['name_contact'])){
+    $name=addslashes(strip_tags($_POST['name_contact']));
+    $mr=addslashes(strip_tags($_POST['mr']));
+    $country=addslashes(strip_tags($_POST['country']));
+    $email=addslashes(strip_tags($_POST['email']));
+    $phone=addslashes(strip_tags($_POST['phone']));
+
+    $arrival_date=addslashes(strip_tags($_POST['arrival_date']));
+    $departure_date=addslashes(strip_tags($_POST['departure_date']));
+    $adults=addslashes(strip_tags($_POST['adults']));
+    $children=addslashes(strip_tags($_POST['children']));
+    $children_under=addslashes(strip_tags($_POST['children_under']));
+    $length=addslashes(strip_tags($_POST['length']));
+
+    $tour_style_string='';
+    $tour_type=$_POST['tour_type'];
+    if(count($tour_type)>0)
+    {
+        foreach($tour_type as $row){
+            $tour_style_string.=addslashes(strip_tags($row)).' </br>';
+        }
+    }
+    $destinations_string='';
+    $destinations=$_POST['destinations'];
+    if(count($destinations)>0)
+    {
+        foreach($destinations as $row_d){
+            $destinations_string.=addslashes(strip_tags($row_d)).' </br>';
+        }
+    }
+    $accommodation=addslashes(strip_tags($_POST['accommodation']));
+    $message_contact=addslashes(strip_tags($_POST['message_contact']));
+
+    $new = new request();
+    $new->name=$mr.$name;
+    $new->country=$country;
+    $new->email=$email;
+    $new->phone=$phone;
+    $new->arrival_date=$arrival_date;
+    $new->departure_date=$departure_date;
+    $new->adults=$adults;
+    $new->children=$children;
+    $new->children_under=$children_under;
+    $new->length_trip=$length;
+    $new->tour_style=$tour_style_string;
+    $new->destinations=$destinations_string;
+    $new->accommodation=$accommodation;
+    $new->request=$message_contact;
+    $new->status=0;
+    $new->created=date(DATETIME_FORMAT);
+    request_insert($new);
+    echo "<script>alert('Request successfully')</script>";
+
+
+
+}
 
