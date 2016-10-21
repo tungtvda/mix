@@ -37,3 +37,6 @@ insert into contact (name_kh,address,phone,email,title,content,created,status) v
 insert into contact (name_kh,address,phone,email,title,content,created,status) values ('tran van tung','dsgdf','3123','tungtv.soict@gmail.com','','','16-10-16 03:14:48','');
 insert into contact (name_kh,address,phone,email,title,content,created,status) values ('ưetertert','ha noi','123123123','tungtv.soict@gmail.com','','noi dung','16-10-16 03:26:19','');
 insert into contact (name_kh,address,phone,email,title,content,created,status) values ('ưetertert','ha noi','123123123','tungtv.soict@gmail.com','','noi dung','16-10-16 03:29:15','');
+update contact set name_kh='ưetertert',address='ha noi',phone='123123123',email='tungtv.soict@gmail.com',title='',content='<p>
+	noi dung</p>
+',created='2016-10-16 03:29:15',status='1' where id=39;

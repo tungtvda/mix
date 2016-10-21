@@ -5,6 +5,9 @@ require_once DIR.'/model/danhmuc_2Service.php';
 function view_tour($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
+    $ft->assign('count_contact',$_SESSION['contact']);
+    $ft->assign('count_request',$_SESSION['request']);
+    $ft->assign('count_booking',$_SESSION['booking']);
     $ft->define('header','header.tpl');
     $ft->define('body','body.tpl');
     $ft->define('footer','footer.tpl');
