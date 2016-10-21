@@ -153,7 +153,9 @@
                                 <div class="nicdark_archive1 center"><a href="{SITE-NAME}/vacation-packages/"
                                                                         class="nicdark_width100 nicdark_width50 white nicdark_btn nicdark_bg_none nicdark_transition extrasize subtitle nicdark_counter"
                                                                         data-to="{count_pack}"
-                                                                        data-speed="1000">{count_pack}</a>
+                                                                        data-speed="1000">36
+                                        <!--{count_pack}-->
+                                    </a>
 
                                     <div class="nicdark_space5"></div>
                                 </div>
@@ -168,7 +170,9 @@
                                 <div class="nicdark_archive1 center"><a href="{SITE-NAME}/cruise-tours/"
                                                                         class=" nicdark_width50 white nicdark_btn nicdark_bg_none nicdark_transition extrasize subtitle nicdark_counter"
                                                                         data-to="{count_cru}"
-                                                                        data-speed="1000">{count_cru}</a>
+                                                                        data-speed="1000">12
+                                        <!--{count_cru}-->
+                                    </a>
 
                                     <div class="nicdark_space5"></div>
                                 </div>
