@@ -30336,3 +30336,785 @@ update tour set DanhMuc1Id='5',DanhMuc2Id='12',danhmuc1_destinations='6',danhmuc
 <div>
 	早餐后，你将被转移到机场，乘搭飞机离境。感谢您与Mixtourist旅行。下次见到你的旅</div>
 ',list_img='',title='Central And South Of Laos',title_cn='Central And South Of Laos',keyword='Central And South Of Laos',keyword_cn='Central And South Of Laos',description='Central And South Of Laos',description_cn='Central And South Of Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=9;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_2='0',price_3='0',price_4='0',price_5='0',price_6='0',price_cn='800',price_2_cn='',price_3_cn='',price_4_cn='',price_5_cn='',price_6_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Cardfgsd',vehicle_cn='汽车',hotel='4',summary='',summary_cn='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights_cn='',schedule='<h2 -="" .="" 0px="" 17px="" 2="" ba="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" ch="" color:="" do="" font-family:="" font-size:="" font-stretch:="" i="" line-height:="" liu="" mong="" n="" ng="" nh="" o="" p="" padding:="" span="" style="" t="" text-align:="" text-rendering:="" thanh="" u="" y="">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</h2>
+<p>
+	Trả lời&nbsp;<em 0px="" 100.000="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" font-family:="" font-size:="" href="" i="" khi="" line-height:="" liu="" m="" n="" ng="" ng.="" ngon="" nh="" o="" outline:="" p="" padding:="" ra="" song="" style="" t="" text-decoration:="" text-rendering:="" thanh="" the="" trong="" trung="" u="" xem="" y="" y.=""> <em 0px="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" em="" font-family:="" font-size:="" i="" khi="" line-height:="" liu="" n="" ng="" ngon="" nh="" o="" p="" padding:="" song="" style="" t="" text-rendering:="" thanh="" the="" y="">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+<table 0px="" align="" auto="" border="" cellpadding="" cellspacing="" color:="" font-family:="" font-size:="" line-height:="" max-width:="" padding:="" style="" tbody="" td="" tr="" width:="">
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px="" 17px="" 6px="" :="" azbooking.vn="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" background:="" color:="" display:="" div="" font-family:="" font-size:="" font-stretch:="" h3="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" p="" package="" padding-left:="" padding-right:="" padding:="" price="" scroll="" span="" style="" text-align:="" tour="" ul="" usd="" width:="">
+	Accommodation 3* hotels with two persons share twin room</h2>
+<ul>
+	<li 0px="" 6px="" a="" air-conditioned="" all="" and="" as="" azbooking.vn="" background:="" driver="" english="" every="" guides="" http:="" images="" in="" left="" li="" list-style:="" mentioned="" no-repeat="" none="" of="" outside="" padding:="" private="" scroll="" service="" services="" speaking="" style="" the="" transfers="">
+		Entrance fees for all mentioned sights visited</li>
+	<li 0px="" 17px="" 6px="" and="" as="" azbooking.vn="" b="" background:="" color:="" d="" domestic="" font-size:="" font-stretch:="" h2="" http:="" images="" in="" international="" itinerary="" l="" left="" li="" line-height:="" list-style:="" meals="" mentioned="" no-repeat="" none="" outside="" padding:="" repeat="" scroll="" style="" the="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul="">&nbsp;</span></span></span></span></li>
+	<li 0px="" 6px="" and="" azbooking.vn="" background:="" be="" can="" changed="" color:="" due="" font-size:="" http:="" images="" itinerary="" left="" levels="" li="" list-style:="" no-repeat="" none="" operating="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" span="" style="" the="" tide="" to="" tour="" ul="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul=""><span be="" before="" color:="" departure="" diet="" font-size:="" list-style:="" or="" padding-left:="" padding-right:="" padding:="" request="" sent="" should="" span="" special="" style="" tour="" ul="" your="">&lt;span color:=&quot;&quot; &quot;&quot;&quot;&quot;&quot;&quot;=&quot;&quot; font-size:=&quot;&quot; list-style:=&quot;&quot; padding-left:=&quot;&quot; padding-right:=&quot;&quot; padding:=&quot;&quot; style=&quot;&quot; &quot;&quot;\&quot;margin:&quot;&quot;&quot;&quot;=&quot;&quot; ul=&quot;&quot;&gt;&nbsp;</span></span> </span></span></span></li>
+</ul>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 01:="" 0px="" 17px="" a="" airport.="" and="" arrival="" at="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" bai="" car="" center="" check="" city="" color:="" day="" dinner="" font-family:="" font-size:="" font-stretch:="" guide="" ha="" hotel.="" href="" in="" international="" line-height:="" mixtourist="" noi="" noi-="" overnight="" p="" padding:="" restaurant.="" span="" style="" target="" text-align:="" text-decoration:="" transfer="" warming="" welcome="" you="">
+	hotel in Ha Noi.</h2>
+<p>
+	&nbsp;</p>
+<h3 02:="" 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" city="" color:="" day="" font-family:="" font-size:="" font-stretch:="" ha="" line-height:="" noi="" padding:="" span="" strong="" style="" text-align:="" tour="">
+	&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi="" color:="" father="" font-family:="" ho="" modern="" of="" padding:="" span="" strong="" style="" text-align:="" the="" vietnam.="" visit="">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong and="" chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:="">&nbsp;. Also visit the ancient&nbsp;<strong 900="" and="" at="" city="" color:="" first="" font-family:="" font-size:="" line-height:="" lunch="" of="" old="" over="" p="" padding:="" restaurant="" s="" span="" strong="" style="" temple="" text-align:="" university.="" vietnam="" with="" years=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong color:="" font-family:="" of="" padding:="" presidential="" span="" strong="" style="" temple="" text-align:="">Afternoon</strong>: Visit&nbsp;<strong around="" at="" by="" city="" color:="" dinner="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" restaurant="" son="" strong="" style="" text-align:="" then="" traditional="" watching="">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></h3>
+<p>
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">&nbsp;</strong></strong></strong></p>
+<h4 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" color:="" font-family:="" font-size:="" font-stretch:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""> <strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" presidential="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf="">16:30:&nbsp;</a></strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><span at="" back="" car="" color:="" font-family:="" font-size:="" font-stretch:="" h5="" ha="" line-height:="" ll="" long="" p="" padding:="" pick="" return="" span="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""> </span></strong></strong></span></a><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" at="" back="" before="" break="" car="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" pick="" return="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" then="" to="" tourist="" way="" wharf="" you="">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</a></strong></strong></strong></strong> </strong></strong></strong></strong></strong></strong></strong></strong></h4>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Morning:</strong></strong></span></a><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" after="" airport="" arriving="" at="" bai="" before="" break="" breakfast.="" color:="" fee="" flight="" font-family:="" font-size:="" free="" ha="" half="" have="" hotel="" href="" international="" leisure="" line-height:="" ll="" long="" minute="" noi="" old="" on="" or="" p="" padding:="" shopping="" short="" strong="" style="" target="" text-align:="" text-decoration:="" the="" til="" time="" to="" tourist="" transfer="" way="" wharf="">Siem Riep</a></strong></span></strong></strong></strong></strong></strong></strong></strong></strong></p>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">&nbsp;Visit and exploring the&nbsp;<strong .="" 13th="" 5:="" 9th="" among="" ancient="" and="" are="" between="" color:="" constructed="" day="" font-family:="" font-size:="" font-stretch:="" h6="" line-height:="" of="" p="" padding:="" riep="" s="" siem="" span="" style="" temples="" text-align:="" the="" unmatched=""> <strong all="" angkor="" at="" best="" god="" hindu="" honors="" next="" of="" padding:="" preserved="" sightseeing="" starts="" stop="" strong="" style="" the="" to="" vishna.="" which="" your="">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</strong></a></strong></strong></strong></strong></strong></strong></span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
+update tour set DanhMuc1Id='2',DanhMuc2Id='2',danhmuc1_destinations='6',danhmuc2_destinations='18',promotion='0',packages='0',name='VietNam - Cambodia - Laosdf',name_cn='越南 - 柬埔寨 - 老挝',name_url='vietnam-cambodia-laosdf',code='',img='/mix/view/admin/Themes/kcfinder/upload/images/tour/love-travel-27-780.jpg',price='0',price_2='0',price_3='0',price_4='0',price_5='0',price_6='0',price_cn='800',price_2_cn='',price_3_cn='',price_4_cn='',price_5_cn='',price_6_cn='',durations='13 Days 12 Nights',durations_cn='13天12夜之旅',departure='HA NOI',destination='CHI MINH CITY',departure_time='',vehicle='Cardfgsd',vehicle_cn='汽车',hotel='4',summary='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',summary_cn='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights='<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	<span style="margin: 0px; padding: 0px;">Liu Xiaojun, đồng sở hữu nh&agrave; h&agrave;ng với 2 người kh&aacute;c, quyết định quảng b&aacute; thương hiệu bằng chiến dịch tự do trả gi&aacute; - kh&aacute;ch gọi bất cứ m&oacute;n ăn n&agrave;o v&agrave; thanh to&aacute;n t&ugrave;y &yacute;. Ba chủ qu&aacute;n mong đợi kh&aacute;ch h&agrave;ng sẽ kh&ocirc;ng ngại trả gi&aacute; tương xứng với chất lượng m&oacute;n ăn.</span></p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</p>
+<table align="center" border="0" cellpadding="3" cellspacing="0" class="tplCaption" style="margin: 0px auto 10px; padding: 0px; max-width: 100%; color: rgb(51, 51, 51); font-family: arial; font-size: 14px; width: 470px;">
+	<tbody style="margin: 0px; padding: 0px;">
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<img alt="khach-an-bao-nhieu-tra-tien-tuy-y-nha-hang-lo-nang" data-natural-width="500" data-pwidth="470.40625" data-width="500" src="http://img.f33.dulich.vnecdn.net/2016/10/19/pay-what-you-want-restaurant-6-5522-2987-1476863335.jpg" style="margin: 0px; padding: 0px; border: 0px; font-size: 0px; line-height: 0; max-width: 100%; width: 470px;" /></td>
+		</tr>
+		<tr style="margin: 0px; padding: 0px;">
+			<td style="margin: 0px; padding: 0px; line-height: 0;">
+				<p class="Image" style="margin: 0px; padding: 10px; line-height: normal; text-rendering: geometricPrecision; font-stretch: normal; font-size: 12px; background: rgb(245, 245, 245);">
+					Liu Xiaojun l&agrave; một trong ba chủ nh&agrave;&nbsp;h&agrave;ng vừa tung ra khuyến m&atilde;i&nbsp;tại Guiyang, Qu&yacute; Ch&acirc;u, Trung Quốc. Ảnh:&nbsp;<em style="margin: 0px; padding: 0px;">Odditycentral</em>.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Trả lời&nbsp;<em style="margin: 0px; padding: 0px;">The Paper</em>, Liu cho biết chất lượng đồ ăn v&agrave; dịch vụ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n cho sự thất bại của chiến dịch. Kh&aacute;ch h&agrave;ng nhận x&eacute;t những m&oacute;n ăn của nh&agrave; h&agrave;ng rất ngon v&agrave; đầy đặn, song số tiền họ thanh to&aacute;n kh&ocirc;ng tương xứng với gi&aacute; trị thực. Từ khi chương tr&igrave;nh khuyến m&atilde;i kết th&uacute;c v&agrave;o 16h ng&agrave;y 9/10, kh&ocirc;ng c&oacute; thực kh&aacute;ch n&agrave;o đến nh&agrave; h&agrave;ng của Liu nữa.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Đ&acirc;y kh&ocirc;ng phải lần đầu ti&ecirc;n thực kh&aacute;ch Trung Quốc được hưởng chương tr&igrave;nh giảm gi&aacute; kiểu n&agrave;y. Năm 2013, một nh&agrave; h&agrave;ng kh&aacute;c tại Trung Quốc cũng đưa ra đợt ưu đ&atilde;i tương tự, họ lỗ 100.000 tệ trong v&ograve;ng một th&aacute;ng.</p>
+<p class="Normal" style="margin: 0px 0px 1em; padding: 0px; line-height: 18px; text-rendering: geometricPrecision; color: rgb(51, 51, 51); font-family: arial; font-size: 14px;">
+	Xem th&ecirc;m:&nbsp;<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-trung-quoc-to-nha-hang-israel-chat-chem-3466849.html" style="margin: 0px; padding: 0px; color: rgb(0, 79, 139); text-decoration: none; outline: 1px;">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</a></p>
+',highlights_cn='',schedule='<h2 -="" .="" 0px="" 17px="" 2="" ba="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" ch="" color:="" do="" font-family:="" font-size:="" font-stretch:="" i="" line-height:="" liu="" mong="" n="" ng="" nh="" o="" p="" padding:="" span="" style="" t="" text-align:="" text-rendering:="" thanh="" u="" y="">
+	Tuy nhi&ecirc;n, nhiều thực kh&aacute;ch gọi đồ m&agrave; chỉ thanh to&aacute;n 10% gi&aacute; trị thực của h&oacute;a đơn. Thậm ch&iacute;, một số người rời nh&agrave; h&agrave;ng m&agrave; chỉ để lại một tệ (khoảng 3.300 đồng). Trong 7 ng&agrave;y, nh&agrave; h&agrave;ng đ&atilde; lỗ hơn 100.000 tệ. Một trong ba chủ nh&agrave; h&agrave;ng đ&atilde; rời khỏi th&agrave;nh phố v&agrave; thề kh&ocirc;ng bao giờ quay trở lại.</h2>
+<p>
+	Trả lời&nbsp;<em 0px="" 100.000="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" font-family:="" font-size:="" href="" i="" khi="" line-height:="" liu="" m="" n="" ng="" ng.="" ngon="" nh="" o="" outline:="" p="" padding:="" ra="" song="" style="" t="" text-decoration:="" text-rendering:="" thanh="" the="" trong="" trung="" u="" xem="" y="" y.=""> <em 0px="" 16h="" a="" c="" c.="" ch="" ch.="" cho="" color:="" em="" font-family:="" font-size:="" i="" khi="" line-height:="" liu="" n="" ng="" ngon="" nh="" o="" p="" padding:="" song="" style="" t="" text-rendering:="" thanh="" the="" y="">Kh&aacute;ch Trung Quốc tố nh&agrave; h&agrave;ng Israel &#39;chặt ch&eacute;m&#39;</em></em></p>
+<table 0px="" align="" auto="" border="" cellpadding="" cellspacing="" color:="" font-family:="" font-size:="" line-height:="" max-width:="" padding:="" style="" tbody="" td="" tr="" width:="">
+</table>
+',schedule_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',price_list='<h2 0px="" 17px="" 6px="" :="" azbooking.vn="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" background:="" color:="" display:="" div="" font-family:="" font-size:="" font-stretch:="" h3="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" p="" package="" padding-left:="" padding-right:="" padding:="" price="" scroll="" span="" style="" text-align:="" tour="" ul="" usd="" width:="">
+	Accommodation 3* hotels with two persons share twin room</h2>
+<ul>
+	<li 0px="" 6px="" a="" air-conditioned="" all="" and="" as="" azbooking.vn="" background:="" driver="" english="" every="" guides="" http:="" images="" in="" left="" li="" list-style:="" mentioned="" no-repeat="" none="" of="" outside="" padding:="" private="" scroll="" service="" services="" speaking="" style="" the="" transfers="">
+		Entrance fees for all mentioned sights visited</li>
+	<li 0px="" 17px="" 6px="" and="" as="" azbooking.vn="" b="" background:="" color:="" d="" domestic="" font-size:="" font-stretch:="" h2="" http:="" images="" in="" international="" itinerary="" l="" left="" li="" line-height:="" list-style:="" meals="" mentioned="" no-repeat="" none="" outside="" padding:="" repeat="" scroll="" style="" the="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul="">&nbsp;</span></span></span></span></li>
+	<li 0px="" 6px="" and="" azbooking.vn="" background:="" be="" can="" changed="" color:="" due="" font-size:="" http:="" images="" itinerary="" left="" levels="" li="" list-style:="" no-repeat="" none="" operating="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" span="" style="" the="" tide="" to="" tour="" ul="">
+		<span 0px="" 6px="" azbooking.vn="" background:="" color:="" departure="" font-size:="" http:="" if="" images="" in="" left="" li="" list-style:="" meals="" mentioned="" no-repeat="" none="" other="" outside="" padding-left:="" padding-right:="" padding:="" scroll="" style="" taxes="" than="" the="" those="" tour="" ul=""><span 0px="" 6px="" and="" as="" at="" azbooking.vn="" background:="" check-in="" check-out="" color:="" early="" expenses="" font-size:="" http:="" images="" late="" left="" li="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" such="" tour="" ul=""><span 0px="" 6px="" and="" azbooking.vn="" background:="" color:="" font-size:="" for="" guides="" http:="" images="" left="" li="" list-style:="" local="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" personal="" scroll="" style="" tips="" tour="" travel="" ul=""><span 0px="" 17px="" 6px="" azbooking.vn="" background:="" color:="" font-size:="" font-stretch:="" h4="" http:="" images="" left="" li="" line-height:="" list-style:="" no-repeat="" none="" outside="" padding-left:="" padding-right:="" padding:="" repeat="" room="" scroll="" single="" style="" tour="" ul=""><span be="" before="" color:="" departure="" diet="" font-size:="" list-style:="" or="" padding-left:="" padding-right:="" padding:="" request="" sent="" should="" span="" special="" style="" tour="" ul="" your="">&lt;span color:=&quot;&quot; &quot;&quot;&quot;&quot;&quot;&quot;=&quot;&quot; font-size:=&quot;&quot; list-style:=&quot;&quot; padding-left:=&quot;&quot; padding-right:=&quot;&quot; padding:=&quot;&quot; style=&quot;&quot; &quot;&quot;&quot;margin:&quot;&quot;&quot;&quot;=&quot;&quot; ul=&quot;&quot;&gt;&nbsp;</span></span> </span></span></span></li>
+</ul>
+',price_list_cn='<div>
+	套餐价：美元/ PAX</div>
+<div>
+	&nbsp;</div>
+<div>
+	旅游项目中包括：</div>
+<div>
+	住宿3星级酒店双人房与两个人共享</div>
+<div>
+	私人之旅，在提到行程转移和所有服务</div>
+<div>
+	私人司机服务和空调车</div>
+<div>
+	英语的服务导游在每一个位置</div>
+<div>
+	所有景点门票在走访中提到</div>
+<div>
+	餐点中提到的行程（B =早餐，L =午餐，D=晚餐）</div>
+<div>
+	TOUR排除：</div>
+<div>
+	国内和国际航班</div>
+<div>
+	离境税（如果适用）</div>
+<div>
+	在行程煤炭những提到的其他餐点</div>
+<div>
+	提前入住，并在酒店延迟退房。</div>
+<div>
+	个人开支（新和成洗衣，电话，饮料等）</div>
+<div>
+	提示当地导游和司机</div>
+<div>
+	个人旅游保险</div>
+<div>
+	签证</div>
+<div>
+	单人间SPL</div>
+<div>
+	注意：</div>
+<div>
+	行程可以改变因天气，潮位和操作项条件。</div>
+<div>
+	特殊要求（饮食或素食，...）嫩江发CUA是出发日期之前。</div>
+',content='<h2 01:="" 0px="" 17px="" a="" airport.="" and="" arrival="" at="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" bai="" car="" center="" check="" city="" color:="" day="" dinner="" font-family:="" font-size:="" font-stretch:="" guide="" ha="" hotel.="" href="" in="" international="" line-height:="" mixtourist="" noi="" noi-="" overnight="" p="" padding:="" restaurant.="" span="" style="" target="" text-align:="" text-decoration:="" transfer="" warming="" welcome="" you="">
+	hotel in Ha Noi.</h2>
+<p>
+	&nbsp;</p>
+<h3 02:="" 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" city="" color:="" day="" font-family:="" font-size:="" font-stretch:="" ha="" line-height:="" noi="" padding:="" span="" strong="" style="" text-align:="" tour="">
+	&nbsp;After breakfast at the hotel, Car and guide pick you starting visit Ha Noi. First in this morning&rsquo;s sightseeing focuses on&nbsp;<strong chi="" color:="" father="" font-family:="" ho="" modern="" of="" padding:="" span="" strong="" style="" text-align:="" the="" vietnam.="" visit="">&nbsp;and the humble cottage from which &ldquo;Uncle Ho&rdquo; ruled Vietnam until his death in 1969. Next on the agenda: the One Pillar Pagoda, the&nbsp;<strong and="" chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:="">&nbsp;. Also visit the ancient&nbsp;<strong 900="" and="" at="" city="" color:="" first="" font-family:="" font-size:="" line-height:="" lunch="" of="" old="" over="" p="" padding:="" restaurant="" s="" span="" strong="" style="" temple="" text-align:="" university.="" vietnam="" with="" years=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong color:="" font-family:="" of="" padding:="" presidential="" span="" strong="" style="" temple="" text-align:="">Afternoon</strong>: Visit&nbsp;<strong around="" at="" by="" city="" color:="" dinner="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" restaurant="" son="" strong="" style="" text-align:="" then="" traditional="" watching="">&quot; Water puppet&quot;</strong>&nbsp;at Thang Long theathe. Night at hotel in Ha Noi</strong></strong></strong></strong></strong></h3>
+<p>
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">&nbsp;</strong></strong></strong></p>
+<h4 0px="" 17px="" background-attachment:="" background-clip:="" background-image:="" background-origin:="" background-position:="" background-repeat:="" background-size:="" color:="" font-family:="" font-size:="" font-stretch:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong around="" by="" color:="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" ngoc="" noi="" old="" p="" padding:="" presidential="" son="" span="" strong="" style="" text-align:="">Morning:</strong>&nbsp;After breakfast at the hotel. Car and guide pick you up transfer to Ha Long city, Quang Ninh province. visit&nbsp;<strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""> <strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""> <strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" presidential="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Thien Cung cave ( haven grotto) and Dau Go cave ( Hidding wooden stake cave)</strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf="">16:30:&nbsp;</a></strong><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><span at="" back="" car="" color:="" font-family:="" font-size:="" font-stretch:="" h5="" ha="" line-height:="" ll="" long="" p="" padding:="" pick="" return="" span="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""> </span></strong></strong></span></a><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" at="" back="" before="" break="" car="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" pick="" return="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" then="" to="" tourist="" way="" wharf="" you="">Day 04: HA NOI - SIEM RIEP, CAMBODIA&nbsp; ( B, L, D)</a></strong></strong></strong></strong> </strong></strong></strong></strong></strong></strong></strong></strong></h4>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf=""><strong a="" also="" and="" beautiful="" board="" boat="" cock="" color:="" cruise="" dinh="" enjoying="" famous="" font-family:="" font-size:="" fresh="" huong="" islets="" line-height:="" ll="" lunch="" most="" of="" on="" p="" padding:="" palce="" private="" seafood="" strong="" style="" such="" text-align:="" the="" through="" while=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" 30="" a="" about="" and="" around="" arriving="" before="" break="" charm="" color:="" considered="" deeply="" feel="" font-family:="" font-size:="" ha="" half="" have="" heaven="" href="" island="" line-height:="" ll="" long="" minute="" more="" of="" on="" p="" padding:="" place="" short="" strong="" style="" take="" target="" text-align:="" text-decoration:="" that="" the="" then="" to="" tourist="" tunnels="" water="" way="" wharf=""><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong .="" 20="" a="" about="" arriving="" before="" break="" chi="" color:="" font-family:="" font-size:="" ha="" half="" have="" ho="" href="" line-height:="" ll="" long="" minh="" minute="" on="" p="" padding:="" short="" span="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">Morning:</strong></strong></span></a><span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" after="" airport="" arriving="" at="" bai="" before="" break="" breakfast.="" color:="" fee="" flight="" font-family:="" font-size:="" free="" ha="" half="" have="" hotel="" href="" international="" leisure="" line-height:="" ll="" long="" minute="" noi="" old="" on="" or="" p="" padding:="" shopping="" short="" strong="" style="" target="" text-align:="" text-decoration:="" the="" til="" time="" to="" tourist="" transfer="" way="" wharf="">Siem Riep</a></strong></span></strong></strong></strong></strong></strong></strong></strong></strong></p>
+<p color:="" font-family:="" font-size:="" line-height:="" padding:="" span="" strong="" style="" text-align:="">
+	<span 19.00="" at="" back="" car="" city="" color:="" dinner="" font-family:="" font-size:="" for="" ha="" hotel="" in="" line-height:="" ll="" local="" long="" night="" night:="" noi.="" p="" padding:="" pick="" recheck="" relax.="" restaurant="" return="" span="" strong="" style="" text-align:="" then="" to="" tourist="" wharf="" you=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" presidential="" span="" strong="" style="" text-align:=""><strong 3:="" around="" by="" color:="" day="" font-family:="" font-size:="" go="" ha="" hoan="" kiem="" line-height:="" long="" ngoc="" noi="" old="" p="" padding:="" son="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" minh="" padding:="" span="" strong="" style="" text-align:=""><strong chi="" color:="" font-family:="" ho="" padding:="" span="" strong="" style="" text-align:=""><a .="" 20="" a="" about="" arriving="" before="" break="" color:="" font-family:="" font-size:="" ha="" half="" have="" href="" line-height:="" ll="" long="" minute="" on="" p="" padding:="" short="" style="" target="" text-align:="" text-decoration:="" the="" tourist="" way="" wharf="">&nbsp;Visit and exploring the&nbsp;<strong .="" 13th="" 5:="" 9th="" among="" ancient="" and="" are="" between="" color:="" constructed="" day="" font-family:="" font-size:="" font-stretch:="" h6="" line-height:="" of="" p="" padding:="" riep="" s="" siem="" span="" style="" temples="" text-align:="" the="" unmatched=""> <strong all="" angkor="" at="" best="" god="" hindu="" honors="" next="" of="" padding:="" preserved="" sightseeing="" starts="" stop="" strong="" style="" the="" to="" vishna.="" which="" your="">Bayon Temple</strong>. One of the few Buddhist temples in Angkor, it features some 200 striking faces carved in 54 towers.</strong></a></strong></strong></strong></strong></strong></strong></span></p>
+',content_cn='<div>
+	01日：河内抵达（D）</div>
+<div>
+	汽车和引导的欢迎您在河内Mixtourist变暖排国际机场。在转移中心城市，入住酒店。晚餐在城市的餐厅。夜宿酒店在河内。</div>
+<div>
+	&nbsp;</div>
+<div>
+	02日：河内市区游（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后，汽车和引导挑选您访问开始工作。首先，在今天上午的游览重点放在胡志明市，越南的现代化之父。首先，参观陵墓，并从麻&ldquo;胡伯伯&rdquo;排除掉，直到他在1969年越南接着上了议事日程死亡简陋的平房：一柱塔，胡志明博物馆和总统府。还可以访问litterature的古寺庙，已有900多年老河内的第一所大学。午餐在餐厅市与越南美食</div>
+<div>
+	下午：参观还剑湖，玉山寺，到处去&ldquo;，在河内老q​​uaters&rdquo;的cyllo</div>
+<div>
+	晚：晚餐在城市的餐厅，然后看传统节目&ldquo;水上木偶&rdquo;在升龙theathe。晚上在酒店在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	第3天：下龙湾（早，午，晚餐）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到下龙市，广宁省。下龙湾游览参观。您将有关于第20分钟中途短暂休息下龙旅游码头位于前到达</div>
+<div>
+	下午：你会通过最美丽的海湾。安迪，著名的斗鸡新和成胰岛登上私人游船，一边享受新鲜的胰岛面向海鲜午餐（在船上）</div>
+<div>
+	您将参观添Cung洞穴cũng（避风港石窟）和斗围棋洞（洞Hidding木桩），然后需要30分钟环岛皮划艇和更深刻地感受到水隧道的地方的魅力人间天堂考虑马</div>
+<div>
+	16:30：你会在车返回下龙湾旅游码头，然后接你回河内。</div>
+<div>
+	晚上：19：00（当地时间）到河内。晚餐在城市的餐厅然后重新检查了酒店休息。晚上在河内</div>
+<div>
+	&nbsp;</div>
+<div>
+	04日：河内 - 柬埔寨暹粒（早，午，晚餐）</div>
+<div>
+	上午：早餐后。在酒店或购物免费的休闲时间在费&ldquo;老quaters&rdquo;内排直到时间送往国际机场机场和飞行到暹Riep</div>
+<div>
+	下午：参观吴哥寺庙和探索。 9日和13giữa构建世纪，寺庙是无与伦比跻身世界古遗迹。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第5天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：您的观光旅游开始于保存最完好的所有寺庙 - 吴哥窟，印度教神马Vishna荣誉。下一站就是看巴戎寺，吴哥。其中一个佛教寺庙在吴哥它，它的功能刻在塔54 200的一些引人注目的面孔。</div>
+<div>
+	下午：在您的休闲和观日落，从巴肯寺的顶级腕表享受午后</div>
+<div>
+	夜：夜宿暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第6天：暹粒（早，午，晚餐）</div>
+<div>
+	晨报：在被车辆的酒店前往女王宫早餐（距离暹30公里粒）后，妇女和班迭Samre寺庙的城堡。午餐于当地餐厅</div>
+<div>
+	下午：参观小电路，Thommanun，洲说萨神庙，塔普伦庙由参天大树，斑黛喀蒂寺，庙Kravan和皇家浴池的根入侵。</div>
+<div>
+	&nbsp;</div>
+<div>
+	晚：晚餐的餐厅和隔夜在暹Riep酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第7天：暹粒 - 金边（B，L，D）</div>
+<div>
+	晨报：在酒店早餐后。检查出来，租车，引导接你从酒店Mixtourist转移到机场，飞往金边。</div>
+<div>
+	抵达金边，通过我们的向导，送酒店的欢迎。城市观光，然后访问独立纪念碑，塔子山。午餐在餐厅，入住酒店放松心情</div>
+<div>
+	&nbsp;</div>
+<div>
+	下午：乘船游览观皇宫，银塔和国家博物馆，观看日落湄公河。晚餐在市内餐厅和隔夜在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第8天：金边（B，L）</div>
+<div>
+	晨报：今天上午的观光对该政权提供了安全的杀气红色高棉教育，是一个什么样的政府要求CACngười可以做一个阴沉提醒。开始到吐斯廉屠杀博物馆参观。这前高中安置17000红色高棉囚犯KHI政权。这个数，但相信林前15幸存下来的折磨煤少，避免被发送到杀戮战场。随后，参观杀戮战场，其中20多万人被红色高棉杀害之一。</div>
+<div>
+	下午是在您的休闲。</div>
+<div>
+	夜：晚上在金边酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	第9天：金边 - 琅勃拉邦（B）</div>
+<div>
+	晨报：在酒店早餐后，检查出来，送往机场，飞往金边到琅勃拉邦。到达转移到琅勃拉邦市的中心，入住酒店。</div>
+<div>
+	&nbsp;</div>
+<div>
+	当天下午和晚上是你的休闲</div>
+<div>
+	&nbsp;</div>
+<div>
+	第10天：琅勃拉邦（B，L，D）</div>
+<div>
+	今天，在此观光游览联合国教科文组织世界遗产的一整天。参观Wat Visoun，皇宫博物馆（星期二关闭），以及当地的村庄，看看丝绸织造和大米造纸示范。</div>
+<div>
+	晚：晚餐在城市的餐厅，晚上在琅勃拉邦酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第11天：琅勃拉邦 - 胡志明市（早，午）</div>
+<div>
+	晨报：在酒店早餐后。汽车和引导接你转移到机场，飞往胡志明市还是知道多达西贡。晚餐在城市的餐厅。入住酒店的放松</div>
+<div>
+	下午：在您的休闲时间免费</div>
+<div>
+	夜：夜宿在胡志明市酒店</div>
+<div>
+	&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	第12天：胡志明市（早，午，晚餐）</div>
+<div>
+	上午：早餐后车和引导去接你Mixtourist出发古芝，关键是古芝地道参观，所使用的越共作为窝点KHI战争隧道网络。午餐于当地餐厅</div>
+<div>
+	下午：返回胡志明市，参观战争遗迹博物馆，统一宫和</div>
+<div>
+	晚：晚餐后，空闲时间去探索这个充满活力的城市。</div>
+<div>
+	&nbsp;</div>
+<div>
+	第13天：HO CHI MINH CITY - 出发（B）</div>
+<div>
+	上午：早餐后，时间的购物费，在胡志明市望京。直到时间送往航班起飞。游览结束。看你下一个行程。</div>
+',list_img='',title='VietNam - Cambodia - Laos',title_cn='VietNam - Cambodia - Laos',keyword='VietNam - Cambodia - Laos',keyword_cn='VietNam - Cambodia - Laos',description='VietNam - Cambodia - Laos',description_cn='VietNam - Cambodia - Laos',inclusion='',inclusion_cn='',exclusion='',exclusion_cn='' where id=10;
