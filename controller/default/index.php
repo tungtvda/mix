@@ -21,7 +21,7 @@ $data['tour_packages_list']=tour_getByTop(5,'packages=1 ','id desc');
 $data['tour_DESTINATIONS']=danhmuc_2_getByTop(6,'danhmuc1_id=6 ','position desc');
 
 $data['video']=video_getByTop(1,'highlights=1 ','id desc');
-$data['count_destinations']=tour_count('DanhMuc1Id=6');
+$data['count_destinations']=tour_count('danhmuc1_destinations=6');
 $data['count_pack']=tour_count('DanhMuc1Id=3');
 $data['count_cru']=tour_count('DanhMuc1Id=4');
 //$data['tour_quocte_ghepdoi']=tourtrongnuoc_getByTop('','TourGhepDoi=1 and LoaiTour=2','Id desc');

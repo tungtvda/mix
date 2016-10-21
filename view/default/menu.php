@@ -61,8 +61,17 @@ function view_menu($data = array())
     $asign['danhmuc_subport'] ="";
     $asign['danhmuc_subport_top'] ="";
     if(count($data['danhmuc_subport'])>0)
-    {
+    { $count_icon=0;
         foreach($data['danhmuc_subport'] as $dmtour1) {
+
+            if($count_icon==0)
+            {
+                $icon="icon-mobile-2";
+            }
+            else{
+                $icon="icon-phone";
+            }
+
             $id_dmtour2 = "danhmuc_id=" . $dmtour1->id;
             $data['subport'] = subport_getByTop('', $id_dmtour2, 'id desc');
             if (count($data['subport']) > 0) {
@@ -71,7 +80,9 @@ function view_menu($data = array())
 
                 <div class=\"nicdark_space10\"></div>
                 <ul class=\"subpport\">";
+
                 foreach($data['subport'] as $subport) {
+
                     $asign['danhmuc_subport'] .= "<li>
                         <a href='tel:$subport->phone_format' class=\"mobi_subpport\">
                             <i class=\"icon-mobile\"></i>".$subport->phone."
@@ -92,18 +103,21 @@ function view_menu($data = array())
 
                      $asign['danhmuc_subport'] .= "</li>";
 
+
                     $asign['danhmuc_subport_top'] .="<li>
-                                            <i class=\"icon-phone\"></i> <a class=\"white title\" href=\"tel:$subport->phone\">$subport->phone_format</a>
+                                            <i class=\"$icon\"></i> <a class=\"white title\" href=\"tel:$subport->phone\">$subport->phone_format</a>
                                             <span class=\"greydark2 nicdark_marginright10 nicdark_marginleft10 vc_hidden-sm vc_hidden-xs\">|</span>
                                         </li>";
+
                 }
 
                 $asign['danhmuc_subport'] .= "</ul>
 
             </div><div class=\"nicdark_space10\"></div>";
+
             }
 
-
+            $count_icon++;
         }
     }
 

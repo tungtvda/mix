@@ -47,9 +47,9 @@
                                                 <div class="vc_col-sm-2">
                                                     <p style="float: left;">&nbsp;</p>
                                                     <select name="mr" style="margin: 0px; width: 100%;margin: 0px; width: 100%; padding: 6px;margin-top: 5px;">
-                                                        <option value="">Mr.</option>
-                                                        <option value="">Mrs.</option>
-                                                        <option value="">Ms.</option>
+                                                        <option value="Mr.">Mr.</option>
+                                                        <option value="Mrs.">Mrs.</option>
+                                                        <option value="Ms.">Ms.</option>
                                                     </select>
                                                 </div>
                                                 <div class="vc_col-sm-4 ">
@@ -64,7 +64,7 @@
                                                 <div class="vc_col-sm-8 ">
                                                     <p style="margin-top: 10px">{email}</p>
                                                 <span class="wpcf7-form-control-wrap your-email">
-                                                    <input type="email" name="email_contact" placeholder="" value=""
+                                                    <input type="email" name="email" placeholder="" value=""
                                                            required="required"
                                                            class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey">
                                                 </span>
@@ -73,7 +73,7 @@
                                                 <div class="vc_col-sm-4  ">
                                                     <p style="margin-top: 10px">{phone}</p>
                                                  <span class="wpcf7-form-control-wrap your-email">
-                                                    <input type="text" name="phone_contact" placeholder="" value=""
+                                                    <input type="text" name="phone" placeholder="" value=""
                                                            required="required"
                                                            class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email nicdark_border_grey">
                                                 </span>
@@ -95,18 +95,18 @@
                                                 <div class="vc_col-sm-5 wpb_column vc_column_container ">
                                                     <p>Arrival date</p>
                                                         <span class="wpcf7-form-control-wrap text-909">
-                                                            <input type="date" name="Arrival" value=""
+                                                            <input type="date" name="arrival_date" value=""
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                   required="required">
+                                                                  >
                                                         </span>
 
                                                 </div>
                                                 <div class="vc_col-sm-6 wpb_column vc_column_container ">
                                                     <p>Departure date</p>
                                                     <span class="wpcf7-form-control-wrap text-909">
-                                                            <input type="date" name="Departure" value=""
+                                                            <input type="date" name="departure_date" value=""
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                   required="required">
+                                                                   >
                                                         </span>
                                                 </div>
                                             </div>
@@ -117,25 +117,25 @@
                                                 <div class="vc_col-sm-3 wpb_column vc_column_container ">
                                                     <p>Adults</p>
                                                     <span class="wpcf7-form-control-wrap text-909">
-                                                            <input min="0" type="number" name="Adults" value=""
+                                                            <input min="0" type="number" name="adults" value=""
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                   required="required">
+                                                                   >
                                                         </span>
                                                 </div>
                                                 <div class="vc_col-sm-3 wpb_column vc_column_container ">
                                                     <p>Children (5-10 years old)</p>
                                                     <span class="wpcf7-form-control-wrap text-909">
-                                                            <input min="0" type="number" name="Children" value=""
+                                                            <input min="0" type="number" name="children" value=""
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                   required="required">
+                                                                   >
                                                         </span>
                                                 </div>
                                                 <div class="vc_col-sm-3 wpb_column vc_column_container ">
                                                     <p>Children (under 5 years old)</p>
                                                     <span class="wpcf7-form-control-wrap text-909">
-                                                            <input min="0" type="number" name="Children_under" value=""
+                                                            <input min="0" type="number" name="children_under" value=""
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                   required="required">
+                                                                  >
                                                         </span>
                                                 </div>
                                             </div>
@@ -143,9 +143,9 @@
                                                 <div class="vc_col-sm-5 wpb_column vc_column_container ">
                                                     <p>Length of trip</p>
                                                 <span class="wpcf7-form-control-wrap text-909">
-                                                            <input type="text" name="Length" value=""
+                                                            <input type="text" name="length" value=""
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                   required="required">
+                                                                   >
                                                         </span>
                                                 </div>
                                             </div>
@@ -162,7 +162,7 @@
                                                 <div class="vc_col-sm-3   span_check">
                                                     <!--<p>Classic tours</p>-->
                                                         <span class="wpcf7-form-control-wrap text-909">
-                                                            <input type="checkbox" name="tour_type" value="Classic tours"
+                                                            <input type="checkbox" name="tour_type[]" value="Classic tours"
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                    > Classic tours
                                                         </span>
@@ -171,7 +171,7 @@
                                                 <div class="vc_col-sm-3  span_check">
                                                     <!--<p>Discovery tours</p>-->
                                                     <span class="wpcf7-form-control-wrap text-909">
-                                                            <input type="checkbox" name="tour_type" value="Discovery tours"
+                                                            <input type="checkbox" name="tour_type[]" value="Discovery tours"
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                    > Discovery tours
                                                         </span>
@@ -179,7 +179,7 @@
                                                 <div class="vc_col-sm-3  span_check">
                                                     <!--<p>Beach holidays</p>-->
                                                     <span class="wpcf7-form-control-wrap text-909">
-                                                            <input type="checkbox" name="tour_type" value="Beach holidays"
+                                                            <input type="checkbox" name="tour_type[]" value="Beach holidays"
                                                                    class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                    > Beach holidays
                                                         </span>
@@ -187,7 +187,7 @@
                                                 <div class="vc_col-sm-3 span_check">
                                                     <!-- <p>Short vacations</p>-->
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="tour_type" value="Short vacations"
+                                                             <input type="checkbox" name="tour_type[]" value="Short vacations"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                    > Short vacations
                                                          </span>
@@ -195,7 +195,7 @@
                                                  <div class="vc_col-sm-3 span_check">
                                                      <!--<p>Cruise tours</p>-->
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="tour_type" value="Cruise tours"
+                                                             <input type="checkbox" name="tour_type[]" value="Cruise tours"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Cruise tours
                                                          </span>
@@ -203,7 +203,7 @@
                                                  <div class="vc_col-sm-3 span_check">
                                                      <!--<p>Day trips</p>-->
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="tour_type" value="Day trips"
+                                                             <input type="checkbox" name="tour_type[]" value="Day trips"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Day trips
                                                          </span>
@@ -211,7 +211,7 @@
                                                  <div class="vc_col-sm-3 span_check">
                                                      <!--<p>Multi-country</p>-->
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="tour_type" value="Multi-country"
+                                                             <input type="checkbox" name="tour_type[]" value="Multi-country"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Multi-country
                                                          </span>
@@ -219,7 +219,7 @@
                                                  <div class="vc_col-sm-3 span_check">
                                                     <!-- <p>Trekking tours</p>-->
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="tour_type" value="Trekking tours"
+                                                             <input type="checkbox" name="tour_type[]" value="Trekking tours"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Trekking tours
                                                          </span>
@@ -238,92 +238,92 @@
                                              <div style="padding: 0px !important;" class="vc_col-sm-12">
                                                  <div class="vc_col-sm-3 span_check">
                                                          <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Hanoi"
+                                                             <input type="checkbox" name="destinations[]" value="Hanoi"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                    required="required"> Hanoi
+                                                                   > Hanoi
                                                          </span>
 
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Sapa"
+                                                             <input type="checkbox" name="destinations[]" value="Sapa"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Sapa
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Halong Bay"
+                                                             <input type="checkbox" name="destinations[]" value="Halong Bay"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                              > Halong Bay
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Cat Ba (Hai Phong)"
+                                                             <input type="checkbox" name="destinations[]" value="Cat Ba (Hai Phong)"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Cat Ba (Hai Phong)
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Hoa Lu (Ninh Binh)"
+                                                             <input type="checkbox" name="destinations[]" value="Hoa Lu (Ninh Binh)"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Hoa Lu (Ninh Binh)
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Hue"
+                                                             <input type="checkbox" name="destinations[]" value="Hue"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Hue
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Hoi an"
+                                                             <input type="checkbox" name="destinations[]" value="Hoi an"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                    > Hoi An
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Da Nang"
+                                                             <input type="checkbox" name="destinations[]" value="Da Nang"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                              > Da Nang
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Nha Trang"
+                                                             <input type="checkbox" name="destinations[]" value="Nha Trang"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
-                                                                    required="required"> Nha Trang
+                                                                    > Nha Trang
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Mui Ne"
+                                                             <input type="checkbox" name="destinations[]" value="Mui Ne"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                              > Mui Ne
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Phu Quoc"
+                                                             <input type="checkbox" name="destinations[]" value="Phu Quoc"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                              > Phu Quoc
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Ho Chi Minh City"
+                                                             <input type="checkbox" name="destinations[]" value="Ho Chi Minh City"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                              > Ho Chi Minh City
                                                          </span>
                                                  </div>
                                                  <div class="vc_col-sm-3 span_check">
                                                      <span class="wpcf7-form-control-wrap text-909">
-                                                             <input type="checkbox" name="Destinations" value="Mekong Delta"
+                                                             <input type="checkbox" name="destinations[]" value="Mekong Delta"
                                                                     class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required nicdark_border_grey"
                                                                     > Mekong Delta
                                                          </span>
@@ -343,7 +343,7 @@
                                             <div style="padding: 0px !important;" class="vc_col-sm-12">
                                                 <div class="vc_col-sm-12 span_check">
                                                          <span class="wpcf7-form-control-wrap text-909">
-                                                             <select name="mr" style="margin: 0px; width: 100%;margin: 0px; width: 100%; padding: 6px;margin-top: 5px;">
+                                                             <select name="accommodation" style="margin: 0px; width: 100%;margin: 0px; width: 100%; padding: 6px;margin-top: 5px;">
                                                                  <option value="">Best value clean and comfortable (3 star)</option>
                                                                  <option value="">High standard good range of facilities (4 star)</option>
                                                                  <option value="">Very luxury (5 star)</option>
@@ -360,7 +360,6 @@
 
                             <div style="float: left;border: 0px" class="widget widget_text" >
                                 <div style="padding-top: 0px; float: left; width: 100%" class="vc_col-sm-12 ">
-                                    <p style="margin-top: 10px">{message}</p>
                                                     <span class="wpcf7-form-control-wrap textarea-831"><textarea
                                                                 name="message_contact" cols="40" rows="4"
                                                                 class="wpcf7-form-control wpcf7-textarea nicdark_border_grey"

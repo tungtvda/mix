@@ -16,14 +16,18 @@
         <i style="color:red" class="icon-headphones nicdark_switcher_open nicdark_switcher_btn"></i>
         <i style="color:red" class="icon-cancel nicdark_switcher_close nicdark_switcher_btn"></i>
 
-        <h4 class="white nicdark_bg_greydark nicdark_padding20">{online_support}  <a style="    float: right;" class="nicdark_mpopup_window nicdark_outline white title"
-                                                                                     href="#nicdark_window_pop_up">
+        <h4 class="white nicdark_bg_greydark nicdark_padding20">{online_support} <a style="    float: right;"
+                                                                                    class="nicdark_mpopup_window nicdark_outline white title"
+                                                                                    href="#nicdark_window_pop_up">
                 <img src="{SITE-NAME}/view/default/themes/images/{lang}.png" width="30"></a></h4>
 
         <div class="nicdark_switcher_content nicdark_border_grey nicdark_bg_white nicdark_padding20 nicdark_focus nicdark_sizing">
 
-           {danhmuc_subport}
+            {danhmuc_subport}
             <div class="nicdark_space20"></div>
+            <div class="nicdark_focus"><label class="lable_subpport"><a href="{SITE-NAME}/tour-request-form/">Request form</a></label>
+                <div class="nicdark_space10"></div>
+            </div>
 
 
         </div>
@@ -48,11 +52,12 @@
                                     <ul>
                                         <li>
 
-                                            <a class="white title vc_hidden-sm vc_hidden-xs" href="{SITE-NAME}/tour-request-form/"> <i
+                                            <a class="white title vc_hidden-sm vc_hidden-xs"
+                                               href="{SITE-NAME}/tour-request-form/"> <i
                                                         class="icon-mail"></i> {email}</a>
                                             <span class="greydark2 nicdark_marginright10 nicdark_marginleft10  vc_hidden-xs">|</span>
                                         </li>
-                                       {danhmuc_subport_top}
+                                        {danhmuc_subport_top}
                                     </ul>
                                     <!--<i class="icon-mail"></i> <a class="white title" href="#">sales@mixtourist.com</a>-->
                                     <!--<span class="greydark2 nicdark_marginright10 nicdark_marginleft10">|</span>-->
@@ -93,7 +98,8 @@
 
                             <li class="nicdark_border_greydark">
                                 <p><a id="en_lang" class="white" href="javascript:void()">ENGLISH<i
-                                                class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
+                                                class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a>
+                                </p>
 
                                 <div class="nicdark_space15"></div>
                             </li>
@@ -101,7 +107,8 @@
                             <li class="nicdark_border_greydark">
                                 <div class="nicdark_space15"></div>
                                 <p><a id="cn_lang" class="white" href="javascript:void()">中国<i
-                                                class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a></p>
+                                                class="white icon-angle-right nicdark_btn right nicdark_opacity"></i></a>
+                                </p>
 
                                 <div class="nicdark_space15"></div>
                             </li>
@@ -132,7 +139,7 @@
 
                             <!--logo-->
                             <div class="nicdark_logo nicdark_marginleft10">
-                                <a href="{SITE-NAME}"><img alt="{Name}" title="{Name}"  src="{Logo}"></a>
+                                <a href="{SITE-NAME}"><img alt="{Name}" title="{Name}" src="{Logo}"></a>
                             </div>
                             <!--end logo-->
 
@@ -152,14 +159,14 @@
                                         class="greydark menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-890">
                                         <a class="{Excursion_mn}" href="{SITE-NAME}/excursion-tours/"> {Excursion}</a>
                                         <ul class="sub-menu">
-                                           {Excursion_menu}
+                                            {Excursion_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-902"
                                         class="greydark menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-902">
                                         <a class="{Vacation_mn}" href="{SITE-NAME}/vacation-packages/"> {Vacation}</a>
                                         <ul class="sub-menu">
-                                           {Vacation_menu}
+                                            {Vacation_menu}
                                         </ul>
                                     </li>
                                     <li id="menu-item-1447"
@@ -209,7 +216,6 @@
 
 
         <!--start header parallax image-->
-
 
 
         <!--end header parallax image-->

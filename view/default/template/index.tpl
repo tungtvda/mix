@@ -234,7 +234,7 @@
                         <ul class="wpb_tabs_nav ui-tabs-nav vc_clearfix">
                             <li class="  "><a class="title white nicdark_bg_orange "
                                               href="#tab-1590d4d2-e42a-8"><i class=""></i>{online_support}</a></li>
-                            <li class="  "><a class="title white nicdark_bg_yellow "
+                            <li class="  "><a class="title white nicdark_bg_yellow " style="text-transform: uppercase"
                                               href="#tab-1431946341916-1-3"><i class=""></i>{contact_us}</a>
                             </li>
                         </ul>

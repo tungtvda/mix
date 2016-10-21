@@ -256,28 +256,36 @@ function contact()
         }
         else
         {
-
-            $new = new booking_tour();
-
-            $new->tour_id=$ten;
-            $new->name_tour=$email;
-            $new->name_customer=$diachi;
-            $new->language=$dienthoai;
-            $new->email=$noidung;
-            $new->phone=$noidung;
-            $new->address=$noidung;
-            $new->departure_day=$noidung;
-            $new->adults=$noidung;
-            $new->children_5_10=$noidung;
-            $new->children_5=$noidung;
-            $new->price=$noidung;
-            $new->price_children=$noidung;
-            $new->price_children_under_5=$noidung;
-            $new->total_price=$noidung;
-            $new->request=$noidung;
-            $new->status=$noidung;
+            $new = new contact();
+            $new->name_kh=$ten;
+            $new->email=$email;
+            $new->phone=$dienthoai;
+            $new->address=$diachi;
+            $new->content=$noidung;
+            $new->status=0;
             $new->created=date(DATETIME_FORMAT);
-            booking_tour_insert($new);
+            contact_insert($new);
+//            $new = new booking_tour();
+//
+//            $new->tour_id=$ten;
+//            $new->name_tour=$email;
+//            $new->name_customer=$diachi;
+//            $new->language=$dienthoai;
+//            $new->email=$noidung;
+//            $new->phone=$noidung;
+//            $new->address=$noidung;
+//            $new->departure_day=$noidung;
+//            $new->adults=$noidung;
+//            $new->children_5_10=$noidung;
+//            $new->children_5=$noidung;
+//            $new->price=$noidung;
+//            $new->price_children=$noidung;
+//            $new->price_children_under_5=$noidung;
+//            $new->total_price=$noidung;
+//            $new->request=$noidung;
+//            $new->status=$noidung;
+//            $new->created=date(DATETIME_FORMAT);
+//            booking_tour_insert($new);
 
             $link_web=SITE_NAME;
             $mes=returnLanguage('contact_suc','Contact successfully');
@@ -290,7 +298,7 @@ function contact()
                             <p>Email: <span style="color: #132fff; font-weight: bold">'.$email.'</span>,</p>
                             <p>Số điện thoại: <span style="color: #132fff; font-weight: bold">'.$dienthoai.'</span>,</p>
                             <p>Địa chỉ: <span style="color: #132fff; font-weight: bold">'.$diachi.'</span>,</p>
-                            <p>Ngày gửi: <span style="color: #132fff; font-weight: bold">'.date.'</span>,</p>
+                            <p>Ngày gửi: <span style="color: #132fff; font-weight: bold">'.date(DATETIME_FORMAT).'</span>,</p>
                             <p>'.$noidung.'</p>
 
 
