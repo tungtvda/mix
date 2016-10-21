@@ -256,7 +256,14 @@
                                                         )
                                                         .
                                                             done(function (data) {
-
+                                                                if(data==1)
+                                                                        {
+                                                                           alert('Booking successfully');
+                                                                            location.reload(true);
+                                                                        }
+                                                            else{
+                                                                    alert('Booking false')
+                                                                }
                                                             });
                                                         } else {
                                                             alert('Bạn vui lòng nhập đầy đủ thông tin bắt buộc');
@@ -434,8 +441,8 @@
                                                     <h3 class=" title left lienquan"></h3>
                                                     <p style="color: red;margin-top: 10px; display: none; float: left;" id="full_name_er">Bạn vui lòng nhập full name</p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{full_name}" id="name_booking">
-                                                        <p style="color: red ; display: none"" id="email_er">Bạn vui lòng nhập email</p>
-                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="email"   placeholder="{email}" id="email_booking">
+                                                        <p style="color: red ; display: none" id="email_er">Bạn vui lòng nhập email</p>
+                                                    <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{email}" id="email_booking">
                                                         <p style="color: red; display: none"" id="phone_er">Bạn vui lòng nhập phone</p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{phone}" id="phone_booking">
                                                         <p style="color: red; display: none"" id="address_er">Bạn vui lòng nhập địa chỉ</p>

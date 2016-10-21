@@ -113,9 +113,10 @@ if(count($data_tour)>0)
 //
 //                        </div>';
 //    SendMail('sales@mixtourist.com', $message, $subject);
-    echo "<script>alert('$mes')</script>";
-
-    echo "<script>window.location.href='$link_web';</script>";
+//    echo "<script>alert('$mes')</script>";
+//
+//    echo "<script>window.location.href='$link_web';</script>";
+    echo 1;
 }
 else{
   echo 0;
