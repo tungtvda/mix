@@ -86,9 +86,9 @@
                 <li class="{kichhoat}"><a href="{SITE-NAME}/admin"><span class="icon-align-justify"></span> Dashboard</a></li>
                 <li class="{kichhoat_admin}" ><a href="{SITE-NAME}/controller/admin/admin.php"><span class="icon-user"></span> Tài khoản quản trị</a></li>
                 <li class="{kichhoat_config}"><a href="{SITE-NAME}/controller/admin/config.php"><span class=" icon-wrench"></span> Cấu hình hệ thống</a></li>
-                <li class="{kichhoat_dathang}"><a href="{SITE-NAME}/controller/admin/booking_tour.php"><span class="icon-shopping-cart"></span> Đặt tour</a></li>
-                <li class="{kichhoat_lienhe}"><a href="{SITE-NAME}/controller/admin/contact.php"><span class="icon-envelope"></span> Liên hệ</a></li>
-                <li class="{kichhoat_request}"><a href="{SITE-NAME}/controller/admin/request.php"><span class="icon-envelope"></span> Request form</a></li>
+                <li class="{kichhoat_dathang}"><a href="{SITE-NAME}/controller/admin/booking_tour.php"><span class="icon-shopping-cart"></span> Đặt tour <span style="color: red; float: right">{count_booking}</span></a></li>
+                <li class="{kichhoat_lienhe}"><a href="{SITE-NAME}/controller/admin/contact.php"><span class="icon-envelope"></span> Liên hệ <span style="color: red; float: right">{count_contact}</span></a></li>
+                <li class="{kichhoat_request}"><a href="{SITE-NAME}/controller/admin/request.php"><span class="icon-envelope"></span> Request form <span style="color: red; float: right">{count_request}</span></a></li>
                 <li class="dropdown {kichhoat_tour}" ><a href="#"><span class=" icon-plane"></span> Tour du lịch</a>
                     <ul>
                         <li><a href="{SITE-NAME}/controller/admin/danhmuc_2.php">Danh mục</a></li>

@@ -4,6 +4,9 @@ require_once DIR.'/common/cls_fast_template.php';
 function view_contact($data)
 {
     $ft=new FastTemplate(DIR.'/view/admin/templates');
+    $ft->assign('count_contact',$_SESSION['contact']);
+    $ft->assign('count_request',$_SESSION['request']);
+    $ft->assign('count_booking',$_SESSION['booking']);
     $ft->define('header','header.tpl');
     $ft->define('body','body.tpl');
     $ft->define('footer','footer.tpl');
@@ -38,8 +41,15 @@ function showTableBody($data)
     $TableBody='';
     if(count($data)>0) foreach($data as $obj)
     {
-        $TableBody.="<tr><td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
-        $TableBody.="<td>".$obj->id."</td>";
+        if($obj->status==0){
+            $font='font-weight: bold; background-color: #e6e6e6';
+        }
+        else{
+            $font='';
+        }
+        $TableBody.="<tr style='".$font."'>
+        <td><input type=\"checkbox\" name=\"check_".$obj->id."\"/></td>";
+        $TableBody.="<td >".$obj->id."</td>";
         $TableBody.="<td>".$obj->name_kh."</td>";
         $TableBody.="<td>".$obj->phone."</td>";
         $TableBody.="<td>".$obj->email."</td>";
@@ -56,6 +66,7 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
+    $str_from.='<p><label>status</label><input  type="checkbox"  name="status" value="1" '.(($form!=false)?(($form->status=='1')?'checked':''):'').' /></p>';
     $str_from.='<p><label>name_kh</label><input class="text-input small-input" type="text"  name="name_kh" value="'.(($form!=false)?$form->name_kh:'').'" /></p>';
     $str_from.='<p><label>address</label><input class="text-input small-input" type="text"  name="address" value="'.(($form!=false)?$form->address:'').'" /></p>';
     $str_from.='<p><label>phone</label><input class="text-input small-input" type="text"  name="phone" value="'.(($form!=false)?$form->phone:'').'" /></p>';
@@ -63,6 +74,6 @@ function showFrom($form,$ListKey=array())
     $str_from.='<p><label>title</label><input class="text-input small-input" type="text"  name="title" value="'.(($form!=false)?$form->title:'').'" /></p>';
     $str_from.='<p><label>content</label><textarea name="content">'.(($form!=false)?$form->content:'').'</textarea><script type="text/javascript">CKEDITOR.replace(\'content\'); </script></p>';
     $str_from.='<p><label>created</label><input class="text-input small-input" type="text"  name="created" value="'.(($form!=false)?$form->created:'').'" /></p>';
-    $str_from.='<p><label>status</label><input  type="checkbox"  name="status" value="1" '.(($form!=false)?(($form->status=='1')?'checked':''):'').' /></p>';
+
     return $str_from;
 }
