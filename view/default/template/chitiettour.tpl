@@ -128,7 +128,7 @@
                             <div id="booking" style="width: 100%" class="wpb_tabs wpb_content_element  nicdark_tab_padding0"
                                  data-interval="0">
                                 <div  class=" vc_col-sm-4" style="padding: 0px !important;">
-                                    <h3 class=" title left lienquan" style="margin-top: 6px">{booking_form}</h3>
+                                    <h3 class=" title left lienquan" style="margin-top: 6px; float: none">{booking_form}</h3>
                                     <div class="wpb_gmaps_widget wpb_content_element map_ready content_detail">
                                         <div class="wpb_wrapper">
 
@@ -190,8 +190,10 @@
                                                         name_url=$('#name_url_input').val();
                                                         date=$('#date_input').val();
                                                         price=$('#price_adults').val();
-                                                        price_children=$('#price_children').val();
-                                                        price_children_5=$('#price_children_5').val();
+                                                        price_children=0;
+                                                        price_children_5=0;
+//                                                        price_children=$('#price_children').val();
+//                                                        price_children_5=$('#price_children_5').val();
                                                         number_adults=$('#num_price_adults').val();
                                                         number_children=$('#num_price_children_val').val();
                                                         number_children_5=$('#num_price_children_5_val').val();
@@ -214,8 +216,14 @@
                                                             $("#email_er").show();
                                                             check=0;
                                                         }else{
-                                                            $("#email_er").hide();
-                                                            check=1;
+                                                            if(validateEmail(email)){
+                                                                $("#email_er").hide();
+                                                                check=1;
+                                                            }else{
+                                                                $("#email_er").show();
+                                                                check=0;
+                                                            }
+
                                                         }
                                                         if(phone==""){
                                                             $("#phone_er").show();
@@ -272,15 +280,58 @@
 
 
                                                 });
+                                                //function phonenumber(inputtxt)
+                                                //{
+                                                    //var phoneno = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+                                                    //if(inputtxt.value.match(phoneno))
+                                                    //{
+                                                       // return true;
+                                                    //}
+                                                    //else
+                                                    //{
+                                                        //return false;
+                                                    //}
+                                                //}
+                                                function validateEmail(email) {
+                                                    var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+                                                    return re.test(email);
+                                                }
                                                 function myFunction() {
                                                     price=jQuery('#price_adults').val();
-                                                    price_children=jQuery('#price_children').val();
-                                                    price_children_5=jQuery('#price_children_5').val();
+                                                    price_2=jQuery('#price_2').val();
+                                                    price_3=jQuery('#price_3').val();
+                                                    price_4=jQuery('#price_4').val();
+                                                    price_5=jQuery('#price_5').val();
+                                                    price_6=jQuery('#price_6').val();
 
                                                     price_adults=jQuery('#num_price_adults').val();
                                                     price_children_val=jQuery('#num_price_children_val').val();
                                                     price_children_5_val=jQuery('#num_price_children_5_val').val();
 
+                                                    if(price=='')
+                                                    {
+                                                        price=0;
+                                                    }
+                                                    if(price_2=='')
+                                                    {
+                                                        price_2=0;
+                                                    }
+                                                    if(price_3=='')
+                                                    {
+                                                        price_3=0;
+                                                    }
+                                                    if(price_4=='')
+                                                    {
+                                                        price_4=0;
+                                                    }
+                                                    if(price_5=='')
+                                                    {
+                                                        price_5=0;
+                                                    }
+                                                    if(price_6=='')
+                                                    {
+                                                        price_6=0;
+                                                    }
                                                     if(price_adults=='')
                                                     {
                                                         price_adults=0;
@@ -296,13 +347,6 @@
                                                     price_adults=parseInt(price_adults);
                                                     price_children_val=parseInt(price_children_val);
                                                     price_children_5_val=parseInt(price_children_5_val);
-
-                                                    if(price_children==''){
-                                                        price_children=0;
-                                                    }
-                                                    if(price_children_5==''){
-                                                        price_children_5=0;
-                                                    }
 
                                                     if(price==''){
                                                         total="Contact";
@@ -326,22 +370,58 @@
                                                                 price_children_5_val=0;
                                                             }
                                                             price=parseFloat(price);
-                                                            price_children=parseFloat(price_children);
-                                                            price_children_5=parseFloat(price_children_5);
+                                                            price_2=parseFloat(price_2);
+                                                            price_3=parseFloat(price_3);
+                                                            price_4=parseFloat(price_4);
+                                                            price_5=parseFloat(price_5);
+                                                            price_6=parseFloat(price_6);
                                                             price_adults=parseInt(price_adults);
                                                             price_children_val=parseInt(price_children_val);
                                                             price_children_5_val=parseInt(price_children_5_val);
                                                             total_member=price_adults+price_children_val+price_children_5_val;
 
-                                                            if(total_member>=7){
+                                                            if(total_member>=7||total_member<=0){
                                                                 total="Contact";
                                                             }
                                                             else{
-                                                                total_price=price+price_children+price_children_5;
-                                                                total=(price_adults+(price_children_val*0.7))*total_price;
-                                                                var n = parseFloat(total);
-                                                                total = Math.round(n * 1000)/1000;
-                                                                total=total+" {currency_lang}";
+                                                                if((price_children_val+price_children_5_val)>price_adults)
+                                                                {
+
+                                                                }else{
+                                                                    total_price=0;
+                                                                    switch(total_member){
+                                                                        case 1:
+                                                                            total_price=price;
+                                                                            break;
+                                                                        case 2:
+                                                                            total_price=price_2;
+                                                                            break;
+                                                                        case 3:
+                                                                            total_price=price_3;
+                                                                            break;
+                                                                        case 4:
+                                                                            total_price=price_4;
+                                                                            break;
+                                                                        case 5:
+                                                                            total_price=price_5;
+                                                                            break;
+                                                                        case 6:
+                                                                            total_price=price_6;
+                                                                            break;
+                                                                    }
+                                                                    total=(price_adults+(price_children_val*0.7))*total_price;
+                                                                    if(total==0){
+                                                                        total="Contact";
+                                                                    }
+                                                                    else{
+                                                                        var n = parseFloat(total);
+                                                                        total = Math.round(n * 1000)/1000;
+                                                                        total=total+" {currency_lang}";
+                                                                    }
+
+                                                                }
+
+
                                                             }
 
                                                         }
@@ -372,14 +452,17 @@
                                                     <div class="back_detail">
 
                                                     <input id="price_adults" value="{price}" hidden>
-                                                    <input id="price_children" value="{price_children_5_10}" hidden>
-                                                    <input id="price_children_5" value="{price_children_under_5}" hidden>
+                                                    <input id="price_2" value="{price_2}" hidden>
+                                                    <input id="price_3" value="{price_3}" hidden>
+                                                        <input id="price_4" value="{price_4}" hidden>
+                                                        <input id="price_5" value="{price_5}" hidden>
+                                                        <input id="price_6" value="{price_6}" hidden>
 
                                                     <p>{no_of_adults}</p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="1" type="number" id="num_price_adults"  placeholder="No. of Adults " id="price_adults" value="">
-                                                    <p>{no_of_children} <span style="colod: red; font-size: 13px">({price_children_5_10}%)</span></p>
+                                                    <p>{no_of_children} </p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()"  min="0" type="number" id="num_price_children_val"  placeholder="No. of Children (5-10 years old)"  value="0">
-                                                    <p> {no_of_children_5} <span style="colod: red; font-size: 13px">({price_children_under_5}%)</p>
+                                                    <p> {no_of_children_5} </p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" onkeyup="myFunction()" onchange="myFunction()" min="0" type="number" id="num_price_children_5_val"  placeholder="No. of Children (under 5 years old)"  value="0">
                                                     <input hidden class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="total_input"   >
 

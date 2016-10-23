@@ -5,8 +5,10 @@ require_once DIR.'/view/admin/countries.php';
 require_once DIR.'/common/messenger.php';
 $data=array();
 $insert=true;
+
 if(isset($_SESSION["Admin"]))
 {
+    returnCountData();
     if(isset($_GET["action"])&&isset($_GET["id"]))
     {
         if($_GET["action"]=="delete")
