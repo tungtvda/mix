@@ -30,8 +30,12 @@ function show_chitiettour($data = array())
     $asign['img']= $data['tour'][0]->img;
     $asign['name_dm']= $data['banner']['name'];
     $asign['price']=returnLanguageField('price', $data['tour'][0]);
-    $asign['price_children_5_10']=returnLanguageField('price_children_5_10', $data['tour'][0]);
-    $asign['price_children_under_5']=returnLanguageField('price_children_under_5', $data['tour'][0]);
+    $asign['price_4']=returnLanguageField('price_4', $data['tour'][0]);
+    $asign['price_2']=returnLanguageField('price_2', $data['tour'][0]);
+    $asign['price_3']=returnLanguageField('price_3', $data['tour'][0]);
+    $asign['price_5']=returnLanguageField('price_5', $data['tour'][0]);
+    $asign['price_6']=returnLanguageField('price_6', $data['tour'][0]);
+
     $asign['durations']=returnLanguageField('durations', $data['tour'][0]);
     $asign['departure']=$data['tour'][0]->departure;
     $asign['code_val']=$data['tour'][0]->code;

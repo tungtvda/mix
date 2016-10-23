@@ -34,6 +34,9 @@ ob_start("minify_output");
 //require_once DIR.'/common/minifi.output.php';
 //ob_start("minify_output");
 
+require_once DIR.'/model/contactService.php';
+require_once DIR.'/model/requestService.php';
+require_once DIR.'/model/booking_tourService.php';
 
 function _returnGetParamSecurity($param)
 {
@@ -311,4 +314,12 @@ function contact()
         }
 
     }
+}
+function returnCountData(){
+    $count_contact=contact_count('status=0');
+    $_SESSION['contact']=$count_contact;
+    $count_request=request_count('status=0');
+    $_SESSION['request']=$count_request;
+    $count_booking=booking_tour_count('status=0');
+    $_SESSION['booking']=$count_booking;
 }

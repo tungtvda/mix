@@ -6,10 +6,12 @@ require_once DIR.'/model/danhmuc_2Service.php';
 require_once DIR.'/view/admin/tour.php';
 require_once DIR.'/common/messenger.php';
 require_once DIR.'/common/locdautiengviet.php';
+
 $data=array();
 $insert=true;
 if(isset($_SESSION["Admin"]))
 {
+    returnCountData();
     if(isset($_GET["action"])&&isset($_GET["id"]))
     {
         if($_GET["action"]=="delete")
@@ -40,7 +42,7 @@ if(isset($_SESSION["Admin"]))
     {
         $data['tab1_class']='default-tab current';
     }
-    $data['listfkey']['DanhMuc1Id']=danhmuc_1_getByTop('','id!=6','name asc');
+    $data['listfkey']['DanhMuc1Id']=danhmuc_1_getByAll();
     $dk='';
     if(isset($_GET['id']))
     {
@@ -65,7 +67,7 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/tour.php');
         }
     }
-    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["danhmuc1_destinations"])&&isset($_POST["danhmuc2_destinations"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["code"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_cn"])&&isset($_POST["price_children_5_10"])&&isset($_POST["price_children_5_10_en"])&&isset($_POST["price_children_under_5"])&&isset($_POST["price_children_under_5_cn"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
+    if(isset($_POST["DanhMuc1Id"])&&isset($_POST["DanhMuc2Id"])&&isset($_POST["danhmuc1_destinations"])&&isset($_POST["danhmuc2_destinations"])&&isset($_POST["name"])&&isset($_POST["name_cn"])&&isset($_POST["name_url"])&&isset($_POST["code"])&&isset($_POST["img"])&&isset($_POST["price"])&&isset($_POST["price_2"])&&isset($_POST["price_3"])&&isset($_POST["price_4"])&&isset($_POST["price_5"])&&isset($_POST["price_6"])&&isset($_POST["price_cn"])&&isset($_POST["price_2_cn"])&&isset($_POST["price_3_cn"])&&isset($_POST["price_4_cn"])&&isset($_POST["price_5_cn"])&&isset($_POST["price_6_cn"])&&isset($_POST["durations"])&&isset($_POST["durations_cn"])&&isset($_POST["departure"])&&isset($_POST["destination"])&&isset($_POST["departure_time"])&&isset($_POST["vehicle"])&&isset($_POST["vehicle_cn"])&&isset($_POST["hotel"])&&isset($_POST["summary"])&&isset($_POST["summary_cn"])&&isset($_POST["highlights"])&&isset($_POST["highlights_cn"])&&isset($_POST["schedule"])&&isset($_POST["schedule_cn"])&&isset($_POST["price_list"])&&isset($_POST["price_list_cn"])&&isset($_POST["content"])&&isset($_POST["content_cn"])&&isset($_POST["list_img"])&&isset($_POST["title"])&&isset($_POST["title_cn"])&&isset($_POST["keyword"])&&isset($_POST["keyword_cn"])&&isset($_POST["description"])&&isset($_POST["description_cn"])&&isset($_POST["inclusion"])&&isset($_POST["inclusion_cn"])&&isset($_POST["exclusion"])&&isset($_POST["exclusion_cn"]))
     {
        $array=$_POST;
        if(!isset($array['id']))
@@ -95,16 +97,28 @@ if(isset($_SESSION["Admin"]))
        $array['img']='0';
        if(!isset($array['price']))
        $array['price']='0';
+       if(!isset($array['price_2']))
+       $array['price_2']='0';
+       if(!isset($array['price_3']))
+       $array['price_3']='0';
+       if(!isset($array['price_4']))
+       $array['price_4']='0';
+       if(!isset($array['price_5']))
+       $array['price_5']='0';
+       if(!isset($array['price_6']))
+       $array['price_6']='0';
        if(!isset($array['price_cn']))
        $array['price_cn']='0';
-       if(!isset($array['price_children_5_10']))
-       $array['price_children_5_10']='0';
-       if(!isset($array['price_children_5_10_en']))
-       $array['price_children_5_10_en']='0';
-       if(!isset($array['price_children_under_5']))
-       $array['price_children_under_5']='0';
-       if(!isset($array['price_children_under_5_cn']))
-       $array['price_children_under_5_cn']='0';
+       if(!isset($array['price_2_cn']))
+       $array['price_2_cn']='0';
+       if(!isset($array['price_3_cn']))
+       $array['price_3_cn']='0';
+       if(!isset($array['price_4_cn']))
+       $array['price_4_cn']='0';
+       if(!isset($array['price_5_cn']))
+       $array['price_5_cn']='0';
+       if(!isset($array['price_6_cn']))
+       $array['price_6_cn']='0';
        if(!isset($array['durations']))
        $array['durations']='0';
        if(!isset($array['durations_cn']))
