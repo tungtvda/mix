@@ -191,10 +191,16 @@ if(isset($_SESSION["Admin"]))
             header('Location: '.SITE_NAME.'/controller/admin/tour.php');
         }
     }
+    $dk='';
+    if(isset($_POST['giatri']))
+    {
+        $field=mb_strtolower(addslashes(strip_tags($_POST['giatri'])));
+        $dk='(tour.name LIKE "%' . $field . '%" or tour.price LIKE "%' . $field . '%" or tour.name_url LIKE "%' . $field . '%" or tour.durations LIKE "%' . $field . '%" or tour.departure LIKE "%' . $field . '%" or tour.destination LIKE "%' . $field . '%" or tour.inclusion LIKE "%' . $field . '%" or tour.summary LIKE "%' . $field . '%" or tour.highlights LIKE "%' . $field . '%" )';
+    }
     $data['username']=isset($_SESSION["UserName"])?$_SESSION["UserName"]:'quản trị viên';
     $data['count_paging']=tour_count('');
     $data['page']=isset($_GET['page'])?$_GET['page']:'1';
-    $data['table_body']=tour_getByPagingReplace($data['page'],20,'id DESC','');
+    $data['table_body']=tour_getByPagingReplace($data['page'],20,'id DESC',$dk);
     // gọi phương thức trong tầng view để hiển thị
     view_tour($data);
 }

@@ -206,41 +206,51 @@
                                                         check=1;
                                                         if(full_name==""){
                                                             $("#full_name_er").show();
-                                                            check=0;
+                                                            check_name=0;
                                                         }
                                                         else{
                                                             $("#full_name_er").hide();
-                                                            check=1;
+                                                            check_name=1;
                                                         }
                                                         if(email==""){
                                                             $("#email_er").show();
-                                                            check=0;
+                                                            check_email=0;
                                                         }else{
                                                             if(validateEmail(email)){
                                                                 $("#email_er").hide();
-                                                                check=1;
+                                                                check_email=1;
                                                             }else{
                                                                 $("#email_er").show();
-                                                                check=0;
+                                                                check_email=0;
                                                             }
 
                                                         }
                                                         if(phone==""){
                                                             $("#phone_er").show();
-                                                            check=0;
+                                                            check_phone=0;
                                                         }
                                                         else{
                                                             $("#phone_er").hide();
-                                                            check=1;
+                                                            check_phone=1;
+                                                            //if(phonenumber(phone))
+                                                            //{
+                                                                // $("#phone_er").hide();
+                                                               // check_phone=1;
+                                                           //}
+                                                           // else{
+                                                                //$("#phone_er").show();
+                                                                //check_phone=0;
+                                                            //}
+
                                                         }
                                                         if(address==""){
                                                             $("#address_er").show();
-                                                            check=0;
+                                                            check_address=0;
                                                         }else{
                                                             $("#address_er").hide();
-                                                            check=1;
+                                                            check_address=1;
                                                         }
-                                                        if (check != 0) {
+                                                        if (check_name != 0&&check_email != 0&&check_phone!=0&&check_address!=0) {
 
                                                             $.post("{SITE-NAME}/booking/",
                                                                     {
@@ -274,24 +284,25 @@
                                                                 }
                                                             });
                                                         } else {
-                                                            alert('Bạn vui lòng nhập đầy đủ thông tin bắt buộc');
+                                                            alert('{infor_booking}');
                                                         }
                                                     });
 
 
                                                 });
-                                                //function phonenumber(inputtxt)
-                                                //{
-                                                    //var phoneno = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
-                                                    //if(inputtxt.value.match(phoneno))
-                                                    //{
-                                                       // return true;
-                                                    //}
-                                                    //else
-                                                    //{
-                                                        //return false;
-                                                    //}
-                                                //}
+                                                function phonenumber(inputtxt)
+                                                {
+                                                    var phoneno = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+                                                    if(inputtxt.match(phoneno))
+                                                    {
+                                                        alert('yhsnh vonh');
+                                                        return true;
+                                                    }
+                                                    else
+                                                    {
+                                                        return false;
+                                                    }
+                                               }
                                                 function validateEmail(email) {
                                                     var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
                                                     return re.test(email);
@@ -349,13 +360,13 @@
                                                     price_children_5_val=parseInt(price_children_5_val);
 
                                                     if(price==''){
-                                                        total="Contact";
+                                                        total="{contact_booking}";
 
                                                     }
                                                     else{
                                                         if(price_adults<price_children_val+price_children_5_val)
                                                         {
-                                                            total="Contact";
+                                                            total="{contact_booking}";
 
                                                         }
                                                         else{
@@ -381,7 +392,7 @@
                                                             total_member=price_adults+price_children_val+price_children_5_val;
 
                                                             if(total_member>=7||total_member<=0){
-                                                                total="Contact";
+                                                                total="{contact_booking}";
                                                             }
                                                             else{
                                                                 if((price_children_val+price_children_5_val)>price_adults)
@@ -411,7 +422,7 @@
                                                                     }
                                                                     total=(price_adults+(price_children_val*0.7))*total_price;
                                                                     if(total==0){
-                                                                        total="Contact";
+                                                                        total="{contact_booking}";
                                                                     }
                                                                     else{
                                                                         var n = parseFloat(total);
@@ -522,13 +533,13 @@
                                                         </tbody>
                                                     </table>
                                                     <h3 class=" title left lienquan"></h3>
-                                                    <p style="color: red;margin-top: 10px; display: none; float: left;" id="full_name_er">Bạn vui lòng nhập full name</p>
+                                                    <p style="color: red;margin-top: 10px; display: none; float: left;" id="full_name_er">{full_name_booking}</p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{full_name}" id="name_booking">
-                                                        <p style="color: red ; display: none" id="email_er">Bạn vui lòng nhập email</p>
+                                                        <p style="color: red ; display: none" id="email_er">{email_booking}</p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{email}" id="email_booking">
-                                                        <p style="color: red; display: none"" id="phone_er">Bạn vui lòng nhập phone</p>
+                                                        <p style="color: red; display: none" id="phone_er">{phone_booking}</p>
                                                     <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{phone}" id="phone_booking">
-                                                        <p style="color: red; display: none"" id="address_er">Bạn vui lòng nhập địa chỉ</p>
+                                                        <p style="color: red; display: none" id="address_er">{add_booking}</p>
                                                         <input class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle"  type="text"   placeholder="{address}" id="address_booking">
                                                         <textarea style="height:90px"  placeholder="{request}..." class="nicdark_bg_greydark2 nicdark_border_none grey medium subtitle" id="request_booking">
 

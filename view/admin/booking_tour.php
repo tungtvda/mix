@@ -33,7 +33,7 @@ function view_booking_tour($data)
 //
 function showTableHeader()
 {
-    return '<th>name_tour</th><th>name_customer</th><th>phone</th><th>email</th><th>departure_day</th><th>adults</th><th>children_5_10</th><th>children_5</th><th>status</th><th>created</th>';
+    return '<th>name_tour</th><th>name_customer</th><th>phone</th><th>email</th><th>departure_day</th><th>status</th><th>created</th>';
 }
 //
 function showTableBody($data)
@@ -55,9 +55,9 @@ function showTableBody($data)
         $TableBody.="<td>".$obj->phone."</td>";
         $TableBody.="<td>".$obj->email."</td>";
         $TableBody.="<td>".$obj->departure_day."</td>";
-        $TableBody.="<td>".$obj->adults."</td>";
-        $TableBody.="<td>".$obj->children_5_10."</td>";
-        $TableBody.="<td>".$obj->children_5."</td>";
+//        $TableBody.="<td>".$obj->adults."</td>";
+//        $TableBody.="<td>".$obj->children_5_10."</td>";
+//        $TableBody.="<td>".$obj->children_5."</td>";
         $TableBody.="<td>".$obj->status."</td>";
         $TableBody.="<td>".$obj->created."</td>";
         $TableBody.="<td><a href=\"?action=edit&id=".$obj->id."\" title=\"Edit\"><img src=\"".SITE_NAME."/view/admin/Themes/images/pencil.png\" alt=\"Edit\"></a>";

@@ -146,6 +146,14 @@ class Language_en
             'code'=>'Code',
             'code_chart'=>'MDT',
 
+            //booking
+            'infor_booking'=>'Please fill in full required information',
+            'full_name_booking'=>'Please fill in full name',
+            'email_booking'=>'Please  fill in your  email\'s address',
+            'phone_booking'=>'Please fill in your number\'s phone',
+            'add_booking'=>'Please fill in your address',
+            'contact_booking'=>'Contact'
+
         );
     }
 }
