@@ -97,6 +97,16 @@ function show_chitiettour($data = array())
     $asign['address']=returnLanguage('address','Address');
     $asign['code']=returnLanguage('code','Code');
     $asign['code_chart']=returnLanguage('code_chart','MDT');
+
+    $asign['infor_booking']=returnLanguage('infor_booking','Please fill in full required information');
+    $asign['full_name_booking']=returnLanguage('full_name_booking','Please fill in full name');
+    $asign['email_booking']=returnLanguage('email_booking','Please  fill in your  email\'s address');
+    $asign['phone_booking']=returnLanguage('phone_booking','Please fill in your number\'s phone');
+    $asign['add_booking']=returnLanguage('add_booking','Please fill in your address');
+    $asign['contact_booking']=returnLanguage('contact_booking','Contact');
+
+
+
     $asign['tour_noibat'] = "";
     if(count($data['tour_noibat'])>0)
     {
