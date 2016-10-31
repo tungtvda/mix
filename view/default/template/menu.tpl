@@ -47,7 +47,7 @@
                     <div class="nicdark_container nicdark_clearfix">
 
                         <div class="grid grid_8">
-                            <div class="nicdark_focus menu_top">
+                            <div style="margin-left: -40px;" class="nicdark_focus menu_top">
                                 <h6 class="white">
                                     <ul>
                                         <li>
