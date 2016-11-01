@@ -71,7 +71,7 @@ function showTableBody($data)
 function showFrom($form,$ListKey=array())
 {
     $str_from='';
-    $str_from.='<p><label>status</label><input class="text-input small-input" type="checkbox"  name="status" value="'.(($form!=false)?$form->status:'').'" /></p>';
+    $str_from.='<p><label>status</label><input  type="checkbox"  name="status" value="1" '.(($form!=false)?(($form->status=='1')?'checked':''):'').' /></p>';
     $str_from.='<p><label>tour_id</label><input class="text-input small-input" type="text"  name="tour_id" value="'.(($form!=false)?$form->tour_id:'').'" /></p>';
     $str_from.='<p><label>name_tour</label><input class="text-input small-input" type="text"  name="name_tour" value="'.(($form!=false)?$form->name_tour:'').'" /></p>';
     $str_from.='<p><label>name_customer</label><input class="text-input small-input" type="text"  name="name_customer" value="'.(($form!=false)?$form->name_customer:'').'" /></p>';

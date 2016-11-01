@@ -294,7 +294,7 @@ function contact()
             $mes=returnLanguage('contact_suc','Contact successfully');
 
             $message="";
-            $subject = "mixtourist.com – Thông báo liên hệ từ khách hàng";
+            $subject = "mixtourist.com – Notifications customer contact";
             $message .='<div style="float: left; width: 100%">
 
                             <p>Tên khách hàng: <span style="color: #132fff; font-weight: bold">'.$ten.'</span>,</p>
