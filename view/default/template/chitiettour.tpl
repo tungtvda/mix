@@ -186,6 +186,8 @@
                                                         jQuery('.back_detail').slideDown();
                                                     });
                                                     jQuery("#booking_ajax").click(function(){
+                                                        $('#loading_booking').show();
+                                                        $('#back_booking').hide();
                                                         id=$('#id_input').val();
                                                         name_url=$('#name_url_input').val();
                                                         date=$('#date_input').val();
@@ -276,10 +278,14 @@
                                                             done(function (data) {
                                                                 if(data==1)
                                                                         {
+                                                                            $('#loading_booking').hide();
+                                                                            $('#back_booking').show();
                                                                            alert('Booking successfully');
                                                                             location.reload(true);
                                                                         }
                                                             else{
+                                                                    $('#loading_booking').hide();
+                                                                    $('#back_booking').show();
                                                                     alert('Booking false')
                                                                 }
                                                             });
@@ -546,6 +552,7 @@
                                                         </textarea>
 
                                                     <a style="width: 45%;  background-color: #ed1c27" id="back_booking" href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-arrow-left"></i> {back}</a>
+                                                        <img  id="loading_booking" style="width: 45px; display: none" src="{SITE-NAME}/view/default/themes/images/loading.gif">
                                                         <a style="width: 45%; float: right;" id="booking_ajax"  href="javascript:void(0);" class="nicdark_btn nicdark_btn_filter fullwidth nicdark_bg_green calculate_bt"><i class="el el-shopping-cart-sign"></i> {booking_lang}</a>
                                                     </div>
                                                 </div>

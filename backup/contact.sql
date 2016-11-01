@@ -40,3 +40,6 @@ insert into contact (name_kh,address,phone,email,title,content,created,status) v
 update contact set name_kh='ưetertert',address='ha noi',phone='123123123',email='tungtv.soict@gmail.com',title='',content='<p>
 	noi dung</p>
 ',created='2016-10-16 03:29:15',status='1' where id=39;
+update contact set name_kh='ưetertert',address='ha noi',phone='123123123',email='tungtv.soict@gmail.com',title='',content='<p>
+	noi dung</p>
+',created='2016-10-16 03:29:15',status='1' where id=39;
